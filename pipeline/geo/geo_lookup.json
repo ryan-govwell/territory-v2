@@ -65364,10 +65364,9 @@
     "name": "Township Of Jackson, OH"
   },
   "jackson township (franklin county), oh": {
-    "lat": 39.8822,
-    "lng": -83.0936,
-    "stage_code": "t",
-    "name": "Jackson Township (Franklin County), OH"
+    "lat": 40.12,
+    "lng": -83.01,
+    "name": "Jackson Township (Franklin County)"
   },
   "city of garfield heights, oh": {
     "lat": 41.417,
@@ -104729,5 +104728,15 @@
     "lat": 39.5,
     "lng": -86.8,
     "name": "Richland Township"
+  },
+  "jackson township, oh": {
+    "lat": 40.82,
+    "lng": -81.51,
+    "name": "Jackson Township"
+  },
+  "franklin township, oh": {
+    "lat": 40.09,
+    "lng": -82.9,
+    "name": "Franklin Township"
   }
 }
