@@ -245,8 +245,9 @@ thead th.desc::after { content: ' ↓'; color: #FEAF0E; }
 tbody tr { border-bottom: 1px solid #ECECEC; cursor: pointer; transition: background 0.07s; }
 tbody tr:hover { background: #F8F8F8; }
 tbody tr.hl { background: #FEF7E0 !important; border-left: 3px solid #FEAF0E; }
-td { padding: 7px 10px; vertical-align: middle; }
-.acct { font-weight: 500; color: #000000; max-width: 160px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+td { padding: 6px 8px; vertical-align: middle; }
+.acct { font-weight: 500; color: #000000; max-width: 150px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.stage-cell { max-width: 80px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .owner-chip {
   display: inline-block;
   padding: 1px 6px;
@@ -288,23 +289,22 @@ td { padding: 7px 10px; vertical-align: middle; }
 /* Stale last-call date */
 .stale { color: #dc2626; font-weight: 600; }
 
-/* External link buttons (Outreach, Salesforce) */
+/* External link icon buttons */
 .ext-btn {
   display: inline-flex;
   align-items: center;
-  gap: 3px;
-  padding: 2px 7px;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
   border: 1px solid #D9D9D9;
   border-radius: 3px;
-  font-size: 10px;
-  font-weight: 500;
-  color: #7C7C7C;
   text-decoration: none;
-  white-space: nowrap;
-  transition: all 0.1s;
+  transition: border-color 0.1s, background 0.1s;
+  flex-shrink: 0;
 }
-.ext-btn:hover { border-color: #FEAF0E; color: #000000; background: #FEF7E0; }
-.ext-links { display: flex; gap: 4px; }
+.ext-btn:hover { border-color: #FEAF0E; background: #FEF7E0; }
+.ext-btn svg { display: block; }
+.ext-links { display: flex; gap: 4px; align-items: center; }
 
 .muted { color: #7C7C7C; }
 .right { text-align: right; }
@@ -446,7 +446,7 @@ td { padding: 7px 10px; vertical-align: middle; }
             <th data-col="Stage">Stage</th>
             <th data-col="Total Calls" class="right">Calls</th>
             <th data-col="Last Call Date">Last Call</th>
-            <th></th>
+            <th style="width:52px"></th>
           </tr>
         </thead>
         <tbody id="tbody"></tbody>
@@ -694,12 +694,12 @@ function renderTable(data) {
       <td>${tierBadge(r['Tier'])}</td>
       <td class="right muted">${fmtPop(r['Population'])}</td>
       <td><span class="badge" style="background:${s.color}">${s.label}</span></td>
-      <td class="muted">${r['Stage'] || '—'}</td>
+      <td class="muted stage-cell" title="${r['Stage'] || ''}">${r['Stage'] || '—'}</td>
       <td class="right muted">${r['Total Calls'] || '—'}</td>
       <td class="${isStale(r['Last Call Date']) ? 'stale' : 'muted'}">${fmtDate(r['Last Call Date'])}</td>
       <td><div class="ext-links" onclick="event.stopPropagation()">
-        ${r['Salesforce ID'] ? `<a class="ext-btn" href="https://govwell.lightning.force.com/lightning/r/Account/${r['Salesforce ID']}/view" target="_blank" rel="noopener">SF ↗</a>` : ''}
-        ${r['Outreach ID']   ? `<a class="ext-btn" href="https://web.outreach.io/accounts/${r['Outreach ID']}/overview" target="_blank" rel="noopener">Outreach ↗</a>` : ''}
+        ${r['Salesforce ID'] ? `<a class="ext-btn" href="https://govwell.lightning.force.com/lightning/r/Account/${r['Salesforce ID']}/view" target="_blank" rel="noopener" title="Salesforce"><svg width="14" height="14" viewBox="0 0 24 18" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 4.2a4.5 4.5 0 0 1 8.3.9 3.6 3.6 0 0 1 5.2 3.2 3.6 3.6 0 0 1-3.6 3.6H5a3.5 3.5 0 0 1-.5-7 4.4 4.4 0 0 1 5-0.7z" fill="#00A1E0"/></svg></a>` : ''}
+        ${r['Outreach ID']   ? `<a class="ext-btn" href="https://web.outreach.io/accounts/${r['Outreach ID']}/overview" target="_blank" rel="noopener" title="Outreach"><svg width="14" height="14" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><path d="M50 8C32 8 10 26 10 48c0 8 4 16 10 22l30 22 30-22c6-6 10-14 10-22C90 26 68 8 50 8z" fill="#5951FF"/><circle cx="50" cy="46" r="16" fill="white"/><circle cx="50" cy="46" r="9" fill="#5951FF"/></svg></a>` : ''}
       </div></td>
     </tr>`;
   }).join('');
