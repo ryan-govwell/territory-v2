@@ -3,103 +3,206 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Florida Territory Dashboard</title>
+<title>Territory Intelligence — GovWell</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f1f5f9; color: #1e293b; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+body { font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif; background: #ECECEC; color: #000000; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
 
 /* Header */
 header {
-  background: #0f2242;
+  background: #000000;
   color: white;
-  padding: 0 24px;
+  padding: 0 20px;
   height: 48px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-shrink: 0;
+  gap: 12px;
 }
-header h1 { font-size: 15px; font-weight: 600; letter-spacing: 0.01em; }
-header .meta { font-size: 12px; opacity: 0.55; }
+.header-left { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+.header-left svg { height: 22px; width: auto; flex-shrink: 0; }
+.header-wordmark { font-size: 15px; font-weight: 500; color: white; letter-spacing: -0.01em; }
+.header-divider { width: 1px; height: 16px; background: rgba(255,255,255,0.2); margin: 0 4px; }
+.header-title { font-size: 12px; color: rgba(255,255,255,0.5); font-weight: 400; white-space: nowrap; }
+.header-right { display: flex; align-items: center; gap: 10px; }
+.header-meta { font-size: 11px; color: rgba(255,255,255,0.4); font-weight: 400; white-space: nowrap; }
+
+/* State picker */
+.state-picker { position: relative; }
+.state-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 3px;
+  font-size: 12px;
+  font-family: inherit;
+  font-weight: 500;
+  cursor: pointer;
+  background: transparent;
+  color: white;
+  white-space: nowrap;
+  transition: border-color 0.1s;
+}
+.state-btn:hover { border-color: rgba(255,255,255,0.5); }
+.state-btn .caret { font-size: 9px; color: rgba(255,255,255,0.5); transition: transform 0.15s; }
+.state-btn.open .caret { transform: rotate(180deg); }
+.state-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: white;
+  border: 1px solid #D9D9D9;
+  border-radius: 4px;
+  padding: 6px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  z-index: 1200;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 150px;
+}
+.state-dropdown.open { display: flex; }
+.state-option {
+  padding: 5px 10px;
+  border-radius: 3px;
+  font-size: 12px;
+  cursor: pointer;
+  color: #000000;
+  text-decoration: none;
+  font-family: inherit;
+  display: block;
+  white-space: nowrap;
+}
+.state-option:hover { background: #ECECEC; }
+.state-option.current { background: #FEF7E0; font-weight: 600; pointer-events: none; }
+.state-option.coming-soon { color: #B1B1B1; pointer-events: none; font-style: italic; }
 
 /* Stats bar */
 .stats-bar {
   display: flex;
   background: white;
-  border-bottom: 1px solid #e2e8f0;
+  border-bottom: 1px solid #D9D9D9;
   flex-shrink: 0;
 }
 .stat {
   flex: 1;
   padding: 10px 0;
   text-align: center;
-  border-right: 1px solid #f1f5f9;
+  border-right: 1px solid #ECECEC;
 }
 .stat:last-child { border-right: none; }
 .stat .num { font-size: 22px; font-weight: 700; line-height: 1; }
-.stat .lbl { font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em; color: #94a3b8; margin-top: 3px; }
-.stat.s-total .num { color: #0f2242; }
-.stat.s-open .num { color: #f97316; }
-.stat.s-won .num { color: #d97706; }
-.stat.s-touched .num { color: #3b82f6; }
-.stat.s-untouched .num { color: #94a3b8; }
+.stat .lbl { font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em; color: #7C7C7C; margin-top: 3px; }
+.stat.s-total .num { color: #000000; }
+.stat.s-open .num { color: #FEAF0E; }
+.stat.s-won .num { color: #FEAF0E; }
+.stat.s-touched .num { color: #000000; }
+.stat.s-untouched .num { color: #B1B1B1; }
 
 /* Filters */
 .filters {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 8px;
   padding: 8px 20px;
   background: white;
-  border-bottom: 1px solid #e2e8f0;
+  border-bottom: 1px solid #D9D9D9;
   flex-shrink: 0;
-  flex-wrap: wrap;
 }
-.fg { display: flex; align-items: center; gap: 5px; }
-.fg-label { font-size: 10px; font-weight: 700; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.08em; margin-right: 2px; }
+
+/* Dropdowns */
+.dropdown { position: relative; }
+.dd-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 10px;
+  border: 1px solid #D9D9D9;
+  border-radius: 3px;
+  font-size: 12px;
+  font-family: inherit;
+  font-weight: 400;
+  cursor: pointer;
+  background: white;
+  color: #000000;
+  white-space: nowrap;
+  transition: border-color 0.1s;
+}
+.dd-btn:hover { border-color: #7C7C7C; }
+.dd-btn.has-filter { background: #FEF7E0; border-color: #FEAF0E; font-weight: 500; }
+.dd-caret { font-size: 9px; color: #7C7C7C; transition: transform 0.15s; margin-left: 2px; }
+.dd-btn.open .dd-caret { transform: rotate(180deg); }
+.dd-panel {
+  display: none;
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  background: white;
+  border: 1px solid #D9D9D9;
+  border-radius: 4px;
+  padding: 6px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+  z-index: 1100;
+  flex-direction: column;
+  gap: 3px;
+  min-width: 130px;
+}
+.dd-panel.open { display: flex; }
+.dd-panel .btn { text-align: left; width: 100%; }
+.dd-note {
+  font-size: 10px;
+  color: #B1B1B1;
+  line-height: 1.4;
+  padding: 5px 2px 1px;
+  border-top: 1px solid #ECECEC;
+  margin-top: 3px;
+}
 .btn {
   padding: 3px 10px;
-  border: 1px solid #e2e8f0;
-  border-radius: 4px;
+  border: 1px solid #D9D9D9;
+  border-radius: 3px;
   font-size: 12px;
   cursor: pointer;
   background: white;
-  color: #64748b;
+  color: #7C7C7C;
   transition: all 0.1s;
   font-family: inherit;
+  font-weight: 400;
 }
-.btn:hover { border-color: #94a3b8; color: #1e293b; }
-.btn.active { background: #0f2242; color: white; border-color: #0f2242; }
-.btn.active-won    { background: #d97706; color: white; border-color: #d97706; }
-.btn.active-mid    { background: #f97316; color: white; border-color: #f97316; }
-.btn.active-top    { background: #ca8a04; color: white; border-color: #ca8a04; }
-.btn.active-lost   { background: #dc2626; color: white; border-color: #dc2626; }
+.btn:hover { border-color: #7C7C7C; color: #000000; }
+.btn.active { background: #FEAF0E; color: #000000; border-color: #FEAF0E; font-weight: 500; }
+.btn.active-won       { background: #d97706; color: white; border-color: #d97706; }
+.btn.active-mid       { background: #f97316; color: white; border-color: #f97316; }
+.btn.active-top       { background: #ca8a04; color: white; border-color: #ca8a04; }
+.btn.active-lost      { background: #dc2626; color: white; border-color: #dc2626; }
 .btn.active-touched   { background: #3b82f6; color: white; border-color: #3b82f6; }
 .btn.active-untouched { background: #6b7280; color: white; border-color: #6b7280; }
 #search {
   padding: 4px 10px;
-  border: 1px solid #e2e8f0;
-  border-radius: 4px;
+  border: 1px solid #D9D9D9;
+  border-radius: 3px;
   font-size: 12px;
   outline: none;
   font-family: inherit;
-  color: #1e293b;
+  color: #000000;
   width: 180px;
 }
-#search:focus { border-color: #0f2242; }
+#search:focus { border-color: #FEAF0E; box-shadow: 0 0 0 2px rgba(254,175,14,0.15); }
 
 /* Main layout */
-.main {
-  display: flex;
-  flex: 1;
-  overflow: hidden;
-}
+.main { display: flex; flex: 1; overflow: hidden; }
 
 /* Map */
-#map { flex: 0 0 58%; height: 100%; }
+#map { flex: 0 0 50%; height: 100%; }
 
 /* Table pane */
 .table-pane {
@@ -108,13 +211,13 @@ header .meta { font-size: 12px; opacity: 0.55; }
   flex-direction: column;
   overflow: hidden;
   background: white;
-  border-left: 1px solid #e2e8f0;
+  border-left: 1px solid #D9D9D9;
 }
 .table-header {
   padding: 8px 14px;
   font-size: 11px;
-  color: #94a3b8;
-  border-bottom: 1px solid #f1f5f9;
+  color: #7C7C7C;
+  border-bottom: 1px solid #ECECEC;
   flex-shrink: 0;
   background: white;
 }
@@ -123,38 +226,41 @@ table { width: 100%; border-collapse: collapse; font-size: 12px; }
 thead th {
   position: sticky;
   top: 0;
-  background: #f8fafc;
+  background: #ECECEC;
   padding: 8px 10px;
   text-align: left;
   font-weight: 600;
   font-size: 10px;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: #94a3b8;
-  border-bottom: 1px solid #e2e8f0;
+  letter-spacing: 0.07em;
+  color: #7C7C7C;
+  border-bottom: 1px solid #D9D9D9;
   cursor: pointer;
   user-select: none;
   white-space: nowrap;
 }
-thead th:hover { color: #1e293b; }
-thead th.asc::after { content: ' ↑'; color: #0f2242; }
-thead th.desc::after { content: ' ↓'; color: #0f2242; }
-tbody tr { border-bottom: 1px solid #f8fafc; cursor: pointer; transition: background 0.07s; }
-tbody tr:hover { background: #f8fafc; }
-tbody tr.hl { background: #eff6ff !important; }
+thead th:hover { color: #000000; }
+thead th.asc::after  { content: ' ↑'; color: #FEAF0E; }
+thead th.desc::after { content: ' ↓'; color: #FEAF0E; }
+tbody tr { border-bottom: 1px solid #ECECEC; cursor: pointer; transition: background 0.07s; }
+tbody tr:hover { background: #F8F8F8; }
+tbody tr.hl { background: #FEF7E0 !important; border-left: 3px solid #FEAF0E; }
 td { padding: 7px 10px; vertical-align: middle; }
-.acct { font-weight: 500; color: #0f172a; max-width: 160px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.acct { font-weight: 500; color: #000000; max-width: 160px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .owner-chip {
   display: inline-block;
   padding: 1px 6px;
-  border-radius: 3px;
+  border-radius: 2px;
   font-size: 10px;
   font-weight: 600;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.04em;
 }
-.owner-ryan { background: #dbeafe; color: #1d4ed8; }
-.owner-maia { background: #fce7f3; color: #be185d; }
-.owner-other { background: #f1f5f9; color: #64748b; }
+.owner-0 { background: rgba(65,170,235,0.15);  color: #1a7ab5; }
+.owner-1 { background: rgba(57,194,94,0.15);   color: #1f7a3a; }
+.owner-2 { background: rgba(168,85,247,0.15);  color: #7e22ce; }
+.owner-3 { background: rgba(249,115,22,0.15);  color: #c2410c; }
+.owner-4 { background: rgba(236,72,153,0.15);  color: #be185d; }
+.owner-other { background: #ECECEC; color: #7C7C7C; }
 .badge {
   display: inline-block;
   padding: 2px 7px;
@@ -164,24 +270,59 @@ td { padding: 7px 10px; vertical-align: middle; }
   color: white;
   white-space: nowrap;
 }
-.muted { color: #94a3b8; }
+/* Tier badges */
+.tier-badge {
+  display: inline-block;
+  padding: 2px 7px;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+.tier-s { background: #7C3AED; color: #ffffff; }
+.tier-1 { background: #16A34A; color: #ffffff; }
+.tier-2 { background: #D97706; color: #ffffff; }
+.tier-3 { background: #DC2626; color: #ffffff; }
+
+/* Stale last-call date */
+.stale { color: #dc2626; font-weight: 600; }
+
+.muted { color: #7C7C7C; }
 .right { text-align: right; }
 
 /* Leaflet popup overrides */
-.leaflet-popup-content { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; line-height: 1.5; min-width: 180px; }
-.popup-name { font-weight: 700; font-size: 13px; color: #0f172a; }
-.popup-sub { color: #64748b; font-size: 11px; margin-top: 1px; }
-.popup-row { margin-top: 4px; }
+.leaflet-popup-content { font-family: 'DM Sans', -apple-system, sans-serif; font-size: 12px; line-height: 1.5; min-width: 180px; }
+.popup-name { font-weight: 700; font-size: 13px; color: #000000; }
+.popup-sub  { color: #7C7C7C; font-size: 11px; margin-top: 1px; }
+.popup-row  { margin-top: 4px; }
 
-/* Empty state */
-.empty { padding: 40px; text-align: center; color: #94a3b8; font-size: 13px; }
+/* Empty / loading states */
+.empty   { padding: 40px; text-align: center; color: #B1B1B1; font-size: 13px; }
+.loading { padding: 40px; text-align: center; color: #7C7C7C; font-size: 13px; }
 </style>
 </head>
 <body>
 
 <header>
-  <h1>Florida Territory Dashboard</h1>
-  <span class="meta" id="header-meta">Loading...</span>
+  <div class="header-left">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 26" fill="white" aria-hidden="true">
+      <rect x="0" y="13" width="13" height="13"/>
+      <path d="M13 1 C16.5 -0.5 20 0.8 23.5 0 C26.5 -0.7 28 0.8 28 3 C28 5.5 25.5 5 22.5 6.5 C19 8.2 16 6.8 13 9 L13 1Z"/>
+    </svg>
+    <span class="header-wordmark">GovWell</span>
+    <div class="header-divider"></div>
+    <span class="header-title">Territory Intelligence</span>
+  </div>
+  <div class="header-right">
+    <span class="header-meta" id="header-meta">Loading…</span>
+    <div class="state-picker">
+      <button class="state-btn" id="state-btn">
+        <span id="state-label">—</span><span class="caret">▾</span>
+      </button>
+      <div class="state-dropdown" id="state-dropdown"></div>
+    </div>
+  </div>
 </header>
 
 <div class="stats-bar">
@@ -193,33 +334,69 @@ td { padding: 7px 10px; vertical-align: middle; }
 </div>
 
 <div class="filters">
-  <div class="fg">
-    <span class="fg-label">Owner</span>
-    <button class="btn active" data-f="owner" data-v="">All</button>
-    <button class="btn" data-f="owner" data-v="Ryan Minter">Ryan</button>
-    <button class="btn" data-f="owner" data-v="Maia Golub">Maia</button>
+  <div class="dropdown">
+    <button class="dd-btn" data-dd="owner">
+      <span class="dd-label">Owner</span><span class="dd-caret">▾</span>
+    </button>
+    <div class="dd-panel" id="owner-panel">
+      <!-- populated dynamically after CSV load -->
+    </div>
   </div>
-  <div class="fg">
-    <span class="fg-label">Tier</span>
-    <button class="btn active" data-f="tier" data-v="">All</button>
-    <button class="btn" data-f="tier" data-v="Tier S">S</button>
-    <button class="btn" data-f="tier" data-v="Tier 1">1</button>
-    <button class="btn" data-f="tier" data-v="Tier 2">2</button>
-    <button class="btn" data-f="tier" data-v="Tier 3">3</button>
+  <div class="dropdown">
+    <button class="dd-btn" data-dd="tier">
+      <span class="dd-label">Tier</span><span class="dd-caret">▾</span>
+    </button>
+    <div class="dd-panel">
+      <button class="btn active" data-f="tier" data-v="">All</button>
+      <button class="btn" data-f="tier" data-v="Tier S">S</button>
+      <button class="btn" data-f="tier" data-v="Tier 1">1</button>
+      <button class="btn" data-f="tier" data-v="Tier 2">2</button>
+      <button class="btn" data-f="tier" data-v="Tier 3">3</button>
+    </div>
   </div>
-  <div class="fg">
-    <span class="fg-label">Signal</span>
-    <button class="btn active" data-f="signal" data-v="">All</button>
-    <button class="btn" data-f="signal" data-v="won">Won</button>
-    <button class="btn" data-f="signal" data-v="mid">Mid Funnel</button>
-    <button class="btn" data-f="signal" data-v="top">Top Funnel</button>
-    <button class="btn" data-f="signal" data-v="lost">Lost</button>
-    <button class="btn" data-f="signal" data-v="touched">Touched</button>
-    <button class="btn" data-f="signal" data-v="untouched">Untouched</button>
+  <div class="dropdown">
+    <button class="dd-btn" data-dd="signal">
+      <span class="dd-label">Signal</span><span class="dd-caret">▾</span>
+    </button>
+    <div class="dd-panel">
+      <button class="btn active" data-f="signal" data-v="">All</button>
+      <button class="btn" data-f="signal" data-v="won">Won</button>
+      <button class="btn" data-f="signal" data-v="mid">Mid Funnel</button>
+      <button class="btn" data-f="signal" data-v="top">Top Funnel</button>
+      <button class="btn" data-f="signal" data-v="lost">Lost</button>
+      <button class="btn" data-f="signal" data-v="touched">Touched</button>
+      <button class="btn" data-f="signal" data-v="untouched">Untouched</button>
+    </div>
   </div>
-  <div class="fg">
-    <input type="text" id="search" placeholder="Search accounts…">
+  <div class="dropdown">
+    <button class="dd-btn" data-dd="pop">
+      <span class="dd-label">Population</span><span class="dd-caret">▾</span>
+    </button>
+    <div class="dd-panel">
+      <button class="btn active" data-f="pop" data-v="">All</button>
+      <button class="btn" data-f="pop" data-v="lt10k">&lt; 10k</button>
+      <button class="btn" data-f="pop" data-v="10k-25k">10k – 25k</button>
+      <button class="btn" data-f="pop" data-v="25k-50k">25k – 50k</button>
+      <button class="btn" data-f="pop" data-v="50k-100k">50k – 100k</button>
+      <button class="btn" data-f="pop" data-v="100kplus">100k+</button>
+    </div>
   </div>
+  <div class="dropdown">
+    <button class="dd-btn" data-dd="activity">
+      <span class="dd-label">Activity</span><span class="dd-caret">▾</span>
+    </button>
+    <div class="dd-panel" style="min-width:170px">
+      <button class="btn active" data-f="activity" data-v="">All</button>
+      <button class="btn" data-f="activity" data-v="30d">Within 30 days</button>
+      <button class="btn" data-f="activity" data-v="31-60">31 – 60 days</button>
+      <button class="btn" data-f="activity" data-v="61-90">61 – 90 days</button>
+      <button class="btn" data-f="activity" data-v="91-180">91 days – 6 months</button>
+      <button class="btn" data-f="activity" data-v="6mo-1yr">6 months – 1 year</button>
+      <button class="btn" data-f="activity" data-v="never">Never on record</button>
+      <div class="dd-note">⚠ Our data only captures activity within the past year. Accounts with no recent record may have been called earlier.</div>
+    </div>
+  </div>
+  <input type="text" id="search" placeholder="Search accounts…">
 </div>
 
 <div class="main">
@@ -248,6 +425,16 @@ td { padding: 7px 10px; vertical-align: middle; }
 </div>
 
 <script>
+// ── State routing ──────────────────────────────────────────────────────────
+const STATES = {
+  FL: { name: 'Florida',       center: [27.8,  -81.5], zoom: 7 },
+  // Add a new state: create states/XX/data.csv and add an entry here.
+};
+
+const urlParams  = new URLSearchParams(window.location.search);
+const STATE_CODE = (urlParams.get('state') || 'FL').toUpperCase();
+const STATE_CFG  = STATES[STATE_CODE] || STATES.FL;
+
 // ── Signal config ──────────────────────────────────────────────────────────
 const SIG = {
   won:       { color: '#F59E0B', border: '#D97706', label: 'Customer',   radius: 9 },
@@ -267,6 +454,7 @@ function getSignal(r) {
   return 'untouched';
 }
 
+// ── Helpers ────────────────────────────────────────────────────────────────
 function fmtPop(n) {
   const v = parseInt(n);
   if (!v) return '—';
@@ -275,36 +463,43 @@ function fmtPop(n) {
   return String(v);
 }
 
-function ownerClass(name) {
-  if (!name) return 'owner-other';
-  if (name.includes('Ryan')) return 'owner-ryan';
-  if (name.includes('Maia')) return 'owner-maia';
-  return 'owner-other';
-}
-
-function ownerShort(name) {
-  if (!name) return '—';
-  return name.split(' ')[0];
-}
-
 function fmtDate(d) {
   if (!d) return '—';
-  // YYYY-MM-DD → MM/DD/YY
   const m = d.match(/^(\d{4})-(\d{2})-(\d{2})$/);
   if (m) return `${m[2]}/${m[3]}/${m[1].slice(2)}`;
   return d;
 }
 
+function isStale(d) {
+  if (!d) return false;
+  const parsed = new Date(d);
+  if (isNaN(parsed)) return false;
+  return (Date.now() - parsed.getTime()) > 90 * 24 * 60 * 60 * 1000;
+}
+
+function tierBadge(tier) {
+  const cls = { 'Tier S': 'tier-s', 'Tier 1': 'tier-1', 'Tier 2': 'tier-2', 'Tier 3': 'tier-3' }[tier] || 'tier-3';
+  return `<span class="tier-badge ${cls}">${tier.replace('Tier ', '')}</span>`;
+}
+
+// Owner colors cycle through .owner-0 … .owner-4
+const ownerColorMap = {};
+let ownerColorIdx = 0;
+function ownerClass(name) {
+  if (!name) return 'owner-other';
+  if (!(name in ownerColorMap)) ownerColorMap[name] = `owner-${ownerColorIdx++ % 5}`;
+  return ownerColorMap[name];
+}
+
 // ── Map setup ──────────────────────────────────────────────────────────────
-const map = L.map('map').setView([27.8, -81.5], 7);
+const map = L.map('map').setView(STATE_CFG.center, STATE_CFG.zoom);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://carto.com/">CARTO</a>',
-  maxZoom: 19
+  maxZoom: 19,
 }).addTo(map);
 
 const markerLayer = L.layerGroup().addTo(map);
 
-// Legend
 const legend = L.control({ position: 'bottomleft' });
 legend.onAdd = () => {
   const d = L.DomUtil.create('div');
@@ -319,24 +514,67 @@ legend.onAdd = () => {
 };
 legend.addTo(map);
 
-// ── State ──────────────────────────────────────────────────────────────────
+// ── Filter state ───────────────────────────────────────────────────────────
 let allData = [];
-let filters = { owner: '', tier: '', signal: '' };
-let searchQ = '';
-let sortCol = 'Population';
-let sortDir = -1;
+let filters  = { owner: new Set(), tier: new Set(), signal: new Set(), pop: new Set(), activity: new Set() };
+
+const POP_BUCKETS = {
+  'lt10k':    { min: 0,      max: 10000    },
+  '10k-25k':  { min: 10000,  max: 25000    },
+  '25k-50k':  { min: 25000,  max: 50000    },
+  '50k-100k': { min: 50000,  max: 100000   },
+  '100kplus': { min: 100000, max: Infinity },
+};
+
+const DD_LABEL_MAP = {
+  owner:    { default: 'Owner',      map: {} }, // populated after CSV load
+  tier:     { default: 'Tier',       map: { 'Tier S': 'S', 'Tier 1': '1', 'Tier 2': '2', 'Tier 3': '3' } },
+  signal:   { default: 'Signal',     map: { won: 'Won', mid: 'Mid Funnel', top: 'Top Funnel', lost: 'Lost', touched: 'Touched', untouched: 'Untouched' } },
+  pop:      { default: 'Population', map: { 'lt10k': '<10k', '10k-25k': '10k-25k', '25k-50k': '25k-50k', '50k-100k': '50k-100k', '100kplus': '100k+' } },
+  activity: { default: 'Activity',   map: { '30d': '≤30d', '31-60': '31-60d', '61-90': '61-90d', '91-180': '91d-6mo', '6mo-1yr': '6mo-1yr', 'never': 'Never' } },
+};
+
+let searchQ  = '';
+let sortCol  = 'Population';
+let sortDir  = -1;
 let markerIndex = {};
-let activeId = null;
+let activeId    = null;
+
+// ── Owner filter (built from data) ─────────────────────────────────────────
+function buildOwnerFilter(data) {
+  const owners = [...new Set(data.map(r => r['Owner']).filter(Boolean))].sort();
+  DD_LABEL_MAP.owner.map = Object.fromEntries(owners.map(o => [o, o.split(' ')[0]]));
+  const panel = document.getElementById('owner-panel');
+  panel.innerHTML =
+    `<button class="btn active" data-f="owner" data-v="">All</button>` +
+    owners.map(o => `<button class="btn" data-f="owner" data-v="${o}">${o.split(' ')[0]}</button>`).join('');
+}
 
 // ── Filter + render ────────────────────────────────────────────────────────
 function filtered() {
   return allData.filter(r => {
-    if (filters.owner  && r['Owner'] !== filters.owner)   return false;
-    if (filters.tier   && r['Tier']  !== filters.tier)    return false;
-    if (filters.signal && r._sig     !== filters.signal)  return false;
-    if (searchQ) {
-      if (!r['Account Name'].toLowerCase().includes(searchQ)) return false;
+    if (filters.owner.size  && !filters.owner.has(r['Owner']))  return false;
+    if (filters.tier.size   && !filters.tier.has(r['Tier']))    return false;
+    if (filters.signal.size && !filters.signal.has(r._sig))     return false;
+    if (filters.pop.size) {
+      const pop = parseInt(r['Population']) || 0;
+      if (![...filters.pop].some(k => pop >= POP_BUCKETS[k].min && pop < POP_BUCKETS[k].max)) return false;
     }
+    if (filters.activity.size) {
+      const lastCall = r['Last Call Date'];
+      const days = lastCall ? (Date.now() - new Date(lastCall).getTime()) / 86400000 : null;
+      const match = [...filters.activity].some(k => {
+        if (k === 'never')   return !lastCall;
+        if (k === '30d')     return days !== null && days <= 30;
+        if (k === '31-60')   return days !== null && days > 30  && days <= 60;
+        if (k === '61-90')   return days !== null && days > 60  && days <= 90;
+        if (k === '91-180')  return days !== null && days > 90  && days <= 180;
+        if (k === '6mo-1yr') return days !== null && days > 180 && days <= 365;
+        return false;
+      });
+      if (!match) return false;
+    }
+    if (searchQ && !r['Account Name'].toLowerCase().includes(searchQ)) return false;
     return true;
   });
 }
@@ -348,6 +586,10 @@ function sorted(data) {
       const order = ['won','mid','top','lost','touched','untouched'];
       va = order.indexOf(a._sig);
       vb = order.indexOf(b._sig);
+    } else if (sortCol === 'Tier') {
+      const order = ['Tier S','Tier 1','Tier 2','Tier 3'];
+      va = order.indexOf(a['Tier']);
+      vb = order.indexOf(b['Tier']);
     } else if (sortCol === 'Population' || sortCol === 'Total Calls') {
       va = parseFloat(a[sortCol]) || 0;
       vb = parseFloat(b[sortCol]) || 0;
@@ -378,11 +620,7 @@ function renderMap(data) {
     if (!lat || !lng) return;
     const s = SIG[r._sig];
     const m = L.circleMarker([lat, lng], {
-      radius: s.radius,
-      fillColor: s.color,
-      color: s.border,
-      weight: 1.5,
-      fillOpacity: 0.88,
+      radius: s.radius, fillColor: s.color, color: s.border, weight: 1.5, fillOpacity: 0.88,
     });
     m.bindPopup(
       `<div class="popup-name">${r['Account Name']}</div>
@@ -395,16 +633,14 @@ function renderMap(data) {
          Calls: ${r['Total Calls'] || '0'} · Last: ${fmtDate(r['Last Call Date'])}
        </div>`
     );
-    m.on('click', () => {
-      highlightRow(r['Account ID']);
-    });
+    m.on('click', () => highlightRow(r['Account ID']));
     m.addTo(markerLayer);
     markerIndex[r['Account ID']] = m;
   });
 }
 
 function renderTable(data) {
-  const rows = sorted(data);
+  const rows  = sorted(data);
   const tbody = document.getElementById('tbody');
   const empty = document.getElementById('empty-state');
   document.getElementById('table-count').textContent = `${rows.length} account${rows.length !== 1 ? 's' : ''}`;
@@ -417,17 +653,17 @@ function renderTable(data) {
   empty.style.display = 'none';
 
   tbody.innerHTML = rows.map(r => {
-    const s = SIG[r._sig];
+    const s  = SIG[r._sig];
     const hl = r['Account ID'] === activeId ? ' hl' : '';
     return `<tr class="${hl}" data-id="${r['Account ID']}">
       <td><div class="acct" title="${r['Account Name']}">${r['Account Name']}</div></td>
-      <td><span class="owner-chip ${ownerClass(r['Owner'])}">${ownerShort(r['Owner'])}</span></td>
-      <td>${r['Tier'].replace('Tier ', '')}</td>
+      <td><span class="owner-chip ${ownerClass(r['Owner'])}">${r['Owner'] ? r['Owner'].split(' ')[0] : '—'}</span></td>
+      <td>${tierBadge(r['Tier'])}</td>
       <td class="right muted">${fmtPop(r['Population'])}</td>
       <td><span class="badge" style="background:${s.color}">${s.label}</span></td>
       <td class="muted">${r['Stage'] || '—'}</td>
       <td class="right muted">${r['Total Calls'] || '—'}</td>
-      <td class="muted">${fmtDate(r['Last Call Date'])}</td>
+      <td class="${isStale(r['Last Call Date']) ? 'stale' : 'muted'}">${fmtDate(r['Last Call Date'])}</td>
     </tr>`;
   }).join('');
 
@@ -438,21 +674,16 @@ function renderTable(data) {
       document.querySelectorAll('#tbody tr').forEach(t => t.classList.remove('hl'));
       tr.classList.add('hl');
       const mk = markerIndex[id];
-      if (mk) {
-        map.setView(mk.getLatLng(), 12, { animate: true });
-        mk.openPopup();
-      }
+      if (mk) { map.setView(mk.getLatLng(), 12, { animate: true }); mk.openPopup(); }
     });
   });
 }
 
 function highlightRow(id) {
   activeId = id;
-  document.querySelectorAll('#tbody tr').forEach(t => {
-    t.classList.toggle('hl', t.dataset.id === id);
-  });
+  document.querySelectorAll('#tbody tr').forEach(t => t.classList.toggle('hl', t.dataset.id === id));
   const tr = document.querySelector(`#tbody tr[data-id="${id}"]`);
-  if (tr) tr.scrollIntoView({ block: 'nearest' });
+  if (tr) tr.scrollIntoView({ block: 'center', behavior: 'smooth' });
 }
 
 function render() {
@@ -462,23 +693,66 @@ function render() {
   renderTable(data);
 }
 
-// ── Filter buttons ─────────────────────────────────────────────────────────
-document.querySelectorAll('button[data-f]').forEach(btn => {
-  btn.addEventListener('click', () => {
+// ── Dropdowns ─────────────────────────────────────────────────────────────
+function closeAllDropdowns() {
+  document.querySelectorAll('.dd-panel').forEach(p => p.classList.remove('open'));
+  document.querySelectorAll('.dd-btn').forEach(b => b.classList.remove('open'));
+}
+
+function updateDropdownLabels() {
+  Object.entries(DD_LABEL_MAP).forEach(([f, cfg]) => {
+    const btn = document.querySelector(`.dd-btn[data-dd="${f}"]`);
+    if (!btn) return;
+    const sel    = filters[f];
+    const labelEl = btn.querySelector('.dd-label');
+    if (sel.size === 0) {
+      labelEl.textContent = cfg.default;
+      btn.classList.remove('has-filter');
+    } else {
+      const names = [...sel].map(v => cfg.map[v] || v);
+      labelEl.textContent = names.length <= 2 ? names.join(', ') : `${cfg.default} (${names.length})`;
+      btn.classList.add('has-filter');
+    }
+  });
+}
+
+document.querySelectorAll('.dd-btn').forEach(btn => {
+  btn.addEventListener('click', e => {
+    e.stopPropagation();
+    const panel  = btn.nextElementSibling;
+    const isOpen = panel.classList.contains('open');
+    closeAllDropdowns();
+    if (!isOpen) { panel.classList.add('open'); btn.classList.add('open'); }
+  });
+});
+
+document.addEventListener('click', closeAllDropdowns);
+
+// ── Filter button events (delegation on panels) ────────────────────────────
+function refreshButtonStates(f) {
+  document.querySelectorAll(`[data-f="${f}"]`).forEach(b => {
+    b.className = 'btn';
+    const bv = b.dataset.v;
+    if (bv === '') {
+      if (filters[f].size === 0) b.classList.add('active');
+    } else if (filters[f].has(bv)) {
+      b.classList.add(f === 'signal' ? `active-${bv}` : 'active');
+    }
+  });
+}
+
+document.querySelectorAll('.dd-panel').forEach(panel => {
+  panel.addEventListener('click', e => {
+    e.stopPropagation();
+    const btn = e.target.closest('button[data-f]');
+    if (!btn) return;
     const f = btn.dataset.f;
     const v = btn.dataset.v;
-    filters[f] = filters[f] === v ? '' : v;
-    document.querySelectorAll(`[data-f="${f}"]`).forEach(b => {
-      const isActive = b.dataset.v === filters[f];
-      b.className = 'btn';
-      if (isActive) {
-        if (filters[f] === '') {
-          b.classList.add('active');
-        } else {
-          b.classList.add(`active-${filters[f]}`);
-        }
-      }
-    });
+    if (v === '') { filters[f].clear(); }
+    else if (filters[f].has(v)) { filters[f].delete(v); }
+    else { filters[f].add(v); }
+    refreshButtonStates(f);
+    updateDropdownLabels();
     render();
   });
 });
@@ -493,39 +767,59 @@ document.getElementById('search').addEventListener('input', e => {
 document.querySelectorAll('thead th[data-col]').forEach(th => {
   th.addEventListener('click', () => {
     const col = th.dataset.col;
-    if (sortCol === col) {
-      sortDir = -sortDir;
-    } else {
-      sortCol = col;
-      sortDir = (col === 'Population' || col === 'Total Calls') ? -1 : 1;
-    }
+    if (sortCol === col) { sortDir = -sortDir; }
+    else { sortCol = col; sortDir = (col === 'Population' || col === 'Total Calls') ? -1 : 1; }
     document.querySelectorAll('thead th').forEach(h => h.classList.remove('asc', 'desc'));
     th.classList.add(sortDir === 1 ? 'asc' : 'desc');
     renderTable(filtered());
   });
 });
 
+// ── State picker ──────────────────────────────────────────────────────────
+document.getElementById('state-label').textContent = STATE_CFG.name;
+
+const stateDropdown = document.getElementById('state-dropdown');
+Object.entries(STATES).forEach(([code, cfg]) => {
+  const a = document.createElement('a');
+  a.href      = `?state=${code}`;
+  a.className = `state-option${code === STATE_CODE ? ' current' : ''}`;
+  a.textContent = cfg.name;
+  if (code === STATE_CODE) a.removeAttribute('href');
+  stateDropdown.appendChild(a);
+});
+
+document.getElementById('state-btn').addEventListener('click', e => {
+  e.stopPropagation();
+  const btn = e.currentTarget;
+  const isOpen = stateDropdown.classList.contains('open');
+  closeAllDropdowns();
+  stateDropdown.classList.toggle('open', !isOpen);
+  btn.classList.toggle('open', !isOpen);
+});
+
+stateDropdown.addEventListener('click', e => e.stopPropagation());
+
 // ── Load CSV ──────────────────────────────────────────────────────────────
-Papa.parse('./FL_master.csv', {
+Papa.parse(`./states/${STATE_CODE}/data.csv`, {
   download: true,
   header: true,
   skipEmptyLines: true,
   complete({ data }) {
     allData = data.map(r => ({ ...r, _sig: getSignal(r) }));
+    buildOwnerFilter(allData);
     document.getElementById('header-meta').textContent =
-      `${allData.length} accounts · FL · ${new Date().toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}`;
-    // Initial sort indicator
+      `${allData.length} accounts · ${STATE_CODE} · ${new Date().toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}`;
     document.querySelector('th[data-col="Population"]').classList.add('desc');
     render();
   },
-  error(err) {
+  error() {
     document.querySelector('.main').innerHTML =
       `<div style="padding:48px;color:#ef4444;font-size:14px">
-        <strong>Could not load FL_master.csv</strong><br><br>
-        Run this from a local server, not directly from the filesystem.<br>
-        Try: <code>npx serve .</code> or <code>python3 -m http.server 8765</code>
+        <strong>Could not load states/${STATE_CODE}/data.csv</strong><br><br>
+        Make sure the file exists and you're running a local server.<br>
+        <code>python3 -m http.server 8765</code> from the project root.
        </div>`;
-  }
+  },
 });
 </script>
 </body>
