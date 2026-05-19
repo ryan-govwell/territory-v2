@@ -564,23 +564,12 @@ async function addStateMask() {
       }).addTo(maskLayer);
     });
 
-    // Outer glow border (wider, more transparent)
+    // Subtle state boundary line
     L.geoJSON(feat, {
       style: {
-        color:       '#FEAF0E',
-        weight:      6,
-        opacity:     0.18,
-        fillOpacity: 0,
-        interactive: false,
-      }
-    }).addTo(maskLayer);
-
-    // Crisp inner border
-    L.geoJSON(feat, {
-      style: {
-        color:       '#FEAF0E',
-        weight:      2,
-        opacity:     0.85,
+        color:       '#6B7280',
+        weight:      1.5,
+        opacity:     0.5,
         fillOpacity: 0,
         interactive: false,
       }
