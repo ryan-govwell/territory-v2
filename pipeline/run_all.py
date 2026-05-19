@@ -154,7 +154,10 @@ def main():
 
         ok.append(code)
 
-    # ── 4. Summary ────────────────────────────────────────────────────────────
+    # ── 4. Rebuild landing summary ────────────────────────────────────────────
+    subprocess.run(['python3', 'pipeline/build_summary.py'], capture_output=False)
+
+    # ── 5. Done ───────────────────────────────────────────────────────────────
     print(f'\n{"─"*50}')
     print(f'Done.  Success: {len(ok)}   Failed: {len(failed)}')
     if failed:

@@ -630,6 +630,23 @@ tr.ct-detail:hover { background: var(--surface-2) !important; }
 html.dark .us-state-inactive { fill: #2C2C2C; }
 .us-state-active   { fill: var(--accent); cursor: pointer; }
 .us-state-active:hover { fill: #ffc040; }
+.us-state-dimmed   { fill: #D4D4D4; cursor: default; }
+html.dark .us-state-dimmed { fill: #2C2C2C; }
+
+/* Rep filter */
+.landing-rep-filter { display: flex; align-items: center; gap: 8px; }
+.landing-rep-filter label { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-faint); }
+.landing-rep-select {
+  appearance: none; -webkit-appearance: none;
+  background: var(--surface-2); border: 1px solid var(--border);
+  border-radius: 7px; color: var(--text); font-family: inherit;
+  font-size: 12px; font-weight: 500; padding: 5px 28px 5px 10px;
+  cursor: pointer; outline: none; transition: border-color 0.15s;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%23888' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 8px center;
+}
+.landing-rep-select:hover { border-color: var(--accent); }
+.landing-rep-select:focus { border-color: var(--accent); }
 .us-label {
   font-family: 'DM Sans', -apple-system, sans-serif;
   font-size: 11px;
@@ -720,7 +737,12 @@ html.dark .us-state-inactive { fill: #2C2C2C; }
 </header>
 
 <div id="landing">
-  <p class="landing-hint">Select a state to explore</p>
+  <div class="landing-rep-filter">
+    <label for="rep-select">Rep</label>
+    <select class="landing-rep-select" id="rep-select">
+      <option value="">All Reps</option>
+    </select>
+  </div>
   <div class="landing-map-wrap" id="usa-map"></div>
 </div>
 <div id="map-tip"></div>
@@ -1287,6 +1309,24 @@ function renderAnalytics(data) {
 }
 
 // ── Landing USA map ────────────────────────────────────────────────────────
+let repSummary = {};  // rep → [state codes], loaded async
+
+function updateMapHighlight(repFilter) {
+  const repStates = repFilter ? new Set(repSummary[repFilter] || []) : null;
+  d3.selectAll('.us-state').each(function() {
+    const abbr = this.dataset.abbr;
+    const isActive = ACTIVE_STATES.has(abbr);
+    const inRep = !repStates || repStates.has(abbr);
+    this.className.baseVal = `us-state ${!isActive ? 'us-state-inactive' : inRep ? 'us-state-active' : 'us-state-dimmed'}`;
+  });
+  // Labels: show/hide based on filter
+  d3.selectAll('.us-label').each(function() {
+    const abbr = this.dataset.abbr;
+    const inRep = !repStates || repStates.has(abbr);
+    this.style.display = inRep ? '' : 'none';
+  });
+}
+
 function renderLanding() {
   const FIPS = {
     '01':'AL','02':'AK','04':'AZ','05':'AR','06':'CA','08':'CO','09':'CT',
@@ -1312,10 +1352,24 @@ function renderLanding() {
     '47':'Tennessee','48':'Texas','49':'Utah','50':'Vermont','51':'Virginia',
     '53':'Washington','54':'West Virginia','55':'Wisconsin','56':'Wyoming',
   };
-  const ACTIVE = [...ACTIVE_STATES];
-  const tip    = document.getElementById('map-tip');
+  const tip = document.getElementById('map-tip');
 
-  d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json').then(us => {
+  Promise.all([
+    d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json'),
+    d3.json(`./states/summary.json?v=${CB}`),
+  ]).then(([us, summary]) => {
+    repSummary = summary;
+
+    // Populate rep dropdown
+    const sel = document.getElementById('rep-select');
+    Object.keys(summary).sort().forEach(rep => {
+      const opt = document.createElement('option');
+      opt.value = rep;
+      opt.textContent = rep.split(' ')[0];  // first name only
+      sel.appendChild(opt);
+    });
+    sel.addEventListener('change', () => updateMapHighlight(sel.value));
+
     const svg = d3.select('#usa-map').append('svg').attr('viewBox', '0 0 975 610');
     const proj = d3.geoAlbersUsa().scale(1280).translate([487.5, 305]);
     const path = d3.geoPath().projection(proj);
@@ -1326,14 +1380,15 @@ function renderLanding() {
       .join('path')
       .attr('class', d => {
         const abbr = FIPS[String(d.id).padStart(2, '0')];
-        return `us-state ${ACTIVE.includes(abbr) ? 'us-state-active' : 'us-state-inactive'}`;
+        return `us-state ${ACTIVE_STATES.has(abbr) ? 'us-state-active' : 'us-state-inactive'}`;
       })
+      .attr('data-abbr', d => FIPS[String(d.id).padStart(2, '0')] || '')
       .attr('d', path)
       .on('mousemove', (event, d) => {
         const fips = String(d.id).padStart(2, '0');
         const abbr = FIPS[fips];
         const name = NAMES[fips] || '';
-        const isActive = ACTIVE.includes(abbr);
+        const isActive = ACTIVE_STATES.has(abbr) && (!sel.value || (repSummary[sel.value] || []).includes(abbr));
         tip.innerHTML = isActive
           ? `<strong>${name}</strong>&ensp;<span style="opacity:.5;font-size:11px">Explore →</span>`
           : name;
@@ -1344,18 +1399,20 @@ function renderLanding() {
       .on('mouseleave', () => { tip.style.display = 'none'; })
       .on('click', (event, d) => {
         const abbr = FIPS[String(d.id).padStart(2, '0')];
-        if (ACTIVE.includes(abbr)) window.location.href = `?state=${abbr}`;
+        const isActive = ACTIVE_STATES.has(abbr) && (!sel.value || (repSummary[sel.value] || []).includes(abbr));
+        if (isActive) window.location.href = `?state=${abbr}`;
       });
 
     // Abbreviation labels on active states
     features.forEach(d => {
       const fips = String(d.id).padStart(2, '0');
       const abbr = FIPS[fips];
-      if (!ACTIVE.includes(abbr)) return;
+      if (!ACTIVE_STATES.has(abbr)) return;
       const c = path.centroid(d);
       if (!c || isNaN(c[0])) return;
       svg.append('text')
         .attr('class', 'us-label')
+        .attr('data-abbr', abbr)
         .attr('x', c[0]).attr('y', c[1])
         .attr('text-anchor', 'middle')
         .attr('dominant-baseline', 'middle')
