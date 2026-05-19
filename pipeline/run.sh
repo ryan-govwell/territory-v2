@@ -11,6 +11,10 @@
 #   sf_activity.csv        — Salesforce activity report
 #
 # Output: states/<CODE>/data.csv  (ready for the dashboard)
+#
+# After running, add Outreach IDs:
+#   python3 pipeline/add_outreach_ids.py --state <CODE> --outreach <path/to/Accounts_export.csv>
+# Export from Outreach: Accounts → Export → Id and Name columns only.
 
 set -euo pipefail
 
