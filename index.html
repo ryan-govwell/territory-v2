@@ -1360,12 +1360,18 @@ function renderLanding() {
   ]).then(([us, summary]) => {
     repSummary = summary;
 
-    // Populate rep dropdown
+    const ACTIVE_REPS = new Set([
+      'Ali Cohen', 'Alicia Gopal', 'Ben Laddis', 'Blake Anderson',
+      'Catherine Silvestri', 'Hugh Bargeron', 'Lucy Nemerov', 'Maia Golub',
+      'Mihir Shah', 'Nick Martino', 'Ryan Minter', 'Sydney Ireland',
+    ]);
+
+    // Populate rep dropdown (active reps only, sorted by first name)
     const sel = document.getElementById('rep-select');
-    Object.keys(summary).sort().forEach(rep => {
+    Object.keys(summary).filter(r => ACTIVE_REPS.has(r)).sort().forEach(rep => {
       const opt = document.createElement('option');
       opt.value = rep;
-      opt.textContent = rep.split(' ')[0];  // first name only
+      opt.textContent = rep.split(' ')[0];
       sel.appendChild(opt);
     });
     sel.addEventListener('change', () => updateMapHighlight(sel.value));
