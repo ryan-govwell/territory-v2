@@ -34,11 +34,12 @@ echo "▶ ${STATE_NAME} (${STATE_CODE})"
 
 echo "  1/4  accounts..."
 python3 pipeline/process_accounts.py \
-  --accounts   "${RAW}/sf_accounts.csv" \
-  --starbridge "${RAW}/sf_starbridge.csv" \
-  --geo        "${GEO}" \
-  --state      "${STATE_NAME}" \
-  --output     "${TMP}/accounts.csv"
+  --accounts    "${RAW}/sf_accounts.csv" \
+  --starbridge  "${RAW}/sf_starbridge.csv" \
+  --geo         "${GEO}" \
+  --state       "${STATE_NAME}" \
+  --state-code  "${STATE_CODE}" \
+  --output      "${TMP}/accounts.csv"
 
 echo "  2/4  opportunities..."
 python3 pipeline/process_opportunities.py \

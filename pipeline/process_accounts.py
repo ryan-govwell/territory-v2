@@ -64,11 +64,13 @@ def main():
     parser.add_argument('--starbridge', required=True, help='Path to Starbridge ID report CSV')
     parser.add_argument('--geo',        required=True, help='Path to geo_lookup.json')
     parser.add_argument('--state',      required=True, help='State name (e.g. Florida)')
+    parser.add_argument('--state-code', dest='state_code', default='', help='2-letter state code (e.g. FL) — enables state-specific geo lookup')
     parser.add_argument('--output',     required=True, help='Output CSV path')
     args = parser.parse_args()
 
     starbridge = load_starbridge(args.starbridge)
     geo        = load_geo(args.geo)
+    state_suffix = f', {args.state_code.lower()}' if args.state_code else ''
 
     FIELDNAMES = [
         'Account ID', 'Account Name', 'State',
@@ -86,7 +88,8 @@ def main():
             name    = row['Account Name'].strip()
             key     = name.lower()
             tier    = pop_tier(row.get('Population', ''))
-            coords  = geo.get(key, {})
+            # Try state-specific key first to avoid matching same name in another state
+            coords  = geo.get(key + state_suffix, geo.get(key, {}))
 
             if key not in starbridge:
                 unmatched_sb.append(name)
