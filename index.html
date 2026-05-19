@@ -716,12 +716,7 @@ html.dark .us-state-inactive { fill: #2C2C2C; }
 <div id="landing">
   <p class="landing-hint">Select a state to explore</p>
   <div class="landing-map-wrap" id="usa-map"></div>
-  <div class="landing-pills">
-    <a class="landing-pill" href="?state=AL"><span class="landing-pill-dot"></span>Alabama</a>
-    <a class="landing-pill" href="?state=FL"><span class="landing-pill-dot"></span>Florida</a>
-    <a class="landing-pill" href="?state=IA"><span class="landing-pill-dot"></span>Iowa</a>
-    <a class="landing-pill" href="?state=KS"><span class="landing-pill-dot"></span>Kansas</a>
-  </div>
+  <div class="landing-pills" id="landing-pills"></div>
 </div>
 <div id="map-tip"></div>
 
@@ -862,18 +857,66 @@ const CB = new Date().toISOString().slice(0, 10).replace(/-/g, '');
 
 // ── State routing ──────────────────────────────────────────────────────────
 const STATES = {
-  FL: { name: 'Florida', center: [27.8, -81.5], zoom: 7 },
-  KS: { name: 'Kansas',  center: [38.5, -98.0], zoom: 7 },
-  AL: { name: 'Alabama', center: [32.8, -86.8], zoom: 7 },
-  IA: { name: 'Iowa',    center: [42.0, -93.5], zoom: 7 },
-  // Add a new state: create states/XX/data.csv and add an entry here.
+  AK: { name: 'Alaska',         center: [64.2, -153.4], zoom: 4 },
+  AL: { name: 'Alabama',        center: [32.8,  -86.8], zoom: 7 },
+  AR: { name: 'Arkansas',       center: [34.8,  -92.2], zoom: 7 },
+  AZ: { name: 'Arizona',        center: [34.3, -111.1], zoom: 7 },
+  CA: { name: 'California',     center: [36.8, -119.4], zoom: 6 },
+  CO: { name: 'Colorado',       center: [39.0, -105.5], zoom: 7 },
+  CT: { name: 'Connecticut',    center: [41.6,  -72.7], zoom: 9 },
+  DE: { name: 'Delaware',       center: [38.9,  -75.5], zoom: 9 },
+  FL: { name: 'Florida',        center: [27.8,  -81.5], zoom: 7 },
+  GA: { name: 'Georgia',        center: [32.7,  -83.4], zoom: 7 },
+  HI: { name: 'Hawaii',         center: [20.3, -156.4], zoom: 7 },
+  IA: { name: 'Iowa',           center: [42.0,  -93.5], zoom: 7 },
+  ID: { name: 'Idaho',          center: [44.4, -114.6], zoom: 7 },
+  IL: { name: 'Illinois',       center: [40.0,  -89.2], zoom: 7 },
+  IN: { name: 'Indiana',        center: [39.8,  -86.1], zoom: 7 },
+  KS: { name: 'Kansas',         center: [38.5,  -98.0], zoom: 7 },
+  KY: { name: 'Kentucky',       center: [37.5,  -85.3], zoom: 7 },
+  LA: { name: 'Louisiana',      center: [31.2,  -92.0], zoom: 7 },
+  MA: { name: 'Massachusetts',  center: [42.2,  -71.5], zoom: 8 },
+  MD: { name: 'Maryland',       center: [39.0,  -76.8], zoom: 8 },
+  ME: { name: 'Maine',          center: [45.4,  -69.0], zoom: 7 },
+  MI: { name: 'Michigan',       center: [44.3,  -85.4], zoom: 7 },
+  MN: { name: 'Minnesota',      center: [46.4,  -93.2], zoom: 7 },
+  MO: { name: 'Missouri',       center: [38.3,  -92.5], zoom: 7 },
+  MS: { name: 'Mississippi',    center: [32.7,  -89.7], zoom: 7 },
+  MT: { name: 'Montana',        center: [47.0, -110.0], zoom: 6 },
+  NC: { name: 'North Carolina', center: [35.5,  -79.4], zoom: 7 },
+  ND: { name: 'North Dakota',   center: [47.5, -100.5], zoom: 7 },
+  NE: { name: 'Nebraska',       center: [41.5,  -99.8], zoom: 7 },
+  NH: { name: 'New Hampshire',  center: [43.7,  -71.6], zoom: 8 },
+  NJ: { name: 'New Jersey',     center: [40.1,  -74.5], zoom: 8 },
+  NM: { name: 'New Mexico',     center: [34.5, -106.0], zoom: 7 },
+  NV: { name: 'Nevada',         center: [39.5, -117.1], zoom: 6 },
+  NY: { name: 'New York',       center: [42.9,  -75.5], zoom: 7 },
+  OH: { name: 'Ohio',           center: [40.4,  -82.8], zoom: 7 },
+  OK: { name: 'Oklahoma',       center: [35.6,  -97.5], zoom: 7 },
+  OR: { name: 'Oregon',         center: [44.0, -120.5], zoom: 7 },
+  PA: { name: 'Pennsylvania',   center: [40.9,  -77.8], zoom: 7 },
+  RI: { name: 'Rhode Island',   center: [41.7,  -71.6], zoom: 10 },
+  SC: { name: 'South Carolina', center: [33.9,  -80.9], zoom: 8 },
+  SD: { name: 'South Dakota',   center: [44.4, -100.2], zoom: 7 },
+  TN: { name: 'Tennessee',      center: [35.9,  -86.4], zoom: 7 },
+  TX: { name: 'Texas',          center: [31.1,  -97.6], zoom: 6 },
+  UT: { name: 'Utah',           center: [39.4, -111.1], zoom: 7 },
+  VA: { name: 'Virginia',       center: [37.5,  -79.5], zoom: 7 },
+  VT: { name: 'Vermont',        center: [44.0,  -72.7], zoom: 8 },
+  WA: { name: 'Washington',     center: [47.4, -120.4], zoom: 7 },
+  WI: { name: 'Wisconsin',      center: [44.5,  -89.8], zoom: 7 },
+  WV: { name: 'West Virginia',  center: [38.5,  -80.5], zoom: 8 },
+  WY: { name: 'Wyoming',        center: [43.0, -107.6], zoom: 7 },
 };
+
+// States with actual data loaded. Add a code here when you run the pipeline for a new state.
+const ACTIVE_STATES = new Set(['AL', 'FL', 'IA', 'KS']);
 
 const urlParams  = new URLSearchParams(window.location.search);
 const rawState   = urlParams.get('state');
 const STATE_CODE = rawState ? rawState.toUpperCase() : 'FL';
 const STATE_CFG  = STATES[STATE_CODE] || STATES.FL;
-const IS_LANDING = !rawState || !STATES[rawState.toUpperCase()];
+const IS_LANDING = !rawState || !ACTIVE_STATES.has(rawState.toUpperCase());
 
 // ── Signal config ──────────────────────────────────────────────────────────
 const SIG = {
@@ -1258,7 +1301,7 @@ function renderLanding() {
     '47':'Tennessee','48':'Texas','49':'Utah','50':'Vermont','51':'Virginia',
     '53':'Washington','54':'West Virginia','55':'Wisconsin','56':'Wyoming',
   };
-  const ACTIVE = Object.keys(STATES); // ['FL','KS','AL']
+  const ACTIVE = [...ACTIVE_STATES];
   const tip    = document.getElementById('map-tip');
 
   d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json').then(us => {
@@ -1599,7 +1642,7 @@ document.querySelectorAll('thead th[data-col]').forEach(th => {
 document.getElementById('state-label').textContent = IS_LANDING ? 'States' : STATE_CFG.name;
 
 const stateDropdown = document.getElementById('state-dropdown');
-Object.entries(STATES).sort((a, b) => a[1].name.localeCompare(b[1].name)).forEach(([code, cfg]) => {
+Object.entries(STATES).filter(([code]) => ACTIVE_STATES.has(code)).sort((a, b) => a[1].name.localeCompare(b[1].name)).forEach(([code, cfg]) => {
   const a = document.createElement('a');
   a.href        = `?state=${code}`;
   a.className   = `state-option${!IS_LANDING && code === STATE_CODE ? ' current' : ''}`;
@@ -1626,7 +1669,15 @@ if (IS_LANDING) {
   document.querySelector('.filters').style.display    = 'none';
   document.querySelector('.main').style.display       = 'none';
   document.getElementById('header-meta').textContent  =
-    Object.values(STATES).map(s => s.name).join(' · ');
+    [...ACTIVE_STATES].sort().map(c => STATES[c].name).join(' · ');
+  const pillsEl = document.getElementById('landing-pills');
+  [...ACTIVE_STATES].sort((a, b) => STATES[a].name.localeCompare(STATES[b].name)).forEach(code => {
+    const a = document.createElement('a');
+    a.className = 'landing-pill';
+    a.href = `?state=${code}`;
+    a.innerHTML = `<span class="landing-pill-dot"></span>${STATES[code].name}`;
+    pillsEl.appendChild(a);
+  });
   renderLanding();
 } else {
   Papa.parse(`./states/${STATE_CODE}/data.csv?v=${CB}`, {
