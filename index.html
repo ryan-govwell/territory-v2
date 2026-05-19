@@ -187,16 +187,18 @@ header {
 .btn.active-touched   { background: #3b82f6; color: white; border-color: #3b82f6; }
 .btn.active-untouched { background: #6b7280; color: white; border-color: #6b7280; }
 #search {
-  padding: 4px 10px;
-  border: 1px solid #D9D9D9;
-  border-radius: 3px;
+  padding: 7px 12px;
+  border: none;
+  border-bottom: 1px solid #ECECEC;
   font-size: 12px;
   outline: none;
   font-family: inherit;
   color: #000000;
-  width: 180px;
+  width: 100%;
+  flex-shrink: 0;
+  background: white;
 }
-#search:focus { border-color: #FEAF0E; box-shadow: 0 0 0 2px rgba(254,175,14,0.15); }
+#search:focus { border-bottom-color: #FEAF0E; }
 
 /* Main layout */
 .main { display: flex; flex: 1; overflow: hidden; }
@@ -427,12 +429,12 @@ td { padding: 6px 8px; vertical-align: middle; }
       <div class="dd-note">⚠ Our data only captures activity within the past year. Accounts with no recent record may have been called earlier.</div>
     </div>
   </div>
-  <input type="text" id="search" placeholder="Search accounts…">
 </div>
 
 <div class="main">
   <div id="map"></div>
   <div class="table-pane">
+    <input type="text" id="search" placeholder="Search accounts…">
     <div class="table-header" id="table-count"></div>
     <div class="table-scroll">
       <table>
