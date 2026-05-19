@@ -6,7 +6,7 @@ c9ac62ce-8034-462d-a28f-159b8931415f,"Shawnee County, KS",Kansas,County,County,M
 e4a2a819-1d66-4de5-9918-aaf8a5654abf,"Wyandotte County, KS",Kansas,County,County,Maia Golub,156752,Prospect,Tier S,2.0,39.0987,-94.7692,,,,,,,,,2,2025-07-15,2,,,,,,001Hr000028Zdqk,12407
 9f31b9c5-7ead-4fcd-9616-79193399b10d,City of Olathe,Kansas,Municipality,City,Maia Golub,149035,Prospect,Tier S,2.0,38.8814,-94.8191,,,,,,,,,,,,,,,,,001cv00000bBWTM,22381
 6c566e5c-801d-4c5a-b9f9-44d60061bd7d,City of Topeka,Kansas,Municipality,City,Maia Golub,125467,Prospect,Tier S,2.0,39.0473,-95.6752,,,,,,,,,,,,,,,,,001cv00000bBWSZ,22331
-6a4a6d2e-73fe-4841-935b-9df9e81b8922,Douglas County,Kansas,County,County,Maia Golub,121989,Prospect,Tier S,2.0,41.3148,-96.1951,,,,,,,,,,,,,,,,,001cv00000bBWSR,22334
+6a4a6d2e-73fe-4841-935b-9df9e81b8922,Douglas County,Kansas,County,County,Maia Golub,121989,Prospect,Tier S,2.0,38.867,-95.236,,,,,,,,,,,,,,,,,001cv00000bBWSR,22334
 94235185-8eac-4a19-9a96-943cfc6a9fdc,"City Of Lawrence, KS",Kansas,Municipality,City,Maia Golub,95256,Prospect,Tier S,2.0,38.9717,-95.2352,,,,,,,,,1,2025-12-05,1,,,,,,001Hr000028Zdgp,11704
 624a918f-0bba-4eb9-ad00-bdc2b1c00bcb,"County Of Leavenworth, KS",Kansas,County,County,Maia Golub,82184,Prospect,Tier S,2.0,39.1713,-95.0182,,,,,,,,,2,2025-09-02,1,,1,,,,001Hr000028ZcNB,12200
 9c1c483f-22b8-4bbf-92ea-1e2b7496fd2b,"County Of Riley, KS",Kansas,County,County,Maia Golub,72208,Prospect,Tier S,2.0,39.2989,-96.8308,,,,,,,,,12,2025-11-06,12,,,,,,001Hr000028ZdrX,12237
@@ -291,7 +291,7 @@ f83ce2e4-ae45-42fa-8e78-9dd6c09b60e9,City of Ellinwood,Kansas,Municipality,City,
 252cf345-56fe-4047-bccc-066e9c76c27f,City of Moundridge,Kansas,Municipality,City,Maia Golub,1965,Prospect,Tier 3,0.75,38.203,-97.5191,,,,,,,,,,,,,,,,,001cv00000bBWDQ,22040
 b0edbc82-724e-4b74-ab13-e5af49176b20,City of Minneapolis,Kansas,Municipality,City,Maia Golub,1939,Prospect,Tier 3,0.75,39.1219,-97.7067,,,,,,,,,,,,,,,,,001cv00000bBWL3,21883
 25288d72-1cb0-423b-a3c4-b29c1520d317,City of Wellsville,Kansas,Municipality,City,Maia Golub,1933,Prospect,Tier 3,0.75,38.7185,-95.0819,,,,,,,,,,,,,,,,,001cv00000bBWKz,21882
-e1b4b9a6-2fc3-4d31-88dd-91be25cc3535,Clark County,Kansas,County,County,Maia Golub,1873,Prospect,Tier 3,0.75,39.8912,-83.6774,,,,,,,,,,,,,,,,,001cv00000bBWKD,21848
+e1b4b9a6-2fc3-4d31-88dd-91be25cc3535,Clark County,Kansas,County,County,Maia Golub,1873,Prospect,Tier 3,0.75,37.226,-99.833,,,,,,,,,,,,,,,,,001cv00000bBWKD,21848
 185d828b-a20f-4e1a-be48-404fd24f1d3f,City of Humboldt,Kansas,Municipality,City,Maia Golub,1817,Prospect,Tier 3,0.75,37.8106,-95.4369,,,,,,,,,,,,,,,,,001cv00000bBWJR,21797
 8f4b9f53-c698-42b7-b72c-846d2166f339,City of Syracuse,Kansas,Municipality,City,Maia Golub,1807,Prospect,Tier 3,0.75,37.9806,-101.7527,,,,,,,,,,,,,,,,,001cv00000bBWJI,21793
 078eed2e-0eb2-4817-81c8-94cddff1e5ed,City of North Newton,Kansas,Municipality,City,Maia Golub,1798,Prospect,Tier 3,0.75,38.0722,-97.3456,,,,,,,,,,,,,,,,,001cv00000bBWJA,21792
@@ -333,14 +333,14 @@ efeb2a66-930d-4dce-8667-a4afbdae9c4d,City of Lyndon,Kansas,Municipality,City,Mai
 00aeb023-b9b8-4d8a-bcf7-d3502e974aac,City of Lake Quivira,Kansas,Municipality,City,Maia Golub,1006,Prospect,Tier 3,0.75,39.0395,-94.7787,,,,,,,,,,,,,,,,,001cv00000bBVlr,21396
 26b59904-4eea-49a3-a58c-560a82c18976,City of Plains,Kansas,Municipality,City,Maia Golub,1006,Prospect,Tier 3,0.75,37.2603,-100.5927,,,,,,,,,,,,,,,,,001cv00000bBVls,21402
 c1497332-56cb-4549-b4ac-54d7b1feabd6,City of Montezuma,Kansas,Municipality,City,Maia Golub,994,Prospect,Tier 3,0.75,37.5959,-100.4432,,,,,,,,,,,,,,,,,001cv00000bBVli,21410
-600131d3-9e75-429a-ad0f-b0ff44f7b3dc,City of Troy,Kansas,Municipality,City,Maia Golub,982,Prospect,Tier 3,0.75,48.4641,-115.8899,,,,,,,,,,,,,,,,,001cv00000bBVlY,21391
+600131d3-9e75-429a-ad0f-b0ff44f7b3dc,City of Troy,Kansas,Municipality,City,Maia Golub,982,Prospect,Tier 3,0.75,39.78,-95.092,,,,,,,,,,,,,,,,,001cv00000bBVlY,21391
 924d02ca-4908-47c0-bba0-2d5b3e5cd532,City of Stafford,Kansas,Municipality,City,Maia Golub,920,Prospect,Tier 3,0.75,37.9622,-98.6006,,,,,,,,,,,,,,,,,001cv00000bBVin,21310
 4f8fcc40-7a3f-46da-bdaf-4aaa9121efe7,City of Dighton,Kansas,Municipality,City,Maia Golub,907,Prospect,Tier 3,0.75,38.482,-100.4671,,,,,,,,,,,,,,,,,001cv00000bBVia,21299
 8bf86b75-0553-4b4a-997f-de50cd084094,City of Chetopa,Kansas,Municipality,City,Maia Golub,905,Prospect,Tier 3,0.75,37.0373,-95.09,,,,,,,,,,,,,,,,,001cv00000bBViZ,21274
 4d64cc00-5372-4538-adca-ade982ae4304,City of Lebo,Kansas,Municipality,City,Maia Golub,887,Prospect,Tier 3,0.75,38.4167,-95.853,,,,,,,,,,,,,,,,,001cv00000bBViF,21354
 c95ff417-71a8-4101-9c45-87b37cef9836,Township of Mission,Kansas,Municipality,Town,Maia Golub,883,Prospect,Tier 3,0.75,39.0278,-94.6558,,,,,,,,,,,,,,,,,001cv00000bBViB,21281
 5d678ffd-b335-4c15-ad13-8fdf15d591a1,City of Kiowa,Kansas,Municipality,City,Maia Golub,870,Prospect,Tier 3,0.75,37.0172,-98.4854,,,,,,,,,,,,,,,,,001cv00000bBVi3,21311
-b3db18a9-6f12-4ac1-aea2-b06bf6fa7a6f,City of Alma,Kansas,Municipality,City,Maia Golub,839,Prospect,Tier 3,0.75,40.0975,-99.362,,,,,,,,,,,,,,,,,001cv00000bBVhe,21252
+b3db18a9-6f12-4ac1-aea2-b06bf6fa7a6f,City of Alma,Kansas,Municipality,City,Maia Golub,839,Prospect,Tier 3,0.75,38.98,-96.284,,,,,,,,,,,,,,,,,001cv00000bBVhe,21252
 cf591252-34d2-47ac-88fc-4b57e77da44d,City of Cottonwood Falls,Kansas,Municipality,City,Maia Golub,833,Prospect,Tier 3,0.75,38.3722,-96.5428,,,,,,,,,,,,,,,,,001cv00000bBVfq,21229
 51a7faef-1ebb-4c2f-834a-c900cbec98a4,City of Galva,Kansas,Municipality,City,Maia Golub,826,Prospect,Tier 3,0.75,38.382,-97.5375,,,,,,,,,,,,,,,,,001cv00000bBVfj,21204
 354f1b12-4334-4012-9eb7-2d0c33149124,City of Jetmore,Kansas,Municipality,City,Maia Golub,748,Prospect,Tier 3,0.75,38.0845,-99.8935,,,,,,,,,,,,,,,,,001cv00000bBVes,21184
