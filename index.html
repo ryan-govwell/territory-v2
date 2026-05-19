@@ -531,56 +531,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   maxZoom: 19,
 }).addTo(map);
 
-// maskLayer added before markerLayer so dots render on top
-const maskLayer   = L.layerGroup().addTo(map);
 const markerLayer = L.layerGroup().addTo(map);
-
-// Fetch US state boundaries and apply spotlight effect
-async function addStateMask() {
-  try {
-    const res  = await fetch('https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json');
-    const data = await res.json();
-    const feat = data.features.find(f => f.properties.name === STATE_CFG.name);
-    if (!feat) return;
-
-    // Convert GeoJSON [lng, lat] rings → Leaflet [lat, lng]
-    const toLLRing = ring => ring.map(([lng, lat]) => [lat, lng]);
-
-    // Collect all rings from the state geometry (handles MultiPolygon)
-    const stateRings = feat.geometry.type === 'Polygon'
-      ? feat.geometry.coordinates
-      : feat.geometry.coordinates.flat(1);
-
-    // World outer shell — covers everything
-    const worldRing = [[-90,-180],[-90,180],[90,180],[90,-180],[-90,-180]];
-
-    // One mask polygon per state ring: world + ring-as-hole dims outside
-    stateRings.forEach(ring => {
-      L.polygon([worldRing, toLLRing(ring)], {
-        fillColor:   '#0a0f1a',
-        fillOpacity: 0.38,
-        stroke:      false,
-        interactive: false,
-      }).addTo(maskLayer);
-    });
-
-    // Subtle state boundary line
-    L.geoJSON(feat, {
-      style: {
-        color:       '#6B7280',
-        weight:      1.5,
-        opacity:     0.5,
-        fillOpacity: 0,
-        interactive: false,
-      }
-    }).addTo(maskLayer);
-
-  } catch (_) {
-    // Mask is a visual enhancement only — fail silently
-  }
-}
-
-addStateMask();
 
 const legend = L.control({ position: 'bottomleft' });
 legend.onAdd = () => {
