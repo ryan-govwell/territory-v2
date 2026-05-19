@@ -1,0 +1,5 @@
+# Salesforce raw exports — drop here before running pipeline, never commit
+states/*/raw/*.csv
+
+# macOS
+.DS_Store
