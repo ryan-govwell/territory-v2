@@ -104689,5 +104689,10 @@
     "lat": 31.65,
     "lng": -88.67,
     "name": "Wayne County"
+  },
+  "town of dover, tn": {
+    "lat": 36.49,
+    "lng": -87.83,
+    "name": "Town of Dover"
   }
 }
