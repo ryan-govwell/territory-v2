@@ -457,6 +457,67 @@ html.dark .leaflet-popup-close-button { color: var(--text-muted) !important; }
 .table-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 999px; }
 .table-scroll::-webkit-scrollbar-thumb:hover { background: var(--text-faint); }
 
+/* ── Contact expand ─────────────────────────────────────────────────────── */
+.expand-cell { width: 24px; padding: 0 2px !important; text-align: center; }
+.expand-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: var(--text-faint);
+  border-radius: 3px;
+  transition: color 0.1s, background 0.1s, transform 0.15s;
+  padding: 0;
+  font-size: 8px;
+  flex-shrink: 0;
+}
+.expand-btn:hover { color: var(--text-muted); background: var(--surface-3); }
+.expand-btn.open  { transform: rotate(90deg); color: var(--accent); }
+tr.ct-detail { cursor: default; }
+tr.ct-detail:hover { background: var(--surface-2) !important; }
+.ct-pane {
+  padding: 10px 16px 14px 16px;
+  background: var(--surface-2);
+  border-top: 1px solid var(--border-subtle);
+}
+.ct-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px 24px;
+}
+.ct-fn-head {
+  display: flex;
+  align-items: baseline;
+  gap: 7px;
+  margin-bottom: 5px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--border);
+}
+.ct-fn-label {
+  font-size: 9.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--text-muted);
+}
+.ct-fn-count { font-size: 10px; color: var(--text-faint); }
+.ct-fn-last  { margin-left: auto; font-size: 10px; font-weight: 600; color: var(--accent); }
+.ct-contact {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 3px 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+.ct-contact:last-child { border-bottom: none; }
+.ct-name  { font-size: 11.5px; font-weight: 500; color: var(--text); white-space: nowrap; flex-shrink: 0; }
+.ct-title { font-size: 11px; color: var(--text-muted); flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ct-date  { font-size: 10px; color: var(--text-faint); white-space: nowrap; flex-shrink: 0; }
+
 /* ── Empty / loading ────────────────────────────────────────────────────── */
 .empty   { padding: 48px; text-align: center; color: var(--text-faint); font-size: 13px; }
 .loading { padding: 48px; text-align: center; color: var(--text-muted); font-size: 13px; }
@@ -587,6 +648,7 @@ html.dark .leaflet-popup-close-button { color: var(--text-muted) !important; }
       <table>
         <thead>
           <tr>
+            <th class="expand-cell"></th>
             <th data-col="Account Name">Account</th>
             <th data-col="Owner">Owner</th>
             <th data-col="Tier">Tier</th>
@@ -746,6 +808,66 @@ let sortCol  = 'Population';
 let sortDir  = -1;
 let markerIndex = {};
 let activeId    = null;
+let contactsByAccount = {};
+
+// ── Contacts ───────────────────────────────────────────────────────────────
+const FN_ORDER = [
+  'Building/Permitting/Inspections',
+  'Planning & Zoning',
+  'Code Enforcement',
+  'Other',
+];
+
+function loadContacts() {
+  Papa.parse(`./states/${STATE_CODE}/contacts.csv`, {
+    download: true, header: true, skipEmptyLines: true,
+    complete({ data }) {
+      contactsByAccount = {};
+      data.forEach(c => {
+        const id = c['Account ID'];
+        if (!id) return;
+        if (!contactsByAccount[id]) {
+          contactsByAccount[id] = { contacts: [], lastActivity: '', byFunction: {} };
+        }
+        const acct = contactsByAccount[id];
+        acct.contacts.push(c);
+        if (c['Last Activity'] && c['Last Activity'] > acct.lastActivity)
+          acct.lastActivity = c['Last Activity'];
+        const fn = c['Function'] || 'Other';
+        if (!acct.byFunction[fn]) acct.byFunction[fn] = { contacts: [], lastActivity: '' };
+        acct.byFunction[fn].contacts.push(c);
+        if (c['Last Activity'] && c['Last Activity'] > acct.byFunction[fn].lastActivity)
+          acct.byFunction[fn].lastActivity = c['Last Activity'];
+      });
+      renderTable(filtered());
+    },
+    error() {}, // contacts.csv optional — silently skip
+  });
+}
+
+function buildContactPane(id) {
+  const data = contactsByAccount[id];
+  if (!data) return '';
+  const sections = FN_ORDER.filter(fn => data.byFunction[fn]).map(fn => {
+    const grp  = data.byFunction[fn];
+    const last = grp.lastActivity
+      ? `<span class="ct-fn-last">${fmtDate(grp.lastActivity)}</span>` : '';
+    const rows = grp.contacts.map(c =>
+      `<div class="ct-contact">
+         <span class="ct-name">${c['Full Name']}</span>
+         <span class="ct-title">${c['Title'] || '—'}</span>
+         <span class="ct-date">${c['Last Activity'] ? fmtDate(c['Last Activity']) : '—'}</span>
+       </div>`
+    ).join('');
+    return `<div>
+      <div class="ct-fn-head">
+        <span class="ct-fn-label">${fn}</span>
+        <span class="ct-fn-count">${grp.contacts.length} contact${grp.contacts.length !== 1 ? 's' : ''}</span>
+        ${last}
+      </div>${rows}</div>`;
+  }).join('');
+  return `<div class="ct-pane"><div class="ct-grid">${sections}</div></div>`;
+}
 
 // ── Owner filter (built from data) ─────────────────────────────────────────
 function buildOwnerFilter(data) {
@@ -860,9 +982,11 @@ function renderTable(data) {
   empty.style.display = 'none';
 
   tbody.innerHTML = rows.map(r => {
-    const s  = SIG[r._sig];
-    const hl = r['Account ID'] === activeId ? ' hl' : '';
+    const s   = SIG[r._sig];
+    const hl  = r['Account ID'] === activeId ? ' hl' : '';
+    const hasC = !!contactsByAccount[r['Account ID']];
     return `<tr class="${hl}" data-id="${r['Account ID']}">
+      <td class="expand-cell">${hasC ? `<button class="expand-btn" data-expand="${r['Account ID']}">▶</button>` : ''}</td>
       <td><div class="acct" title="${r['Account Name']}">${r['Account Name']}</div></td>
       <td><span class="owner-chip ${ownerClass(r['Owner'])}">${r['Owner'] ? r['Owner'].split(' ')[0] : '—'}</span></td>
       <td>${tierBadge(r['Tier'])}</td>
@@ -886,6 +1010,25 @@ function renderTable(data) {
       tr.classList.add('hl');
       const mk = markerIndex[id];
       if (mk) { map.setView(mk.getLatLng(), 12, { animate: true }); mk.openPopup(); }
+    });
+  });
+
+  tbody.querySelectorAll('.expand-btn').forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      const id     = btn.dataset.expand;
+      const tr     = btn.closest('tr');
+      const isOpen = btn.classList.contains('open');
+      // Close all open detail rows
+      document.querySelectorAll('.ct-detail').forEach(d => d.remove());
+      document.querySelectorAll('.expand-btn.open').forEach(b => b.classList.remove('open'));
+      if (!isOpen) {
+        btn.classList.add('open');
+        const detail = document.createElement('tr');
+        detail.className = 'ct-detail';
+        detail.innerHTML = `<td colspan="10">${buildContactPane(id)}</td>`;
+        tr.after(detail);
+      }
     });
   });
 }
@@ -1022,6 +1165,7 @@ Papa.parse(`./states/${STATE_CODE}/data.csv`, {
       `${allData.length} accounts · ${STATE_CODE} · ${new Date().toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}`;
     document.querySelector('th[data-col="Population"]').classList.add('desc');
     render();
+    loadContacts();
   },
   error() {
     document.querySelector('.main').innerHTML =
