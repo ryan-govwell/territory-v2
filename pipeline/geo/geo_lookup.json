@@ -104694,5 +104694,20 @@
     "lat": 36.49,
     "lng": -87.83,
     "name": "Town of Dover"
+  },
+  "city of albion, il": {
+    "lat": 38.38,
+    "lng": -88.06,
+    "name": "City of Albion"
+  },
+  "township of ohio, il": {
+    "lat": 41.47,
+    "lng": -89.6,
+    "name": "Township of Ohio"
+  },
+  "city of springfield, il": {
+    "lat": 39.8,
+    "lng": -89.64,
+    "name": "City of Springfield"
   }
 }
