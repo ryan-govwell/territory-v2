@@ -10,6 +10,8 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson@3/dist/topojson.min.js"></script>
 <style>
 /* ── Design tokens ──────────────────────────────────────────────────────── */
 :root {
@@ -599,6 +601,74 @@ tr.ct-detail:hover { background: var(--surface-2) !important; }
 /* ── Empty / loading ────────────────────────────────────────────────────── */
 .empty   { padding: 48px; text-align: center; color: var(--text-faint); font-size: 13px; }
 .loading { padding: 48px; text-align: center; color: var(--text-muted); font-size: 13px; }
+
+/* ── Landing page ───────────────────────────────────────────────────────── */
+#landing {
+  flex: 1;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 28px 24px 36px;
+  overflow: hidden;
+}
+.landing-hint {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-faint);
+}
+.landing-map-wrap { width: 100%; max-width: 880px; }
+.landing-map-wrap svg { width: 100%; height: auto; display: block; }
+.us-state { stroke: var(--bg); stroke-width: 0.7; transition: fill 0.12s; }
+.us-state-inactive { fill: var(--surface-3); }
+.us-state-active   { fill: var(--accent); cursor: pointer; }
+.us-state-active:hover { fill: #ffc040; }
+.us-label {
+  font-family: 'DM Sans', -apple-system, sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  fill: rgba(0,0,0,0.55);
+  pointer-events: none;
+  user-select: none;
+}
+.landing-pills { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
+.landing-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 6px 14px;
+  background: var(--accent-bg);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  text-decoration: none;
+  font-family: inherit;
+  transition: background 0.1s;
+}
+.landing-pill:hover { background: var(--accent-dim); }
+.landing-pill-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); flex-shrink: 0; }
+#map-tip {
+  position: fixed;
+  pointer-events: none;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text);
+  box-shadow: var(--shadow-md);
+  display: none;
+  z-index: 2000;
+  white-space: nowrap;
+  font-family: 'DM Sans', -apple-system, sans-serif;
+}
 </style>
 </head>
 <body>
@@ -640,6 +710,17 @@ tr.ct-detail:hover { background: var(--surface-2) !important; }
     </div>
   </div>
 </header>
+
+<div id="landing">
+  <p class="landing-hint">Select a state to explore</p>
+  <div class="landing-map-wrap" id="usa-map"></div>
+  <div class="landing-pills">
+    <a class="landing-pill" href="?state=AL"><span class="landing-pill-dot"></span>Alabama</a>
+    <a class="landing-pill" href="?state=FL"><span class="landing-pill-dot"></span>Florida</a>
+    <a class="landing-pill" href="?state=KS"><span class="landing-pill-dot"></span>Kansas</a>
+  </div>
+</div>
+<div id="map-tip"></div>
 
 <div class="stats-bar">
   <div class="stat s-total">   <div class="num" id="s-total">—</div>   <div class="lbl">Accounts</div></div>
@@ -777,8 +858,10 @@ const STATES = {
 };
 
 const urlParams  = new URLSearchParams(window.location.search);
-const STATE_CODE = (urlParams.get('state') || 'FL').toUpperCase();
+const rawState   = urlParams.get('state');
+const STATE_CODE = rawState ? rawState.toUpperCase() : 'FL';
 const STATE_CFG  = STATES[STATE_CODE] || STATES.FL;
+const IS_LANDING = !rawState || !STATES[rawState.toUpperCase()];
 
 // ── Signal config ──────────────────────────────────────────────────────────
 const SIG = {
@@ -876,7 +959,7 @@ legend.addTo(map);
 // ── Dark mode ──────────────────────────────────────────────────────────────
 function applyTheme(dark) {
   document.documentElement.classList.toggle('dark', dark);
-  setMapTiles(dark);
+  if (!IS_LANDING) setMapTiles(dark);
   localStorage.setItem('gwTheme', dark ? 'dark' : 'light');
 }
 
@@ -1127,6 +1210,84 @@ function renderAnalytics(data) {
       </div>
     </div>
   `;
+}
+
+// ── Landing USA map ────────────────────────────────────────────────────────
+function renderLanding() {
+  const FIPS = {
+    '01':'AL','02':'AK','04':'AZ','05':'AR','06':'CA','08':'CO','09':'CT',
+    '10':'DE','11':'DC','12':'FL','13':'GA','15':'HI','16':'ID','17':'IL',
+    '18':'IN','19':'IA','20':'KS','21':'KY','22':'LA','23':'ME','24':'MD',
+    '25':'MA','26':'MI','27':'MN','28':'MS','29':'MO','30':'MT','31':'NE',
+    '32':'NV','33':'NH','34':'NJ','35':'NM','36':'NY','37':'NC','38':'ND',
+    '39':'OH','40':'OK','41':'OR','42':'PA','44':'RI','45':'SC','46':'SD',
+    '47':'TN','48':'TX','49':'UT','50':'VT','51':'VA','53':'WA','54':'WV',
+    '55':'WI','56':'WY',
+  };
+  const NAMES = {
+    '01':'Alabama','02':'Alaska','04':'Arizona','05':'Arkansas','06':'California',
+    '08':'Colorado','09':'Connecticut','10':'Delaware','11':'D.C.',
+    '12':'Florida','13':'Georgia','15':'Hawaii','16':'Idaho','17':'Illinois',
+    '18':'Indiana','19':'Iowa','20':'Kansas','21':'Kentucky','22':'Louisiana',
+    '23':'Maine','24':'Maryland','25':'Massachusetts','26':'Michigan',
+    '27':'Minnesota','28':'Mississippi','29':'Missouri','30':'Montana',
+    '31':'Nebraska','32':'Nevada','33':'New Hampshire','34':'New Jersey',
+    '35':'New Mexico','36':'New York','37':'North Carolina','38':'North Dakota',
+    '39':'Ohio','40':'Oklahoma','41':'Oregon','42':'Pennsylvania',
+    '44':'Rhode Island','45':'South Carolina','46':'South Dakota',
+    '47':'Tennessee','48':'Texas','49':'Utah','50':'Vermont','51':'Virginia',
+    '53':'Washington','54':'West Virginia','55':'Wisconsin','56':'Wyoming',
+  };
+  const ACTIVE = Object.keys(STATES); // ['FL','KS','AL']
+  const tip    = document.getElementById('map-tip');
+
+  d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json').then(us => {
+    const svg = d3.select('#usa-map').append('svg').attr('viewBox', '0 0 975 610');
+    const proj = d3.geoAlbersUsa().scale(1280).translate([487.5, 305]);
+    const path = d3.geoPath().projection(proj);
+    const features = topojson.feature(us, us.objects.states).features;
+
+    svg.selectAll('path')
+      .data(features)
+      .join('path')
+      .attr('class', d => {
+        const abbr = FIPS[String(d.id).padStart(2, '0')];
+        return `us-state ${ACTIVE.includes(abbr) ? 'us-state-active' : 'us-state-inactive'}`;
+      })
+      .attr('d', path)
+      .on('mousemove', (event, d) => {
+        const fips = String(d.id).padStart(2, '0');
+        const abbr = FIPS[fips];
+        const name = NAMES[fips] || '';
+        const isActive = ACTIVE.includes(abbr);
+        tip.innerHTML = isActive
+          ? `<strong>${name}</strong>&ensp;<span style="opacity:.5;font-size:11px">Explore →</span>`
+          : name;
+        tip.style.display = 'block';
+        tip.style.left = (event.clientX + 14) + 'px';
+        tip.style.top  = (event.clientY - 38) + 'px';
+      })
+      .on('mouseleave', () => { tip.style.display = 'none'; })
+      .on('click', (event, d) => {
+        const abbr = FIPS[String(d.id).padStart(2, '0')];
+        if (ACTIVE.includes(abbr)) window.location.href = `?state=${abbr}`;
+      });
+
+    // Abbreviation labels on active states
+    features.forEach(d => {
+      const fips = String(d.id).padStart(2, '0');
+      const abbr = FIPS[fips];
+      if (!ACTIVE.includes(abbr)) return;
+      const c = path.centroid(d);
+      if (!c || isNaN(c[0])) return;
+      svg.append('text')
+        .attr('class', 'us-label')
+        .attr('x', c[0]).attr('y', c[1])
+        .attr('text-anchor', 'middle')
+        .attr('dominant-baseline', 'middle')
+        .text(abbr);
+    });
+  });
 }
 
 // ── Owner filter (built from data) ─────────────────────────────────────────
@@ -1407,15 +1568,15 @@ document.querySelectorAll('thead th[data-col]').forEach(th => {
 });
 
 // ── State picker ──────────────────────────────────────────────────────────
-document.getElementById('state-label').textContent = STATE_CFG.name;
+document.getElementById('state-label').textContent = IS_LANDING ? 'States' : STATE_CFG.name;
 
 const stateDropdown = document.getElementById('state-dropdown');
 Object.entries(STATES).sort((a, b) => a[1].name.localeCompare(b[1].name)).forEach(([code, cfg]) => {
   const a = document.createElement('a');
-  a.href      = `?state=${code}`;
-  a.className = `state-option${code === STATE_CODE ? ' current' : ''}`;
+  a.href        = `?state=${code}`;
+  a.className   = `state-option${!IS_LANDING && code === STATE_CODE ? ' current' : ''}`;
   a.textContent = cfg.name;
-  if (code === STATE_CODE) a.removeAttribute('href');
+  if (!IS_LANDING && code === STATE_CODE) a.removeAttribute('href');
   stateDropdown.appendChild(a);
 });
 
@@ -1430,29 +1591,39 @@ document.getElementById('state-btn').addEventListener('click', e => {
 
 stateDropdown.addEventListener('click', e => e.stopPropagation());
 
-// ── Load CSV ──────────────────────────────────────────────────────────────
-Papa.parse(`./states/${STATE_CODE}/data.csv?v=${CB}`, {
-  download: true,
-  header: true,
-  skipEmptyLines: true,
-  complete({ data }) {
-    allData = data.map(r => ({ ...r, _sig: getSignal(r) }));
-    buildOwnerFilter(allData);
-    document.getElementById('header-meta').textContent =
-      `${allData.length} accounts · ${STATE_CODE} · ${new Date().toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}`;
-    document.querySelector('th[data-col="Population"]').classList.add('desc');
-    render();
-    loadContacts();
-  },
-  error() {
-    document.querySelector('.main').innerHTML =
-      `<div style="padding:48px;color:#ef4444;font-size:14px">
-        <strong>Could not load states/${STATE_CODE}/data.csv</strong><br><br>
-        Make sure the file exists and you're running a local server.<br>
-        <code>python3 -m http.server 8765</code> from the project root.
-       </div>`;
-  },
-});
+// ── Boot: landing vs. dashboard ───────────────────────────────────────────
+if (IS_LANDING) {
+  document.getElementById('landing').style.display    = 'flex';
+  document.querySelector('.stats-bar').style.display  = 'none';
+  document.querySelector('.filters').style.display    = 'none';
+  document.querySelector('.main').style.display       = 'none';
+  document.getElementById('header-meta').textContent  =
+    Object.values(STATES).map(s => s.name).join(' · ');
+  renderLanding();
+} else {
+  Papa.parse(`./states/${STATE_CODE}/data.csv?v=${CB}`, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete({ data }) {
+      allData = data.map(r => ({ ...r, _sig: getSignal(r) }));
+      buildOwnerFilter(allData);
+      document.getElementById('header-meta').textContent =
+        `${allData.length} accounts · ${STATE_CODE} · ${new Date().toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}`;
+      document.querySelector('th[data-col="Population"]').classList.add('desc');
+      render();
+      loadContacts();
+    },
+    error() {
+      document.querySelector('.main').innerHTML =
+        `<div style="padding:48px;color:#ef4444;font-size:14px">
+          <strong>Could not load states/${STATE_CODE}/data.csv</strong><br><br>
+          Make sure the file exists and you're running a local server.<br>
+          <code>python3 -m http.server 8765</code> from the project root.
+         </div>`;
+    },
+  });
+}
 </script>
 </body>
 </html>
