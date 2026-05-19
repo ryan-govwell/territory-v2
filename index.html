@@ -288,6 +288,23 @@ td { padding: 7px 10px; vertical-align: middle; }
 /* Stale last-call date */
 .stale { color: #dc2626; font-weight: 600; }
 
+/* Outreach link */
+.outreach-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  padding: 2px 7px;
+  border: 1px solid #D9D9D9;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 500;
+  color: #7C7C7C;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: all 0.1s;
+}
+.outreach-btn:hover { border-color: #FEAF0E; color: #000000; background: #FEF7E0; }
+
 .muted { color: #7C7C7C; }
 .right { text-align: right; }
 
@@ -415,6 +432,7 @@ td { padding: 7px 10px; vertical-align: middle; }
             <th data-col="Stage">Stage</th>
             <th data-col="Total Calls" class="right">Calls</th>
             <th data-col="Last Call Date">Last Call</th>
+            <th></th>
           </tr>
         </thead>
         <tbody id="tbody"></tbody>
@@ -664,6 +682,7 @@ function renderTable(data) {
       <td class="muted">${r['Stage'] || '—'}</td>
       <td class="right muted">${r['Total Calls'] || '—'}</td>
       <td class="${isStale(r['Last Call Date']) ? 'stale' : 'muted'}">${fmtDate(r['Last Call Date'])}</td>
+      <td>${r['Outreach ID'] ? `<a class="outreach-btn" href="https://web.outreach.io/accounts/${r['Outreach ID']}/overview" target="_blank" rel="noopener" onclick="event.stopPropagation()">Outreach ↗</a>` : ''}</td>
     </tr>`;
   }).join('');
 
