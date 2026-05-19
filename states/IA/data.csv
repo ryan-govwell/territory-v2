@@ -6,7 +6,7 @@ Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,S
 001Hr000028ZbuO,"City Of Spencer, IA",Iowa,Municipality,Ben Laddis,11356,,Tier 2,1.0,43.1457,-95.1451,1063475e-56ca-4820-8923-45b6011513f7,,,,,,,,,18,2026-03-17,16,2,,,,,4738
 001Hr000028ZbxV,"City Of Fort Madison, IA",Iowa,Municipality,Ben Laddis,10174,,Tier 2,1.0,40.6298,-91.3145,3cef1546-cb72-4025-9364-f27167924f48,,,,,,,,,2,2026-04-07,1,1,,,,,4618
 001Hr000028ZbxX,"City Of Waukee, IA",Iowa,Municipality,Ben Laddis,26495,,Tier 1,1.5,41.615,-93.8722,ff4bb0a9-862b-43ee-b42c-08fc7b45bb30,,,,,,,,,29,2026-04-17,7,20,2,,,,5583
-001Hr000028Zbyw,"City Of Atlantic, IA",Iowa,Municipality,Ben Laddis,6758,Nurture,Tier 3,0.75,41.4036,-95.0139,db57194f-f886-4fae-8952-672dc7c7301c,Closed Lost,,,Harrison Peacock,6/3/2025,5/22/2025,,,5,2026-04-23,5,,,,,,3900
+001Hr000028Zbyw,"City Of Atlantic, IA",Iowa,Municipality,Ben Laddis,6758,Nurture,Tier 3,0.75,41.4036,-95.0139,db57194f-f886-4fae-8952-672dc7c7301c,Closed Lost,,,Harrison Peacock,9/18/2024,1/5/2025,,,5,2026-04-23,5,,,,,,3900
 001Hr000028Zbz9,"City Of Osceola, IA",Iowa,Municipality,Ben Laddis,5536,,Tier 3,0.75,41.0343,-93.7668,fe5224e4-c5a3-417e-a7bd-b2f4d181b114,,,,,,,,,4,2026-02-09,2,2,,,,,3495
 001Hr000028Zc1d,"City Of Asbury, IA",Iowa,Municipality,Ben Laddis,5984,,Tier 3,0.75,42.5146,-90.7502,5b772a5e-0c06-4622-873a-2b7f8043d338,,,,,,,,,1,2026-04-08,,,,1,,,3736
 001Hr000028Zc2b,"City Of Ames, IA",Iowa,Municipality,Ben Laddis,66424,Open Opportunity,Tier S,2.0,42.0308,-93.6319,6022af34-20cf-44d2-8371-2f41bb9cad01,Open,Initial Interest,Top of Funnel,Ben Laddis,,4/15/2026,,,34,2026-04-15,16,2,,,16,,11424
@@ -54,7 +54,7 @@ Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,S
 001Hr000028Zcpz,"City Of Perry, IA",Iowa,Municipality,Ben Laddis,7929,Nurture,Tier 3,0.75,41.8386,-94.1072,1c61cf93-fb31-43ac-9805-209a9177d6d5,Closed Lost,,,Quinzel Perry,4/8/2025,4/3/2025,,,12,2026-03-12,12,,,,,,4172
 001Hr000028ZcqF,"City Of Sioux Center, IA",Iowa,Municipality,Ben Laddis,8273,,Tier 3,0.75,43.0798,-96.1757,edd5231e-998a-4052-9ad6-23d90b5e525e,,,,,,,,,9,2026-05-13,9,,,,,,4219
 001Hr000028Zcsv,"City Of Keokuk, IA",Iowa,Municipality,Ben Laddis,9792,Open Opportunity,Tier 3,0.75,40.4045,-91.3964,e4ae5b8f-21e6-49ad-beb5-f220c35da277,Open,Meeting Booked,Top of Funnel,Ben Laddis,4/7/2026,3/27/2026,,Yes,2,2026-03-20,2,,,,,,4560
-001Hr000028Zcti,"City Of Grimes, IA",Iowa,Municipality,Ben Laddis,15949,Nurture,Tier 2,1.0,41.6884,-93.7925,c8515d9c-34b8-47c4-9049-9f237294cd19,Closed Lost,,,Troy LeCaire,,1/5/2025,,,4,2026-04-17,3,1,,,,,5081
+001Hr000028Zcti,"City Of Grimes, IA",Iowa,Municipality,Ben Laddis,15949,Nurture,Tier 2,1.0,41.6884,-93.7925,c8515d9c-34b8-47c4-9049-9f237294cd19,Closed Lost,,,Joe del Rosario,9/10/2024,1/5/2025,,,4,2026-04-17,3,1,,,,,5081
 001Hr000028Zcvd,"City Of Fairfield, IA",Iowa,Municipality,Ben Laddis,9641,,Tier 3,0.75,41.0076,-91.9637,3149830f-63e3-4436-8d33-0a79cf91304c,,,,,,,,,14,2026-04-07,14,,,,,,4517
 001Hr000028Zcx0,"City Of Pella, IA",Iowa,Municipality,Ben Laddis,10554,,Tier 2,1.0,41.408,-92.9164,205b8d6c-9431-4ad6-8050-c71cfec75309,,,,,,,,,2,2026-02-02,2,,,,,,4626
 001Hr000028Zd13,"City Of Newton, IA",Iowa,Municipality,Ben Laddis,15667,Nurture,Tier 2,1.0,41.7033,-93.0574,bb214711-115d-415d-8c3e-684fff308b9d,Closed Lost,,,Joe del Rosario,9/13/2024,1/5/2025,,,1,2026-02-02,1,,,,,,5151
