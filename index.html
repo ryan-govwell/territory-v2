@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Florida Territory Dashboard</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f1f5f9; color: #1e293b; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+
+/* Header */
+header {
+  background: #0f2242;
+  color: white;
+  padding: 0 24px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+}
+header h1 { font-size: 15px; font-weight: 600; letter-spacing: 0.01em; }
+header .meta { font-size: 12px; opacity: 0.55; }
+
+/* Stats bar */
+.stats-bar {
+  display: flex;
+  background: white;
+  border-bottom: 1px solid #e2e8f0;
+  flex-shrink: 0;
+}
+.stat {
+  flex: 1;
+  padding: 10px 0;
+  text-align: center;
+  border-right: 1px solid #f1f5f9;
+}
+.stat:last-child { border-right: none; }
+.stat .num { font-size: 22px; font-weight: 700; line-height: 1; }
+.stat .lbl { font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em; color: #94a3b8; margin-top: 3px; }
+.stat.s-total .num { color: #0f2242; }
+.stat.s-open .num { color: #f97316; }
+.stat.s-won .num { color: #d97706; }
+.stat.s-touched .num { color: #3b82f6; }
+.stat.s-untouched .num { color: #94a3b8; }
+
+/* Filters */
+.filters {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 8px 20px;
+  background: white;
+  border-bottom: 1px solid #e2e8f0;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+.fg { display: flex; align-items: center; gap: 5px; }
+.fg-label { font-size: 10px; font-weight: 700; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.08em; margin-right: 2px; }
+.btn {
+  padding: 3px 10px;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  font-size: 12px;
+  cursor: pointer;
+  background: white;
+  color: #64748b;
+  transition: all 0.1s;
+  font-family: inherit;
+}
+.btn:hover { border-color: #94a3b8; color: #1e293b; }
+.btn.active { background: #0f2242; color: white; border-color: #0f2242; }
+.btn.active-won    { background: #d97706; color: white; border-color: #d97706; }
+.btn.active-mid    { background: #f97316; color: white; border-color: #f97316; }
+.btn.active-top    { background: #ca8a04; color: white; border-color: #ca8a04; }
+.btn.active-lost   { background: #dc2626; color: white; border-color: #dc2626; }
+.btn.active-touched   { background: #3b82f6; color: white; border-color: #3b82f6; }
+.btn.active-untouched { background: #6b7280; color: white; border-color: #6b7280; }
+#search {
+  padding: 4px 10px;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  font-size: 12px;
+  outline: none;
+  font-family: inherit;
+  color: #1e293b;
+  width: 180px;
+}
+#search:focus { border-color: #0f2242; }
+
+/* Main layout */
+.main {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* Map */
+#map { flex: 0 0 58%; height: 100%; }
+
+/* Table pane */
+.table-pane {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: white;
+  border-left: 1px solid #e2e8f0;
+}
+.table-header {
+  padding: 8px 14px;
+  font-size: 11px;
+  color: #94a3b8;
+  border-bottom: 1px solid #f1f5f9;
+  flex-shrink: 0;
+  background: white;
+}
+.table-scroll { overflow-y: auto; flex: 1; }
+table { width: 100%; border-collapse: collapse; font-size: 12px; }
+thead th {
+  position: sticky;
+  top: 0;
+  background: #f8fafc;
+  padding: 8px 10px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #94a3b8;
+  border-bottom: 1px solid #e2e8f0;
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+thead th:hover { color: #1e293b; }
+thead th.asc::after { content: ' ↑'; color: #0f2242; }
+thead th.desc::after { content: ' ↓'; color: #0f2242; }
+tbody tr { border-bottom: 1px solid #f8fafc; cursor: pointer; transition: background 0.07s; }
+tbody tr:hover { background: #f8fafc; }
+tbody tr.hl { background: #eff6ff !important; }
+td { padding: 7px 10px; vertical-align: middle; }
+.acct { font-weight: 500; color: #0f172a; max-width: 160px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.owner-chip {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+.owner-ryan { background: #dbeafe; color: #1d4ed8; }
+.owner-maia { background: #fce7f3; color: #be185d; }
+.owner-other { background: #f1f5f9; color: #64748b; }
+.badge {
+  display: inline-block;
+  padding: 2px 7px;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 600;
+  color: white;
+  white-space: nowrap;
+}
+.muted { color: #94a3b8; }
+.right { text-align: right; }
+
+/* Leaflet popup overrides */
+.leaflet-popup-content { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; line-height: 1.5; min-width: 180px; }
+.popup-name { font-weight: 700; font-size: 13px; color: #0f172a; }
+.popup-sub { color: #64748b; font-size: 11px; margin-top: 1px; }
+.popup-row { margin-top: 4px; }
+
+/* Empty state */
+.empty { padding: 40px; text-align: center; color: #94a3b8; font-size: 13px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Florida Territory Dashboard</h1>
+  <span class="meta" id="header-meta">Loading...</span>
+</header>
+
+<div class="stats-bar">
+  <div class="stat s-total"><div class="num" id="s-total">—</div><div class="lbl">Accounts</div></div>
+  <div class="stat s-open"><div class="num" id="s-open">—</div><div class="lbl">Open Opps</div></div>
+  <div class="stat s-won"><div class="num" id="s-won">—</div><div class="lbl">Customers</div></div>
+  <div class="stat s-touched"><div class="num" id="s-touched">—</div><div class="lbl">Touched</div></div>
+  <div class="stat s-untouched"><div class="num" id="s-untouched">—</div><div class="lbl">Untouched</div></div>
+</div>
+
+<div class="filters">
+  <div class="fg">
+    <span class="fg-label">Owner</span>
+    <button class="btn active" data-f="owner" data-v="">All</button>
+    <button class="btn" data-f="owner" data-v="Ryan Minter">Ryan</button>
+    <button class="btn" data-f="owner" data-v="Maia Golub">Maia</button>
+  </div>
+  <div class="fg">
+    <span class="fg-label">Tier</span>
+    <button class="btn active" data-f="tier" data-v="">All</button>
+    <button class="btn" data-f="tier" data-v="Tier S">S</button>
+    <button class="btn" data-f="tier" data-v="Tier 1">1</button>
+    <button class="btn" data-f="tier" data-v="Tier 2">2</button>
+    <button class="btn" data-f="tier" data-v="Tier 3">3</button>
+  </div>
+  <div class="fg">
+    <span class="fg-label">Signal</span>
+    <button class="btn active" data-f="signal" data-v="">All</button>
+    <button class="btn" data-f="signal" data-v="won">Won</button>
+    <button class="btn" data-f="signal" data-v="mid">Mid Funnel</button>
+    <button class="btn" data-f="signal" data-v="top">Top Funnel</button>
+    <button class="btn" data-f="signal" data-v="lost">Lost</button>
+    <button class="btn" data-f="signal" data-v="touched">Touched</button>
+    <button class="btn" data-f="signal" data-v="untouched">Untouched</button>
+  </div>
+  <div class="fg">
+    <input type="text" id="search" placeholder="Search accounts…">
+  </div>
+</div>
+
+<div class="main">
+  <div id="map"></div>
+  <div class="table-pane">
+    <div class="table-header" id="table-count"></div>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th data-col="Account Name">Account</th>
+            <th data-col="Owner">Owner</th>
+            <th data-col="Tier">Tier</th>
+            <th data-col="Population" class="right">Pop</th>
+            <th data-col="signal">Signal</th>
+            <th data-col="Stage">Stage</th>
+            <th data-col="Total Calls" class="right">Calls</th>
+            <th data-col="Last Call Date">Last Call</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+      <div class="empty" id="empty-state" style="display:none">No accounts match the current filters.</div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── Signal config ──────────────────────────────────────────────────────────
+const SIG = {
+  won:       { color: '#F59E0B', border: '#D97706', label: 'Customer',   radius: 9 },
+  mid:       { color: '#F97316', border: '#EA580C', label: 'Mid Funnel', radius: 8 },
+  top:       { color: '#EAB308', border: '#CA8A04', label: 'Top Funnel', radius: 8 },
+  lost:      { color: '#EF4444', border: '#DC2626', label: 'Lost',       radius: 6 },
+  touched:   { color: '#60A5FA', border: '#3B82F6', label: 'Touched',    radius: 6 },
+  untouched: { color: '#CBD5E1', border: '#94A3B8', label: 'Untouched',  radius: 5 },
+};
+
+function getSignal(r) {
+  if (r['Opp Status'] === 'Closed Won')         return 'won';
+  if (r['Funnel Position'] === 'Mid Funnel')    return 'mid';
+  if (r['Funnel Position'] === 'Top of Funnel') return 'top';
+  if (r['Opp Status'] === 'Closed Lost')        return 'lost';
+  if (parseInt(r['Total Calls']) > 0)           return 'touched';
+  return 'untouched';
+}
+
+function fmtPop(n) {
+  const v = parseInt(n);
+  if (!v) return '—';
+  if (v >= 1e6) return (v / 1e6).toFixed(1) + 'M';
+  if (v >= 1e3) return Math.round(v / 1e3) + 'k';
+  return String(v);
+}
+
+function ownerClass(name) {
+  if (!name) return 'owner-other';
+  if (name.includes('Ryan')) return 'owner-ryan';
+  if (name.includes('Maia')) return 'owner-maia';
+  return 'owner-other';
+}
+
+function ownerShort(name) {
+  if (!name) return '—';
+  return name.split(' ')[0];
+}
+
+function fmtDate(d) {
+  if (!d) return '—';
+  // YYYY-MM-DD → MM/DD/YY
+  const m = d.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (m) return `${m[2]}/${m[3]}/${m[1].slice(2)}`;
+  return d;
+}
+
+// ── Map setup ──────────────────────────────────────────────────────────────
+const map = L.map('map').setView([27.8, -81.5], 7);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+  attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://carto.com/">CARTO</a>',
+  maxZoom: 19
+}).addTo(map);
+
+const markerLayer = L.layerGroup().addTo(map);
+
+// Legend
+const legend = L.control({ position: 'bottomleft' });
+legend.onAdd = () => {
+  const d = L.DomUtil.create('div');
+  d.style.cssText = 'background:white;padding:10px 14px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.15);font-family:-apple-system,sans-serif;font-size:11px;line-height:1.8';
+  d.innerHTML = Object.entries(SIG).map(([, v]) =>
+    `<div style="display:flex;align-items:center;gap:7px">
+       <span style="width:10px;height:10px;border-radius:50%;background:${v.color};display:inline-block;border:1.5px solid ${v.border}"></span>
+       ${v.label}
+     </div>`
+  ).join('');
+  return d;
+};
+legend.addTo(map);
+
+// ── State ──────────────────────────────────────────────────────────────────
+let allData = [];
+let filters = { owner: '', tier: '', signal: '' };
+let searchQ = '';
+let sortCol = 'Population';
+let sortDir = -1;
+let markerIndex = {};
+let activeId = null;
+
+// ── Filter + render ────────────────────────────────────────────────────────
+function filtered() {
+  return allData.filter(r => {
+    if (filters.owner  && r['Owner'] !== filters.owner)   return false;
+    if (filters.tier   && r['Tier']  !== filters.tier)    return false;
+    if (filters.signal && r._sig     !== filters.signal)  return false;
+    if (searchQ) {
+      if (!r['Account Name'].toLowerCase().includes(searchQ)) return false;
+    }
+    return true;
+  });
+}
+
+function sorted(data) {
+  return [...data].sort((a, b) => {
+    let va, vb;
+    if (sortCol === 'signal') {
+      const order = ['won','mid','top','lost','touched','untouched'];
+      va = order.indexOf(a._sig);
+      vb = order.indexOf(b._sig);
+    } else if (sortCol === 'Population' || sortCol === 'Total Calls') {
+      va = parseFloat(a[sortCol]) || 0;
+      vb = parseFloat(b[sortCol]) || 0;
+    } else {
+      va = String(a[sortCol] || '').toLowerCase();
+      vb = String(b[sortCol] || '').toLowerCase();
+    }
+    if (va < vb) return sortDir;
+    if (va > vb) return -sortDir;
+    return 0;
+  });
+}
+
+function renderStats(data) {
+  document.getElementById('s-total').textContent     = data.length;
+  document.getElementById('s-open').textContent      = data.filter(r => r['Opp Status'] === 'Open').length;
+  document.getElementById('s-won').textContent       = data.filter(r => r._sig === 'won').length;
+  document.getElementById('s-touched').textContent   = data.filter(r => ['won','mid','top','touched'].includes(r._sig)).length;
+  document.getElementById('s-untouched').textContent = data.filter(r => r._sig === 'untouched').length;
+}
+
+function renderMap(data) {
+  markerLayer.clearLayers();
+  markerIndex = {};
+  data.forEach(r => {
+    const lat = parseFloat(r['Lat']);
+    const lng = parseFloat(r['Lng']);
+    if (!lat || !lng) return;
+    const s = SIG[r._sig];
+    const m = L.circleMarker([lat, lng], {
+      radius: s.radius,
+      fillColor: s.color,
+      color: s.border,
+      weight: 1.5,
+      fillOpacity: 0.88,
+    });
+    m.bindPopup(
+      `<div class="popup-name">${r['Account Name']}</div>
+       <div class="popup-sub">${r['Owner'] || '—'} · ${r['Tier']} · Pop ${fmtPop(r['Population'])}</div>
+       <div class="popup-row">
+         <span class="badge" style="background:${s.color}">${s.label}</span>
+         ${r['Stage'] ? `<span style="margin-left:6px;color:#475569;font-size:11px">${r['Stage']}</span>` : ''}
+       </div>
+       <div class="popup-row" style="color:#64748b;font-size:11px">
+         Calls: ${r['Total Calls'] || '0'} · Last: ${fmtDate(r['Last Call Date'])}
+       </div>`
+    );
+    m.on('click', () => {
+      highlightRow(r['Account ID']);
+    });
+    m.addTo(markerLayer);
+    markerIndex[r['Account ID']] = m;
+  });
+}
+
+function renderTable(data) {
+  const rows = sorted(data);
+  const tbody = document.getElementById('tbody');
+  const empty = document.getElementById('empty-state');
+  document.getElementById('table-count').textContent = `${rows.length} account${rows.length !== 1 ? 's' : ''}`;
+
+  if (rows.length === 0) {
+    tbody.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+
+  tbody.innerHTML = rows.map(r => {
+    const s = SIG[r._sig];
+    const hl = r['Account ID'] === activeId ? ' hl' : '';
+    return `<tr class="${hl}" data-id="${r['Account ID']}">
+      <td><div class="acct" title="${r['Account Name']}">${r['Account Name']}</div></td>
+      <td><span class="owner-chip ${ownerClass(r['Owner'])}">${ownerShort(r['Owner'])}</span></td>
+      <td>${r['Tier'].replace('Tier ', '')}</td>
+      <td class="right muted">${fmtPop(r['Population'])}</td>
+      <td><span class="badge" style="background:${s.color}">${s.label}</span></td>
+      <td class="muted">${r['Stage'] || '—'}</td>
+      <td class="right muted">${r['Total Calls'] || '—'}</td>
+      <td class="muted">${fmtDate(r['Last Call Date'])}</td>
+    </tr>`;
+  }).join('');
+
+  tbody.querySelectorAll('tr[data-id]').forEach(tr => {
+    tr.addEventListener('click', () => {
+      const id = tr.dataset.id;
+      activeId = id;
+      document.querySelectorAll('#tbody tr').forEach(t => t.classList.remove('hl'));
+      tr.classList.add('hl');
+      const mk = markerIndex[id];
+      if (mk) {
+        map.setView(mk.getLatLng(), 12, { animate: true });
+        mk.openPopup();
+      }
+    });
+  });
+}
+
+function highlightRow(id) {
+  activeId = id;
+  document.querySelectorAll('#tbody tr').forEach(t => {
+    t.classList.toggle('hl', t.dataset.id === id);
+  });
+  const tr = document.querySelector(`#tbody tr[data-id="${id}"]`);
+  if (tr) tr.scrollIntoView({ block: 'nearest' });
+}
+
+function render() {
+  const data = filtered();
+  renderStats(data);
+  renderMap(data);
+  renderTable(data);
+}
+
+// ── Filter buttons ─────────────────────────────────────────────────────────
+document.querySelectorAll('button[data-f]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const f = btn.dataset.f;
+    const v = btn.dataset.v;
+    filters[f] = filters[f] === v ? '' : v;
+    document.querySelectorAll(`[data-f="${f}"]`).forEach(b => {
+      const isActive = b.dataset.v === filters[f];
+      b.className = 'btn';
+      if (isActive) {
+        if (filters[f] === '') {
+          b.classList.add('active');
+        } else {
+          b.classList.add(`active-${filters[f]}`);
+        }
+      }
+    });
+    render();
+  });
+});
+
+// ── Search ─────────────────────────────────────────────────────────────────
+document.getElementById('search').addEventListener('input', e => {
+  searchQ = e.target.value.trim().toLowerCase();
+  render();
+});
+
+// ── Sort ──────────────────────────────────────────────────────────────────
+document.querySelectorAll('thead th[data-col]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.col;
+    if (sortCol === col) {
+      sortDir = -sortDir;
+    } else {
+      sortCol = col;
+      sortDir = (col === 'Population' || col === 'Total Calls') ? -1 : 1;
+    }
+    document.querySelectorAll('thead th').forEach(h => h.classList.remove('asc', 'desc'));
+    th.classList.add(sortDir === 1 ? 'asc' : 'desc');
+    renderTable(filtered());
+  });
+});
+
+// ── Load CSV ──────────────────────────────────────────────────────────────
+Papa.parse('./FL_master.csv', {
+  download: true,
+  header: true,
+  skipEmptyLines: true,
+  complete({ data }) {
+    allData = data.map(r => ({ ...r, _sig: getSignal(r) }));
+    document.getElementById('header-meta').textContent =
+      `${allData.length} accounts · FL · ${new Date().toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}`;
+    // Initial sort indicator
+    document.querySelector('th[data-col="Population"]').classList.add('desc');
+    render();
+  },
+  error(err) {
+    document.querySelector('.main').innerHTML =
+      `<div style="padding:48px;color:#ef4444;font-size:14px">
+        <strong>Could not load FL_master.csv</strong><br><br>
+        Run this from a local server, not directly from the filesystem.<br>
+        Try: <code>npx serve .</code> or <code>python3 -m http.server 8765</code>
+       </div>`;
+  }
+});
+</script>
+</body>
+</html>
