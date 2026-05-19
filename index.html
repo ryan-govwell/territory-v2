@@ -917,6 +917,13 @@ function isStale(d) {
   return (Date.now() - parsed.getTime()) > 90 * 24 * 60 * 60 * 1000;
 }
 
+function isOldOrMissing(d) {
+  if (!d) return true;
+  const parsed = new Date(d);
+  if (isNaN(parsed)) return true;
+  return (Date.now() - parsed.getTime()) > 365 * 24 * 60 * 60 * 1000;
+}
+
 function tierBadge(tier) {
   const cls = { 'Tier S': 'tier-s', 'Tier 1': 'tier-1', 'Tier 2': 'tier-2', 'Tier 3': 'tier-3' }[tier] || 'tier-3';
   return `<span class="tier-badge ${cls}">${tier.replace('Tier ', '')}</span>`;
@@ -1448,7 +1455,7 @@ function renderTable(data) {
       <td><span class="badge" style="background:${s.color}">${s.label}</span></td>
       <td class="muted stage-cell" title="${r['Stage'] || ''}">${r['Stage'] || '—'}</td>
       <td class="right muted">${r['Total Calls'] || '—'}</td>
-      <td class="${isStale(r['Last Call Date']) ? 'stale' : 'muted'}">${r['Last Call Date'] ? fmtDate(r['Last Call Date']) : '<span style="font-size:0.72em;opacity:0.6">1yr+ ago</span>'}</td>
+      <td class="${isStale(r['Last Call Date']) ? 'stale' : 'muted'}">${isOldOrMissing(r['Last Call Date']) ? '<span style="font-size:0.72em;opacity:0.6">1yr+ ago</span>' : fmtDate(r['Last Call Date'])}</td>
       <td><div class="ext-links" onclick="event.stopPropagation()">
         ${(r['Salesforce ID'] || (r['Account ID'] && r['Account ID'].startsWith('001') ? r['Account ID'] : '')) ? `<a class="ext-btn" href="https://govwell.lightning.force.com/lightning/r/Account/${r['Salesforce ID'] || r['Account ID']}/view" target="_blank" rel="noopener" title="Salesforce"><svg width="14" height="14" viewBox="0 0 24 18" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 4.2a4.5 4.5 0 0 1 8.3.9 3.6 3.6 0 0 1 5.2 3.2 3.6 3.6 0 0 1-3.6 3.6H5a3.5 3.5 0 0 1-.5-7 4.4 4.4 0 0 1 5-0.7z" fill="#00A1E0"/></svg></a>` : ''}
         ${r['Outreach ID']   ? `<a class="ext-btn" href="https://web.outreach.io/accounts/${r['Outreach ID']}/overview" target="_blank" rel="noopener" title="Outreach"><svg width="14" height="14" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><path d="M50 8C32 8 10 26 10 48c0 8 4 16 10 22l30 22 30-22c6-6 10-14 10-22C90 26 68 8 50 8z" fill="#5951FF"/><circle cx="50" cy="46" r="16" fill="white"/><circle cx="50" cy="46" r="9" fill="#5951FF"/></svg></a>` : ''}
