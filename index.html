@@ -910,7 +910,13 @@ const STATES = {
 };
 
 // States with actual data loaded. Add a code here when you run the pipeline for a new state.
-const ACTIVE_STATES = new Set(['AL', 'FL', 'IA', 'KS']);
+const ACTIVE_STATES = new Set([
+  'AK','AL','AR','AZ','CA','CO','CT','DE','FL','GA',
+  'HI','IA','ID','IL','IN','KS','KY','LA','MA','MD',
+  'ME','MI','MN','MO','MS','MT','NC','ND','NE','NH',
+  'NJ','NM','NV','NY','OH','OK','OR','PA','RI','SC',
+  'SD','TN','TX','UT','VA','VT','WA','WI','WV','WY',
+]);
 
 const urlParams  = new URLSearchParams(window.location.search);
 const rawState   = urlParams.get('state');
