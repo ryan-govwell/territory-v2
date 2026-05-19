@@ -54,14 +54,19 @@ def main():
     with open(args.input, newline='', encoding='utf-8') as f:
         all_rows = list(csv.DictReader(f))
 
-    skipped  = [r for r in all_rows if r['Assigned'].strip() not in BDM_TEAM]
-    raw_rows = [r for r in all_rows if r['Assigned'].strip() in BDM_TEAM]
+    # Support two export formats: FL/KS use 'Created By'+'Activity Date', AL uses 'Assigned'+'Date'
+    sample = all_rows[0] if all_rows else {}
+    col_rep  = 'Created By'    if 'Created By'    in sample else 'Assigned'
+    col_date = 'Activity Date' if 'Activity Date' in sample else 'Date'
+
+    skipped  = [r for r in all_rows if r[col_rep].strip() not in BDM_TEAM]
+    raw_rows = [r for r in all_rows if r[col_rep].strip() in BDM_TEAM]
     if skipped:
-        non_bd = Counter(r['Assigned'] for r in skipped)
+        non_bd = Counter(r[col_rep] for r in skipped)
         print(f'Excluded {len(skipped)} non-BD rows from: {dict(non_bd)}')
 
     # Determine rep order by total volume
-    all_reps = [rep for rep, _ in Counter(r['Assigned'] for r in raw_rows).most_common()]
+    all_reps = [rep for rep, _ in Counter(r[col_rep] for r in raw_rows).most_common()]
 
     # Aggregate per account
     accounts = defaultdict(lambda: {
@@ -76,10 +81,10 @@ def main():
         acct = accounts[key]
         acct['Account ID']   = key
         acct['Account Name'] = row['Account Name'].strip()
-        d = parse_date(row.get('Date', ''))
+        d = parse_date(row.get(col_date, ''))
         if d:
             acct['dates'].append(d)
-        acct['rep_counts'][row['Assigned'].strip()] += 1
+        acct['rep_counts'][row[col_rep].strip()] += 1
 
     # Build output
     rows_out = []
