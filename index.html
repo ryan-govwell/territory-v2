@@ -288,8 +288,8 @@ td { padding: 7px 10px; vertical-align: middle; }
 /* Stale last-call date */
 .stale { color: #dc2626; font-weight: 600; }
 
-/* Outreach link */
-.outreach-btn {
+/* External link buttons (Outreach, Salesforce) */
+.ext-btn {
   display: inline-flex;
   align-items: center;
   gap: 3px;
@@ -303,7 +303,8 @@ td { padding: 7px 10px; vertical-align: middle; }
   white-space: nowrap;
   transition: all 0.1s;
 }
-.outreach-btn:hover { border-color: #FEAF0E; color: #000000; background: #FEF7E0; }
+.ext-btn:hover { border-color: #FEAF0E; color: #000000; background: #FEF7E0; }
+.ext-links { display: flex; gap: 4px; }
 
 .muted { color: #7C7C7C; }
 .right { text-align: right; }
@@ -696,7 +697,10 @@ function renderTable(data) {
       <td class="muted">${r['Stage'] || '—'}</td>
       <td class="right muted">${r['Total Calls'] || '—'}</td>
       <td class="${isStale(r['Last Call Date']) ? 'stale' : 'muted'}">${fmtDate(r['Last Call Date'])}</td>
-      <td>${r['Outreach ID'] ? `<a class="outreach-btn" href="https://web.outreach.io/accounts/${r['Outreach ID']}/overview" target="_blank" rel="noopener" onclick="event.stopPropagation()">Outreach ↗</a>` : ''}</td>
+      <td><div class="ext-links" onclick="event.stopPropagation()">
+        ${r['Salesforce ID'] ? `<a class="ext-btn" href="https://govwell.lightning.force.com/lightning/r/Account/${r['Salesforce ID']}/view" target="_blank" rel="noopener">SF ↗</a>` : ''}
+        ${r['Outreach ID']   ? `<a class="ext-btn" href="https://web.outreach.io/accounts/${r['Outreach ID']}/overview" target="_blank" rel="noopener">Outreach ↗</a>` : ''}
+      </div></td>
     </tr>`;
   }).join('');
 

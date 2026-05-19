@@ -12,9 +12,15 @@
 #
 # Output: states/<CODE>/data.csv  (ready for the dashboard)
 #
-# After running, add Outreach IDs:
-#   python3 pipeline/add_outreach_ids.py --state <CODE> --outreach <path/to/Accounts_export.csv>
-# Export from Outreach: Accounts → Export → Id and Name columns only.
+# After running, add external IDs (run both):
+#
+#   Salesforce IDs (covers all states in one go):
+#     python3 pipeline/add_salesforce_ids.py --input <path/to/sf_accounts_report.csv>
+#   SF report must include: Account ID, Starbridge Buyer ID, Account Name
+#
+#   Outreach IDs (per state):
+#     python3 pipeline/add_outreach_ids.py --state <CODE> --outreach <path/to/Accounts_export.csv>
+#   Export from Outreach: Accounts → Export → Id and Name columns only.
 
 set -euo pipefail
 
