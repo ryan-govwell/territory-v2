@@ -3,24 +3,17 @@
 process_accounts.py
 Processes a Salesforce accounts report into a clean accounts CSV.
 
-All accounts are included regardless of owner. No BDM filtering applied here —
-that filter applies only to activity data (see process_activity.py).
+The accounts report must include Account ID (Salesforce 18-char ID), which
+is used as the primary join key throughout the pipeline. Starbridge Buyer ID
+is stored for reference but not used for linking.
 
 Usage:
     python3 process_accounts.py \
         --accounts   <path to SF accounts report CSV> \
-        --starbridge <path to Starbridge ID report CSV> \
         --geo        <path to geo_lookup.json> \
         --state      "Florida" \
+        --state-code FL \
         --output     <output CSV path>
-
-Example:
-    python3 scripts/process_accounts.py \
-        --accounts   ~/Downloads/territory_FL.csv \
-        --starbridge ~/Downloads/starbridge_FL.csv \
-        --geo        data/geo_lookup.json \
-        --state      Florida \
-        --output     ~/Downloads/FL_accounts.csv
 """
 
 import argparse
@@ -44,15 +37,6 @@ def pop_tier(population_str):
     return 'Tier 3'
 
 
-def load_starbridge(path):
-    mapping = {}
-    with open(path, newline='', encoding='utf-8') as f:
-        for row in csv.DictReader(f):
-            key = row['Account Name'].strip().lower()
-            mapping[key] = row['Starbridge Buyer ID'].strip()
-    return mapping
-
-
 def load_geo(path):
     with open(path, encoding='utf-8') as f:
         return json.load(f)
@@ -61,54 +45,54 @@ def load_geo(path):
 def main():
     parser = argparse.ArgumentParser(description='Process Salesforce accounts report.')
     parser.add_argument('--accounts',   required=True, help='Path to SF accounts report CSV')
-    parser.add_argument('--starbridge', required=True, help='Path to Starbridge ID report CSV')
     parser.add_argument('--geo',        required=True, help='Path to geo_lookup.json')
     parser.add_argument('--state',      required=True, help='State name (e.g. Florida)')
     parser.add_argument('--state-code', dest='state_code', default='', help='2-letter state code (e.g. FL) — enables state-specific geo lookup')
     parser.add_argument('--output',     required=True, help='Output CSV path')
     args = parser.parse_args()
 
-    starbridge = load_starbridge(args.starbridge)
-    geo        = load_geo(args.geo)
+    geo          = load_geo(args.geo)
     state_suffix = f', {args.state_code.lower()}' if args.state_code else ''
 
     FIELDNAMES = [
         'Account ID', 'Account Name', 'State',
-        'Entity Type', 'Muni Type', 'Owner', 'Population',
-        'Account Classification', 'Tier', 'SQO Points',
+        'Entity Type', 'Owner', 'Population',
+        'Account Status', 'Tier', 'SQO Points',
         'Lat', 'Lng',
+        'Starbridge Buyer ID',
     ]
 
-    rows_out = []
-    unmatched_sb  = []
+    rows_out      = []
     unmatched_geo = []
 
     with open(args.accounts, newline='', encoding='utf-8') as f:
         for row in csv.DictReader(f):
-            name    = row['Account Name'].strip()
-            key     = name.lower()
-            tier    = pop_tier(row.get('Population', ''))
-            # Try state-specific key first to avoid matching same name in another state
-            coords  = geo.get(key + state_suffix, geo.get(key, {}))
+            acct_id = row.get('Account ID', '').strip()
+            name    = row.get('Account Name', '').strip()
+            if not acct_id or not name:
+                continue
 
-            if key not in starbridge:
-                unmatched_sb.append(name)
+            key    = name.lower()
+            tier   = pop_tier(row.get('Population', ''))
+            # Try state-specific key first to avoid matching same name in another state
+            coords = geo.get(key + state_suffix, geo.get(key, {}))
+
             if not coords:
                 unmatched_geo.append(name)
 
             rows_out.append({
-                'Account ID':             starbridge.get(key, ''),
-                'Account Name':           name,
-                'State':                  args.state,
-                'Entity Type':            row.get('Entity Type', '').strip(),
-                'Muni Type':              row.get('Muni Type', '').strip(),
-                'Owner':                  row.get('New Owner', row.get('Account Owner', '')).strip(),
-                'Population':             row.get('Population', '').strip(),
-                'Account Classification': row.get('Account Classification', '').strip(),
-                'Tier':                   tier,
-                'SQO Points':             SQO_POINTS[tier],
-                'Lat':                    coords.get('lat', ''),
-                'Lng':                    coords.get('lng', ''),
+                'Account ID':          acct_id,
+                'Account Name':        name,
+                'State':               args.state,
+                'Entity Type':         row.get('Entity Type', '').strip(),
+                'Owner':               row.get('Account Owner', '').strip(),
+                'Population':          row.get('Population', '').strip(),
+                'Account Status':      row.get('Account Status', '').strip(),
+                'Tier':                tier,
+                'SQO Points':          SQO_POINTS[tier],
+                'Lat':                 coords.get('lat', ''),
+                'Lng':                 coords.get('lng', ''),
+                'Starbridge Buyer ID': row.get('Starbridge Buyer ID', '').strip(),
             })
 
     with open(args.output, 'w', newline='', encoding='utf-8') as f:
@@ -117,9 +101,6 @@ def main():
         writer.writerows(rows_out)
 
     print(f'Accounts written: {len(rows_out)}')
-    if unmatched_sb:
-        print(f'WARNING — No Starbridge ID for {len(unmatched_sb)} accounts:')
-        for n in unmatched_sb: print(f'  {n}')
     if unmatched_geo:
         print(f'WARNING — No coordinates for {len(unmatched_geo)} accounts:')
         for n in unmatched_geo: print(f'  {n}')

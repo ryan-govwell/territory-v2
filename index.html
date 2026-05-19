@@ -518,6 +518,84 @@ tr.ct-detail:hover { background: var(--surface-2) !important; }
 .ct-title { font-size: 11px; color: var(--text-muted); flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .ct-date  { font-size: 10px; color: var(--text-faint); white-space: nowrap; flex-shrink: 0; }
 
+/* ── View toggle ────────────────────────────────────────────────────────── */
+.view-toggle {
+  display: flex;
+  margin-left: auto;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.view-btn {
+  padding: 4px 11px;
+  font-size: 11.5px;
+  font-family: inherit;
+  font-weight: 500;
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background 0.1s, color 0.1s;
+  white-space: nowrap;
+}
+.view-btn + .view-btn { border-left: 1px solid var(--border); }
+.view-btn.active { background: var(--accent); color: #000; }
+.view-btn:not(.active):hover { background: var(--surface-2); color: var(--text); }
+
+/* ── Analytics pane ─────────────────────────────────────────────────────── */
+.analytics-pane {
+  flex: 1;
+  overflow-y: auto;
+  padding: 18px 20px;
+  background: var(--bg);
+  display: none;
+}
+.analytics-pane.visible { display: block; }
+.an-grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 14px; }
+.an-grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-bottom: 14px; }
+.an-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+}
+.an-card-title {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-faint);
+  margin-bottom: 12px;
+}
+.bar-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+  font-size: 11.5px;
+}
+.bar-row:last-child { margin-bottom: 0; }
+.bar-label { width: 110px; flex-shrink: 0; color: var(--text-muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.bar-track { flex: 1; height: 7px; background: var(--surface-3); border-radius: 999px; overflow: hidden; }
+.bar-fill  { height: 100%; border-radius: 999px; transition: width 0.3s ease; min-width: 2px; }
+.bar-val   { width: 28px; text-align: right; font-weight: 600; color: var(--text); font-size: 11px; flex-shrink: 0; }
+.bar-pct   { width: 32px; text-align: right; color: var(--text-faint); font-size: 10px; flex-shrink: 0; }
+
+.rep-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border-subtle);
+  font-size: 11.5px;
+}
+.rep-row:last-child { border-bottom: none; }
+.rep-name  { width: 90px; flex-shrink: 0; font-weight: 500; color: var(--text); }
+.rep-chips { display: flex; gap: 4px; flex-wrap: wrap; flex: 1; }
+.rep-chip  { padding: 1px 6px; border-radius: 999px; font-size: 10px; font-weight: 600; color: white; white-space: nowrap; }
+.rep-total { font-size: 10px; color: var(--text-faint); flex-shrink: 0; white-space: nowrap; }
+
 /* ── Empty / loading ────────────────────────────────────────────────────── */
 .empty   { padding: 48px; text-align: center; color: var(--text-faint); font-size: 13px; }
 .loading { padding: 48px; text-align: center; color: var(--text-muted); font-size: 13px; }
@@ -648,8 +726,13 @@ tr.ct-detail:hover { background: var(--surface-2) !important; }
       <button class="btn" data-f="contacts" data-v="other">Other</button>
     </div>
   </div>
+  <div class="view-toggle">
+    <button class="view-btn active" data-view="map">Map</button>
+    <button class="view-btn" data-view="overview">Overview</button>
+  </div>
 </div>
 
+<div id="analytics" class="analytics-pane"></div>
 <div class="main">
   <div id="map"></div>
   <div class="table-pane">
@@ -749,6 +832,13 @@ function ownerClass(name) {
   return ownerColorMap[name];
 }
 
+const OWNER_BAR_COLORS = ['#3b82f6','#22c55e','#a855f7','#f97316','#ec4899'];
+function ownerBarColor(name) {
+  ownerClass(name);
+  const m = (ownerColorMap[name] || '').match(/owner-(\d+)/);
+  return m ? OWNER_BAR_COLORS[parseInt(m[1]) % OWNER_BAR_COLORS.length] : '#6b7280';
+}
+
 // ── Map setup ──────────────────────────────────────────────────────────────
 const map = L.map('map').setView(STATE_CFG.center, STATE_CFG.zoom);
 
@@ -824,6 +914,22 @@ let sortDir  = -1;
 let markerIndex = {};
 let activeId    = null;
 let contactsByAccount = {};
+let viewMode = 'map';
+
+function setView(mode) {
+  viewMode = mode;
+  document.querySelector('.main').style.display = mode === 'map' ? '' : 'none';
+  document.getElementById('analytics').classList.toggle('visible', mode === 'overview');
+  document.querySelectorAll('.view-btn').forEach(b =>
+    b.classList.toggle('active', b.dataset.view === mode)
+  );
+  if (mode === 'map') setTimeout(() => map.invalidateSize(), 50);
+  render();
+}
+
+document.querySelectorAll('.view-btn').forEach(btn =>
+  btn.addEventListener('click', () => setView(btn.dataset.view))
+);
 
 // ── Contacts ───────────────────────────────────────────────────────────────
 const FN_ORDER = [
@@ -882,6 +988,142 @@ function buildContactPane(id) {
       </div>${rows}</div>`;
   }).join('');
   return `<div class="ct-pane"><div class="ct-grid">${sections}</div></div>`;
+}
+
+// ── Analytics ─────────────────────────────────────────────────────────────
+function renderAnalytics(data) {
+  const el    = document.getElementById('analytics');
+  const total = data.length;
+  if (!total) { el.innerHTML = '<div class="empty">No accounts match the current filters.</div>'; return; }
+
+  // Signal distribution
+  const sigOrder  = ['won','mid','top','lost','touched','untouched'];
+  const sigLabels = { won:'Customer', mid:'Mid Funnel', top:'Top Funnel', lost:'Lost', touched:'Touched', untouched:'Untouched' };
+  const sigColors = { won:'#F59E0B', mid:'#F97316', top:'#EAB308', lost:'#EF4444', touched:'#60A5FA', untouched:'#94A3B8' };
+  const sigC = {}; sigOrder.forEach(k => sigC[k] = 0);
+  data.forEach(r => sigC[r._sig]++);
+  const sigMax  = Math.max(...Object.values(sigC), 1);
+  const sigHTML = sigOrder.map(k => {
+    const n = sigC[k], pct = Math.round(n / sigMax * 100);
+    return `<div class="bar-row">
+      <div class="bar-label">${sigLabels[k]}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${sigColors[k]}"></div></div>
+      <div class="bar-val">${n}</div>
+      <div class="bar-pct">${Math.round(n/total*100)}%</div>
+    </div>`;
+  }).join('');
+
+  // Tier distribution
+  const tierOrder  = ['Tier S','Tier 1','Tier 2','Tier 3'];
+  const tierColors = { 'Tier S':'#7C3AED', 'Tier 1':'#16A34A', 'Tier 2':'#D97706', 'Tier 3':'#DC2626' };
+  const tierC = {}; tierOrder.forEach(t => tierC[t] = 0);
+  data.forEach(r => { if (r['Tier'] in tierC) tierC[r['Tier']]++; });
+  const tierMax  = Math.max(...Object.values(tierC), 1);
+  const tierHTML = tierOrder.map(t => {
+    const n = tierC[t], pct = Math.round(n / tierMax * 100);
+    return `<div class="bar-row">
+      <div class="bar-label">${t}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${tierColors[t]}"></div></div>
+      <div class="bar-val">${n}</div>
+      <div class="bar-pct">${Math.round(n/total*100)}%</div>
+    </div>`;
+  }).join('');
+
+  // Activity recency — last call date bucketed by month
+  const monthKeys = [], monthLabels = [], monthC = {};
+  for (let i = 11; i >= 0; i--) {
+    const d = new Date(); d.setDate(1); d.setMonth(d.getMonth() - i);
+    const key = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`;
+    monthKeys.push(key);
+    monthLabels.push(d.toLocaleString('en-US', { month: 'short', year: '2-digit' }));
+    monthC[key] = 0;
+  }
+  let neverCalled = 0;
+  data.forEach(r => {
+    const d = r['Last Call Date'];
+    if (!d) { neverCalled++; return; }
+    const key = d.slice(0, 7);
+    if (key in monthC) monthC[key]++;
+  });
+  const actMax  = Math.max(...Object.values(monthC), neverCalled, 1);
+  const actHTML = monthKeys.map((key, i) => {
+    const n = monthC[key], pct = Math.round(n / actMax * 100);
+    return `<div class="bar-row">
+      <div class="bar-label">${monthLabels[i]}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:#60A5FA"></div></div>
+      <div class="bar-val">${n || ''}</div>
+      <div class="bar-pct"></div>
+    </div>`;
+  }).join('') + `<div class="bar-row">
+    <div class="bar-label" style="color:var(--text-faint);font-style:italic">Never / 1yr+</div>
+    <div class="bar-track"><div class="bar-fill" style="width:${Math.round(neverCalled/actMax*100)}%;background:#94A3B8"></div></div>
+    <div class="bar-val">${neverCalled}</div>
+    <div class="bar-pct"></div>
+  </div>`;
+
+  // Owner territory
+  const ownerC = {};
+  data.forEach(r => { const o = r['Owner'] || 'Unassigned'; ownerC[o] = (ownerC[o]||0)+1; });
+  const ownerEntries = Object.entries(ownerC).sort((a,b) => b[1]-a[1]);
+  const ownerMax     = Math.max(...ownerEntries.map(([,n])=>n), 1);
+  const ownerHTML    = ownerEntries.map(([name, n]) => {
+    const pct = Math.round(n / ownerMax * 100);
+    return `<div class="bar-row">
+      <div class="bar-label" title="${name}">${name}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${ownerBarColor(name)}"></div></div>
+      <div class="bar-val">${n}</div>
+      <div class="bar-pct">${Math.round(n/total*100)}%</div>
+    </div>`;
+  }).join('');
+
+  // Rep call volume
+  const repCols  = Object.keys(allData[0] || {}).filter(k => k.startsWith('Calls - '));
+  const repTotals = {};
+  repCols.forEach(col => { repTotals[col.replace('Calls - ','')] = 0; });
+  data.forEach(r => repCols.forEach(col => { repTotals[col.replace('Calls - ','')] += parseInt(r[col])||0; }));
+  const repEntries = Object.entries(repTotals).filter(([,n]) => n > 0).sort((a,b) => b[1]-a[1]);
+  const repMax     = Math.max(...repEntries.map(([,n])=>n), 1);
+  const totalCalls = repEntries.reduce((s,[,n]) => s+n, 0);
+  const REP_COLORS = ['#60A5FA','#4ADE80','#C084FC','#FB923C','#F472B6','#FCD34D'];
+  const repHTML = repEntries.length
+    ? repEntries.map(([name, n], i) => {
+        const pct = Math.round(n / repMax * 100);
+        return `<div class="bar-row">
+          <div class="bar-label" title="${name}">${name.split(' ')[0]}</div>
+          <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${REP_COLORS[i%REP_COLORS.length]}"></div></div>
+          <div class="bar-val">${n}</div>
+          <div class="bar-pct">${totalCalls ? Math.round(n/totalCalls*100) : 0}%</div>
+        </div>`;
+      }).join('') +
+      `<div style="font-size:10px;color:var(--text-faint);margin-top:10px">${totalCalls.toLocaleString()} total calls across ${total} account${total!==1?'s':''}</div>`
+    : `<div style="padding:16px;font-size:12px;color:var(--text-faint)">No call data available.</div>`;
+
+  el.innerHTML = `
+    <div class="an-grid-3">
+      <div class="an-card">
+        <div class="an-card-title">Signal Distribution</div>
+        ${sigHTML}
+      </div>
+      <div class="an-card">
+        <div class="an-card-title">Tier Distribution</div>
+        ${tierHTML}
+      </div>
+      <div class="an-card">
+        <div class="an-card-title">Activity — Last 12 Months</div>
+        ${actHTML}
+      </div>
+    </div>
+    <div class="an-grid-2">
+      <div class="an-card">
+        <div class="an-card-title">Owner Territory</div>
+        ${ownerHTML}
+      </div>
+      <div class="an-card">
+        <div class="an-card-title">Rep Call Volume — Last 12 Months</div>
+        ${repHTML}
+      </div>
+    </div>
+  `;
 }
 
 // ── Owner filter (built from data) ─────────────────────────────────────────
@@ -1024,7 +1266,7 @@ function renderTable(data) {
       <td class="right muted">${r['Total Calls'] || '—'}</td>
       <td class="${isStale(r['Last Call Date']) ? 'stale' : 'muted'}">${fmtDate(r['Last Call Date'])}</td>
       <td><div class="ext-links" onclick="event.stopPropagation()">
-        ${r['Salesforce ID'] ? `<a class="ext-btn" href="https://govwell.lightning.force.com/lightning/r/Account/${r['Salesforce ID']}/view" target="_blank" rel="noopener" title="Salesforce"><svg width="14" height="14" viewBox="0 0 24 18" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 4.2a4.5 4.5 0 0 1 8.3.9 3.6 3.6 0 0 1 5.2 3.2 3.6 3.6 0 0 1-3.6 3.6H5a3.5 3.5 0 0 1-.5-7 4.4 4.4 0 0 1 5-0.7z" fill="#00A1E0"/></svg></a>` : ''}
+        ${(r['Salesforce ID'] || (r['Account ID'] && r['Account ID'].startsWith('001') ? r['Account ID'] : '')) ? `<a class="ext-btn" href="https://govwell.lightning.force.com/lightning/r/Account/${r['Salesforce ID'] || r['Account ID']}/view" target="_blank" rel="noopener" title="Salesforce"><svg width="14" height="14" viewBox="0 0 24 18" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 4.2a4.5 4.5 0 0 1 8.3.9 3.6 3.6 0 0 1 5.2 3.2 3.6 3.6 0 0 1-3.6 3.6H5a3.5 3.5 0 0 1-.5-7 4.4 4.4 0 0 1 5-0.7z" fill="#00A1E0"/></svg></a>` : ''}
         ${r['Outreach ID']   ? `<a class="ext-btn" href="https://web.outreach.io/accounts/${r['Outreach ID']}/overview" target="_blank" rel="noopener" title="Outreach"><svg width="14" height="14" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><path d="M50 8C32 8 10 26 10 48c0 8 4 16 10 22l30 22 30-22c6-6 10-14 10-22C90 26 68 8 50 8z" fill="#5951FF"/><circle cx="50" cy="46" r="16" fill="white"/><circle cx="50" cy="46" r="9" fill="#5951FF"/></svg></a>` : ''}
       </div></td>
     </tr>`;
@@ -1071,8 +1313,12 @@ function highlightRow(id) {
 function render() {
   const data = filtered();
   renderStats(data);
-  renderMap(data);
-  renderTable(data);
+  if (viewMode === 'map') {
+    renderMap(data);
+    renderTable(data);
+  } else {
+    renderAnalytics(data);
+  }
 }
 
 // ── Dropdowns ─────────────────────────────────────────────────────────────
@@ -1161,7 +1407,7 @@ document.querySelectorAll('thead th[data-col]').forEach(th => {
 document.getElementById('state-label').textContent = STATE_CFG.name;
 
 const stateDropdown = document.getElementById('state-dropdown');
-Object.entries(STATES).forEach(([code, cfg]) => {
+Object.entries(STATES).sort((a, b) => a[1].name.localeCompare(b[1].name)).forEach(([code, cfg]) => {
   const a = document.createElement('a');
   a.href      = `?state=${code}`;
   a.className = `state-option${code === STATE_CODE ? ' current' : ''}`;

@@ -4,9 +4,8 @@
 # Usage:
 #   ./pipeline/run.sh FL Florida
 #
-# Before running, place your four Salesforce exports in states/<CODE>/raw/:
-#   sf_accounts.csv        — Salesforce accounts report
-#   sf_starbridge.csv      — Starbridge Buyer ID report
+# Before running, place your three Salesforce exports in states/<CODE>/raw/:
+#   sf_accounts.csv        — Salesforce accounts report (must include Account ID + Starbridge Buyer ID)
 #   sf_opportunities.csv   — Salesforce opportunities report
 #   sf_activity.csv        — Salesforce activity report
 #
@@ -35,7 +34,6 @@ echo "▶ ${STATE_NAME} (${STATE_CODE})"
 echo "  1/4  accounts..."
 python3 pipeline/process_accounts.py \
   --accounts    "${RAW}/sf_accounts.csv" \
-  --starbridge  "${RAW}/sf_starbridge.csv" \
   --geo         "${GEO}" \
   --state       "${STATE_NAME}" \
   --state-code  "${STATE_CODE}" \

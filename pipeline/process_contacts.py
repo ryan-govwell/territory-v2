@@ -86,8 +86,8 @@ def main():
 
     with open(args.input, newline='', encoding='latin-1') as f:
         for row in csv.DictReader(f):
-            sb_id = row.get('Starbridge Buyer ID', '').strip()
-            if not sb_id:
+            acct_id = row.get('Account ID', '').strip()
+            if not acct_id:
                 skipped += 1
                 continue
 
@@ -103,7 +103,7 @@ def main():
             last_act = parse_date(row.get('Last Activity', ''))
 
             rows_out.append({
-                'Account ID':    sb_id,
+                'Account ID':    acct_id,
                 'Full Name':     name,
                 'Title':         title,
                 'Function':      function,

@@ -67,7 +67,7 @@ def main():
             status = opp_status(row)
             stage  = row['Stage'].strip() if status == 'Open' else ''
             rows_out.append({
-                'Account ID':          row['Starbridge Buyer ID'].strip(),
+                'Account ID':          row['Account ID'].strip(),
                 'Account Name':        row['Account Name'].strip(),
                 'Opp Status':          status,
                 'Stage':               stage,

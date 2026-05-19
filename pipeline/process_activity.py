@@ -77,7 +77,7 @@ def main():
     })
 
     for row in raw_rows:
-        key  = row['Starbridge Buyer ID'].strip()
+        key  = row['Account ID'].strip()
         acct = accounts[key]
         acct['Account ID']   = key
         acct['Account Name'] = row['Account Name'].strip()
