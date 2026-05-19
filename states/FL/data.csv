@@ -152,8 +152,8 @@ bd7f7e84-3457-448e-b8da-5a6c3e3ccafd,"County of Leon, FL",Florida,County,County,
 b78aedc8-8936-40c2-98c2-95efb21a2be2,"County of Pinellas, FL",Florida,County,County,Ryan Minter,965870,Prospect,Tier S,2.0,27.8764,-82.7779,Open,Meeting Booked,Top of Funnel,Alicia Gopal,11/19/2025,11/13/2025,,,21,2026-01-13,,,21,,,,,,001cv00000NU6E5,20899
 ba5a0cb9-0fb1-463b-b54c-380aaccc6ad3,"County of Pasco, FL",Florida,County,County,Maia Golub,659114,Prospect,Tier S,2.0,28.3232,-82.4319,Open,Initial Interest,Top of Funnel,Jenny Allison,,11/6/2025,,,10,2026-01-28,,2,,,8,,,,001cv00000NoInl,20908
 058cc433-2752-46e6-b47b-8f50ba7dbd2c,"County of Alachua, FL",Florida,County,County,Maia Golub,291782,Prospect,Tier S,2.0,29.658,-82.3018,,,,,,,,,1,2026-04-14,,1,,,,,,,001cv00000bBWzQ,22789
-,"County of Duval, FL",Florida,County,County,Ryan Minter,1023153,Prospect,Tier S,2.0,30.3501,-81.6035,,,,,,,,,1,2026-04-28,,,,,1,,,,,24409
-,"County of Hillsborough, FL",Florida,County,County,Maia Golub,1522748,Prospect,Tier S,2.0,27.9904,-82.3018,,,,,,,,,1,2026-04-28,,,,,1,,,,,24408
+,"County of Duval, FL",Florida,County,County,Ryan Minter,1023153,Prospect,Tier S,2.0,30.3501,-81.6035,,,,,,,,,1,2026-04-28,,,,,1,,,,001cv00000hTOizAAG,24409
+,"County of Hillsborough, FL",Florida,County,County,Maia Golub,1522748,Prospect,Tier S,2.0,27.9904,-82.3018,,,,,,,,,1,2026-04-28,,,,,1,,,,001cv00000hWX89AAG,24408
 1dafb210-b6a3-449d-867b-db3ed64ba70e,"City Of Atlantic Beach, FL",Florida,Municipality,City,Ryan Minter,13345,Prospect,Tier 2,1.0,30.3344,-81.3987,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,13,2026-02-03,3,10,,,,,,,001Hr000028ZbdJ,874
 2da3b52f-736a-4fcc-9a26-db8feae790b8,"City Of Eustis, FL",Florida,Municipality,City,Ryan Minter,23543,Customer,Tier 2,1.0,28.8528,-81.6854,Closed Won,,,Asher Rosenfeld,2/27/2024,1/5/2025,"$5,000",,,,,,,,,,,,001Hr000028ZbnO,726
 d924ede3-155b-424c-bfa1-a1f341f50ebd,"City Of Oldsmar, FL",Florida,Municipality,City,Ryan Minter,14842,Prospect,Tier 2,1.0,28.0342,-82.6651,Closed Lost,,,Ryan Minter,1/14/2026,1/5/2026,,,5,2026-01-05,3,2,,,,,,,001Hr000028ZboM,687
@@ -267,7 +267,7 @@ dbe264be-280f-4b3d-8216-a1e0092b5248,Town of Sneads,Florida,Municipality,Town,Ry
 5d80a413-5946-4981-8ab1-5eb14a2f4881,Town of Saint Leo,Florida,Municipality,Town,Maia Golub,2472,Prospect,Tier 3,0.75,28.3372,-82.2584,,,,,,,,,,,,,,,,,,,001cv00000bBWRX,22253
 8b22c38f-040f-403c-a33e-ef1399ead133,Town of Palm Beach Shores,Florida,Municipality,Town,Maia Golub,1359,Prospect,Tier 3,0.75,26.7781,-80.0356,,,,,,,,,,,,,,,,,,,001cv00000bBWt4,22591
 c9c97602-300e-4391-8177-0e26ac256e4a,City of Hawthorne,Florida,Municipality,City,Ryan Minter,1529,Prospect,Tier 3,0.75,29.5919,-82.0873,,,,,,,,,,,,,,,,,,,001cv00000bBWww,22722
-,"City of Key Colony Beach, FL",Florida,Municipality,City,Maia Golub,790,Prospect,Tier 3,0.75,24.721,-81.0187,,,,,,,,,1,2026-04-28,,,,,1,,,,,24396
+,"City of Key Colony Beach, FL",Florida,Municipality,City,Maia Golub,790,Prospect,Tier 3,0.75,24.721,-81.0187,,,,,,,,,1,2026-04-28,,,,,1,,,,001cv00000gqUORAA2,24396
 8307a6e6-3059-43c1-8152-ffd3fde5605f,"City Of Treasure Island, FL",Florida,Municipality,City,Ryan Minter,6559,Prospect,Tier 3,0.75,27.7692,-82.769,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,,,,,,,,,,,001Hr000028ZbpE,2031
 1784b3bb-9a0a-41a1-936a-cf9c279e27ac,"City Of Inverness, FL",Florida,Municipality,City,Ryan Minter,7624,Prospect,Tier 3,0.75,28.8355,-82.3314,Closed Lost,,,Ryan Minter,1/26/2026,1/6/2026,,,4,2026-02-12,,1,,,3,,,,001Hr000028ZbpV,1120
 09123dc3-0895-4d7b-96e1-4620449d47ce,"City Of Indian Harbour Beach, FL",Florida,Municipality,City,Ryan Minter,8976,Prospect,Tier 3,0.75,28.1489,-80.5884,,,,,,,,,3,2026-05-11,1,2,,,,,,,001Hr000028ZbqO,1103
@@ -386,7 +386,7 @@ bc708a5f-7e7c-40fb-a859-6ae7ffa0a9f1,"Town Of Dundee, FL",Florida,Municipality,T
 17f36d3c-c9ad-474a-911e-db2e6e5b09c0,"City Of Daytona Beach Shores, FL",Florida,Municipality,City,Ryan Minter,5223,Prospect,Tier 3,0.75,29.1761,-80.9828,,,,,,,,,8,2025-07-23,8,,,,,,,,001cv00000AuZTo,17578
 e94a50a0-1b57-4b4f-8472-99190b1cfb5e,"Town Of Lake Placid, FL",Florida,Municipality,Town,Ryan Minter,2424,Prospect,Tier 3,0.75,27.2931,-81.3628,,,,,,,,,1,2025-08-28,1,,,,,,,,001cv00000B21rM,20398
 29548b06-7fe8-4891-865f-1574854d48c7,"City Of Edgewood, FL",Florida,Municipality,City,Maia Golub,2666,Prospect,Tier 3,0.75,28.4868,-81.3713,,,,,,,,,3,2025-09-02,3,,,,,,,,001cv00000B21y9,20451
-,"Town of Jupiter Island, FL",Florida,Municipality,Town,Ryan Minter,830,Prospect,Tier 3,0.75,27.0314,-80.1014,,,,,,,,,1,2026-04-28,,,,,1,,,,,21033
+,"Town of Jupiter Island, FL",Florida,Municipality,Town,Ryan Minter,830,Prospect,Tier 3,0.75,27.0314,-80.1014,,,,,,,,,1,2026-04-28,,,,,1,,,,001cv00000WwtMoAAJ,21033
 fd86abff-710b-481d-a105-0e8e20176b80,"City of Dunnellon, FL",Florida,Municipality,City,Ryan Minter,2043,Prospect,Tier 3,0.75,29.0491,-82.4609,,,,,,,,,1,2026-04-21,,1,,,,,,,001cv00000bBWQy,22215
 725bff10-b830-448b-882a-f5ee3250ec85,"County Of Liberty, FL",Florida,County,County,Ryan Minter,7900,Prospect,Tier 3,0.75,30.1508,-84.8568,,,,,,,,,9,2026-04-15,6,3,,,,,,,001cv00000AuZVS,17632
 c6630475-2199-4d22-b29b-9e63ba657493,"County Of Lafayette, FL",Florida,County,County,Maia Golub,8382,Prospect,Tier 3,0.75,30.03,-83.2078,,,,,,,,,3,2026-04-22,1,2,,,,,,,001cv00000AuZXk,17812
