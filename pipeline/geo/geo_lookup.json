@@ -104684,5 +104684,10 @@
     "lat": 32.04,
     "lng": -88.72,
     "name": "City of Quitman"
+  },
+  "wayne county, ms": {
+    "lat": 31.65,
+    "lng": -88.67,
+    "name": "Wayne County"
   }
 }
