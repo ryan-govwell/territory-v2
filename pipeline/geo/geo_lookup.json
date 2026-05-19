@@ -104709,5 +104709,25 @@
     "lat": 39.8,
     "lng": -89.64,
     "name": "City of Springfield"
+  },
+  "washington township, in": {
+    "lat": 40.0,
+    "lng": -86.3,
+    "name": "Washington Township"
+  },
+  "wayne township, in": {
+    "lat": 39.78,
+    "lng": -86.25,
+    "name": "Wayne Township"
+  },
+  "clark county, in": {
+    "lat": 38.48,
+    "lng": -85.72,
+    "name": "Clark County"
+  },
+  "richland township, in": {
+    "lat": 39.5,
+    "lng": -86.8,
+    "name": "Richland Township"
   }
 }
