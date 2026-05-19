@@ -104679,5 +104679,10 @@
     "lat": 36.34,
     "lng": -94.25,
     "name": "Benton County"
+  },
+  "city of quitman, ms": {
+    "lat": 32.04,
+    "lng": -88.72,
+    "name": "City of Quitman"
   }
 }
