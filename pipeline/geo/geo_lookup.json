@@ -104664,5 +104664,10 @@
     "lng": -85.8366,
     "stage_code": "u",
     "name": "City of Stevenson, AL"
+  },
+  "el paso county, co": {
+    "lat": 38.83,
+    "lng": -104.52,
+    "name": "El Paso County"
   }
 }
