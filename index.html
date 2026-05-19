@@ -6,20 +6,72 @@
 <title>Territory Intelligence — GovWell</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
 <style>
-* { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif; background: #ECECEC; color: #000000; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+/* ── Design tokens ──────────────────────────────────────────────────────── */
+:root {
+  --bg:            #EFEFEF;
+  --surface:       #FFFFFF;
+  --surface-2:     #F6F6F6;
+  --surface-3:     #F0F0F0;
+  --border:        #E3E3E3;
+  --border-subtle: #EBEBEB;
+  --text:          #0A0A0A;
+  --text-muted:    #6B6B6B;
+  --text-faint:    #B0B0B0;
+  --accent:        #FEAF0E;
+  --accent-bg:     #FEF5DC;
+  --accent-dim:    #FEF0C4;
+  --header-bg:     #0A0A0A;
+  --row-hover:     #FAFAFA;
+  --thead-bg:      #EFEFEF;
+  --shadow-sm:     0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md:     0 4px 16px rgba(0,0,0,0.08), 0 2px 6px rgba(0,0,0,0.04);
+  --shadow-lg:     0 8px 32px rgba(0,0,0,0.1),  0 4px 10px rgba(0,0,0,0.05);
+}
+html.dark {
+  --bg:            #0C0C0C;
+  --surface:       #161616;
+  --surface-2:     #1E1E1E;
+  --surface-3:     #252525;
+  --border:        #2A2A2A;
+  --border-subtle: #202020;
+  --text:          #F0F0F0;
+  --text-muted:    #7A7A7A;
+  --text-faint:    #484848;
+  --accent:        #FEAF0E;
+  --accent-bg:     #281D00;
+  --accent-dim:    #1E1500;
+  --header-bg:     #0C0C0C;
+  --row-hover:     #1D1D1D;
+  --thead-bg:      #111111;
+  --shadow-sm:     0 1px 3px rgba(0,0,0,0.5);
+  --shadow-md:     0 4px 16px rgba(0,0,0,0.6);
+  --shadow-lg:     0 8px 32px rgba(0,0,0,0.7);
+}
 
-/* Header */
+/* ── Reset ──────────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Header ─────────────────────────────────────────────────────────────── */
 header {
-  background: #000000;
+  background: var(--header-bg);
   color: white;
-  padding: 0 20px;
-  height: 48px;
+  padding: 0 18px;
+  height: 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -27,22 +79,42 @@ header {
   gap: 12px;
 }
 .header-left { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
-.header-left svg { height: 22px; width: auto; flex-shrink: 0; }
-.header-wordmark { font-size: 15px; font-weight: 500; color: white; letter-spacing: -0.01em; }
-.header-divider { width: 1px; height: 16px; background: rgba(255,255,255,0.2); margin: 0 4px; }
-.header-title { font-size: 12px; color: rgba(255,255,255,0.5); font-weight: 400; white-space: nowrap; }
-.header-right { display: flex; align-items: center; gap: 10px; }
-.header-meta { font-size: 11px; color: rgba(255,255,255,0.4); font-weight: 400; white-space: nowrap; }
+.header-left svg { height: 20px; width: auto; flex-shrink: 0; }
+.header-divider { width: 1px; height: 16px; background: rgba(255,255,255,0.12); margin: 0 2px; }
+.header-title { font-size: 12px; color: rgba(255,255,255,0.4); font-weight: 400; white-space: nowrap; letter-spacing: 0.01em; }
+.header-right { display: flex; align-items: center; gap: 8px; }
+.header-meta { font-size: 11px; color: rgba(255,255,255,0.3); font-weight: 400; white-space: nowrap; }
 
-/* State picker */
+/* ── Dark mode toggle ───────────────────────────────────────────────────── */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 50%;
+  background: transparent;
+  color: rgba(255,255,255,0.5);
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+  flex-shrink: 0;
+}
+.theme-toggle:hover { border-color: rgba(255,255,255,0.35); color: rgba(255,255,255,0.9); background: rgba(255,255,255,0.06); }
+.icon-sun  { display: none; }
+.icon-moon { display: block; }
+html.dark .icon-sun  { display: block; }
+html.dark .icon-moon { display: none; }
+
+/* ── State picker ───────────────────────────────────────────────────────── */
 .state-picker { position: relative; }
 .state-btn {
   display: inline-flex;
   align-items: center;
   gap: 5px;
-  padding: 4px 10px;
-  border: 1px solid rgba(255,255,255,0.2);
-  border-radius: 3px;
+  padding: 5px 10px;
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 5px;
   font-size: 12px;
   font-family: inherit;
   font-weight: 500;
@@ -50,283 +122,351 @@ header {
   background: transparent;
   color: white;
   white-space: nowrap;
-  transition: border-color 0.1s;
+  transition: border-color 0.15s, background 0.15s;
 }
-.state-btn:hover { border-color: rgba(255,255,255,0.5); }
-.state-btn .caret { font-size: 9px; color: rgba(255,255,255,0.5); transition: transform 0.15s; }
+.state-btn:hover { border-color: rgba(255,255,255,0.4); background: rgba(255,255,255,0.06); }
+.state-btn .caret { font-size: 8px; color: rgba(255,255,255,0.4); transition: transform 0.15s; }
 .state-btn.open .caret { transform: rotate(180deg); }
 .state-dropdown {
   display: none;
   position: absolute;
-  top: calc(100% + 6px);
+  top: calc(100% + 7px);
   right: 0;
-  background: white;
-  border: 1px solid #D9D9D9;
-  border-radius: 4px;
-  padding: 6px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 5px;
+  box-shadow: var(--shadow-lg);
   z-index: 1200;
   flex-direction: column;
-  gap: 2px;
-  min-width: 150px;
+  gap: 1px;
+  min-width: 140px;
 }
 .state-dropdown.open { display: flex; }
 .state-option {
-  padding: 5px 10px;
-  border-radius: 3px;
-  font-size: 12px;
+  padding: 7px 10px;
+  border-radius: 5px;
+  font-size: 12.5px;
   cursor: pointer;
-  color: #000000;
+  color: var(--text);
   text-decoration: none;
   font-family: inherit;
   display: block;
   white-space: nowrap;
+  transition: background 0.1s;
 }
-.state-option:hover { background: #ECECEC; }
-.state-option.current { background: #FEF7E0; font-weight: 600; pointer-events: none; }
-.state-option.coming-soon { color: #B1B1B1; pointer-events: none; font-style: italic; }
+.state-option:hover { background: var(--surface-2); }
+.state-option.current { background: var(--accent-bg); font-weight: 600; pointer-events: none; color: var(--text); }
+.state-option.coming-soon { color: var(--text-faint); pointer-events: none; font-style: italic; }
 
-/* Stats bar */
+/* ── Stats bar ──────────────────────────────────────────────────────────── */
 .stats-bar {
   display: flex;
-  background: white;
-  border-bottom: 1px solid #D9D9D9;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
   flex-shrink: 0;
 }
 .stat {
   flex: 1;
-  padding: 10px 0;
+  padding: 11px 0;
   text-align: center;
-  border-right: 1px solid #ECECEC;
+  border-right: 1px solid var(--border-subtle);
 }
 .stat:last-child { border-right: none; }
-.stat .num { font-size: 22px; font-weight: 700; line-height: 1; }
-.stat .lbl { font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em; color: #7C7C7C; margin-top: 3px; }
-.stat.s-total .num { color: #000000; }
-.stat.s-open .num { color: #FEAF0E; }
-.stat.s-won .num { color: #FEAF0E; }
-.stat.s-touched .num { color: #000000; }
-.stat.s-untouched .num { color: #B1B1B1; }
+.stat .num { font-size: 24px; font-weight: 700; line-height: 1; letter-spacing: -0.02em; }
+.stat .lbl { font-size: 9px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-faint); margin-top: 4px; font-weight: 500; }
+.stat.s-total   .num { color: var(--text); }
+.stat.s-open    .num { color: #FEAF0E; }
+.stat.s-won     .num { color: #22c55e; }
+.stat.s-touched .num { color: var(--text); }
+.stat.s-untouched .num { color: var(--text-faint); }
 
-/* Filters */
+/* ── Filters ────────────────────────────────────────────────────────────── */
 .filters {
   display: flex;
   align-items: center;
-  gap: 8px;
-  padding: 8px 20px;
-  background: white;
-  border-bottom: 1px solid #D9D9D9;
+  gap: 6px;
+  padding: 7px 16px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
   flex-shrink: 0;
 }
 
-/* Dropdowns */
+/* ── Dropdowns ──────────────────────────────────────────────────────────── */
 .dropdown { position: relative; }
 .dd-btn {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: 5px;
   padding: 5px 10px;
-  border: 1px solid #D9D9D9;
-  border-radius: 3px;
+  border: 1px solid var(--border);
+  border-radius: 5px;
   font-size: 12px;
   font-family: inherit;
   font-weight: 400;
   cursor: pointer;
-  background: white;
-  color: #000000;
+  background: var(--surface);
+  color: var(--text-muted);
   white-space: nowrap;
-  transition: border-color 0.1s;
+  transition: border-color 0.12s, color 0.12s, background 0.12s;
 }
-.dd-btn:hover { border-color: #7C7C7C; }
-.dd-btn.has-filter { background: #FEF7E0; border-color: #FEAF0E; font-weight: 500; }
-.dd-caret { font-size: 9px; color: #7C7C7C; transition: transform 0.15s; margin-left: 2px; }
+.dd-btn:hover { border-color: var(--text-faint); color: var(--text); }
+.dd-btn.has-filter { background: var(--accent-bg); border-color: var(--accent); color: var(--text); font-weight: 500; }
+.dd-caret { font-size: 8px; color: var(--text-faint); transition: transform 0.15s; margin-left: 1px; }
 .dd-btn.open .dd-caret { transform: rotate(180deg); }
 .dd-panel {
   display: none;
   position: absolute;
-  top: calc(100% + 4px);
+  top: calc(100% + 5px);
   left: 0;
-  background: white;
-  border: 1px solid #D9D9D9;
-  border-radius: 4px;
-  padding: 6px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 5px;
+  box-shadow: var(--shadow-lg);
   z-index: 1100;
   flex-direction: column;
-  gap: 3px;
+  gap: 1px;
   min-width: 130px;
 }
 .dd-panel.open { display: flex; }
-.dd-panel .btn { text-align: left; width: 100%; }
+.dd-panel .btn { text-align: left; width: 100%; border: none; background: transparent; border-radius: 5px; color: var(--text-muted); }
+.dd-panel .btn:hover { background: var(--surface-2); color: var(--text); border-color: transparent; }
+.dd-panel .btn.active { background: var(--accent-bg); color: var(--text); border-color: transparent; font-weight: 500; }
 .dd-note {
   font-size: 10px;
-  color: #B1B1B1;
+  color: var(--text-faint);
   line-height: 1.4;
-  padding: 5px 2px 1px;
-  border-top: 1px solid #ECECEC;
+  padding: 6px 4px 2px;
+  border-top: 1px solid var(--border-subtle);
   margin-top: 3px;
 }
 .btn {
-  padding: 3px 10px;
-  border: 1px solid #D9D9D9;
-  border-radius: 3px;
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: 5px;
   font-size: 12px;
   cursor: pointer;
-  background: white;
-  color: #7C7C7C;
-  transition: all 0.1s;
+  background: var(--surface);
+  color: var(--text-muted);
+  transition: border-color 0.1s, color 0.1s, background 0.1s;
   font-family: inherit;
   font-weight: 400;
 }
-.btn:hover { border-color: #7C7C7C; color: #000000; }
-.btn.active { background: #FEAF0E; color: #000000; border-color: #FEAF0E; font-weight: 500; }
+.btn:hover { border-color: var(--text-faint); color: var(--text); }
+.btn.active           { background: var(--accent-bg); color: var(--text); border-color: var(--accent); font-weight: 500; }
 .btn.active-won       { background: #d97706; color: white; border-color: #d97706; }
 .btn.active-mid       { background: #f97316; color: white; border-color: #f97316; }
 .btn.active-top       { background: #ca8a04; color: white; border-color: #ca8a04; }
 .btn.active-lost      { background: #dc2626; color: white; border-color: #dc2626; }
 .btn.active-touched   { background: #3b82f6; color: white; border-color: #3b82f6; }
 .btn.active-untouched { background: #6b7280; color: white; border-color: #6b7280; }
+
+/* ── Search ─────────────────────────────────────────────────────────────── */
+.search-wrap {
+  position: relative;
+  flex-shrink: 0;
+}
+.search-icon {
+  position: absolute;
+  left: 11px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-faint);
+  pointer-events: none;
+}
 #search {
-  padding: 7px 12px;
+  padding: 8px 12px 8px 30px;
   border: none;
-  border-bottom: 1px solid #ECECEC;
+  border-bottom: 1px solid var(--border-subtle);
   font-size: 12px;
   outline: none;
   font-family: inherit;
-  color: #000000;
+  color: var(--text);
+  background: var(--surface);
   width: 100%;
-  flex-shrink: 0;
-  background: white;
 }
-#search:focus { border-bottom-color: #FEAF0E; }
+#search:focus { border-bottom-color: var(--accent); }
+#search::placeholder { color: var(--text-faint); }
 
-/* Main layout */
+/* ── Main layout ────────────────────────────────────────────────────────── */
 .main { display: flex; flex: 1; overflow: hidden; }
 
-/* Map */
+/* ── Map ────────────────────────────────────────────────────────────────── */
 #map { flex: 0 0 50%; height: 100%; }
 
-/* Table pane */
+/* ── Table pane ─────────────────────────────────────────────────────────── */
 .table-pane {
   flex: 1;
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  background: white;
-  border-left: 1px solid #D9D9D9;
+  background: var(--surface);
+  border-left: 1px solid var(--border);
 }
 .table-header {
-  padding: 8px 14px;
+  padding: 7px 14px;
   font-size: 11px;
-  color: #7C7C7C;
-  border-bottom: 1px solid #ECECEC;
+  font-weight: 500;
+  color: var(--text-faint);
+  border-bottom: 1px solid var(--border-subtle);
   flex-shrink: 0;
-  background: white;
+  background: var(--surface);
+  letter-spacing: 0.02em;
 }
 .table-scroll { overflow-y: auto; flex: 1; }
+
+/* ── Table ──────────────────────────────────────────────────────────────── */
 table { width: 100%; border-collapse: collapse; font-size: 12px; }
 thead th {
   position: sticky;
   top: 0;
-  background: #ECECEC;
-  padding: 8px 10px;
+  background: var(--thead-bg);
+  padding: 7px 10px;
   text-align: left;
   font-weight: 600;
   font-size: 10px;
   text-transform: uppercase;
   letter-spacing: 0.07em;
-  color: #7C7C7C;
-  border-bottom: 1px solid #D9D9D9;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
   cursor: pointer;
   user-select: none;
   white-space: nowrap;
+  transition: color 0.1s;
 }
-thead th:hover { color: #000000; }
-thead th.asc::after  { content: ' ↑'; color: #FEAF0E; }
-thead th.desc::after { content: ' ↓'; color: #FEAF0E; }
-tbody tr { border-bottom: 1px solid #ECECEC; cursor: pointer; transition: background 0.07s; }
-tbody tr:hover { background: #F8F8F8; }
-tbody tr.hl { background: #FEF7E0 !important; border-left: 3px solid #FEAF0E; }
-td { padding: 6px 8px; vertical-align: middle; }
-.acct { font-weight: 500; color: #000000; max-width: 150px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+thead th:hover { color: var(--text); }
+thead th.asc::after  { content: ' ↑'; color: var(--accent); }
+thead th.desc::after { content: ' ↓'; color: var(--accent); }
+tbody tr {
+  border-bottom: 1px solid var(--border-subtle);
+  cursor: pointer;
+  transition: background 0.08s;
+}
+tbody tr:hover { background: var(--row-hover); }
+tbody tr.hl { background: var(--accent-bg) !important; border-left: 3px solid var(--accent); }
+td { padding: 7px 8px; vertical-align: middle; color: var(--text); }
+.acct { font-weight: 500; color: var(--text); max-width: 150px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .stage-cell { max-width: 80px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* ── Owner chips ────────────────────────────────────────────────────────── */
 .owner-chip {
   display: inline-block;
-  padding: 1px 6px;
-  border-radius: 2px;
+  padding: 2px 7px;
+  border-radius: 4px;
   font-size: 10px;
   font-weight: 600;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
 }
-.owner-0 { background: rgba(65,170,235,0.15);  color: #1a7ab5; }
-.owner-1 { background: rgba(57,194,94,0.15);   color: #1f7a3a; }
-.owner-2 { background: rgba(168,85,247,0.15);  color: #7e22ce; }
-.owner-3 { background: rgba(249,115,22,0.15);  color: #c2410c; }
-.owner-4 { background: rgba(236,72,153,0.15);  color: #be185d; }
-.owner-other { background: #ECECEC; color: #7C7C7C; }
+.owner-0 { background: rgba(59,130,246,0.12); color: #2563eb; }
+.owner-1 { background: rgba(34,197,94,0.12);  color: #16a34a; }
+.owner-2 { background: rgba(168,85,247,0.12); color: #9333ea; }
+.owner-3 { background: rgba(249,115,22,0.12); color: #ea580c; }
+.owner-4 { background: rgba(236,72,153,0.12); color: #db2777; }
+.owner-other { background: var(--surface-2); color: var(--text-muted); }
+html.dark .owner-0 { background: rgba(59,130,246,0.18); color: #60a5fa; }
+html.dark .owner-1 { background: rgba(34,197,94,0.18);  color: #4ade80; }
+html.dark .owner-2 { background: rgba(168,85,247,0.18); color: #c084fc; }
+html.dark .owner-3 { background: rgba(249,115,22,0.18); color: #fb923c; }
+html.dark .owner-4 { background: rgba(236,72,153,0.18); color: #f472b6; }
+
+/* ── Badges ─────────────────────────────────────────────────────────────── */
 .badge {
   display: inline-block;
-  padding: 2px 7px;
+  padding: 2px 8px;
   border-radius: 999px;
   font-size: 10px;
   font-weight: 600;
   color: white;
   white-space: nowrap;
+  letter-spacing: 0.02em;
 }
-/* Tier badges */
 .tier-badge {
   display: inline-block;
   padding: 2px 7px;
-  border-radius: 3px;
+  border-radius: 4px;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.05em;
   white-space: nowrap;
 }
-.tier-s { background: #7C3AED; color: #ffffff; }
-.tier-1 { background: #16A34A; color: #ffffff; }
-.tier-2 { background: #D97706; color: #ffffff; }
-.tier-3 { background: #DC2626; color: #ffffff; }
+.tier-s { background: #7C3AED; color: #fff; }
+.tier-1 { background: #16A34A; color: #fff; }
+.tier-2 { background: #D97706; color: #fff; }
+.tier-3 { background: #DC2626; color: #fff; }
 
-/* Stale last-call date */
-.stale { color: #dc2626; font-weight: 600; }
+/* ── Stale date ─────────────────────────────────────────────────────────── */
+.stale { color: #ef4444; font-weight: 600; }
 
-/* External link icon buttons */
+/* ── External link buttons ──────────────────────────────────────────────── */
 .ext-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   width: 22px;
   height: 22px;
-  border: 1px solid #D9D9D9;
-  border-radius: 3px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
   text-decoration: none;
   transition: border-color 0.1s, background 0.1s;
   flex-shrink: 0;
 }
-.ext-btn:hover { border-color: #FEAF0E; background: #FEF7E0; }
+.ext-btn:hover { border-color: var(--accent); background: var(--accent-bg); }
 .ext-btn svg { display: block; }
 .ext-links { display: flex; gap: 4px; align-items: center; }
 
-.muted { color: #7C7C7C; }
+.muted { color: var(--text-muted); }
 .right { text-align: right; }
 
-/* Leaflet popup overrides */
-.leaflet-popup-content { font-family: 'DM Sans', -apple-system, sans-serif; font-size: 12px; line-height: 1.5; min-width: 180px; }
-.popup-name { font-weight: 700; font-size: 13px; color: #000000; }
-.popup-sub  { color: #7C7C7C; font-size: 11px; margin-top: 1px; }
-.popup-row  { margin-top: 4px; }
+/* ── Map legend ─────────────────────────────────────────────────────────── */
+.map-legend {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 10px 14px;
+  border-radius: 8px;
+  box-shadow: var(--shadow-md);
+  font-family: 'DM Sans', -apple-system, sans-serif;
+  font-size: 11px;
+  line-height: 1.9;
+  color: var(--text);
+}
 
-/* Empty / loading states */
-.empty   { padding: 40px; text-align: center; color: #B1B1B1; font-size: 13px; }
-.loading { padding: 40px; text-align: center; color: #7C7C7C; font-size: 13px; }
+/* ── Leaflet popup overrides ────────────────────────────────────────────── */
+.leaflet-popup-content {
+  font-family: 'DM Sans', -apple-system, sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+  min-width: 180px;
+}
+.popup-name { font-weight: 700; font-size: 13px; color: var(--text); }
+.popup-sub  { color: var(--text-muted); font-size: 11px; margin-top: 1px; }
+.popup-row  { margin-top: 4px; }
+html.dark .leaflet-popup-content-wrapper {
+  background: var(--surface-2);
+  color: var(--text);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--border);
+}
+html.dark .leaflet-popup-tip { background: var(--surface-2); }
+html.dark .leaflet-popup-close-button { color: var(--text-muted) !important; }
+
+/* ── Scrollbar ──────────────────────────────────────────────────────────── */
+.table-scroll::-webkit-scrollbar { width: 5px; }
+.table-scroll::-webkit-scrollbar-track { background: transparent; }
+.table-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 999px; }
+.table-scroll::-webkit-scrollbar-thumb:hover { background: var(--text-faint); }
+
+/* ── Empty / loading ────────────────────────────────────────────────────── */
+.empty   { padding: 48px; text-align: center; color: var(--text-faint); font-size: 13px; }
+.loading { padding: 48px; text-align: center; color: var(--text-muted); font-size: 13px; }
 </style>
 </head>
 <body>
 
 <header>
   <div class="header-left">
-    <svg height="22" width="auto" viewBox="0 0 1372 348" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="GovWell">
+    <svg height="20" width="auto" viewBox="0 0 1372 348" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="GovWell">
       <g clip-path="url(#clip0_242_3668)">
         <path d="M1126.48 176.396H1042V261H1126.48V176.396Z" fill="white"/>
         <path d="M1287 176.395C1233.5 145.936 1179.99 206.855 1126.48 176.395V91.7908C1179.99 122.25 1233.5 61.3317 1287 91.7908C1287 119.992 1287 148.194 1287 176.395Z" fill="white"/>
@@ -349,6 +489,10 @@ td { padding: 6px 8px; vertical-align: middle; }
   </div>
   <div class="header-right">
     <span class="header-meta" id="header-meta">Loading…</span>
+    <button class="theme-toggle" id="theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode">
+      <svg class="icon-moon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      <svg class="icon-sun" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+    </button>
     <div class="state-picker">
       <button class="state-btn" id="state-btn">
         <span id="state-label">—</span><span class="caret">▾</span>
@@ -359,10 +503,10 @@ td { padding: 6px 8px; vertical-align: middle; }
 </header>
 
 <div class="stats-bar">
-  <div class="stat s-total"><div class="num" id="s-total">—</div><div class="lbl">Accounts</div></div>
-  <div class="stat s-open"><div class="num" id="s-open">—</div><div class="lbl">Open Opps</div></div>
-  <div class="stat s-won"><div class="num" id="s-won">—</div><div class="lbl">Customers</div></div>
-  <div class="stat s-touched"><div class="num" id="s-touched">—</div><div class="lbl">Touched</div></div>
+  <div class="stat s-total">   <div class="num" id="s-total">—</div>   <div class="lbl">Accounts</div></div>
+  <div class="stat s-open">    <div class="num" id="s-open">—</div>    <div class="lbl">Open Opps</div></div>
+  <div class="stat s-won">     <div class="num" id="s-won">—</div>     <div class="lbl">Customers</div></div>
+  <div class="stat s-touched"> <div class="num" id="s-touched">—</div> <div class="lbl">Touched</div></div>
   <div class="stat s-untouched"><div class="num" id="s-untouched">—</div><div class="lbl">Untouched</div></div>
 </div>
 
@@ -434,7 +578,10 @@ td { padding: 6px 8px; vertical-align: middle; }
 <div class="main">
   <div id="map"></div>
   <div class="table-pane">
-    <input type="text" id="search" placeholder="Search accounts…">
+    <div class="search-wrap">
+      <svg class="search-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="search" placeholder="Search accounts…">
+    </div>
     <div class="table-header" id="table-count"></div>
     <div class="table-scroll">
       <table>
@@ -518,7 +665,6 @@ function tierBadge(tier) {
   return `<span class="tier-badge ${cls}">${tier.replace('Tier ', '')}</span>`;
 }
 
-// Owner colors cycle through .owner-0 … .owner-4
 const ownerColorMap = {};
 let ownerColorIdx = 0;
 function ownerClass(name) {
@@ -529,26 +675,51 @@ function ownerClass(name) {
 
 // ── Map setup ──────────────────────────────────────────────────────────────
 const map = L.map('map').setView(STATE_CFG.center, STATE_CFG.zoom);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-  attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://carto.com/">CARTO</a>',
-  maxZoom: 19,
-}).addTo(map);
+
+const TILE_ATTR = '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://carto.com/">CARTO</a>';
+let tileLayer = null;
+function setMapTiles(dark) {
+  if (tileLayer) map.removeLayer(tileLayer);
+  tileLayer = L.tileLayer(
+    dark
+      ? 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
+      : 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+    { attribution: TILE_ATTR, maxZoom: 19 }
+  ).addTo(map);
+}
 
 const markerLayer = L.layerGroup().addTo(map);
 
 const legend = L.control({ position: 'bottomleft' });
 legend.onAdd = () => {
   const d = L.DomUtil.create('div');
-  d.style.cssText = 'background:white;padding:10px 14px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.15);font-family:-apple-system,sans-serif;font-size:11px;line-height:1.8';
+  d.className = 'map-legend';
   d.innerHTML = Object.entries(SIG).map(([, v]) =>
-    `<div style="display:flex;align-items:center;gap:7px">
-       <span style="width:10px;height:10px;border-radius:50%;background:${v.color};display:inline-block;border:1.5px solid ${v.border}"></span>
+    `<div style="display:flex;align-items:center;gap:8px">
+       <span style="width:10px;height:10px;border-radius:50%;background:${v.color};display:inline-block;border:1.5px solid ${v.border};flex-shrink:0"></span>
        ${v.label}
      </div>`
   ).join('');
   return d;
 };
 legend.addTo(map);
+
+// ── Dark mode ──────────────────────────────────────────────────────────────
+function applyTheme(dark) {
+  document.documentElement.classList.toggle('dark', dark);
+  setMapTiles(dark);
+  localStorage.setItem('gwTheme', dark ? 'dark' : 'light');
+}
+
+document.getElementById('theme-toggle').addEventListener('click', () => {
+  applyTheme(!document.documentElement.classList.contains('dark'));
+});
+
+(function initTheme() {
+  const saved = localStorage.getItem('gwTheme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(saved ? saved === 'dark' : prefersDark);
+})();
 
 // ── Filter state ───────────────────────────────────────────────────────────
 let allData = [];
@@ -563,7 +734,7 @@ const POP_BUCKETS = {
 };
 
 const DD_LABEL_MAP = {
-  owner:    { default: 'Owner',      map: {} }, // populated after CSV load
+  owner:    { default: 'Owner',      map: {} },
   tier:     { default: 'Tier',       map: { 'Tier S': 'S', 'Tier 1': '1', 'Tier 2': '2', 'Tier 3': '3' } },
   signal:   { default: 'Signal',     map: { won: 'Won', mid: 'Mid Funnel', top: 'Top Funnel', lost: 'Lost', touched: 'Touched', untouched: 'Untouched' } },
   pop:      { default: 'Population', map: { 'lt10k': '<10k', '10k-25k': '10k-25k', '25k-50k': '25k-50k', '50k-100k': '50k-100k', '100kplus': '100k+' } },
@@ -663,9 +834,9 @@ function renderMap(data) {
        <div class="popup-sub">${r['Owner'] || '—'} · ${r['Tier']} · Pop ${fmtPop(r['Population'])}</div>
        <div class="popup-row">
          <span class="badge" style="background:${s.color}">${s.label}</span>
-         ${r['Stage'] ? `<span style="margin-left:6px;color:#475569;font-size:11px">${r['Stage']}</span>` : ''}
+         ${r['Stage'] ? `<span style="margin-left:6px;color:#94a3b8;font-size:11px">${r['Stage']}</span>` : ''}
        </div>
-       <div class="popup-row" style="color:#64748b;font-size:11px">
+       <div class="popup-row" style="color:#94a3b8;font-size:11px">
          Calls: ${r['Total Calls'] || '0'} · Last: ${fmtDate(r['Last Call Date'])}
        </div>`
     );
