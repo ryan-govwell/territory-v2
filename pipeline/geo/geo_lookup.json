@@ -104669,5 +104669,10 @@
     "lat": 38.83,
     "lng": -104.52,
     "name": "El Paso County"
+  },
+  "city of albany, mo": {
+    "lat": 40.25,
+    "lng": -94.33,
+    "name": "City of Albany"
   }
 }
