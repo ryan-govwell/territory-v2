@@ -798,14 +798,22 @@ html.dark .us-state-inactive { fill: #2C2C2C; }
     <button class="dd-btn" data-dd="contacts">
       <span class="dd-label">Contacts</span><span class="dd-caret">▾</span>
     </button>
-    <div class="dd-panel" style="min-width:190px">
+    <div class="dd-panel" style="min-width:160px">
       <button class="btn active" data-f="contacts" data-v="">All</button>
       <button class="btn" data-f="contacts" data-v="has">Has contacts</button>
       <button class="btn" data-f="contacts" data-v="none">No contacts</button>
-      <button class="btn" data-f="contacts" data-v="bldg">Building / Permitting</button>
-      <button class="btn" data-f="contacts" data-v="plan">Planning &amp; Zoning</button>
-      <button class="btn" data-f="contacts" data-v="code">Code Enforcement</button>
-      <button class="btn" data-f="contacts" data-v="other">Other</button>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dd-btn" data-dd="functions">
+      <span class="dd-label">Functions</span><span class="dd-caret">▾</span>
+    </button>
+    <div class="dd-panel" style="min-width:190px">
+      <button class="btn active" data-f="functions" data-v="">All</button>
+      <button class="btn" data-f="functions" data-v="bldg">Building / Permitting</button>
+      <button class="btn" data-f="functions" data-v="plan">Planning &amp; Zoning</button>
+      <button class="btn" data-f="functions" data-v="code">Code Enforcement</button>
+      <button class="btn" data-f="functions" data-v="other">Other</button>
     </div>
   </div>
   <div class="view-toggle">
@@ -976,7 +984,7 @@ document.getElementById('theme-toggle').addEventListener('click', () => {
 
 // ── Filter state ───────────────────────────────────────────────────────────
 let allData = [];
-let filters  = { owner: new Set(), tier: new Set(), signal: new Set(), pop: new Set(), activity: new Set(), contacts: new Set() };
+let filters  = { owner: new Set(), tier: new Set(), signal: new Set(), pop: new Set(), activity: new Set(), contacts: new Set(), functions: new Set() };
 
 const POP_BUCKETS = {
   'lt10k':    { min: 0,      max: 10000    },
@@ -992,7 +1000,8 @@ const DD_LABEL_MAP = {
   signal:   { default: 'Signal',     map: { won: 'Won', mid: 'Mid Funnel', top: 'Top Funnel', lost: 'Lost', touched: 'Touched', untouched: 'Untouched' } },
   pop:      { default: 'Population', map: { 'lt10k': '<10k', '10k-25k': '10k-25k', '25k-50k': '25k-50k', '50k-100k': '50k-100k', '100kplus': '100k+' } },
   activity: { default: 'Activity',   map: { '30d': '≤30d', '31-60': '31-60d', '61-90': '61-90d', '91-180': '91d-6mo', '6mo-1yr': '6mo-1yr', 'never': 'Never' } },
-  contacts: { default: 'Contacts',   map: { has: 'Has contacts', none: 'No contacts', bldg: 'Building', plan: 'Planning', code: 'Code Enf.', other: 'Other' } },
+  contacts:  { default: 'Contacts',  map: { has: 'Has contacts', none: 'No contacts' } },
+  functions: { default: 'Functions', map: { bldg: 'Building', plan: 'Planning', code: 'Code Enf.', other: 'Other' } },
 };
 
 let searchQ  = '';
@@ -1328,8 +1337,15 @@ function filtered() {
     if (filters.contacts.size) {
       const acct = contactsByAccount[r['Account ID']];
       const match = [...filters.contacts].some(v => {
-        if (v === 'has')   return !!acct;
-        if (v === 'none')  return !acct;
+        if (v === 'has')  return !!acct;
+        if (v === 'none') return !acct;
+        return false;
+      });
+      if (!match) return false;
+    }
+    if (filters.functions.size) {
+      const acct = contactsByAccount[r['Account ID']];
+      const match = [...filters.functions].some(v => {
         if (v === 'bldg')  return !!(acct?.byFunction['Building/Permitting/Inspections']);
         if (v === 'plan')  return !!(acct?.byFunction['Planning & Zoning']);
         if (v === 'code')  return !!(acct?.byFunction['Code Enforcement']);
