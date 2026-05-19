@@ -104674,5 +104674,10 @@
     "lat": 40.25,
     "lng": -94.33,
     "name": "City of Albany"
+  },
+  "benton county, ar": {
+    "lat": 36.34,
+    "lng": -94.25,
+    "name": "Benton County"
   }
 }
