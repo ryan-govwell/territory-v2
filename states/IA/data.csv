@@ -23,7 +23,7 @@ Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,S
 001Hr000028ZcOs,"City Of Clarinda, IA",Iowa,Municipality,Ben Laddis,5493,,Tier 3,0.75,40.7419,-95.0383,35cba5db-e9ef-480b-ba67-72b22ee00182,,,,,,,,,1,2026-04-23,1,,,,,,3570
 001Hr000028ZcQi,"City Of De Witt, IA",Iowa,Municipality,Ben Laddis,5520,,Tier 3,0.75,41.824,-90.539,7a2bb609-e4be-43b3-b2c8-1238d021ac6c,,,,,,,,,,,,,,,,,3512
 001Hr000028ZcSi,"City Of Waverly, IA",Iowa,Municipality,Ben Laddis,10398,,Tier 2,1.0,42.7272,-92.4669,89a59dc8-d27c-4313-9cb7-f8a25f65ba0d,,,,,,,,,1,2026-01-30,1,,,,,,4607
-001Hr000028ZcTJ,"Linn County, IA",Iowa,County,Ben Laddis,,,Tier 3,0.75,42.066,-91.6761,d180f08c-bdcb-4837-b6d5-f775dd06cfa8,,,,,,,,,,,,,,,,,22746
+001Hr000028ZcTJ,"Linn County, IA",Iowa,County,Ben Laddis,,,Tier 3,0.75,42.066,-91.6761,d180f08c-bdcb-4837-b6d5-f775dd06cfa8,,,,,,,,,,,,,,,,,12171
 001Hr000028ZcTV,"City Of Mason City, IA",Iowa,Municipality,Ben Laddis,27138,,Tier 1,1.5,43.1527,-93.2027,e73757e4-77ee-4b73-ac5d-ae8ce3dba08a,,,,,,,,,5,2026-03-25,5,,,,,,5749
 001Hr000028ZcTm,"City Of Oelwein, IA",Iowa,Municipality,Ben Laddis,5844,,Tier 3,0.75,42.6785,-91.912,c7af0a28-3692-4fd1-beca-a693410102ac,,,,,,,,,3,2026-04-16,2,1,,,,,3729
 001Hr000028ZcUp,"City Of Charles City, IA",Iowa,Municipality,Ben Laddis,7281,,Tier 3,0.75,43.0664,-92.6724,cc1bdbab-334a-4f51-98a6-ef5c2225c093,,,,,,,,,3,2026-03-24,1,2,,,,,4065
@@ -325,4 +325,4 @@ Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,S
 001cv00000bBWuM,City of Monona,Iowa,Municipality,Asher Rosenfeld,1462,,Tier 3,0.75,43.0516,-91.3893,4379f109-48c3-41a4-904d-e8b5ccb8bd93,,,,,,,,,,,,,,,,,22675
 001cv00000bBWuV,City of Brooklyn,Iowa,Municipality,Asher Rosenfeld,1474,,Tier 3,0.75,41.7316,-92.4454,d6d49204-84f5-43be-bdc3-9ed945651b51,,,,,,,,,,,,,,,,,22687
 001cv00000bBWyX,"City of Des Moines, IA",Iowa,Municipality,Asher Rosenfeld,213096,,Tier S,2.0,41.5896,-93.6164,9cdfd35e-6579-4225-91a1-4f2badec9e0c,,,,,,,,,2,2026-04-16,2,,,,,,22729
-001cv00000bBWyl,Linn County,Iowa,County,Asher Rosenfeld,231762,,Tier S,2.0,42.066,-91.6761,7d213bf6-b673-4059-a025-4f553a1d31f1,,,,,,,,,,,,,,,,,22746
+001cv00000bBWyl,Linn County,Iowa,County,Asher Rosenfeld,231762,,Tier S,2.0,42.066,-91.6761,7d213bf6-b673-4059-a025-4f553a1d31f1,,,,,,,,,,,,,,,,,12171

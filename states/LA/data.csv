@@ -1,186 +1,186 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Emily Murnane,Calls - Ryan Minter,Calls - Leila Assil,Calls - Quinzel Perry,Calls - Jenny Allison
-001Hr000028ZbbD,"City Of Franklin, LA",Louisiana,Municipality,Emily Murnane,6546,,Tier 3,0.75,29.796,-91.5015,026c3837-d63b-46af-88e0-16c8bad4891b,,,,,,,,,3,2026-04-15,3,,,,
-001Hr000028ZbmX,"City Of Abbeville, LA",Louisiana,Municipality,Emily Murnane,11048,,Tier 2,1.0,29.9747,-92.1343,6b09c38f-7bec-4fc0-8112-a3fdeb6aa277,,,,,,,,,5,2026-03-11,1,4,,,
-001Hr000028Zby3,"City Of Bogalusa, LA",Louisiana,Municipality,Emily Murnane,10569,Nurture,Tier 2,1.0,30.791,-89.8487,5ca01248-8860-4214-ba7e-0754b58e0df3,Closed Lost,,,Liam Shaw,7/9/2024,1/5/2025,,,3,2026-03-06,3,,,,
-001Hr000028Zc1j,"City Of Morgan City, LA",Louisiana,Municipality,Emily Murnane,11156,Nurture,Tier 2,1.0,29.6994,-91.2068,8a7d1fe6-1c3e-4ffe-aef9-ec8bde77677a,Closed Lost,,,Leila Assil,1/14/2025,1/5/2025,"$19,000",,4,2026-03-05,4,,,,
-001Hr000028ZcAR,"City Of Carencro, LA",Louisiana,Municipality,Emily Murnane,10835,,Tier 2,1.0,30.3171,-92.049,bcc6f731-3821-4bfa-9f69-3cbfca1458f8,,,,,,,,,2,2025-10-27,2,,,,
-001Hr000028ZcBn,"City Of Oakdale, LA",Louisiana,Municipality,Emily Murnane,6985,Nurture,Tier 3,0.75,30.8168,-92.6586,ef4c1052-f5bf-4acb-b0d1-d53e1fbe8415,Closed Lost,,,Liam Shaw,7/11/2024,1/5/2025,,,6,2025-10-29,4,,,2,
-001Hr000028ZcCa,"City Of Westwego, LA",Louisiana,Municipality,Emily Murnane,8400,,Tier 3,0.75,29.906,-90.1423,e398f142-5f41-4cbc-89be-574cd165ba04,,,,,,,,,3,2026-03-31,3,,,,
-001Hr000028ZcDG,"City Of Tallulah, LA",Louisiana,Municipality,Emily Murnane,6068,,Tier 3,0.75,32.4085,-91.1868,d3463287-bce0-4ee3-85b2-44d3e96a3428,,,,,,,,,,,,,,,
-001Hr000028ZcQd,"City Of Grambling, LA",Louisiana,Municipality,Emily Murnane,5095,Nurture,Tier 3,0.75,32.5277,-92.714,704d3802-1dcd-4323-a7e0-2c11be374ca2,Closed Lost,,,Liam Shaw,5/30/2024,1/5/2025,,,6,2026-04-08,6,,,,
-001Hr000028ZcRF,"City Of Ville Platte, LA",Louisiana,Municipality,Emily Murnane,6368,,Tier 3,0.75,30.688,-92.2715,0a9ff737-b644-46a9-b408-3681bfe3279e,,,,,,,,,3,2025-07-01,,,,3,
-001Hr000028ZcSP,"Town Of Addis, LA",Louisiana,Municipality,Emily Murnane,7538,,Tier 3,0.75,30.3538,-91.2654,91cc118c-8a76-4d2b-aaad-b82dc6a05538,,,,,,,,,3,2025-12-12,3,,,,
-001Hr000028ZcTO,"City Of St Martinville, LA",Louisiana,Municipality,Emily Murnane,5436,Nurture,Tier 3,0.75,30.1231,-91.8295,c0390c1f-564f-47eb-978c-c04a7319ee4f,Closed Lost,,,Andy Blakely,8/6/2025,7/29/2025,,,,,,,,,
-001Hr000028ZcUo,"City Of Rayne, LA",Louisiana,Municipality,Emily Murnane,7160,,Tier 3,0.75,30.2349,-92.2685,8a4d575b-9654-4ab6-8553-a39583f12bc8,,,,,,,,,2,2025-12-03,2,,,,
-001Hr000028ZcXt,"Town Of Walker, LA",Louisiana,Municipality,Emily Murnane,6413,,Tier 3,0.75,30.488,-90.8615,ce553850-255b-4086-a77a-d7b10c277d77,,,,,,,,,10,2025-12-16,10,,,,
-001Hr000028ZcY9,"City Of Covington, LA",Louisiana,Municipality,Emily Murnane,11475,,Tier 2,1.0,30.4755,-90.1009,73d0f720-a584-4980-a125-eef9115d1c0b,,,,,,,,,21,2026-04-24,11,,10,,
-001Hr000028Zcb7,"City Of Patterson, LA",Louisiana,Municipality,Emily Murnane,5793,,Tier 3,0.75,29.6933,-91.302,3978a272-b4ed-4a6a-8525-f75fde78ce34,,,,,,,,,,,,,,,
-001Hr000028Zcbb,"City Of Ruston, LA",Louisiana,Municipality,Emily Murnane,22277,Nurture,Tier 2,1.0,32.5232,-92.6379,4f86601a-b7fe-468a-bfba-4cfcae23649a,Closed Lost,,,Liam Shaw,6/11/2024,1/5/2025,,,6,2026-02-04,6,,,,
-001Hr000028Zcd2,"City Of Breaux Bridge, LA",Louisiana,Municipality,Emily Murnane,7561,,Tier 3,0.75,30.2735,-91.8993,5a2e5d53-b316-45fd-9122-133821bdf5b4,,,,,,,,,1,2026-03-10,1,,,,
-001Hr000028ZcdS,"City Of Baker, LA",Louisiana,Municipality,Emily Murnane,12434,,Tier 2,1.0,30.5882,-91.1682,ce129bff-d3eb-4872-a698-9c1c195cdc4f,,,,,,,,,13,2025-12-12,13,,,,
-001Hr000028ZchQ,"City Of De Ridder, LA",Louisiana,Municipality,Emily Murnane,9745,,Tier 3,0.75,30.8463,-93.2891,1e085420-93ba-45a3-9b29-2a1608fef2be,,,,,,,,,3,2025-10-30,3,,,,
-001Hr000028ZchV,"City Of Opelousas, LA",Louisiana,Municipality,Emily Murnane,15558,,Tier 2,1.0,30.5335,-92.0815,39ab3ae5-3dff-493b-a66d-2cad72762629,,,,,,,,,8,2026-05-11,,8,,,
-001Hr000028Zchd,"City Of Gonzales, LA",Louisiana,Municipality,Emily Murnane,12574,1+ Module Live,Tier 2,1.0,30.2385,-90.9201,205dec97-dd24-4995-adf6-33a33bac2493,Closed Won,,,Asher Rosenfeld,7/9/2024,1/5/2025,"$30,000",,,,,,,,
-001Hr000028Zchk,"City Of Broussard, LA",Louisiana,Municipality,Emily Murnane,13782,,Tier 2,1.0,30.1471,-91.9612,057623f7-c03e-4ccf-ae1c-0e85fefc7202,,,,,,,,,4,2025-12-18,2,2,,,
-001Hr000028Zchq,"City Of Leesville, LA",Louisiana,Municipality,Emily Murnane,5472,,Tier 3,0.75,31.1435,-93.261,c24eca05-6f86-458a-945b-0b994c604f5f,,,,,,,,,1,2026-03-02,1,,,,
-001Hr000028ZckS,"City Of Scott, LA",Louisiana,Municipality,Emily Murnane,8116,,Tier 3,0.75,30.2358,-92.0946,a9685969-0b45-484c-b0dd-c86a2489768b,,,,,,,,,6,2026-02-02,6,,,,
-001Hr000028ZckU,"City Of Thibodaux, LA",Louisiana,Municipality,Emily Murnane,15237,,Tier 2,1.0,29.7958,-90.8229,d8264ddf-e6a7-4f19-9222-24c59f5dc6b2,,,,,,,,,2,2025-12-30,1,1,,,
-001Hr000028ZclB,"City Of Ponchatoula, LA",Louisiana,Municipality,Emily Murnane,7927,,Tier 3,0.75,30.4388,-90.4415,20e98b0d-4e6f-4592-b87e-1252238c232c,,,,,,,,,2,2026-03-02,2,,,,
-001Hr000028ZclT,"City Of Plaquemine, LA",Louisiana,Municipality,Emily Murnane,5928,,Tier 3,0.75,30.2891,-91.2343,a24aa4b7-bba7-4d92-b2bf-4a77ec8be4c8,,,,,,,,,9,2025-12-17,9,,,,
-001Hr000028Zcm4,"City Of Donaldsonville, LA",Louisiana,Municipality,Emily Murnane,6762,,Tier 3,0.75,30.101,-90.9929,2aba30db-0455-4bf7-abee-50dfe56570f3,,,,,,,,,1,2025-12-31,1,,,,
-001Hr000028Zcm9,"City Of Minden, LA",Louisiana,Municipality,Emily Murnane,11769,,Tier 2,1.0,32.6154,-93.2868,cf1ae53b-5837-4385-a11f-04df28654948,,,,,,,,,21,2026-03-13,9,12,,,
-001Hr000028ZcmB,"City Of Gretna, LA",Louisiana,Municipality,Emily Murnane,17590,,Tier 2,1.0,29.9146,-90.054,2f79d850-aaa0-456f-8100-6d1aae681ed8,,,,,,,,,14,2026-05-11,12,2,,,
-001Hr000028Zcn5,"City Of St Gabriel, LA",Louisiana,Municipality,Emily Murnane,7121,,Tier 3,0.75,30.2577,-91.0993,977b17e9-fc2a-4619-ad8e-50a7988933e1,,,,,,,,,2,2026-01-13,2,,,,
-001Hr000028Zcrt,"City Of West Monroe, LA",Louisiana,Municipality,Emily Murnane,12856,Nurture,Tier 2,1.0,32.5185,-92.1476,f5e38f23-b2ac-460f-846c-0132476a96a4,Closed Lost,,,Liam Shaw,6/27/2024,1/5/2025,,,4,2025-11-12,4,,,,
-001Hr000028Zcs1,"City Of Denham Springs, LA",Louisiana,Municipality,Emily Murnane,9328,Nurture,Tier 3,0.75,30.4869,-90.9562,ed16e4c2-d42b-466a-b009-84bc5bd083b9,Closed Lost,,,Liam Shaw,6/27/2024,1/5/2025,,,1,2025-12-04,1,,,,
-001Hr000028Zctd,"City Of Eunice, LA",Louisiana,Municipality,Emily Murnane,9310,,Tier 3,0.75,30.4944,-92.4176,9e61dd3d-b1bd-439c-b4b5-5cddeae668ac,,,,,,,,,,,,,,,
-001Hr000028Zctr,"City Of Harahan, LA",Louisiana,Municipality,Emily Murnane,8967,,Tier 3,0.75,29.9405,-90.2031,8ef828d9-29f1-4094-86dd-11adce02b51b,,,,,,,,,,,,,,,
-001Hr000028ZcvM,"City Of Natchitoches, LA",Louisiana,Municipality,Emily Murnane,17662,Nurture,Tier 2,1.0,31.7607,-93.0863,7c628b02-794d-42d0-9231-4fc284bec839,Closed Lost,,,Ryan Minter,5/14/2026,5/12/2026,,,5,2026-05-14,1,4,,,
-001Hr000028Zcw7,"City Of Bastrop, LA",Louisiana,Municipality,Emily Murnane,9467,,Tier 3,0.75,32.7562,-91.8723,c63391e5-0644-44a3-9b3e-8ab325ea3f4c,,,,,,,,,14,2025-09-24,,,14,,
-001Hr000028Zcx6,"City Of Mandeville, LA",Louisiana,Municipality,Emily Murnane,13139,,Tier 2,1.0,30.3583,-90.0656,b768b4f4-054e-4189-b4c4-bdda82924e0e,,,,,,,,,13,2025-12-30,1,12,,,
-001Hr000028Zcz0,"City Of Monroe, LA",Louisiana,Municipality,Emily Murnane,47284,Nurture,Tier 1,1.5,32.5093,-92.1193,e51cc8e6-0164-4622-b895-65af6620e8b3,Closed Lost,,,Leila Assil,1/10/2025,1/5/2025,,,5,2025-09-22,,,5,,
-001Hr000028Zd0O,"City Of Crowley, LA",Louisiana,Municipality,Emily Murnane,11575,Open Opportunity,Tier 2,1.0,30.2141,-92.3746,a5b2c965-dc1e-4e6f-9ecf-be5e12bae6dd,Open,Initial Interest,Top of Funnel,Emily Murnane,,11/24/2025,,,7,2026-03-03,7,,,,
-001Hr000028Zd0S,"Consolidated Government Of Terrebonne, LA",Louisiana,County,Emily Murnane,33018,,Tier 1,1.5,29.5979,-90.718,ead00625-a704-4686-8fdd-5446aada247d,,,,,,,,,2,2026-05-11,,2,,,
-001Hr000028Zd4S,"City Of Sulphur, LA",Louisiana,Municipality,Emily Murnane,20641,,Tier 2,1.0,30.2366,-93.3774,c0275a2a-bce4-4f56-b311-e207d19b0067,,,,,,,,,8,2025-12-04,2,,6,,
-001Hr000028Zd4Y,"City Of Zachary, LA",Louisiana,Municipality,Emily Murnane,20007,,Tier 2,1.0,30.6485,-91.1565,23ce1502-a70c-41b1-b45a-6bafcecacbb8,,,,,,,,,11,2025-12-19,11,,,,
-001Hr000028Zd4m,"City Of Youngsville, LA",Louisiana,Municipality,Emily Murnane,16432,,Tier 2,1.0,30.0996,-91.9901,f9a084d0-c724-4ce7-a535-ff4a965990e7,,,,,,,,,14,2026-02-12,4,10,,,
-001Hr000028Zd4u,"City Of Pineville, LA",Louisiana,Municipality,Emily Murnane,14501,,Tier 2,1.0,31.3224,-92.4343,a9e7eb7e-5235-45ff-9d58-78f241fdcb6e,,,,,,,,,3,2025-12-22,3,,,,
-001Hr000028ZdA4,"City Of Hammond, LA",Louisiana,Municipality,Emily Murnane,19976,,Tier 2,1.0,30.5044,-90.4612,319cd0d9-e900-44cb-a608-179a42e39fc6,,,,,,,,,23,2025-12-19,6,17,,,
-001Hr000028ZdD0,"City Of Slidell, LA",Louisiana,Municipality,Emily Murnane,28658,,Tier 1,1.5,30.2752,-89.7812,b87bca8d-f265-4662-a5a1-d44ee556013c,,,,,,,,,3,2025-12-03,3,,,,
-001Hr000028ZdE8,"City Of Alexandria, LA",Louisiana,Municipality,Emily Murnane,44787,,Tier 1,1.5,31.3113,-92.4451,6c724b90-155a-40fb-80b5-22d45893dcf8,,,,,,,,,3,2026-05-11,1,2,,,
-001Hr000028ZdGM,"City Of New Iberia, LA",Louisiana,Municipality,Emily Murnane,27989,,Tier 1,1.5,30.0035,-91.8187,7fcf375e-9402-4bb4-af58-b85286a27fb9,,,,,,,,,22,2026-04-24,7,,15,,
-001Hr000028ZdH5,"City Of Central, LA",Louisiana,Municipality,Emily Murnane,29958,All Modules Live,Tier 1,1.5,30.5543,-91.0369,d2f78b6a-9378-4ec0-b8d0-6149abe9d227,,,,,,,,,,,,,,,
-001Hr000028ZdK5,"City Of Lake Charles, LA",Louisiana,Municipality,Emily Murnane,81097,Nurture,Tier S,2.0,30.2266,-93.2174,84996bec-27ae-43b6-8bc1-d38a906eae71,Closed Lost,,,Emily Murnane,11/18/2025,11/13/2025,,,20,2026-03-12,16,,,4,
-001Hr000028ZdKr,"Parish Of Jefferson, LA",Louisiana,County,Emily Murnane,427253,,Tier S,2.0,29.6499,-90.1121,4b54c04e-1cef-4888-9aca-af5e1b47350e,,,,,,,,,8,2025-12-30,4,,4,,
-001Hr000028ZdLx,"Parish Of Plaquemines, LA",Louisiana,County,Emily Murnane,23303,,Tier 2,1.0,29.324,-89.4742,dad74758-7a4a-4eb1-8fa3-bc3ea2d502d8,,,,,,,,,1,2025-09-12,,1,,,
-001Hr000028ZdNT,"City Of Bossier City, LA",Louisiana,Municipality,Emily Murnane,62865,Open Opportunity,Tier S,2.0,32.516,-93.7321,8d7523b5-065b-4f52-8e52-b8eb2e614f49,Open,Meeting Booked,Top of Funnel,Ryan Minter,5/27/2026,5/11/2026,,,3,2026-05-11,1,2,,,
-001Hr000028ZdS2,"Parish Of St Charles, LA",Louisiana,County,Emily Murnane,52282,,Tier S,2.0,29.9274,-90.3372,2247c2b0-c869-443e-879d-eeedcc7f7c2c,,,,,,,,,9,2025-10-14,2,,7,,
-001Hr000028ZdbD,"City Of Kenner, LA",Louisiana,Municipality,Emily Murnane,65364,,Tier S,2.0,29.9941,-90.2417,d59ae935-7a66-4390-ba2c-4813ef24c5bc,,,,,,,,,6,2026-05-11,2,3,,1,
-001Hr000028Zdc6,"Parish Of Iberia, LA",Louisiana,County,Emily Murnane,68975,,Tier S,2.0,29.5056,-91.7881,e35e514a-ebce-4243-8c1c-8766e6533675,,,,,,,,,1,2025-10-14,1,,,,
-001Hr000028Zdgx,"Parish Of St Mary, LA",Louisiana,County,Emily Murnane,48232,Open Opportunity,Tier 1,1.5,29.503,-91.4435,c14c5ecb-d269-4ba4-b9d0-47a612acd6ec,,,,,,,,,,,,,,,
-001Hr000028ZdiC,"Ascension Parish, LA",Louisiana,Municipality,Emily Murnane,130632,Open Opportunity,Tier S,2.0,30.2017,-90.9438,6240f379-8ef4-4eda-b253-9195734a572c,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,15,2025-11-03,9,,6,,
-001Hr000028Zdkk,"Parish Of Vernon, LA",Louisiana,County,Emily Murnane,48027,,Tier 1,1.5,31.132,-93.178,98272954-c0e9-4423-b739-ae7924fc0d89,,,,,,,,,,,,,,,
-001Hr000028Zdl9,"Livingston Parish, LA",Louisiana,Municipality,Emily Murnane,152886,,Tier S,2.0,30.434,-90.6773,9e526f19-29ba-4355-84be-b69f8745c451,,,,,,,,,3,2025-07-31,,,3,,
-001Hr000028Zdns,"Natchitoches Parish, LA",Louisiana,Municipality,Emily Murnane,,,Tier 3,0.75,31.6801,-93.178,447d9c3a-2f05-425b-a7f9-bc45d05032c9,,,,,,,,,1,2025-07-17,,,1,,
-001Hr000028ZdoI,"Parish Of St Martin, LA",Louisiana,County,Emily Murnane,51540,,Tier S,2.0,30.2396,-91.7539,10bc0110-bd4a-4200-b253-14218057a7b6,,,,,,,,,13,2025-11-19,13,,,,
-001Hr000028Zdp8,"Parish Of Evangeline, LA",Louisiana,County,Emily Murnane,32215,,Tier 1,1.5,30.7822,-92.3814,5fff6fed-6492-45f7-b260-f48d45f3f649,,,,,,,,,1,2025-09-12,,1,,,
-001Hr000028Zdpx,"Tangipahoa Parish, LA",Louisiana,Municipality,Emily Murnane,138064,,Tier S,2.0,30.6195,-90.3748,c61be62a-19da-423e-aae4-b09394ec51e3,,,,,,,,,38,2026-02-18,27,,11,,
-001Hr000028ZdqM,"Parish Of Assumption, LA",Louisiana,County,Emily Murnane,20689,,Tier 2,1.0,29.9233,-91.0969,caabaeff-9341-411b-977f-ed3c3faae86f,,,,,,,,,2,2025-09-15,,2,,,
-001Hr000028Zdt0,"Calcasieu Parish, LA",Louisiana,Municipality,Emily Murnane,203761,,Tier S,2.0,30.2089,-93.3389,cfc8e881-b891-4ad7-b074-a5cbdf908ebf,,,,,,,,,3,2026-05-11,2,1,,,
-001Hr000028ZdtJ,"Bossier Parish, LA",Louisiana,Municipality,Emily Murnane,131102,,Tier S,2.0,32.7551,-93.6623,7bf2b520-edab-476b-bd93-d86088144c05,,,,,,,,,,,,,,,
-001Hr000028ZduN,"Parish Of Lafourche, LA",Louisiana,County,Emily Murnane,97504,,Tier S,2.0,29.6952,-90.5258,b76754f4-cce2-47f0-9489-feb09bba14a7,,,,,,,,,14,2026-05-11,13,1,,,
-001Hr000028ZduS,"Parish Of Grant, LA",Louisiana,County,Emily Murnane,22236,,Tier 2,1.0,30.7885,-92.9485,edc57e76-6289-4c76-8499-5d15adc7e27c,,,,,,,,,,,,,,,
-001Hr000028Zdul,"Parish of East Feliciana, LA",Louisiana,Municipality,Emily Murnane,19250,,Tier 2,1.0,30.8459,-91.0203,b487db7f-f672-4f88-bf8e-5f6f8c1f9836,,,,,,,,,2,2026-04-13,2,,,,
-001Hr000028Zjsg,"City of St. George, LA",Louisiana,Municipality,Emily Murnane,86000,1+ Module Live,Tier S,2.0,30.3571,-91.0716,,Closed Won,,,,4/11/2025,1/4/2025,"$35,000",,,,,,,,
-001cv000006tEKD,"Parish Of Lincoln, LA",Louisiana,County,Emily Murnane,48152,,Tier 1,1.5,32.5989,-92.6984,e3e1bb50-e594-4511-adf3-40c410ee6f8b,,,,,,,,,5,2026-04-23,5,,,,
-001cv000007XdMt,"Parish Of Richland, LA",Louisiana,County,Emily Murnane,19805,,Tier 2,1.0,32.3887,-91.7928,a4a1f012-8cbf-4151-be85-0b675fe956aa,,,,,,,,,,,,,,,
-001cv000007XoJx,"Parish Of Jackson, LA",Louisiana,County,Emily Murnane,14876,,Tier 2,1.0,30.8374,-91.2176,17fa93c1-9389-43e3-bb72-13c76edc4893,,,,,,,,,2,2025-12-04,2,,,,
-001cv000007XrPi,"Parish Of Morehouse, LA",Louisiana,County,Emily Murnane,25025,Open Opportunity,Tier 1,1.5,32.7962,-91.7539,250af11a-fc15-490f-b24b-2b9b7fda59ed,Open,Initial Interest,Top of Funnel,Leila Assil,9/30/2025,9/22/2025,,,1,2025-09-30,,,,,1
-001cv00000AuWOV,"Town Of Erath, LA",Louisiana,Municipality,Emily Murnane,2018,,Tier 3,0.75,29.9583,-92.036,31f07536-5b51-4e9b-aa26-d9507f06d2c5,,,,,,,,,,,,,,,
-001cv00000AuWQW,"Town Of Sterlington, LA",Louisiana,Municipality,Emily Murnane,2045,,Tier 3,0.75,32.6956,-92.0842,ab3ad923-a1ca-4650-930d-e5e713e82f77,,,,,,,,,1,2026-02-05,1,,,,
-001cv00000AuWXT,"Town Of Benton, LA",Louisiana,Municipality,Emily Murnane,2055,,Tier 3,0.75,32.6949,-93.7418,e0b302fc-ae9e-4da4-bcd5-e90424c028fe,,,,,,,,,2,2025-08-01,,,2,,
-001cv00000AuWYm,"Town Of Kinder, LA",Louisiana,Municipality,Emily Murnane,2080,,Tier 3,0.75,30.4855,-92.8507,0365f4ce-9a7f-4d8e-8fe6-f46715995187,,,,,,,,,11,2026-03-04,11,,,,
-001cv00000AuWZH,"Town Of New Llano, LA",Louisiana,Municipality,Emily Murnane,2091,,Tier 3,0.75,31.1149,-93.2716,12e8f104-09c8-419c-a4f0-d81c23088742,,,,,,,,,,,,,,,
-001cv00000AuWpg,"Town Of Kentwood, LA",Louisiana,Municipality,Emily Murnane,2185,,Tier 3,0.75,30.9382,-90.509,510deedd-0013-4489-a734-7f80220e4221,,,,,,,,,,,,,,,
-001cv00000AuX6f,"Village Of Maurice, LA",Louisiana,Municipality,Emily Murnane,2273,,Tier 3,0.75,30.1085,-92.1246,55b73969-f16a-40fe-9bfe-7a3996d1fe51,,,,,,,,,,,,,,,
-001cv00000AuXNh,"Town Of Many, LA",Louisiana,Municipality,Emily Murnane,2473,,Tier 3,0.75,31.5688,-93.4841,27d058ff-f118-4a89-ade5-a12914426341,,,,,,,,,,,,,,,
-001cv00000AuXOY,"Town Of Lockport, LA",Louisiana,Municipality,Emily Murnane,2490,,Tier 3,0.75,29.646,-90.5393,e9f8c5ea-7fe0-468c-a8be-fe6ae0711718,,,,,,,,,,,,,,,
-001cv00000AuXTr,"Town Of Homer, LA",Louisiana,Municipality,Emily Murnane,2541,,Tier 3,0.75,32.7918,-93.0557,be4712a3-8b6a-4a1c-a6b4-f318f603a591,,,,,,,,,,,,,,,
-001cv00000AuXVX,"Town Of Delhi, LA",Louisiana,Municipality,Emily Murnane,2584,,Tier 3,0.75,32.4576,-91.4932,75c3694c-e278-4bcb-8f13-fa03834447be,,,,,,,,,,,,,,,
-001cv00000AuXVc,"Town Of Brusly, LA",Louisiana,Municipality,Emily Murnane,2587,,Tier 3,0.75,30.3944,-91.2537,08e890ba-2a87-4770-b7f4-f4e273974cbb,,,,,,,,,1,2025-12-04,1,,,,
-001cv00000AuXkg,"Town Of Gramercy, LA",Louisiana,Municipality,Emily Murnane,2860,,Tier 3,0.75,30.0474,-90.6898,b416f841-ad2d-4b11-b858-5dc9fc3abe42,,,,,,,,,1,2025-12-17,1,,,,
-001cv00000AuXm9,"Town Of Mamou, LA",Louisiana,Municipality,Emily Murnane,2901,,Tier 3,0.75,30.6338,-92.4193,0a471b83-f700-43b7-94e9-42649e6de520,,,,,,,,,,,,,,,
-001cv00000AuXnA,"City Of De Quincy, LA",Louisiana,Municipality,Emily Murnane,2939,,Tier 3,0.75,30.4505,-93.4332,fc98ecb9-4f7f-42c1-a014-37937c336486,,,,,,,,,,,,,,,
-001cv00000AuYAV,"Town Of Vinton, LA",Louisiana,Municipality,Emily Murnane,3171,,Tier 3,0.75,30.1911,-93.5814,a6675c64-be32-4444-bf12-20392c65ce28,,,,,,,,,,,,,,,
-001cv00000AuYAh,"Town Of Iowa, LA",Louisiana,Municipality,Emily Murnane,3180,,Tier 3,0.75,30.2368,-93.0136,3121edb3-5eef-438c-b663-5c35b5d8c32a,,,,,,,,,5,2025-12-22,5,,,,
-001cv00000AuYB0,"Town Of Ferriday, LA",Louisiana,Municipality,Emily Murnane,3085,,Tier 3,0.75,31.6302,-91.5546,edd85cdc-93cf-4bb8-b8af-e890882c9157,,,,,,,,,,,,,,,
-001cv00000AuYBi,"Town Of Greenwood, LA",Louisiana,Municipality,Emily Murnane,3103,,Tier 3,0.75,32.4429,-93.973,aea34fc3-a625-4f17-b419-27ebb39026e3,,,,,,,,,,,,,,,
-001cv00000AuYFI,"Town Of Vivian, LA",Louisiana,Municipality,Emily Murnane,3015,,Tier 3,0.75,32.8715,-93.9874,ed4df513-8eae-49a4-ac0a-fb7dd0c8c4d1,,,,,,,,,,,,,,,
-001cv00000AuYFL,"Town Of Sunset, LA",Louisiana,Municipality,Emily Murnane,3016,,Tier 3,0.75,30.4113,-92.0685,7d9fc210-7747-4bae-ba56-895d6225888a,,,,,,,,,,,,,,,
-001cv00000AuYG5,"Town Of Lutcher, LA",Louisiana,Municipality,Emily Murnane,3041,,Tier 3,0.75,30.0405,-90.699,e6adc2af-6110-4240-9969-79aee15dce1c,,,,,,,,,,,,,,,
-001cv00000AuYIG,"Town Of Farmerville, LA",Louisiana,Municipality,Emily Murnane,3318,,Tier 3,0.75,32.7735,-92.4057,750522b7-c0d4-43f3-85c5-a0ca25e06dd8,,,,,,,,,,,,,,,
-001cv00000AuYJ3,"Town Of Welsh, LA",Louisiana,Municipality,Emily Murnane,3351,,Tier 3,0.75,30.236,-92.8226,f08cf482-5c37-413b-91df-2df0f9450d0a,,,,,,,,,,,,,,,
-001cv00000AuYLa,"Town Of Blanchard, LA",Louisiana,Municipality,Emily Murnane,3438,,Tier 3,0.75,32.581,-93.8927,97e6fda6-cdfe-4a84-bea0-9f41cdccf17d,,,,,,,,,,,,,,,
-001cv00000AuYPr,"City Of Bunkie, LA",Louisiana,Municipality,Emily Murnane,3274,,Tier 3,0.75,30.9532,-92.1826,229414d5-3484-4aae-80b9-df7f04911a7d,,,,,,,,,,,,,,,
-001cv00000AuYQ8,"Town Of Rayville, LA",Louisiana,Municipality,Emily Murnane,3283,,Tier 3,0.75,32.4774,-91.7548,fc3592e2-695e-42d6-b79d-5d3f0f13e8f9,,,,,,,,,,,,,,,
-001cv00000AuYS5,"Town Of Franklinton, LA",Louisiana,Municipality,Emily Murnane,3581,,Tier 3,0.75,30.8471,-90.1531,727b59c3-bda3-4b9e-9f4b-b9e3672346a5,,,,,,,,,,,,,,,
-001cv00000AuYfx,"Town Of Amite City, LA",Louisiana,Municipality,Emily Murnane,3811,,Tier 3,0.75,30.7266,-90.509,ecd374b7-ff0c-4390-97fb-65b45119498a,,,,,,,,,9,2026-01-14,9,,,,
-001cv00000AuYgI,"Town Of Vidalia, LA",Louisiana,Municipality,Emily Murnane,3828,,Tier 3,0.75,31.5654,-91.426,e20e785e-4139-4c01-a299-2600b35f4023,,,,,,,,,,,,,,,
-001cv00000AuYhI,"Town Of Ball, LA",Louisiana,Municipality,Emily Murnane,3885,,Tier 3,0.75,31.4155,-92.4118,0444427e-9b1d-4d8f-a65f-1dee44d554aa,,,,,,,,,,,,,,,
-001cv00000AuYlX,"City Of Winnfield, LA",Louisiana,Municipality,Emily Murnane,3994,,Tier 3,0.75,31.9254,-92.6396,9e030412-451e-44c6-b23b-e69634057bb4,,,,,,,,,,,,,,,
-001cv00000AuYly,"Town Of Richwood, LA",Louisiana,Municipality,Emily Murnane,4013,,Tier 3,0.75,32.4488,-92.0849,ab46755c-050d-4f14-b91c-adbeb8c86d01,,,,,,,,,,,,,,,
-001cv00000AuYmY,"Parish Of Tensas, LA",Louisiana,County,Emily Murnane,4043,,Tier 3,0.75,32.0772,-91.2891,edf2c321-0ab8-426c-ab86-4b3f385ca3eb,,,,,,,,,,,,,,,
-001cv00000AuYob,"Town Of Church Point, LA",Louisiana,Municipality,Emily Murnane,4144,,Tier 3,0.75,30.403,-92.2151,c7fa4ee7-5907-492b-b75c-5d8c0034510e,,,,,,,,,,,,,,,
-001cv00000AuYpA,"Town Of Jonesboro, LA",Louisiana,Municipality,Emily Murnane,4181,,Tier 3,0.75,32.2413,-92.716,6c51b09f-9224-4194-8869-27ad1e6d1b47,,,,,,,,,,,,,,,
-001cv00000AuYqy,"Town Of Jackson, LA",Louisiana,Municipality,Emily Murnane,3678,,Tier 3,0.75,30.8374,-91.2176,5cd9a44b-b0fa-449a-9bbf-3b83c9fb608d,,,,,,,,,,,,,,,
-001cv00000AuYsf,"Town Of Jena, LA",Louisiana,Municipality,Emily Murnane,3757,,Tier 3,0.75,31.6832,-92.1337,edb6ebe6-df12-4257-8bfe-adaf868232d8,,,,,,,,,,,,,,,
-001cv00000AuYsk,"Town Of Lake Providence, LA",Louisiana,Municipality,Emily Murnane,3759,,Tier 3,0.75,32.8043,-91.1701,742a07bb-d630-4aab-8b7c-d49471cddc0b,,,,,,,,,,,,,,,
-001cv00000AuYuj,"City Of Kaplan, LA",Louisiana,Municipality,Emily Murnane,4277,,Tier 3,0.75,29.998,-92.2849,1dae0e72-41ea-42a2-8297-db24dc6a16c5,,,,,,,,,,,,,,,
-001cv00000AuYwO,"City Of New Roads, LA",Louisiana,Municipality,Emily Murnane,4379,,Tier 3,0.75,30.7016,-91.4362,635acc54-fdfd-484b-9294-9b1429ef20ff,,,,,,,,,,,,,,,
-001cv00000AuYys,"Town Of Haughton, LA",Louisiana,Municipality,Emily Murnane,4484,,Tier 3,0.75,32.5327,-93.5041,8a91efa3-506a-4b3e-9fe9-3d3672d8fceb,,,,,,,,,,,,,,,
-001cv00000AuYzb,"City Of Mansfield, LA",Louisiana,Municipality,Emily Murnane,4529,,Tier 3,0.75,32.0377,-93.7002,ff7eda89-6180-42c2-b64c-e9c8ade95d68,,,,,,,,,,,,,,,
-001cv00000AuZIB,"City Of Port Allen, LA",Louisiana,Municipality,Emily Murnane,4956,,Tier 3,0.75,30.4475,-91.2073,80ff4186-25ec-4d8e-ac64-5ee0109f0365,,,,,,,,,7,2025-12-29,7,,,,
-001cv00000AuZMB,"City Of Winnsboro, LA",Louisiana,Municipality,Emily Murnane,4824,,Tier 3,0.75,32.1632,-91.7207,c83e2c53-0ab1-4627-91cb-88b1cb7acb70,,,,,,,,,,,,,,,
-001cv00000AuZNx,"City Of Marksville, LA",Louisiana,Municipality,Emily Murnane,4946,,Tier 3,0.75,31.128,-92.0662,422e4289-82ad-4187-9495-563e63f9f6ea,,,,,,,,,,,,,,,
-001cv00000AuZOt,"Parish Of East Carroll, LA",Louisiana,County,Emily Murnane,7220,,Tier 3,0.75,32.7571,-91.2506,58fdbcf4-7707-416a-81da-caaa7de81d4f,,,,,,,,,,,,,,,
-001cv00000AuZRU,"Parish Of Red River, LA",Louisiana,County,Emily Murnane,7564,,Tier 3,0.75,32.0843,-93.3792,7d7692dc-c82a-47ae-af48-a44c469deb25,,,,,,,,,2,2025-09-15,,2,,,
-001cv00000AuZSw,"Parish Of Cameron, LA",Louisiana,County,Emily Murnane,5080,,Tier 3,0.75,29.8434,-93.178,d180f282-425d-4db1-ac5b-0debe8be5196,,,,,,,,,9,2025-12-29,9,,,,
-001cv00000AuZZz,"Parish Of Caldwell, LA",Louisiana,County,Emily Murnane,9571,,Tier 3,0.75,32.067,-92.0665,d867e4dc-f848-4473-b16b-b0af1858e606,,,,,,,,,,,,,,,
-001cv00000AuZdY,"Parish Of Catahoula, LA",Louisiana,County,Emily Murnane,8805,,Tier 3,0.75,31.7053,-91.9099,6747b408-f105-4ad5-aade-e0f3c0740036,,,,,,,,,,,,,,,
-001cv00000AuZfa,"Parish Of Bienville, LA",Louisiana,County,Emily Murnane,12776,,Tier 2,1.0,32.4107,-93.0176,ec8013a6-2d46-4771-98b9-fdb2b6a1c4f3,,,,,,,,,,,,,,,
-001cv00000AuZgH,"Parish Of Winn, LA",Louisiana,County,Emily Murnane,13488,,Tier 2,1.0,31.9196,-92.6586,a17395a9-3bd8-4894-a662-cfcb5ccf7015,,,,,,,,,,,,,,,
-001cv00000AuZhQ,"Parish Of Lasalle, LA",Louisiana,County,Emily Murnane,14834,,Tier 2,1.0,31.7002,-92.2237,81154bc3-0226-4b30-b090-87f0653fa94d,,,,,,,,,,,,,,,
-001cv00000AuZji,"Parish Of West Carroll, LA",Louisiana,County,Emily Murnane,9594,,Tier 3,0.75,32.7546,-91.4821,4f428a57-89dd-4d1b-a7dd-b040a15a46ae,,,,,,,,,,,,,,,
-001cv00000AuZjw,"City Of Jennings, LA",Louisiana,Municipality,Emily Murnane,9697,,Tier 3,0.75,30.2224,-92.6571,ac885fb2-b682-4ab9-a2f2-b96b1f21e7bc,,,,,,,,,16,2025-12-05,3,13,,,
-001cv00000AuZkD,"Parish Of Madison, LA",Louisiana,County,Emily Murnane,9799,,Tier 3,0.75,32.4402,-91.2891,6d612d9f-ae45-4983-9207-cbb51b486515,,,,,,,,,,,,,,,
-001cv00000AuZlc,"Parish Of St Helena, LA",Louisiana,County,Emily Murnane,10912,Nurture,Tier 2,1.0,30.8022,-90.6773,95c0e896-6e68-4bd6-b0b3-3e802024e1df,Closed Lost,,,Andy Blakely,7/21/2025,7/17/2025,"$19,000",,,,,,,,
-001cv00000AuZnW,"Parish Of Claiborne, LA",Louisiana,County,Emily Murnane,14038,,Tier 2,1.0,32.7723,-93.0176,9d9f44f5-3d20-4168-848c-a43d4211ea86,,,,,,,,,,,,,,,
-001cv00000AuZoY,"Parish Of West Feliciana, LA",Louisiana,County,Emily Murnane,15494,,Tier 2,1.0,30.8423,-91.4048,5e1f1d26-6524-4306-86aa-ea019f41d2d6,,,,,,,,,,,,,,,
-001cv00000AuZt3,"Parish Of East Feliciana, LA",Louisiana,County,Emily Murnane,19338,,Tier 2,1.0,30.8459,-91.0203,b487db7f-f672-4f88-bf8e-5f6f8c1f9836,,,,,,,,,,,,,,,
-001cv00000AuZtI,"Parish Of Franklin, LA",Louisiana,County,Emily Murnane,19668,,Tier 2,1.0,29.796,-91.5015,293fe2ee-b953-4fff-8a1d-f6752c647b44,,,,,,,,,,,,,,,
-001cv00000AuZuT,"Parish Of Concordia, LA",Louisiana,County,Emily Murnane,18376,,Tier 2,1.0,31.4809,-91.6372,fb5fe345-3120-4952-ab4a-6cf7133fd8fc,,,,,,,,,,,,,,,
-001cv00000AuZxV,"Parish Of Union, LA",Louisiana,County,Emily Murnane,21091,,Tier 2,1.0,30.0915,-90.9001,604b3020-1c66-44cc-a9a4-914eb37d1abc,,,,,,,,,4,2025-10-07,,4,,,
-001cv00000Aua18,"Parish Of Iberville, LA",Louisiana,County,Emily Murnane,29824,Open Opportunity,Tier 1,1.5,30.2899,-91.4048,838c30a5-d9b7-442e-96ef-0234604dbdca,Open,Initial Interest,Top of Funnel,Ryan Minter,9/17/2025,9/12/2025,,,2,2025-09-16,,2,,,
-001cv00000Aua34,"Parish Of St James, LA",Louisiana,County,Emily Murnane,19742,,Tier 2,1.0,30.0179,-90.7913,2b049b6b-b8c8-4809-b71d-4ea74d7c4a1e,,,,,,,,,13,2025-12-17,5,8,,,
-001cv00000Aua3d,"Parish Of Pointe Coupee, LA",Louisiana,County,Emily Murnane,20356,,Tier 2,1.0,30.6102,-91.5984,a2642d27-56a0-47ca-b940-4c7c42e70f23,,,,,,,,,2,2025-09-12,,2,,,
-001cv00000Aua7L,"Parish Of Avoyelles, LA",Louisiana,County,Emily Murnane,39236,,Tier 1,1.5,30.9712,-92.0665,7b7b7659-30f0-4c18-8a72-d8e51ae65a47,,,,,,,,,,,,,,,
-001cv00000Aua8e,"Parish Of Jefferson Davis, LA",Louisiana,County,Emily Murnane,32345,,Tier 1,1.5,30.2672,-92.8178,bf073121-64e9-40ea-b002-e9128d8f2728,,,,,,,,,3,2026-01-07,3,,,,
-001cv00000Aua9e,"Parish Of Sabine, LA",Louisiana,County,Emily Murnane,22135,,Tier 2,1.0,31.4893,-93.5003,ce7c406d-c5ef-4b03-845e-3e919a2c6363,,,,,,,,,,,,,,,
-001cv00000Aua9z,"Parish Of Allen, LA",Louisiana,County,Emily Murnane,22687,,Tier 2,1.0,31.8353,-93.2883,88f14693-b5d5-4108-91bb-0d52c4ecebb7,,,,,,,,,5,2025-10-24,5,,,,
-001cv00000AuaBm,"Parish Of De Soto, LA",Louisiana,County,Emily Murnane,26919,,Tier 1,1.5,32.0311,-93.6623,e0bdce59-7c7b-441f-94ac-30669ad1e58d,,,,,,,,,,,,,,,
-001cv00000AuaCB,"Parish Of West Baton Rouge, LA",Louisiana,County,Emily Murnane,27792,,Tier 1,1.5,30.4751,-91.3276,06bc73e3-f92d-4a2a-8f2c-282435bc1e44,,,,,,,,,6,2026-04-21,4,,2,,
-001cv00000AuaDK,"Parish Of Webster, LA",Louisiana,County,Emily Murnane,36184,,Tier 1,1.5,32.7641,-93.3389,408c7a2c-4424-439b-ad43-0d6ece1e3577,,,,,,,,,,,,,,,
-001cv00000AuaDS,"Parish Of Beauregard, LA",Louisiana,County,Emily Murnane,36584,,Tier 1,1.5,30.7611,-93.3389,03c15f01-7130-4cbd-9118-9ad0f20bae85,,,,,,,,,,,,,,,
-001cv00000AuaGK,"Parish Of St John The Baptist, LA",Louisiana,County,Emily Murnane,42094,,Tier 1,1.5,30.1118,-90.488,126cf3b5-88a6-445a-b82c-05445efb7410,,,,,,,,,9,2025-09-12,,,9,,
-001cv00000AuaHB,"Parish Of St Bernard, LA",Louisiana,County,Emily Murnane,44258,,Tier 1,1.5,29.9719,-89.2467,66de8acc-387c-41f6-a35d-987684bd2657,,,,,,,,,4,2026-01-12,4,,,,
-001cv00000AuaHU,"Parish Of Washington, LA",Louisiana,County,Emily Murnane,45133,,Tier 1,1.5,30.8039,-90.0747,9248b9a3-cda4-4e0e-8942-fb1c7af7f6f5,,,,,,,,,,,,,,,
-001cv00000AuaNe,"Parish Of Vermilion, LA",Louisiana,County,Emily Murnane,57204,,Tier S,2.0,29.8601,-92.3814,c66ca0ed-00bf-4763-a35c-8ea825098cf2,,,,,,,,,,,,,,,
-001cv00000AuaNg,"Parish Of Acadia, LA",Louisiana,County,Emily Murnane,57288,,Tier S,2.0,30.2297,-92.3814,8fd1ef78-3112-453c-9a47-308f5811c272,,,,,,,,,2,2025-10-14,2,,,,
-001cv00000AuaXF,"Parish Of St Landry, LA",Louisiana,County,Emily Murnane,82071,,Tier S,2.0,30.6037,-92.0665,4eee3cc5-5e02-4e09-8c3f-5632ba5e85f3,,,,,,,,,1,2026-05-11,,1,,,
-001cv00000B21rU,"Town Of Stonewall, LA",Louisiana,Municipality,Emily Murnane,2428,,Tier 3,0.75,32.2818,-93.8241,545bdbf5-cd6a-4d8a-bc0c-cecd56402cf3,,,,,,,,,,,,,,,
-001cv00000B21wY,"Town Of Lake Arthur, LA",Louisiana,Municipality,Emily Murnane,2622,,Tier 3,0.75,30.0807,-92.6713,68c0c029-c793-47c2-ab20-aa2de4e971e2,,,,,,,,,,,,,,,
-001cv00000B21wq,"Town Of Pearl River, LA",Louisiana,Municipality,Emily Murnane,2630,,Tier 3,0.75,30.376,-89.7484,78cc5a65-2b24-42f3-8e44-cd393e9c8362,,,,,,,,,,,,,,,
-001cv00000B21xm,"Town Of Arcadia, LA",Louisiana,Municipality,Emily Murnane,2657,,Tier 3,0.75,32.549,-92.9202,20bf4bbb-a371-4c18-bf68-5b3d69200910,,,,,,,,,,,,,,,
-001cv00000B21yd,"Town Of Abita Springs, LA",Louisiana,Municipality,Emily Murnane,2678,,Tier 3,0.75,30.4785,-90.0376,335fc8e0-359a-4357-a882-ad28139efea3,,,,,,,,,,,,,,,
-001cv00000B2216,"Town Of Berwick, LA",Louisiana,Municipality,Emily Murnane,4644,,Tier 3,0.75,29.6947,-91.219,9474a1be-d2c2-42d7-9e44-20dea5c8ae44,,,,,,,,,,,,,,,
-001cv00000B221f,"City Of Westlake, LA",Louisiana,Municipality,Emily Murnane,4686,,Tier 3,0.75,30.2421,-93.2507,e765ba74-ebbe-4716-a8e0-231b542d743d,,,,,,,,,2,2025-12-03,2,,,,
-001cv00000B221q,"City Of Springhill, LA",Louisiana,Municipality,Emily Murnane,4702,,Tier 3,0.75,33.006,-93.4668,4d953685-725b-4cd1-b9f6-66f9ad26ecd7,,,,,,,,,,,,,,,
-001cv00000B2224,"City Of Jeanerette, LA",Louisiana,Municipality,Emily Murnane,4717,,Tier 3,0.75,29.911,-91.6634,8fdfc131-7b30-4a69-879d-ebf07d90afbb,,,,,,,,,,,,,,,
-001cv00000L9Io1,"Rapides Area Planning Commission, LA",Louisiana,County,Emily Murnane,125899,,Tier S,2.0,31.308,-92.4472,7670df67-1d35-4bd6-acaa-ff1edfc3e275,,,,,,,,,18,2026-03-04,10,8,,,
-001cv00000bBVi5,Town of Madisonville,Louisiana,Municipality,Asher Rosenfeld,875,,Tier 3,0.75,30.4044,-90.157,43d061d1-a33c-49b5-bf43-2f55bfc2501b,,,,,,,,,,,,,,,
-001cv00000bBVlc,Town of Grand Isle,Louisiana,Municipality,Asher Rosenfeld,991,,Tier 3,0.75,29.2366,-89.9873,c25a80e5-c232-4b74-bc95-dd491b4df933,,,,,,,,,,,,,,,
-001cv00000bBVsk,Town of Livonia,Louisiana,Municipality,Asher Rosenfeld,1161,,Tier 3,0.75,30.5591,-91.5559,75597ce0-d02c-4dd8-a377-ee5c49b1fc97,,,,,,,,,,,,,,,
-001cv00000bBVxy,Town of Oberlin,Louisiana,Municipality,Asher Rosenfeld,1287,,Tier 3,0.75,30.6202,-92.7626,f83ad6c7-d914-403d-ab9b-99bb9d50950a,,,,,,,,,,,,,,,
-001cv00000bBW3o,Town of Port Barre,Louisiana,Municipality,Asher Rosenfeld,1740,,Tier 3,0.75,30.5602,-91.954,eece64a9-14a1-48d5-80ee-ac0d44d91bbe,,,,,,,,,,,,,,,
-001cv00000bBW3x,Town of Woodworth,Louisiana,Municipality,Asher Rosenfeld,1749,,Tier 3,0.75,31.1471,-92.4971,734addb2-0df8-4e65-a41f-901384aed1ed,,,,,,,,,,,,,,,
-001cv00000bBWDh,Town of Livingston,Louisiana,Municipality,Asher Rosenfeld,1980,,Tier 3,0.75,30.5021,-90.7479,6c6586de-626d-405f-83af-5e24c7b07058,,,,,,,,,,,,,,,
-001cv00000bBWNe,Town of Henderson,Louisiana,Municipality,Asher Rosenfeld,1605,,Tier 3,0.75,30.3133,-91.7904,d0c80559-f058-4066-a333-5bf530d6a876,,,,,,,,,,,,,,,
-001cv00000bBWSS,City-Parish of Lafayette,Louisiana,Municipality,Asher Rosenfeld,122280,,Tier S,2.0,30.2241,-92.0198,206ec898-4d8f-4016-a990-d86309ad7899,,,,,,,,,,,,,,,
-001cv00000bBWTc,Ouachita Parish,Louisiana,County,Asher Rosenfeld,157874,,Tier S,2.0,32.4272,-92.2237,8f703f6f-ea1b-456e-8e14-38a30506761b,,,,,,,,,,,,,,,
-001cv00000bBWTn,City of Shreveport,Louisiana,Municipality,Asher Rosenfeld,176578,,Tier S,2.0,32.513,-93.7515,45d8541f-8247-4839-8eb2-385dd5c74c92,,,,,,,,,,,,,,,
-001cv00000bBWub,Town of Saint Francisville,Louisiana,Municipality,Asher Rosenfeld,1484,,Tier 3,0.75,30.7881,-91.3768,06244a4f-e765-49c2-82eb-6a73b8526072,,,,,,,,,,,,,,,
-001cv00000bBWyd,City-Parish of Baton Rouge?East Baton Rouge,Louisiana,Municipality,Asher Rosenfeld,220907,,Tier S,2.0,,,63b43433-7d97-43c8-a6e1-91a0a29bbe72,,,,,,,,,,,,,,,
-001cv00000bBWye,Caddo Parish,Louisiana,County,Asher Rosenfeld,224893,,Tier S,2.0,32.6137,-93.8655,236a11e9-977d-453a-beaa-e0bf48b6d2b1,,,,,,,,,,,,,,,
-001cv00000bBWyw,Lafayette Consolidated Government,Louisiana,County,Asher Rosenfeld,254241,,Tier S,2.0,30.2206,-92.0247,4cf90666-47c9-4da9-8551-e7fa25135fef,,,,,,,,,,,,,,,
-001cv00000bBWzF,St. Tammany Parish,Louisiana,County,Asher Rosenfeld,277615,,Tier S,2.0,30.4357,-89.9253,fe9683bc-0596-4717-88f6-86c2fd6ea1d0,,,,,,,,,,,,,,,
-001cv00000bBX0g,City of New Orleans,Louisiana,Municipality,Asher Rosenfeld,362701,,Tier S,2.0,29.9509,-90.0758,5da38590-db39-45df-aebb-48bed64f65b4,,,,,,,,,,,,,,,
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Emily Murnane,Calls - Ryan Minter,Calls - Leila Assil,Calls - Quinzel Perry,Calls - Jenny Allison,Outreach ID
+001Hr000028ZbbD,"City Of Franklin, LA",Louisiana,Municipality,Emily Murnane,6546,,Tier 3,0.75,29.796,-91.5015,026c3837-d63b-46af-88e0-16c8bad4891b,,,,,,,,,3,2026-04-15,3,,,,,3947
+001Hr000028ZbmX,"City Of Abbeville, LA",Louisiana,Municipality,Emily Murnane,11048,,Tier 2,1.0,29.9747,-92.1343,6b09c38f-7bec-4fc0-8112-a3fdeb6aa277,,,,,,,,,5,2026-03-11,1,4,,,,4739
+001Hr000028Zby3,"City Of Bogalusa, LA",Louisiana,Municipality,Emily Murnane,10569,Nurture,Tier 2,1.0,30.791,-89.8487,5ca01248-8860-4214-ba7e-0754b58e0df3,Closed Lost,,,Liam Shaw,7/9/2024,1/5/2025,,,3,2026-03-06,3,,,,,4687
+001Hr000028Zc1j,"City Of Morgan City, LA",Louisiana,Municipality,Emily Murnane,11156,Nurture,Tier 2,1.0,29.6994,-91.2068,8a7d1fe6-1c3e-4ffe-aef9-ec8bde77677a,Closed Lost,,,Leila Assil,1/14/2025,1/5/2025,"$19,000",,4,2026-03-05,4,,,,,4763
+001Hr000028ZcAR,"City Of Carencro, LA",Louisiana,Municipality,Emily Murnane,10835,,Tier 2,1.0,30.3171,-92.049,bcc6f731-3821-4bfa-9f69-3cbfca1458f8,,,,,,,,,2,2025-10-27,2,,,,,4499
+001Hr000028ZcBn,"City Of Oakdale, LA",Louisiana,Municipality,Emily Murnane,6985,Nurture,Tier 3,0.75,30.8168,-92.6586,ef4c1052-f5bf-4acb-b0d1-d53e1fbe8415,Closed Lost,,,Liam Shaw,7/11/2024,1/5/2025,,,6,2025-10-29,4,,,2,,3991
+001Hr000028ZcCa,"City Of Westwego, LA",Louisiana,Municipality,Emily Murnane,8400,,Tier 3,0.75,29.906,-90.1423,e398f142-5f41-4cbc-89be-574cd165ba04,,,,,,,,,3,2026-03-31,3,,,,,4318
+001Hr000028ZcDG,"City Of Tallulah, LA",Louisiana,Municipality,Emily Murnane,6068,,Tier 3,0.75,32.4085,-91.1868,d3463287-bce0-4ee3-85b2-44d3e96a3428,,,,,,,,,,,,,,,,3921
+001Hr000028ZcQd,"City Of Grambling, LA",Louisiana,Municipality,Emily Murnane,5095,Nurture,Tier 3,0.75,32.5277,-92.714,704d3802-1dcd-4323-a7e0-2c11be374ca2,Closed Lost,,,Liam Shaw,5/30/2024,1/5/2025,,,6,2026-04-08,6,,,,,3496
+001Hr000028ZcRF,"City Of Ville Platte, LA",Louisiana,Municipality,Emily Murnane,6368,,Tier 3,0.75,30.688,-92.2715,0a9ff737-b644-46a9-b408-3681bfe3279e,,,,,,,,,3,2025-07-01,,,,3,,3994
+001Hr000028ZcSP,"Town Of Addis, LA",Louisiana,Municipality,Emily Murnane,7538,,Tier 3,0.75,30.3538,-91.2654,91cc118c-8a76-4d2b-aaad-b82dc6a05538,,,,,,,,,3,2025-12-12,3,,,,,3634
+001Hr000028ZcTO,"City Of St Martinville, LA",Louisiana,Municipality,Emily Murnane,5436,Nurture,Tier 3,0.75,30.1231,-91.8295,c0390c1f-564f-47eb-978c-c04a7319ee4f,Closed Lost,,,Andy Blakely,8/6/2025,7/29/2025,,,,,,,,,,3703
+001Hr000028ZcUo,"City Of Rayne, LA",Louisiana,Municipality,Emily Murnane,7160,,Tier 3,0.75,30.2349,-92.2685,8a4d575b-9654-4ab6-8553-a39583f12bc8,,,,,,,,,2,2025-12-03,2,,,,,4055
+001Hr000028ZcXt,"Town Of Walker, LA",Louisiana,Municipality,Emily Murnane,6413,,Tier 3,0.75,30.488,-90.8615,ce553850-255b-4086-a77a-d7b10c277d77,,,,,,,,,10,2025-12-16,10,,,,,3826
+001Hr000028ZcY9,"City Of Covington, LA",Louisiana,Municipality,Emily Murnane,11475,,Tier 2,1.0,30.4755,-90.1009,73d0f720-a584-4980-a125-eef9115d1c0b,,,,,,,,,21,2026-04-24,11,,10,,,4718
+001Hr000028Zcb7,"City Of Patterson, LA",Louisiana,Municipality,Emily Murnane,5793,,Tier 3,0.75,29.6933,-91.302,3978a272-b4ed-4a6a-8525-f75fde78ce34,,,,,,,,,,,,,,,,3704
+001Hr000028Zcbb,"City Of Ruston, LA",Louisiana,Municipality,Emily Murnane,22277,Nurture,Tier 2,1.0,32.5232,-92.6379,4f86601a-b7fe-468a-bfba-4cfcae23649a,Closed Lost,,,Liam Shaw,6/11/2024,1/5/2025,,,6,2026-02-04,6,,,,,5531
+001Hr000028Zcd2,"City Of Breaux Bridge, LA",Louisiana,Municipality,Emily Murnane,7561,,Tier 3,0.75,30.2735,-91.8993,5a2e5d53-b316-45fd-9122-133821bdf5b4,,,,,,,,,1,2026-03-10,1,,,,,4138
+001Hr000028ZcdS,"City Of Baker, LA",Louisiana,Municipality,Emily Murnane,12434,,Tier 2,1.0,30.5882,-91.1682,ce129bff-d3eb-4872-a698-9c1c195cdc4f,,,,,,,,,13,2025-12-12,13,,,,,4896
+001Hr000028ZchQ,"City Of De Ridder, LA",Louisiana,Municipality,Emily Murnane,9745,,Tier 3,0.75,30.8463,-93.2891,1e085420-93ba-45a3-9b29-2a1608fef2be,,,,,,,,,3,2025-10-30,3,,,,,4576
+001Hr000028ZchV,"City Of Opelousas, LA",Louisiana,Municipality,Emily Murnane,15558,,Tier 2,1.0,30.5335,-92.0815,39ab3ae5-3dff-493b-a66d-2cad72762629,,,,,,,,,8,2026-05-11,,8,,,,5165
+001Hr000028Zchd,"City Of Gonzales, LA",Louisiana,Municipality,Emily Murnane,12574,1+ Module Live,Tier 2,1.0,30.2385,-90.9201,205dec97-dd24-4995-adf6-33a33bac2493,Closed Won,,,Asher Rosenfeld,7/9/2024,1/5/2025,"$30,000",,,,,,,,,4826
+001Hr000028Zchk,"City Of Broussard, LA",Louisiana,Municipality,Emily Murnane,13782,,Tier 2,1.0,30.1471,-91.9612,057623f7-c03e-4ccf-ae1c-0e85fefc7202,,,,,,,,,4,2025-12-18,2,2,,,,4919
+001Hr000028Zchq,"City Of Leesville, LA",Louisiana,Municipality,Emily Murnane,5472,,Tier 3,0.75,31.1435,-93.261,c24eca05-6f86-458a-945b-0b994c604f5f,,,,,,,,,1,2026-03-02,1,,,,,3672
+001Hr000028ZckS,"City Of Scott, LA",Louisiana,Municipality,Emily Murnane,8116,,Tier 3,0.75,30.2358,-92.0946,a9685969-0b45-484c-b0dd-c86a2489768b,,,,,,,,,6,2026-02-02,6,,,,,4246
+001Hr000028ZckU,"City Of Thibodaux, LA",Louisiana,Municipality,Emily Murnane,15237,,Tier 2,1.0,29.7958,-90.8229,d8264ddf-e6a7-4f19-9222-24c59f5dc6b2,,,,,,,,,2,2025-12-30,1,1,,,,5118
+001Hr000028ZclB,"City Of Ponchatoula, LA",Louisiana,Municipality,Emily Murnane,7927,,Tier 3,0.75,30.4388,-90.4415,20e98b0d-4e6f-4592-b87e-1252238c232c,,,,,,,,,2,2026-03-02,2,,,,,4143
+001Hr000028ZclT,"City Of Plaquemine, LA",Louisiana,Municipality,Emily Murnane,5928,,Tier 3,0.75,30.2891,-91.2343,a24aa4b7-bba7-4d92-b2bf-4a77ec8be4c8,,,,,,,,,9,2025-12-17,9,,,,,3898
+001Hr000028Zcm4,"City Of Donaldsonville, LA",Louisiana,Municipality,Emily Murnane,6762,,Tier 3,0.75,30.101,-90.9929,2aba30db-0455-4bf7-abee-50dfe56570f3,,,,,,,,,1,2025-12-31,1,,,,,4295
+001Hr000028Zcm9,"City Of Minden, LA",Louisiana,Municipality,Emily Murnane,11769,,Tier 2,1.0,32.6154,-93.2868,cf1ae53b-5837-4385-a11f-04df28654948,,,,,,,,,21,2026-03-13,9,12,,,,4832
+001Hr000028ZcmB,"City Of Gretna, LA",Louisiana,Municipality,Emily Murnane,17590,,Tier 2,1.0,29.9146,-90.054,2f79d850-aaa0-456f-8100-6d1aae681ed8,,,,,,,,,14,2026-05-11,12,2,,,,5295
+001Hr000028Zcn5,"City Of St Gabriel, LA",Louisiana,Municipality,Emily Murnane,7121,,Tier 3,0.75,30.2577,-91.0993,977b17e9-fc2a-4619-ad8e-50a7988933e1,,,,,,,,,2,2026-01-13,2,,,,,3977
+001Hr000028Zcrt,"City Of West Monroe, LA",Louisiana,Municipality,Emily Murnane,12856,Nurture,Tier 2,1.0,32.5185,-92.1476,f5e38f23-b2ac-460f-846c-0132476a96a4,Closed Lost,,,Liam Shaw,6/27/2024,1/5/2025,,,4,2025-11-12,4,,,,,4934
+001Hr000028Zcs1,"City Of Denham Springs, LA",Louisiana,Municipality,Emily Murnane,9328,Nurture,Tier 3,0.75,30.4869,-90.9562,ed16e4c2-d42b-466a-b009-84bc5bd083b9,Closed Lost,,,Liam Shaw,6/27/2024,1/5/2025,,,1,2025-12-04,1,,,,,4475
+001Hr000028Zctd,"City Of Eunice, LA",Louisiana,Municipality,Emily Murnane,9310,,Tier 3,0.75,30.4944,-92.4176,9e61dd3d-b1bd-439c-b4b5-5cddeae668ac,,,,,,,,,,,,,,,,4506
+001Hr000028Zctr,"City Of Harahan, LA",Louisiana,Municipality,Emily Murnane,8967,,Tier 3,0.75,29.9405,-90.2031,8ef828d9-29f1-4094-86dd-11adce02b51b,,,,,,,,,,,,,,,,4429
+001Hr000028ZcvM,"City Of Natchitoches, LA",Louisiana,Municipality,Emily Murnane,17662,Nurture,Tier 2,1.0,31.7607,-93.0863,7c628b02-794d-42d0-9231-4fc284bec839,Closed Lost,,,Ryan Minter,5/14/2026,5/12/2026,,,5,2026-05-14,1,4,,,,5306
+001Hr000028Zcw7,"City Of Bastrop, LA",Louisiana,Municipality,Emily Murnane,9467,,Tier 3,0.75,32.7562,-91.8723,c63391e5-0644-44a3-9b3e-8ab325ea3f4c,,,,,,,,,14,2025-09-24,,,14,,,4546
+001Hr000028Zcx6,"City Of Mandeville, LA",Louisiana,Municipality,Emily Murnane,13139,,Tier 2,1.0,30.3583,-90.0656,b768b4f4-054e-4189-b4c4-bdda82924e0e,,,,,,,,,13,2025-12-30,1,12,,,,4921
+001Hr000028Zcz0,"City Of Monroe, LA",Louisiana,Municipality,Emily Murnane,47284,Nurture,Tier 1,1.5,32.5093,-92.1193,e51cc8e6-0164-4622-b895-65af6620e8b3,Closed Lost,,,Leila Assil,1/10/2025,1/5/2025,,,5,2025-09-22,,,5,,,6138
+001Hr000028Zd0O,"City Of Crowley, LA",Louisiana,Municipality,Emily Murnane,11575,Open Opportunity,Tier 2,1.0,30.2141,-92.3746,a5b2c965-dc1e-4e6f-9ecf-be5e12bae6dd,Open,Initial Interest,Top of Funnel,Emily Murnane,,11/24/2025,,,7,2026-03-03,7,,,,,4811
+001Hr000028Zd0S,"Consolidated Government Of Terrebonne, LA",Louisiana,County,Emily Murnane,33018,,Tier 1,1.5,29.5979,-90.718,ead00625-a704-4686-8fdd-5446aada247d,,,,,,,,,2,2026-05-11,,2,,,,5931
+001Hr000028Zd4S,"City Of Sulphur, LA",Louisiana,Municipality,Emily Murnane,20641,,Tier 2,1.0,30.2366,-93.3774,c0275a2a-bce4-4f56-b311-e207d19b0067,,,,,,,,,8,2025-12-04,2,,6,,,5496
+001Hr000028Zd4Y,"City Of Zachary, LA",Louisiana,Municipality,Emily Murnane,20007,,Tier 2,1.0,30.6485,-91.1565,23ce1502-a70c-41b1-b45a-6bafcecacbb8,,,,,,,,,11,2025-12-19,11,,,,,5382
+001Hr000028Zd4m,"City Of Youngsville, LA",Louisiana,Municipality,Emily Murnane,16432,,Tier 2,1.0,30.0996,-91.9901,f9a084d0-c724-4ce7-a535-ff4a965990e7,,,,,,,,,14,2026-02-12,4,10,,,,5107
+001Hr000028Zd4u,"City Of Pineville, LA",Louisiana,Municipality,Emily Murnane,14501,,Tier 2,1.0,31.3224,-92.4343,a9e7eb7e-5235-45ff-9d58-78f241fdcb6e,,,,,,,,,3,2025-12-22,3,,,,,5065
+001Hr000028ZdA4,"City Of Hammond, LA",Louisiana,Municipality,Emily Murnane,19976,,Tier 2,1.0,30.5044,-90.4612,319cd0d9-e900-44cb-a608-179a42e39fc6,,,,,,,,,23,2025-12-19,6,17,,,,5387
+001Hr000028ZdD0,"City Of Slidell, LA",Louisiana,Municipality,Emily Murnane,28658,,Tier 1,1.5,30.2752,-89.7812,b87bca8d-f265-4662-a5a1-d44ee556013c,,,,,,,,,3,2025-12-03,3,,,,,5796
+001Hr000028ZdE8,"City Of Alexandria, LA",Louisiana,Municipality,Emily Murnane,44787,,Tier 1,1.5,31.3113,-92.4451,6c724b90-155a-40fb-80b5-22d45893dcf8,,,,,,,,,3,2026-05-11,1,2,,,,6119
+001Hr000028ZdGM,"City Of New Iberia, LA",Louisiana,Municipality,Emily Murnane,27989,,Tier 1,1.5,30.0035,-91.8187,7fcf375e-9402-4bb4-af58-b85286a27fb9,,,,,,,,,22,2026-04-24,7,,15,,,5807
+001Hr000028ZdH5,"City Of Central, LA",Louisiana,Municipality,Emily Murnane,29958,All Modules Live,Tier 1,1.5,30.5543,-91.0369,d2f78b6a-9378-4ec0-b8d0-6149abe9d227,,,,,,,,,,,,,,,,5835
+001Hr000028ZdK5,"City Of Lake Charles, LA",Louisiana,Municipality,Emily Murnane,81097,Nurture,Tier S,2.0,30.2266,-93.2174,84996bec-27ae-43b6-8bc1-d38a906eae71,Closed Lost,,,Emily Murnane,11/18/2025,11/13/2025,,,20,2026-03-12,16,,,4,,11547
+001Hr000028ZdKr,"Parish Of Jefferson, LA",Louisiana,County,Emily Murnane,427253,,Tier S,2.0,29.6499,-90.1121,4b54c04e-1cef-4888-9aca-af5e1b47350e,,,,,,,,,8,2025-12-30,4,,4,,,12267
+001Hr000028ZdLx,"Parish Of Plaquemines, LA",Louisiana,County,Emily Murnane,23303,,Tier 2,1.0,29.324,-89.4742,dad74758-7a4a-4eb1-8fa3-bc3ea2d502d8,,,,,,,,,1,2025-09-12,,1,,,,12496
+001Hr000028ZdNT,"City Of Bossier City, LA",Louisiana,Municipality,Emily Murnane,62865,Open Opportunity,Tier S,2.0,32.516,-93.7321,8d7523b5-065b-4f52-8e52-b8eb2e614f49,Open,Meeting Booked,Top of Funnel,Ryan Minter,5/27/2026,5/11/2026,,,3,2026-05-11,1,2,,,,11559
+001Hr000028ZdS2,"Parish Of St Charles, LA",Louisiana,County,Emily Murnane,52282,,Tier S,2.0,29.9274,-90.3372,2247c2b0-c869-443e-879d-eeedcc7f7c2c,,,,,,,,,9,2025-10-14,2,,7,,,12265
+001Hr000028ZdbD,"City Of Kenner, LA",Louisiana,Municipality,Emily Murnane,65364,,Tier S,2.0,29.9941,-90.2417,d59ae935-7a66-4390-ba2c-4813ef24c5bc,,,,,,,,,6,2026-05-11,2,3,,1,,11525
+001Hr000028Zdc6,"Parish Of Iberia, LA",Louisiana,County,Emily Murnane,68975,,Tier S,2.0,29.5056,-91.7881,e35e514a-ebce-4243-8c1c-8766e6533675,,,,,,,,,1,2025-10-14,1,,,,,12521
+001Hr000028Zdgx,"Parish Of St Mary, LA",Louisiana,County,Emily Murnane,48232,Open Opportunity,Tier 1,1.5,29.503,-91.4435,c14c5ecb-d269-4ba4-b9d0-47a612acd6ec,,,,,,,,,,,,,,,,12500
+001Hr000028ZdiC,"Ascension Parish, LA",Louisiana,Municipality,Emily Murnane,130632,Open Opportunity,Tier S,2.0,30.2017,-90.9438,6240f379-8ef4-4eda-b253-9195734a572c,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,15,2025-11-03,9,,6,,,12410
+001Hr000028Zdkk,"Parish Of Vernon, LA",Louisiana,County,Emily Murnane,48027,,Tier 1,1.5,31.132,-93.178,98272954-c0e9-4423-b739-ae7924fc0d89,,,,,,,,,,,,,,,,12502
+001Hr000028Zdl9,"Livingston Parish, LA",Louisiana,Municipality,Emily Murnane,152886,,Tier S,2.0,30.434,-90.6773,9e526f19-29ba-4355-84be-b69f8745c451,,,,,,,,,3,2025-07-31,,,3,,,12418
+001Hr000028Zdns,"Natchitoches Parish, LA",Louisiana,Municipality,Emily Murnane,,,Tier 3,0.75,31.6801,-93.178,447d9c3a-2f05-425b-a7f9-bc45d05032c9,,,,,,,,,1,2025-07-17,,,1,,,12248
+001Hr000028ZdoI,"Parish Of St Martin, LA",Louisiana,County,Emily Murnane,51540,,Tier S,2.0,30.2396,-91.7539,10bc0110-bd4a-4200-b253-14218057a7b6,,,,,,,,,13,2025-11-19,13,,,,,12522
+001Hr000028Zdp8,"Parish Of Evangeline, LA",Louisiana,County,Emily Murnane,32215,,Tier 1,1.5,30.7822,-92.3814,5fff6fed-6492-45f7-b260-f48d45f3f649,,,,,,,,,1,2025-09-12,,1,,,,12498
+001Hr000028Zdpx,"Tangipahoa Parish, LA",Louisiana,Municipality,Emily Murnane,138064,,Tier S,2.0,30.6195,-90.3748,c61be62a-19da-423e-aae4-b09394ec51e3,,,,,,,,,38,2026-02-18,27,,11,,,12421
+001Hr000028ZdqM,"Parish Of Assumption, LA",Louisiana,County,Emily Murnane,20689,,Tier 2,1.0,29.9233,-91.0969,caabaeff-9341-411b-977f-ed3c3faae86f,,,,,,,,,2,2025-09-15,,2,,,,12497
+001Hr000028Zdt0,"Calcasieu Parish, LA",Louisiana,Municipality,Emily Murnane,203761,,Tier S,2.0,30.2089,-93.3389,cfc8e881-b891-4ad7-b074-a5cbdf908ebf,,,,,,,,,3,2026-05-11,2,1,,,,12416
+001Hr000028ZdtJ,"Bossier Parish, LA",Louisiana,Municipality,Emily Murnane,131102,,Tier S,2.0,32.7551,-93.6623,7bf2b520-edab-476b-bd93-d86088144c05,,,,,,,,,,,,,,,,12415
+001Hr000028ZduN,"Parish Of Lafourche, LA",Louisiana,County,Emily Murnane,97504,,Tier S,2.0,29.6952,-90.5258,b76754f4-cce2-47f0-9489-feb09bba14a7,,,,,,,,,14,2026-05-11,13,1,,,,12501
+001Hr000028ZduS,"Parish Of Grant, LA",Louisiana,County,Emily Murnane,22236,,Tier 2,1.0,30.7885,-92.9485,edc57e76-6289-4c76-8499-5d15adc7e27c,,,,,,,,,,,,,,,,12499
+001Hr000028Zdul,"Parish of East Feliciana, LA",Louisiana,Municipality,Emily Murnane,19250,,Tier 2,1.0,30.8459,-91.0203,b487db7f-f672-4f88-bf8e-5f6f8c1f9836,,,,,,,,,2,2026-04-13,2,,,,,12503
+001Hr000028Zjsg,"City of St. George, LA",Louisiana,Municipality,Emily Murnane,86000,1+ Module Live,Tier S,2.0,30.3571,-91.0716,,Closed Won,,,,4/11/2025,1/4/2025,"$35,000",,,,,,,,,12642
+001cv000006tEKD,"Parish Of Lincoln, LA",Louisiana,County,Emily Murnane,48152,,Tier 1,1.5,32.5989,-92.6984,e3e1bb50-e594-4511-adf3-40c410ee6f8b,,,,,,,,,5,2026-04-23,5,,,,,12709
+001cv000007XdMt,"Parish Of Richland, LA",Louisiana,County,Emily Murnane,19805,,Tier 2,1.0,32.3887,-91.7928,a4a1f012-8cbf-4151-be85-0b675fe956aa,,,,,,,,,,,,,,,,12738
+001cv000007XoJx,"Parish Of Jackson, LA",Louisiana,County,Emily Murnane,14876,,Tier 2,1.0,30.8374,-91.2176,17fa93c1-9389-43e3-bb72-13c76edc4893,,,,,,,,,2,2025-12-04,2,,,,,12739
+001cv000007XrPi,"Parish Of Morehouse, LA",Louisiana,County,Emily Murnane,25025,Open Opportunity,Tier 1,1.5,32.7962,-91.7539,250af11a-fc15-490f-b24b-2b9b7fda59ed,Open,Initial Interest,Top of Funnel,Leila Assil,9/30/2025,9/22/2025,,,1,2025-09-30,,,,,1,12737
+001cv00000AuWOV,"Town Of Erath, LA",Louisiana,Municipality,Emily Murnane,2018,,Tier 3,0.75,29.9583,-92.036,31f07536-5b51-4e9b-aa26-d9507f06d2c5,,,,,,,,,,,,,,,,12913
+001cv00000AuWQW,"Town Of Sterlington, LA",Louisiana,Municipality,Emily Murnane,2045,,Tier 3,0.75,32.6956,-92.0842,ab3ad923-a1ca-4650-930d-e5e713e82f77,,,,,,,,,1,2026-02-05,1,,,,,13063
+001cv00000AuWXT,"Town Of Benton, LA",Louisiana,Municipality,Emily Murnane,2055,,Tier 3,0.75,32.6949,-93.7418,e0b302fc-ae9e-4da4-bcd5-e90424c028fe,,,,,,,,,2,2025-08-01,,,2,,,13314
+001cv00000AuWYm,"Town Of Kinder, LA",Louisiana,Municipality,Emily Murnane,2080,,Tier 3,0.75,30.4855,-92.8507,0365f4ce-9a7f-4d8e-8fe6-f46715995187,,,,,,,,,11,2026-03-04,11,,,,,13260
+001cv00000AuWZH,"Town Of New Llano, LA",Louisiana,Municipality,Emily Murnane,2091,,Tier 3,0.75,31.1149,-93.2716,12e8f104-09c8-419c-a4f0-d81c23088742,,,,,,,,,,,,,,,,13402
+001cv00000AuWpg,"Town Of Kentwood, LA",Louisiana,Municipality,Emily Murnane,2185,,Tier 3,0.75,30.9382,-90.509,510deedd-0013-4489-a734-7f80220e4221,,,,,,,,,,,,,,,,13479
+001cv00000AuX6f,"Village Of Maurice, LA",Louisiana,Municipality,Emily Murnane,2273,,Tier 3,0.75,30.1085,-92.1246,55b73969-f16a-40fe-9bfe-7a3996d1fe51,,,,,,,,,,,,,,,,13776
+001cv00000AuXNh,"Town Of Many, LA",Louisiana,Municipality,Emily Murnane,2473,,Tier 3,0.75,31.5688,-93.4841,27d058ff-f118-4a89-ade5-a12914426341,,,,,,,,,,,,,,,,14062
+001cv00000AuXOY,"Town Of Lockport, LA",Louisiana,Municipality,Emily Murnane,2490,,Tier 3,0.75,29.646,-90.5393,e9f8c5ea-7fe0-468c-a8be-fe6ae0711718,,,,,,,,,,,,,,,,14121
+001cv00000AuXTr,"Town Of Homer, LA",Louisiana,Municipality,Emily Murnane,2541,,Tier 3,0.75,32.7918,-93.0557,be4712a3-8b6a-4a1c-a6b4-f318f603a591,,,,,,,,,,,,,,,,14148
+001cv00000AuXVX,"Town Of Delhi, LA",Louisiana,Municipality,Emily Murnane,2584,,Tier 3,0.75,32.4576,-91.4932,75c3694c-e278-4bcb-8f13-fa03834447be,,,,,,,,,,,,,,,,14465
+001cv00000AuXVc,"Town Of Brusly, LA",Louisiana,Municipality,Emily Murnane,2587,,Tier 3,0.75,30.3944,-91.2537,08e890ba-2a87-4770-b7f4-f4e273974cbb,,,,,,,,,1,2025-12-04,1,,,,,14452
+001cv00000AuXkg,"Town Of Gramercy, LA",Louisiana,Municipality,Emily Murnane,2860,,Tier 3,0.75,30.0474,-90.6898,b416f841-ad2d-4b11-b858-5dc9fc3abe42,,,,,,,,,1,2025-12-17,1,,,,,14813
+001cv00000AuXm9,"Town Of Mamou, LA",Louisiana,Municipality,Emily Murnane,2901,,Tier 3,0.75,30.6338,-92.4193,0a471b83-f700-43b7-94e9-42649e6de520,,,,,,,,,,,,,,,,14831
+001cv00000AuXnA,"City Of De Quincy, LA",Louisiana,Municipality,Emily Murnane,2939,,Tier 3,0.75,30.4505,-93.4332,fc98ecb9-4f7f-42c1-a014-37937c336486,,,,,,,,,,,,,,,,14866
+001cv00000AuYAV,"Town Of Vinton, LA",Louisiana,Municipality,Emily Murnane,3171,,Tier 3,0.75,30.1911,-93.5814,a6675c64-be32-4444-bf12-20392c65ce28,,,,,,,,,,,,,,,,15781
+001cv00000AuYAh,"Town Of Iowa, LA",Louisiana,Municipality,Emily Murnane,3180,,Tier 3,0.75,30.2368,-93.0136,3121edb3-5eef-438c-b663-5c35b5d8c32a,,,,,,,,,5,2025-12-22,5,,,,,15723
+001cv00000AuYB0,"Town Of Ferriday, LA",Louisiana,Municipality,Emily Murnane,3085,,Tier 3,0.75,31.6302,-91.5546,edd85cdc-93cf-4bb8-b8af-e890882c9157,,,,,,,,,,,,,,,,15068
+001cv00000AuYBi,"Town Of Greenwood, LA",Louisiana,Municipality,Emily Murnane,3103,,Tier 3,0.75,32.4429,-93.973,aea34fc3-a625-4f17-b419-27ebb39026e3,,,,,,,,,,,,,,,,15252
+001cv00000AuYFI,"Town Of Vivian, LA",Louisiana,Municipality,Emily Murnane,3015,,Tier 3,0.75,32.8715,-93.9874,ed4df513-8eae-49a4-ac0a-fb7dd0c8c4d1,,,,,,,,,,,,,,,,15072
+001cv00000AuYFL,"Town Of Sunset, LA",Louisiana,Municipality,Emily Murnane,3016,,Tier 3,0.75,30.4113,-92.0685,7d9fc210-7747-4bae-ba56-895d6225888a,,,,,,,,,,,,,,,,15014
+001cv00000AuYG5,"Town Of Lutcher, LA",Louisiana,Municipality,Emily Murnane,3041,,Tier 3,0.75,30.0405,-90.699,e6adc2af-6110-4240-9969-79aee15dce1c,,,,,,,,,,,,,,,,15184
+001cv00000AuYIG,"Town Of Farmerville, LA",Louisiana,Municipality,Emily Murnane,3318,,Tier 3,0.75,32.7735,-92.4057,750522b7-c0d4-43f3-85c5-a0ca25e06dd8,,,,,,,,,,,,,,,,15772
+001cv00000AuYJ3,"Town Of Welsh, LA",Louisiana,Municipality,Emily Murnane,3351,,Tier 3,0.75,30.236,-92.8226,f08cf482-5c37-413b-91df-2df0f9450d0a,,,,,,,,,,,,,,,,15848
+001cv00000AuYLa,"Town Of Blanchard, LA",Louisiana,Municipality,Emily Murnane,3438,,Tier 3,0.75,32.581,-93.8927,97e6fda6-cdfe-4a84-bea0-9f41cdccf17d,,,,,,,,,,,,,,,,15876
+001cv00000AuYPr,"City Of Bunkie, LA",Louisiana,Municipality,Emily Murnane,3274,,Tier 3,0.75,30.9532,-92.1826,229414d5-3484-4aae-80b9-df7f04911a7d,,,,,,,,,,,,,,,,15519
+001cv00000AuYQ8,"Town Of Rayville, LA",Louisiana,Municipality,Emily Murnane,3283,,Tier 3,0.75,32.4774,-91.7548,fc3592e2-695e-42d6-b79d-5d3f0f13e8f9,,,,,,,,,,,,,,,,15564
+001cv00000AuYS5,"Town Of Franklinton, LA",Louisiana,Municipality,Emily Murnane,3581,,Tier 3,0.75,30.8471,-90.1531,727b59c3-bda3-4b9e-9f4b-b9e3672346a5,,,,,,,,,,,,,,,,15535
+001cv00000AuYfx,"Town Of Amite City, LA",Louisiana,Municipality,Emily Murnane,3811,,Tier 3,0.75,30.7266,-90.509,ecd374b7-ff0c-4390-97fb-65b45119498a,,,,,,,,,9,2026-01-14,9,,,,,16136
+001cv00000AuYgI,"Town Of Vidalia, LA",Louisiana,Municipality,Emily Murnane,3828,,Tier 3,0.75,31.5654,-91.426,e20e785e-4139-4c01-a299-2600b35f4023,,,,,,,,,,,,,,,,16122
+001cv00000AuYhI,"Town Of Ball, LA",Louisiana,Municipality,Emily Murnane,3885,,Tier 3,0.75,31.4155,-92.4118,0444427e-9b1d-4d8f-a65f-1dee44d554aa,,,,,,,,,,,,,,,,16179
+001cv00000AuYlX,"City Of Winnfield, LA",Louisiana,Municipality,Emily Murnane,3994,,Tier 3,0.75,31.9254,-92.6396,9e030412-451e-44c6-b23b-e69634057bb4,,,,,,,,,,,,,,,,16602
+001cv00000AuYly,"Town Of Richwood, LA",Louisiana,Municipality,Emily Murnane,4013,,Tier 3,0.75,32.4488,-92.0849,ab46755c-050d-4f14-b91c-adbeb8c86d01,,,,,,,,,,,,,,,,16601
+001cv00000AuYmY,"Parish Of Tensas, LA",Louisiana,County,Emily Murnane,4043,,Tier 3,0.75,32.0772,-91.2891,edf2c321-0ab8-426c-ab86-4b3f385ca3eb,,,,,,,,,,,,,,,,16594
+001cv00000AuYob,"Town Of Church Point, LA",Louisiana,Municipality,Emily Murnane,4144,,Tier 3,0.75,30.403,-92.2151,c7fa4ee7-5907-492b-b75c-5d8c0034510e,,,,,,,,,,,,,,,,16736
+001cv00000AuYpA,"Town Of Jonesboro, LA",Louisiana,Municipality,Emily Murnane,4181,,Tier 3,0.75,32.2413,-92.716,6c51b09f-9224-4194-8869-27ad1e6d1b47,,,,,,,,,,,,,,,,16787
+001cv00000AuYqy,"Town Of Jackson, LA",Louisiana,Municipality,Emily Murnane,3678,,Tier 3,0.75,30.8374,-91.2176,5cd9a44b-b0fa-449a-9bbf-3b83c9fb608d,,,,,,,,,,,,,,,,16394
+001cv00000AuYsf,"Town Of Jena, LA",Louisiana,Municipality,Emily Murnane,3757,,Tier 3,0.75,31.6832,-92.1337,edb6ebe6-df12-4257-8bfe-adaf868232d8,,,,,,,,,,,,,,,,16416
+001cv00000AuYsk,"Town Of Lake Providence, LA",Louisiana,Municipality,Emily Murnane,3759,,Tier 3,0.75,32.8043,-91.1701,742a07bb-d630-4aab-8b7c-d49471cddc0b,,,,,,,,,,,,,,,,16538
+001cv00000AuYuj,"City Of Kaplan, LA",Louisiana,Municipality,Emily Murnane,4277,,Tier 3,0.75,29.998,-92.2849,1dae0e72-41ea-42a2-8297-db24dc6a16c5,,,,,,,,,,,,,,,,16727
+001cv00000AuYwO,"City Of New Roads, LA",Louisiana,Municipality,Emily Murnane,4379,,Tier 3,0.75,30.7016,-91.4362,635acc54-fdfd-484b-9294-9b1429ef20ff,,,,,,,,,,,,,,,,16903
+001cv00000AuYys,"Town Of Haughton, LA",Louisiana,Municipality,Emily Murnane,4484,,Tier 3,0.75,32.5327,-93.5041,8a91efa3-506a-4b3e-9fe9-3d3672d8fceb,,,,,,,,,,,,,,,,20095
+001cv00000AuYzb,"City Of Mansfield, LA",Louisiana,Municipality,Emily Murnane,4529,,Tier 3,0.75,32.0377,-93.7002,ff7eda89-6180-42c2-b64c-e9c8ade95d68,,,,,,,,,,,,,,,,20000
+001cv00000AuZIB,"City Of Port Allen, LA",Louisiana,Municipality,Emily Murnane,4956,,Tier 3,0.75,30.4475,-91.2073,80ff4186-25ec-4d8e-ac64-5ee0109f0365,,,,,,,,,7,2025-12-29,7,,,,,17597
+001cv00000AuZMB,"City Of Winnsboro, LA",Louisiana,Municipality,Emily Murnane,4824,,Tier 3,0.75,32.1632,-91.7207,c83e2c53-0ab1-4627-91cb-88b1cb7acb70,,,,,,,,,,,,,,,,17249
+001cv00000AuZNx,"City Of Marksville, LA",Louisiana,Municipality,Emily Murnane,4946,,Tier 3,0.75,31.128,-92.0662,422e4289-82ad-4187-9495-563e63f9f6ea,,,,,,,,,,,,,,,,17336
+001cv00000AuZOt,"Parish Of East Carroll, LA",Louisiana,County,Emily Murnane,7220,,Tier 3,0.75,32.7571,-91.2506,58fdbcf4-7707-416a-81da-caaa7de81d4f,,,,,,,,,,,,,,,,17570
+001cv00000AuZRU,"Parish Of Red River, LA",Louisiana,County,Emily Murnane,7564,,Tier 3,0.75,32.0843,-93.3792,7d7692dc-c82a-47ae-af48-a44c469deb25,,,,,,,,,2,2025-09-15,,2,,,,17628
+001cv00000AuZSw,"Parish Of Cameron, LA",Louisiana,County,Emily Murnane,5080,,Tier 3,0.75,29.8434,-93.178,d180f282-425d-4db1-ac5b-0debe8be5196,,,,,,,,,9,2025-12-29,9,,,,,17460
+001cv00000AuZZz,"Parish Of Caldwell, LA",Louisiana,County,Emily Murnane,9571,,Tier 3,0.75,32.067,-92.0665,d867e4dc-f848-4473-b16b-b0af1858e606,,,,,,,,,,,,,,,,18410
+001cv00000AuZdY,"Parish Of Catahoula, LA",Louisiana,County,Emily Murnane,8805,,Tier 3,0.75,31.7053,-91.9099,6747b408-f105-4ad5-aade-e0f3c0740036,,,,,,,,,,,,,,,,17614
+001cv00000AuZfa,"Parish Of Bienville, LA",Louisiana,County,Emily Murnane,12776,,Tier 2,1.0,32.4107,-93.0176,ec8013a6-2d46-4771-98b9-fdb2b6a1c4f3,,,,,,,,,,,,,,,,18186
+001cv00000AuZgH,"Parish Of Winn, LA",Louisiana,County,Emily Murnane,13488,,Tier 2,1.0,31.9196,-92.6586,a17395a9-3bd8-4894-a662-cfcb5ccf7015,,,,,,,,,,,,,,,,18201
+001cv00000AuZhQ,"Parish Of Lasalle, LA",Louisiana,County,Emily Murnane,14834,,Tier 2,1.0,31.7002,-92.2237,81154bc3-0226-4b30-b090-87f0653fa94d,,,,,,,,,,,,,,,,18125
+001cv00000AuZji,"Parish Of West Carroll, LA",Louisiana,County,Emily Murnane,9594,,Tier 3,0.75,32.7546,-91.4821,4f428a57-89dd-4d1b-a7dd-b040a15a46ae,,,,,,,,,,,,,,,,18020
+001cv00000AuZjw,"City Of Jennings, LA",Louisiana,Municipality,Emily Murnane,9697,,Tier 3,0.75,30.2224,-92.6571,ac885fb2-b682-4ab9-a2f2-b96b1f21e7bc,,,,,,,,,16,2025-12-05,3,13,,,,17971
+001cv00000AuZkD,"Parish Of Madison, LA",Louisiana,County,Emily Murnane,9799,,Tier 3,0.75,32.4402,-91.2891,6d612d9f-ae45-4983-9207-cbb51b486515,,,,,,,,,,,,,,,,17975
+001cv00000AuZlc,"Parish Of St Helena, LA",Louisiana,County,Emily Murnane,10912,Nurture,Tier 2,1.0,30.8022,-90.6773,95c0e896-6e68-4bd6-b0b3-3e802024e1df,Closed Lost,,,Andy Blakely,7/21/2025,7/17/2025,"$19,000",,,,,,,,,17997
+001cv00000AuZnW,"Parish Of Claiborne, LA",Louisiana,County,Emily Murnane,14038,,Tier 2,1.0,32.7723,-93.0176,9d9f44f5-3d20-4168-848c-a43d4211ea86,,,,,,,,,,,,,,,,17926
+001cv00000AuZoY,"Parish Of West Feliciana, LA",Louisiana,County,Emily Murnane,15494,,Tier 2,1.0,30.8423,-91.4048,5e1f1d26-6524-4306-86aa-ea019f41d2d6,,,,,,,,,,,,,,,,17858
+001cv00000AuZt3,"Parish Of East Feliciana, LA",Louisiana,County,Emily Murnane,19338,,Tier 2,1.0,30.8459,-91.0203,b487db7f-f672-4f88-bf8e-5f6f8c1f9836,,,,,,,,,,,,,,,,12503
+001cv00000AuZtI,"Parish Of Franklin, LA",Louisiana,County,Emily Murnane,19668,,Tier 2,1.0,29.796,-91.5015,293fe2ee-b953-4fff-8a1d-f6752c647b44,,,,,,,,,,,,,,,,18653
+001cv00000AuZuT,"Parish Of Concordia, LA",Louisiana,County,Emily Murnane,18376,,Tier 2,1.0,31.4809,-91.6372,fb5fe345-3120-4952-ab4a-6cf7133fd8fc,,,,,,,,,,,,,,,,18588
+001cv00000AuZxV,"Parish Of Union, LA",Louisiana,County,Emily Murnane,21091,,Tier 2,1.0,30.0915,-90.9001,604b3020-1c66-44cc-a9a4-914eb37d1abc,,,,,,,,,4,2025-10-07,,4,,,,18962
+001cv00000Aua18,"Parish Of Iberville, LA",Louisiana,County,Emily Murnane,29824,Open Opportunity,Tier 1,1.5,30.2899,-91.4048,838c30a5-d9b7-442e-96ef-0234604dbdca,Open,Initial Interest,Top of Funnel,Ryan Minter,9/17/2025,9/12/2025,,,2,2025-09-16,,2,,,,18891
+001cv00000Aua34,"Parish Of St James, LA",Louisiana,County,Emily Murnane,19742,,Tier 2,1.0,30.0179,-90.7913,2b049b6b-b8c8-4809-b71d-4ea74d7c4a1e,,,,,,,,,13,2025-12-17,5,8,,,,18626
+001cv00000Aua3d,"Parish Of Pointe Coupee, LA",Louisiana,County,Emily Murnane,20356,,Tier 2,1.0,30.6102,-91.5984,a2642d27-56a0-47ca-b940-4c7c42e70f23,,,,,,,,,2,2025-09-12,,2,,,,18729
+001cv00000Aua7L,"Parish Of Avoyelles, LA",Louisiana,County,Emily Murnane,39236,,Tier 1,1.5,30.9712,-92.0665,7b7b7659-30f0-4c18-8a72-d8e51ae65a47,,,,,,,,,,,,,,,,19301
+001cv00000Aua8e,"Parish Of Jefferson Davis, LA",Louisiana,County,Emily Murnane,32345,,Tier 1,1.5,30.2672,-92.8178,bf073121-64e9-40ea-b002-e9128d8f2728,,,,,,,,,3,2026-01-07,3,,,,,18788
+001cv00000Aua9e,"Parish Of Sabine, LA",Louisiana,County,Emily Murnane,22135,,Tier 2,1.0,31.4893,-93.5003,ce7c406d-c5ef-4b03-845e-3e919a2c6363,,,,,,,,,,,,,,,,18664
+001cv00000Aua9z,"Parish Of Allen, LA",Louisiana,County,Emily Murnane,22687,,Tier 2,1.0,31.8353,-93.2883,88f14693-b5d5-4108-91bb-0d52c4ecebb7,,,,,,,,,5,2025-10-24,5,,,,,18917
+001cv00000AuaBm,"Parish Of De Soto, LA",Louisiana,County,Emily Murnane,26919,,Tier 1,1.5,32.0311,-93.6623,e0bdce59-7c7b-441f-94ac-30669ad1e58d,,,,,,,,,,,,,,,,19085
+001cv00000AuaCB,"Parish Of West Baton Rouge, LA",Louisiana,County,Emily Murnane,27792,,Tier 1,1.5,30.4751,-91.3276,06bc73e3-f92d-4a2a-8f2c-282435bc1e44,,,,,,,,,6,2026-04-21,4,,2,,,19111
+001cv00000AuaDK,"Parish Of Webster, LA",Louisiana,County,Emily Murnane,36184,,Tier 1,1.5,32.7641,-93.3389,408c7a2c-4424-439b-ad43-0d6ece1e3577,,,,,,,,,,,,,,,,19036
+001cv00000AuaDS,"Parish Of Beauregard, LA",Louisiana,County,Emily Murnane,36584,,Tier 1,1.5,30.7611,-93.3389,03c15f01-7130-4cbd-9118-9ad0f20bae85,,,,,,,,,,,,,,,,19061
+001cv00000AuaGK,"Parish Of St John The Baptist, LA",Louisiana,County,Emily Murnane,42094,,Tier 1,1.5,30.1118,-90.488,126cf3b5-88a6-445a-b82c-05445efb7410,,,,,,,,,9,2025-09-12,,,9,,,19067
+001cv00000AuaHB,"Parish Of St Bernard, LA",Louisiana,County,Emily Murnane,44258,,Tier 1,1.5,29.9719,-89.2467,66de8acc-387c-41f6-a35d-987684bd2657,,,,,,,,,4,2026-01-12,4,,,,,19077
+001cv00000AuaHU,"Parish Of Washington, LA",Louisiana,County,Emily Murnane,45133,,Tier 1,1.5,30.8039,-90.0747,9248b9a3-cda4-4e0e-8942-fb1c7af7f6f5,,,,,,,,,,,,,,,,19490
+001cv00000AuaNe,"Parish Of Vermilion, LA",Louisiana,County,Emily Murnane,57204,,Tier S,2.0,29.8601,-92.3814,c66ca0ed-00bf-4763-a35c-8ea825098cf2,,,,,,,,,,,,,,,,19552
+001cv00000AuaNg,"Parish Of Acadia, LA",Louisiana,County,Emily Murnane,57288,,Tier S,2.0,30.2297,-92.3814,8fd1ef78-3112-453c-9a47-308f5811c272,,,,,,,,,2,2025-10-14,2,,,,,19599
+001cv00000AuaXF,"Parish Of St Landry, LA",Louisiana,County,Emily Murnane,82071,,Tier S,2.0,30.6037,-92.0665,4eee3cc5-5e02-4e09-8c3f-5632ba5e85f3,,,,,,,,,1,2026-05-11,,1,,,,19798
+001cv00000B21rU,"Town Of Stonewall, LA",Louisiana,Municipality,Emily Murnane,2428,,Tier 3,0.75,32.2818,-93.8241,545bdbf5-cd6a-4d8a-bc0c-cecd56402cf3,,,,,,,,,,,,,,,,20199
+001cv00000B21wY,"Town Of Lake Arthur, LA",Louisiana,Municipality,Emily Murnane,2622,,Tier 3,0.75,30.0807,-92.6713,68c0c029-c793-47c2-ab20-aa2de4e971e2,,,,,,,,,,,,,,,,20360
+001cv00000B21wq,"Town Of Pearl River, LA",Louisiana,Municipality,Emily Murnane,2630,,Tier 3,0.75,30.376,-89.7484,78cc5a65-2b24-42f3-8e44-cd393e9c8362,,,,,,,,,,,,,,,,20317
+001cv00000B21xm,"Town Of Arcadia, LA",Louisiana,Municipality,Emily Murnane,2657,,Tier 3,0.75,32.549,-92.9202,20bf4bbb-a371-4c18-bf68-5b3d69200910,,,,,,,,,,,,,,,,20416
+001cv00000B21yd,"Town Of Abita Springs, LA",Louisiana,Municipality,Emily Murnane,2678,,Tier 3,0.75,30.4785,-90.0376,335fc8e0-359a-4357-a882-ad28139efea3,,,,,,,,,,,,,,,,20580
+001cv00000B2216,"Town Of Berwick, LA",Louisiana,Municipality,Emily Murnane,4644,,Tier 3,0.75,29.6947,-91.219,9474a1be-d2c2-42d7-9e44-20dea5c8ae44,,,,,,,,,,,,,,,,20488
+001cv00000B221f,"City Of Westlake, LA",Louisiana,Municipality,Emily Murnane,4686,,Tier 3,0.75,30.2421,-93.2507,e765ba74-ebbe-4716-a8e0-231b542d743d,,,,,,,,,2,2025-12-03,2,,,,,20523
+001cv00000B221q,"City Of Springhill, LA",Louisiana,Municipality,Emily Murnane,4702,,Tier 3,0.75,33.006,-93.4668,4d953685-725b-4cd1-b9f6-66f9ad26ecd7,,,,,,,,,,,,,,,,20593
+001cv00000B2224,"City Of Jeanerette, LA",Louisiana,Municipality,Emily Murnane,4717,,Tier 3,0.75,29.911,-91.6634,8fdfc131-7b30-4a69-879d-ebf07d90afbb,,,,,,,,,,,,,,,,20601
+001cv00000L9Io1,"Rapides Area Planning Commission, LA",Louisiana,County,Emily Murnane,125899,,Tier S,2.0,31.308,-92.4472,7670df67-1d35-4bd6-acaa-ff1edfc3e275,,,,,,,,,18,2026-03-04,10,8,,,,20870
+001cv00000bBVi5,Town of Madisonville,Louisiana,Municipality,Asher Rosenfeld,875,,Tier 3,0.75,30.4044,-90.157,43d061d1-a33c-49b5-bf43-2f55bfc2501b,,,,,,,,,,,,,,,,21336
+001cv00000bBVlc,Town of Grand Isle,Louisiana,Municipality,Asher Rosenfeld,991,,Tier 3,0.75,29.2366,-89.9873,c25a80e5-c232-4b74-bc95-dd491b4df933,,,,,,,,,,,,,,,,21381
+001cv00000bBVsk,Town of Livonia,Louisiana,Municipality,Asher Rosenfeld,1161,,Tier 3,0.75,30.5591,-91.5559,75597ce0-d02c-4dd8-a377-ee5c49b1fc97,,,,,,,,,,,,,,,,21549
+001cv00000bBVxy,Town of Oberlin,Louisiana,Municipality,Asher Rosenfeld,1287,,Tier 3,0.75,30.6202,-92.7626,f83ad6c7-d914-403d-ab9b-99bb9d50950a,,,,,,,,,,,,,,,,21675
+001cv00000bBW3o,Town of Port Barre,Louisiana,Municipality,Asher Rosenfeld,1740,,Tier 3,0.75,30.5602,-91.954,eece64a9-14a1-48d5-80ee-ac0d44d91bbe,,,,,,,,,,,,,,,,21724
+001cv00000bBW3x,Town of Woodworth,Louisiana,Municipality,Asher Rosenfeld,1749,,Tier 3,0.75,31.1471,-92.4971,734addb2-0df8-4e65-a41f-901384aed1ed,,,,,,,,,,,,,,,,21730
+001cv00000bBWDh,Town of Livingston,Louisiana,Municipality,Asher Rosenfeld,1980,,Tier 3,0.75,30.5021,-90.7479,6c6586de-626d-405f-83af-5e24c7b07058,,,,,,,,,,,,,,,,22044
+001cv00000bBWNe,Town of Henderson,Louisiana,Municipality,Asher Rosenfeld,1605,,Tier 3,0.75,30.3133,-91.7904,d0c80559-f058-4066-a333-5bf530d6a876,,,,,,,,,,,,,,,,22054
+001cv00000bBWSS,City-Parish of Lafayette,Louisiana,Municipality,Asher Rosenfeld,122280,,Tier S,2.0,30.2241,-92.0198,206ec898-4d8f-4016-a990-d86309ad7899,,,,,,,,,,,,,,,,22319
+001cv00000bBWTc,Ouachita Parish,Louisiana,County,Asher Rosenfeld,157874,,Tier S,2.0,32.4272,-92.2237,8f703f6f-ea1b-456e-8e14-38a30506761b,,,,,,,,,,,,,,,,22398
+001cv00000bBWTn,City of Shreveport,Louisiana,Municipality,Asher Rosenfeld,176578,,Tier S,2.0,32.513,-93.7515,45d8541f-8247-4839-8eb2-385dd5c74c92,,,,,,,,,,,,,,,,22406
+001cv00000bBWub,Town of Saint Francisville,Louisiana,Municipality,Asher Rosenfeld,1484,,Tier 3,0.75,30.7881,-91.3768,06244a4f-e765-49c2-82eb-6a73b8526072,,,,,,,,,,,,,,,,22688
+001cv00000bBWyd,City-Parish of Baton Rouge?East Baton Rouge,Louisiana,Municipality,Asher Rosenfeld,220907,,Tier S,2.0,,,63b43433-7d97-43c8-a6e1-91a0a29bbe72,,,,,,,,,,,,,,,,22727
+001cv00000bBWye,Caddo Parish,Louisiana,County,Asher Rosenfeld,224893,,Tier S,2.0,32.6137,-93.8655,236a11e9-977d-453a-beaa-e0bf48b6d2b1,,,,,,,,,,,,,,,,22748
+001cv00000bBWyw,Lafayette Consolidated Government,Louisiana,County,Asher Rosenfeld,254241,,Tier S,2.0,30.2206,-92.0247,4cf90666-47c9-4da9-8551-e7fa25135fef,,,,,,,,,,,,,,,,22728
+001cv00000bBWzF,St. Tammany Parish,Louisiana,County,Asher Rosenfeld,277615,,Tier S,2.0,30.4357,-89.9253,fe9683bc-0596-4717-88f6-86c2fd6ea1d0,,,,,,,,,,,,,,,,22780
+001cv00000bBX0g,City of New Orleans,Louisiana,Municipality,Asher Rosenfeld,362701,,Tier S,2.0,29.9509,-90.0758,5da38590-db39-45df-aebb-48bed64f65b4,,,,,,,,,,,,,,,,22827

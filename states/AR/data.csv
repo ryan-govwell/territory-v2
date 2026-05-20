@@ -1,211 +1,211 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ryan Minter,Calls - Hugh Bargeron,Calls - Leila Assil,Calls - Ben Laddis,Calls - Joe del Rosario,Calls - Sydney Ireland,Calls - Quinzel Perry
-001Hr000028Zbqa,"City Of Arkadelphia, AR",Arkansas,Municipality,Hugh Bargeron,10258,,Tier 2,1.0,34.121,-93.0535,bc3c36fd-fe7a-4f6f-a6d1-8278de71bb98,,,,,,,,,2,2025-07-10,2,,,,,,
-001Hr000028ZbsI,"City Of Cabot, AR",Arkansas,Municipality,Hugh Bargeron,26655,,Tier 1,1.5,34.9749,-92.0163,7a1b61c7-f33f-464e-af8d-c2b078c96661,,,,,,,,,7,2026-02-25,7,,,,,,
-001Hr000028ZbuY,"City Of Heber Springs, AR",Arkansas,Municipality,Hugh Bargeron,7154,,Tier 3,0.75,35.4914,-92.0302,7e09c524-c354-48d4-abd0-5030db138d48,,,,,,,,,2,2025-07-07,2,,,,,,
-001Hr000028Zc2Z,"City Of Bella Vista, AR",Arkansas,Municipality,Hugh Bargeron,30808,Open Opportunity,Tier 1,1.5,36.4758,-94.2475,c1ccff3e-de3a-41d5-bdcd-e0abdeafe32e,Open,Initial Interest,Top of Funnel,Ryan Minter,,12/2/2025,,,39,2026-05-18,35,4,,,,,
-001Hr000028Zc4w,"City Of Warren, AR",Arkansas,Municipality,Hugh Bargeron,5380,,Tier 3,0.75,33.6099,-92.0716,4799cd3b-3f7a-4863-960b-5e35260b528e,,,,,,,,,9,2025-08-12,9,,,,,,
-001Hr000028Zc9k,"City Of White Hall, AR",Arkansas,Municipality,Hugh Bargeron,5578,,Tier 3,0.75,34.2715,-92.0894,def20005-755d-4111-afe9-9c64b1bf90e1,,,,,,,,,4,2025-07-21,4,,,,,,
-001Hr000028ZcCq,"City Of Morrilton, AR",Arkansas,Municipality,Hugh Bargeron,7064,Open Opportunity,Tier 3,0.75,35.1526,-92.7438,53222bcb-0e29-4f5d-97ee-e0ba87add612,Open,Meeting Booked,Top of Funnel,Ryan Minter,10/20/2025,7/8/2025,,,6,2025-10-21,6,,,,,,
-001Hr000028ZcEn,"City Of Prairie Grove, AR",Arkansas,Municipality,Hugh Bargeron,7434,,Tier 3,0.75,35.9757,-94.3173,76c37d4e-bf1b-42e9-9e5c-dd88333eb510,,,,,,,,,12,2025-08-04,12,,,,,,
-001Hr000028ZcJH,"City Of Alma, AR",Arkansas,Municipality,Hugh Bargeron,5850,Open Opportunity,Tier 3,0.75,35.4922,-94.2261,fc72aa32-a33f-48c0-b943-b7cd3c04064a,Open,Meeting Booked,Top of Funnel,Liam Shaw,10/14/2024,1/5/2025,,,7,2026-05-07,6,1,,,,,
-001Hr000028ZcKV,"City Of Berryville, AR",Arkansas,Municipality,Hugh Bargeron,5687,Nurture,Tier 3,0.75,36.365,-93.5675,66c00786-9397-41c7-8eec-0aba8a616518,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,9,2025-08-26,8,,,,1,,
-001Hr000028ZcNL,"City Of Pea Ridge, AR",Arkansas,Municipality,Hugh Bargeron,7140,Nurture,Tier 3,0.75,36.4538,-94.1152,d4727c7e-3baa-42f9-92a5-6f98314f6057,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,3,2026-05-14,1,2,,,,,
-001Hr000028ZcQK,"City Of Farmington, AR",Arkansas,Municipality,Hugh Bargeron,8242,,Tier 3,0.75,36.0391,-94.2541,2234c6f5-7c64-472a-b281-bbc459bc1b27,,,,,,,,,2,2025-07-09,2,,,,,,
-001Hr000028ZcQe,"City Of De Queen, AR",Arkansas,Municipality,Hugh Bargeron,6071,Open Opportunity,Tier 3,0.75,34.0368,-94.3415,cf9c39a3-a2fa-4e6d-a91c-934e388a4eff,Open,Meeting Booked,Top of Funnel,Ryan Minter,2/26/2026,2/24/2026,,,6,2026-02-26,6,,,,,,
-001Hr000028ZcSB,"City Of Walnut Ridge, AR",Arkansas,Municipality,Hugh Bargeron,5448,,Tier 3,0.75,36.0684,-90.9559,149a9d4e-bb33-46ef-87ed-c4f8f7f03dfe,,,,,,,,,4,2025-07-07,4,,,,,,
-001Hr000028ZcV0,"City Of Camden, AR",Arkansas,Municipality,Hugh Bargeron,10369,Nurture,Tier 2,1.0,33.5836,-92.8341,194fe26d-a2be-4174-94aa-30ebb3426c64,Closed Lost,,,Shane Lieberman,6/20/2024,1/5/2025,"$14,000",,11,2025-12-10,11,,,,,,
-001Hr000028ZcWX,"City Of Lowell, AR",Arkansas,Municipality,Hugh Bargeron,10177,,Tier 2,1.0,36.2541,-94.1368,58cc2725-4f75-4944-a62a-529a1e4e02c1,,,,,,,,,10,2026-02-03,10,,,,,,
-001Hr000028ZcYC,"City Of Bentonville, AR",Arkansas,Municipality,Hugh Bargeron,56734,,Tier S,2.0,36.3724,-94.2102,153e161d-17b4-45e5-8e7e-185fcdd9ea71,,,,,,,,,21,2026-05-07,20,1,,,,,
-001Hr000028Zcad,"City Of Magnolia, AR",Arkansas,Municipality,Hugh Bargeron,11105,Nurture,Tier 2,1.0,33.2671,-93.2394,a0bb6e33-4ab8-4fe2-85f8-92ae416e3824,Closed Lost,,,Shane Lieberman,6/13/2024,1/5/2025,"$7,000",,4,2026-01-20,4,,,,,,
-001Hr000028ZceP,"City Of Batesville, AR",Arkansas,Municipality,Hugh Bargeron,11166,,Tier 2,1.0,35.7697,-91.6409,d9fc2ab2-e228-4a89-93f2-7a1f543735f2,,,,,,,,,8,2026-05-11,7,1,,,,,
-001Hr000028Zcf1,"City Of Ward, AR",Arkansas,Municipality,Hugh Bargeron,6359,,Tier 3,0.75,35.0303,-91.9505,ba7afe94-7f1f-45bb-aecf-c083e1698b23,,,,,,,,,4,2025-07-07,4,,,,,,
-001Hr000028ZcgF,"City Of Greenbrier, AR",Arkansas,Municipality,Hugh Bargeron,5862,Nurture,Tier 3,0.75,35.234,-92.3879,3d3f01b6-bbba-4aa0-9680-45715982cb51,Closed Lost,,,Shane Lieberman,6/13/2024,1/5/2025,"$15,000",,11,2025-12-12,11,,,,,,
-001Hr000028Zcgd,"City Of Mena, AR",Arkansas,Municipality,Hugh Bargeron,5613,,Tier 3,0.75,34.5842,-94.2364,c4dbe7ae-6014-49a6-be9f-c9195fb301cd,,,,,,,,,4,2025-07-15,4,,,,,,
-001Hr000028Zch0,"City Of Newport, AR",Arkansas,Municipality,Hugh Bargeron,7852,Nurture,Tier 3,0.75,35.6061,-91.2641,00aec371-dafa-4759-8158-4cf5613c6645,Closed Lost,,,Ryan Minter,7/10/2025,7/3/2025,,,5,2025-07-09,5,,,,,,
-001Hr000028ZchD,"City Of Pocahontas, AR",Arkansas,Municipality,Hugh Bargeron,7521,Open Opportunity,Tier 3,0.75,36.2633,-90.9717,619c3eb5-27bc-4bb6-bb57-164bca4f89b8,Open,Meeting Booked,Top of Funnel,Ryan Minter,9/18/2025,7/3/2025,,,3,2025-08-14,3,,,,,,
-001Hr000028ZchL,"City Of Stuttgart, AR",Arkansas,Municipality,Hugh Bargeron,8056,,Tier 3,0.75,34.4941,-91.5581,f000ff82-d334-4946-8f0e-1c7f7ca11afc,,,,,,,,,4,2025-07-10,3,,,,1,,
-001Hr000028ZcjW,"City Of Beebe, AR",Arkansas,Municipality,Hugh Bargeron,8561,,Tier 3,0.75,35.0704,-91.8798,efcb3498-5798-47eb-910e-20c6775b6ed1,,,,,,,,,3,2025-07-07,3,,,,,,
-001Hr000028ZcmD,"City Of Osceola, AR",Arkansas,Municipality,Hugh Bargeron,6779,Recent Competitor Purchase,Tier 3,0.75,35.7029,-89.9701,1c3a99fb-b3e5-4f54-96d1-c22754cac3c7,Closed Lost,,,Shane Lieberman,6/26/2024,1/5/2025,"$7,650",,6,2026-02-20,6,,,,,,
-001Hr000028ZcnJ,"City Of Springdale, AR",Arkansas,Municipality,Hugh Bargeron,87609,,Tier S,2.0,36.1884,-94.1298,65365cee-d86f-492b-827c-476f0749dc27,,,,,,,,,4,2025-10-07,4,,,,,,
-001Hr000028Zcne,"City Of Trumann, AR",Arkansas,Municipality,Hugh Bargeron,7332,,Tier 3,0.75,35.6786,-90.5241,e331bb80-fd61-4d20-9485-def75db04fc8,,,,,,,,,2,2025-07-08,2,,,,,,
-001Hr000028Zcnp,"City Of Marion, AR",Arkansas,Municipality,Hugh Bargeron,13695,Open Opportunity,Tier 2,1.0,35.2144,-90.1972,c781cacb-23fd-4006-9657-e04d8359a988,Open,Meeting Booked,Top of Funnel,Ryan Minter,11/24/2025,11/20/2025,,Yes,14,2025-12-05,14,,,,,,
-001Hr000028ZcoL,"City of Texarkana, AR",Arkansas,Municipality,Hugh Bargeron,29492,Recent Competitor Purchase,Tier 1,1.5,33.4305,-94.0362,,Closed Lost,,,Leila Assil,8/26/2025,7/15/2025,"$55,000",,12,2026-01-06,1,,11,,,,
-001Hr000028ZcoO,"City Of Wynne, AR",Arkansas,Municipality,Hugh Bargeron,8274,,Tier 3,0.75,35.2236,-90.7872,91576685-fbe9-4c2a-8020-968b0b7c0c7b,,,,,,,,,3,2025-07-16,3,,,,,,
-001Hr000028Zcoq,"City Of Russellville, AR",Arkansas,Municipality,Hugh Bargeron,29338,Nurture,Tier 1,1.5,35.2781,-93.1337,72b0a016-bdd0-41e4-8b62-0ab34c7ee6d4,Closed Lost,,,Ryan Minter,7/14/2025,7/9/2025,,,5,2026-02-19,5,,,,,,
-001Hr000028ZcqB,"City Of Malvern, AR",Arkansas,Municipality,Hugh Bargeron,10719,,Tier 2,1.0,34.3624,-92.8124,df7d1d36-c6ee-4a39-ab9f-909eba24cfe7,,,,,,,,,1,2025-07-10,1,,,,,,
-001Hr000028ZcsK,"City Of Monticello, AR",Arkansas,Municipality,Hugh Bargeron,8308,,Tier 3,0.75,33.6297,-91.8022,02dd9453-20d7-4d01-9458-afd87512a8c7,,,,,,,,,1,2025-07-09,1,,,,,,
-001Hr000028Zctc,"City Of Hope, AR",Arkansas,Municipality,Hugh Bargeron,8686,Nurture,Tier 3,0.75,33.6685,-93.5971,df9c52ba-2567-4480-8b95-557910b10f5d,Closed Lost,,,Ryan Minter,12/2/2025,7/9/2025,,,4,2025-12-02,4,,,,,,
-001Hr000028Zcu8,"City Of Greenwood, AR",Arkansas,Municipality,Hugh Bargeron,9605,Nurture,Tier 3,0.75,35.2125,-94.2558,b1360c9b-d9f3-43c7-90e6-72c166b08cfa,Closed Lost,,,Ryan Minter,7/14/2025,7/10/2025,"$15,000",,4,2025-07-10,4,,,,,,
-001Hr000028Zcuz,"City Of Clarksville, AR",Arkansas,Municipality,Hugh Bargeron,9476,,Tier 3,0.75,35.4712,-93.4686,2f331a57-1857-4923-abc0-edf9e887b5ba,,,,,,,,,3,2025-11-19,3,,,,,,
-001Hr000028ZcwE,"City Of Siloam Springs, AR",Arkansas,Municipality,Hugh Bargeron,17575,Open Opportunity,Tier 2,1.0,36.1859,-94.5416,eb63f6e7-2a13-47be-af4a-b3c39580f972,Open,Initial Interest,Top of Funnel,Ryan Minter,,7/8/2025,,,13,2026-05-11,9,4,,,,,
-001Hr000028ZcxV,"City Of Mountain Home, AR",Arkansas,Municipality,Hugh Bargeron,12993,Open Opportunity,Tier 2,1.0,36.3401,-92.3852,37654fae-3d89-4c6c-b3b7-0d8fd9b2aaf4,Open,Initial Interest,Top of Funnel,Ryan Minter,8/27/2025,7/8/2025,,,12,2026-04-27,12,,,,,,
-001Hr000028Zcyg,"City Of Searcy, AR",Arkansas,Municipality,Hugh Bargeron,23098,Open Opportunity,Tier 2,1.0,35.2438,-91.7364,7cb0c9bf-fe28-4f02-97aa-477e11945c61,Open,Initial Interest,Top of Funnel,Shane Lieberman,11/14/2024,1/5/2025,,,3,2026-05-14,1,2,,,,,
-001Hr000028Zczn,"City Of Jacksonville, AR",Arkansas,Municipality,Hugh Bargeron,29305,,Tier 1,1.5,34.8674,-92.127,a0a6ddd0-c633-4e35-9dac-24b4b818ee1f,,,,,,,,,25,2026-02-18,25,,,,,,
-001Hr000028Zd0e,"City Of Centerton, AR",Arkansas,Municipality,Hugh Bargeron,19984,Nurture,Tier 2,1.0,36.3585,-94.2849,b3dbb12f-7ae2-427e-9210-4f75af97cfc3,Closed Lost,,,Shane Lieberman,5/29/2024,1/5/2025,,,7,2026-05-15,6,1,,,,,
-001Hr000028Zd2V,"City Of Forrest City, AR",Arkansas,Municipality,Hugh Bargeron,12972,Open Opportunity,Tier 2,1.0,35.0093,-90.7852,84ccacc9-4ae0-4eb0-90bd-4b366883b1fe,Open,Initial Interest,Top of Funnel,Ryan Minter,,11/14/2025,,Yes,6,2026-05-07,5,1,,,,,
-001Hr000028Zd2j,"City Of Harrison, AR",Arkansas,Municipality,Hugh Bargeron,13195,,Tier 2,1.0,36.2298,-93.1074,3f02b6c4-bfaa-4416-81c3-2fc81dd00bfc,,,,,,,,,1,2025-07-15,,,1,,,,
-001Hr000028Zd3D,"City Of Blytheville, AR",Arkansas,Municipality,Hugh Bargeron,13039,Open Opportunity,Tier 2,1.0,35.9285,-89.908,e2f01425-ee95-4ff0-b47c-4ca44d487062,Open,Initial Interest,Top of Funnel,Ryan Minter,,12/8/2025,,Yes,12,2026-05-14,8,4,,,,,
-001Hr000028Zd4O,"City Of Van Buren, AR",Arkansas,Municipality,Hugh Bargeron,23353,Open Opportunity,Tier 2,1.0,35.4589,-94.3566,d3eeca8b-d404-40f9-ae33-ec867372358f,Open,Initial Interest,Top of Funnel,Ryan Minter,,7/10/2025,,,14,2026-05-19,11,3,,,,,
-001Hr000028Zd7E,"City Of West Memphis, AR",Arkansas,Municipality,Hugh Bargeron,24150,Nurture,Tier 2,1.0,35.1465,-90.1848,ef6fd778-8dd1-441d-b59f-1813ca572175,Closed Lost,,,Leila Assil,4/30/2025,4/16/2025,,,4,2025-10-30,4,,,,,,
-001Hr000028Zd8h,"City Of El Dorado, AR",Arkansas,Municipality,Hugh Bargeron,17339,,Tier 2,1.0,33.2075,-92.6656,dbae5e8c-cb64-4b38-ae49-a388c4d81d2e,,,,,,,,,,,,,,,,,
-001Hr000028Zd98,"City Of Pine Bluff, AR",Arkansas,Municipality,Hugh Bargeron,40244,Nurture,Tier 1,1.5,34.2249,-92.0034,f11a4e58-ed11-4214-938f-7e58bd3c59df,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,4,2026-05-06,3,1,,,,,
-001Hr000028Zd9f,"City Of Maumelle, AR",Arkansas,Municipality,Hugh Bargeron,19270,,Tier 2,1.0,34.87,-92.3978,a8ef0314-9bdc-4976-b285-62c5a8e141dd,,,,,,,,,4,2025-11-18,4,,,,,,
-001Hr000028ZdAd,"City Of Bryant, AR",Arkansas,Municipality,Hugh Bargeron,21073,,Tier 2,1.0,34.6246,-92.4995,94b409af-1e0e-4544-9efa-65953788760c,,,,,,,,,34,2025-11-18,34,,,,,,
-001Hr000028ZdCl,"City Of Sherwood, AR",Arkansas,Municipality,Hugh Bargeron,33020,,Tier 1,1.5,34.8321,-92.1911,61b453de-9da4-4706-bb3a-cfd49627a553,,,,,,,,,13,2026-02-23,13,,,,,,
-001Hr000028ZdGX,"City Of Benton, AR",Arkansas,Municipality,Hugh Bargeron,35675,Nurture,Tier 1,1.5,34.5693,-92.5854,9fb72506-79c4-4e72-8c34-ef2b170169e4,Closed Lost,,,Shane Lieberman,8/8/2024,1/5/2025,,,9,2026-02-19,9,,,,,,
-001Hr000028ZdGq,"City Of Paragould, AR",Arkansas,Municipality,Hugh Bargeron,29906,,Tier 1,1.5,36.0526,-90.4887,8bc457e0-e457-40d0-919c-72d92fcdef28,,,,,,,,,9,2026-05-11,8,1,,,,,
-001Hr000028ZdK9,"City Of Hot Springs, AR",Arkansas,Municipality,Hugh Bargeron,38114,Nurture,Tier 1,1.5,34.5078,-93.0546,e1f28013-b7e6-453d-8468-c34353b5d80b,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,6,2025-07-16,6,,,,,,
-001Hr000028ZdOT,"City Of Conway, AR",Arkansas,Municipality,Hugh Bargeron,65121,,Tier S,2.0,35.0918,-92.4367,af694f7e-c6ba-442c-936e-10fd8df383d8,,,,,,,,,15,2025-07-17,15,,,,,,
-001Hr000028ZdUt,"City Of North Little Rock, AR",Arkansas,Municipality,Hugh Bargeron,64162,,Tier S,2.0,34.7561,-92.2678,d2127b7c-d5fa-4ef1-ad67-a4cb4b022e41,,,,,,,,,5,2026-02-06,4,,,,,,1
-001Hr000028ZdVz,"City Of Rogers, AR",Arkansas,Municipality,Hugh Bargeron,71112,,Tier S,2.0,36.3335,-94.1257,756d137d-de45-400b-8f75-55712827b96d,,,,,,,,,11,2025-07-21,11,,,,,,
-001Hr000028ZdYm,"City Of Fayetteville, AR",Arkansas,Municipality,Hugh Bargeron,95230,,Tier S,2.0,36.0619,-94.158,bea89e8c-2f7c-4474-bb92-20c9ca00126c,,,,,,,,,3,2026-05-18,2,1,,,,,
-001Hr000028Zdcx,"City Of Jonesboro, AR",Arkansas,Municipality,Hugh Bargeron,79324,,Tier S,2.0,35.8357,-90.7051,3b189459-fe60-41d0-a4cd-0d0786c9b042,,,,,,,,,12,2026-05-18,11,1,,,,,
-001Hr000028Zde9,"City Of Fort Smith, AR",Arkansas,Municipality,Hugh Bargeron,89576,Recent Competitor Purchase,Tier S,2.0,35.3844,-94.421,39b563fb-8061-445c-b7c5-d7d5c1fae1a8,,,,,,,,,4,2026-02-19,4,,,,,,
-001Hr000028ZdjZ,"Washington County, AR",Arkansas,County,Hugh Bargeron,,,Tier 3,0.75,35.9308,-94.1514,fe27c87b-0657-4b58-b5e6-c5669a693be6,,,,,,,,,3,2025-12-17,2,,1,,,,
-001cv00000AuWNl,"City Of Carlisle, AR",Arkansas,Municipality,Hugh Bargeron,2004,,Tier 3,0.75,34.7805,-91.7479,5c8f557a-abbb-446a-b209-c2de85690dcf,,,,,,,,,3,2025-07-16,3,,,,,,
-001cv00000AuWO4,"City Of Danville, AR",Arkansas,Municipality,Hugh Bargeron,2009,,Tier 3,0.75,35.0544,-93.3934,abe80b62-8e90-4d28-bd25-edbf13db86da,,,,,,,,,5,2025-07-22,5,,,,,,
-001cv00000AuWON,"City Of Lake Village, AR",Arkansas,Municipality,Hugh Bargeron,2016,,Tier 3,0.75,33.3314,-91.2841,d1ed3bea-d352-44dc-b9ab-e47a106333a3,,,,,,,,,7,2025-07-18,7,,,,,,
-001cv00000AuWP3,"City Of Mayflower, AR",Arkansas,Municipality,Hugh Bargeron,2027,,Tier 3,0.75,34.9569,-92.4277,482fbb74-fac9-4880-9df4-a0bd970ecb36,,,,,,,,,1,2025-07-08,1,,,,,,
-001cv00000AuWPo,"City Of Glenwood, AR",Arkansas,Municipality,Hugh Bargeron,2036,,Tier 3,0.75,34.3271,-93.5497,b5096206-fda0-46b5-9d1e-aa8812690cb4,,,,,,,,,,,,,,,,,
-001cv00000AuWah,"City Of Fairfield Bay, AR",Arkansas,Municipality,Hugh Bargeron,2116,,Tier 3,0.75,35.6106,-92.263,79b11e5e-cc23-430b-867a-95f7fd0e25c4,,,,,,,,,7,2026-04-07,7,,,,,,
-001cv00000AuWk8,"City Of Eureka Springs, AR",Arkansas,Municipality,Hugh Bargeron,2171,,Tier 3,0.75,36.4006,-93.7393,b869bc2e-4e7f-4106-bfb6-11eb47324555,,,,,,,,,3,2025-07-08,3,,,,,,
-001cv00000AuWpq,"City Of Gassville, AR",Arkansas,Municipality,Hugh Bargeron,2187,Open Opportunity,Tier 3,0.75,36.2873,-92.4817,8df7e668-df8e-4602-826c-1ea57a9aa7b5,Closed Lost,,,Ryan Minter,7/17/2025,7/7/2025,,,13,2026-01-20,13,,,,,,
-001cv00000AuWpt,"Town Of Goshen, AR",Arkansas,Municipality,Hugh Bargeron,2188,,Tier 3,0.75,36.101,-93.9914,96074a6e-3c52-43ae-ba4f-26812f42fedb,,,,,,,,,,,,,,,,,
-001cv00000AuWqR,"City Of Harrisburg, AR",Arkansas,Municipality,Hugh Bargeron,2199,,Tier 3,0.75,35.564,-90.7243,c809eef1-2c04-477f-a1c7-98f5af2ca967,,,,,,,,,,,,,,,,,
-001cv00000AuWrh,"City Of Marked Tree, AR",Arkansas,Municipality,Hugh Bargeron,2228,,Tier 3,0.75,35.5347,-90.4216,60059c4f-5f18-46e7-9be8-3a95e1e14eed,,,,,,,,,,,,,,,,,
-001cv00000AuX5G,"City Of Star City, AR",Arkansas,Municipality,Hugh Bargeron,2246,,Tier 3,0.75,33.9426,-91.8436,606f74b3-b6a6-42b8-bb3c-61a51792c61f,,,,,,,,,,,,,,,,,
-001cv00000AuX8R,"City Of Lincoln, AR",Arkansas,Municipality,Hugh Bargeron,2306,,Tier 3,0.75,35.9476,-94.4235,692fefc3-ea78-470a-bfd9-888135d47b7c,,,,,,,,,,,,,,,,,
-001cv00000AuX9c,"City Of West Fork, AR",Arkansas,Municipality,Hugh Bargeron,2335,,Tier 3,0.75,35.9315,-94.18,c60205df-dd18-4ad5-bf2e-4c693ea65ee1,,,,,,,,,2,2025-07-08,2,,,,,,
-001cv00000AuXI3,"City Of Bald Knob, AR",Arkansas,Municipality,Hugh Bargeron,2526,,Tier 3,0.75,35.3083,-91.5707,780c87af-c1fb-450a-8cc2-ab01b04c8ee3,,,,,,,,,,,,,,,,,
-001cv00000AuXNH,"City Of Lavaca, AR",Arkansas,Municipality,Hugh Bargeron,2463,,Tier 3,0.75,35.3363,-94.1754,02d0dd41-e2f5-4d5a-80ab-1eb019d3fd19,,,,,,,,,,,,,,,,,
-001cv00000AuXNU,"City Of Hamburg, AR",Arkansas,Municipality,Hugh Bargeron,2469,,Tier 3,0.75,33.2257,-91.7976,f51b6a74-9374-42f0-9a34-b5098fcc72a0,,,,,,,,,,,,,,,,,
-001cv00000AuXPG,"City Of Clinton, AR",Arkansas,Municipality,Hugh Bargeron,2510,,Tier 3,0.75,35.5932,-92.4596,2ef038d0-729d-463f-bca6-abb900dd59ec,,,,,,,,,,,,,,,,,
-001cv00000AuXTm,"City Of Horseshoe Bend, AR",Arkansas,Municipality,Hugh Bargeron,2539,,Tier 3,0.75,36.2187,-91.759,da408488-797c-4360-93a9-c9e5933194b0,,,,,,,,,,,,,,,,,
-001cv00000AuXVO,"City Of Elm Springs, AR",Arkansas,Municipality,Hugh Bargeron,2581,Open Opportunity,Tier 3,0.75,36.2063,-94.2348,70f8fc4c-b38b-4a07-b280-6102e9c268e0,Open,Initial Interest,Top of Funnel,Ryan Minter,,10/14/2025,,,3,2026-02-18,3,,,,,,
-001cv00000AuXVP,"City Of Bono, AR",Arkansas,Municipality,Hugh Bargeron,2582,,Tier 3,0.75,35.9091,-90.8027,79037919-ec5e-4cfa-a796-357f9f13933f,,,,,,,,,,,,,,,,,
-001cv00000AuXjW,"City Of Gosnell, AR",Arkansas,Municipality,Hugh Bargeron,2826,,Tier 3,0.75,35.9599,-89.9718,7be8bd16-0cfe-4a51-928e-d7170ff7f17d,,,,,,,,,,,,,,,,,
-001cv00000AuXkX,"City Of Atkins, AR",Arkansas,Municipality,Hugh Bargeron,2856,,Tier 3,0.75,35.242,-92.9374,b87466b7-84ae-4dda-af66-236ab33cab4b,,,,,,,,,,,,,,,,,
-001cv00000AuXlM,"City Of Mountain View, AR",Arkansas,Municipality,Hugh Bargeron,2873,,Tier 3,0.75,35.8686,-92.1178,3412349d-e48a-41f4-a23f-a444613736e2,,,,,,,,,,,,,,,,,
-001cv00000AuXm6,"City Of Dewitt, AR",Arkansas,Municipality,Hugh Bargeron,2898,,Tier 3,0.75,34.2932,-91.3351,470b7dc5-e45f-41a8-b358-b54380171ac3,,,,,,,,,,,,,,,,,
-001cv00000AuYAP,"City Of Corning, AR",Arkansas,Municipality,Hugh Bargeron,3166,,Tier 3,0.75,36.4113,-90.5864,1c8f5c0c-cebf-4b5a-8062-de4894c70035,,,,,,,,,,,,,,,,,
-001cv00000AuYAn,"City Of Pottsville, AR",Arkansas,Municipality,Hugh Bargeron,3182,,Tier 3,0.75,35.2535,-93.0477,e2bfbe8c-ae39-40da-b720-36c8fcfbe5ec,,,,,,,,,,,,,,,,,
-001cv00000AuYEE,"City Of Huntsville, AR",Arkansas,Municipality,Hugh Bargeron,2981,,Tier 3,0.75,36.0874,-93.735,b4f12bea-afd8-48fc-bd4b-c9e63e93bb31,,,,,,,,,,,,,,,,,
-001cv00000AuYFM,"City Of Prescott, AR",Arkansas,Municipality,Hugh Bargeron,3017,,Tier 3,0.75,33.8025,-93.381,24f28a75-ec79-49b3-98d5-79db5889c153,,,,,,,,,,,,,,,,,
-001cv00000AuYGA,"City Of Little Flock, AR",Arkansas,Municipality,Hugh Bargeron,3044,,Tier 3,0.75,36.3773,-94.138,e6131764-c4d0-4fe4-8650-05f7d93654c0,,,,,,,,,,,,,,,,,
-001cv00000AuYGB,"City Of Green Forest, AR",Arkansas,Municipality,Hugh Bargeron,3044,,Tier 3,0.75,36.3354,-93.436,589d9df4-3445-4672-a2f3-5d9f49248a71,,,,,,,,,,,,,,,,,
-001cv00000AuYIE,"City Of Waldron, AR",Arkansas,Municipality,Hugh Bargeron,3316,,Tier 3,0.75,34.8964,-94.091,4bbfe88e-f9f4-4222-a37b-cbcad4f56ca6,,,,,,,,,,,,,,,,,
-001cv00000AuYIX,"City Of Fordyce, AR",Arkansas,Municipality,Hugh Bargeron,3329,,Tier 3,0.75,33.8137,-92.413,43c0ebaa-8f31-43b4-9399-be4508fe202b,,,,,,,,,,,,,,,,,
-001cv00000AuYOX,"City Of Paris, AR",Arkansas,Municipality,Hugh Bargeron,3213,,Tier 3,0.75,35.2921,-93.7299,5daca2c5-2a50-4ec9-8f48-1c51470167ed,,,,,,,,,,,,,,,,,
-001cv00000AuYRi,"City Of Ozark, AR",Arkansas,Municipality,Hugh Bargeron,3566,,Tier 3,0.75,35.487,-93.8272,4d4a6623-3fde-4f87-984f-4bba0dffcced,,,,,,,,,,,,,,,,,
-001cv00000AuYRr,"City Of Piggott, AR",Arkansas,Municipality,Hugh Bargeron,3573,,Tier 3,0.75,36.3822,-90.1905,eb5cbb96-096f-40a8-8c8f-676e9cbf625c,,,,,,,,,,,,,,,,,
-001cv00000AuYSL,"City Of Marianna, AR",Arkansas,Municipality,Hugh Bargeron,3597,,Tier 3,0.75,34.7746,-90.7723,0a6b1a94-2054-4c69-9ae1-d463efea0c4c,,,,,,,,,,,,,,,,,
-001cv00000AuYSS,"Town Of Alexander, AR",Arkansas,Municipality,Hugh Bargeron,3603,,Tier 3,0.75,34.6118,-92.4461,a675d34a-1a15-42dc-b50e-e3069ee63035,,,,,,,,,,,,,,,,,
-001cv00000AuYT4,"City Of Johnson, AR",Arkansas,Municipality,Hugh Bargeron,3631,,Tier 3,0.75,36.1335,-94.163,a6297958-8c7d-418e-a0f3-e7910f0cb9e7,,,,,,,,,,,,,,,,,
-001cv00000AuYTU,"City Of Gravette, AR",Arkansas,Municipality,Hugh Bargeron,3647,,Tier 3,0.75,36.4223,-94.4519,031d3a09-0dca-4f8c-9586-5fa8e136476d,,,,,,,,,,,,,,,,,
-001cv00000AuYdf,"City Of Manila, AR",Arkansas,Municipality,Hugh Bargeron,3662,,Tier 3,0.75,35.8802,-90.1663,325ba466-3eb2-43fb-bbb3-75174065af4c,,,,,,,,,,,,,,,,,
-001cv00000AuYfJ,"City Of Brookland, AR",Arkansas,Municipality,Hugh Bargeron,4235,,Tier 3,0.75,35.9074,-90.5773,e981a723-8c5f-423c-a98f-77f272723f04,,,,,,,,,,,,,,,,,
-001cv00000AuYfX,"City Of Southside, AR",Arkansas,Municipality,Hugh Bargeron,4243,,Tier 3,0.75,35.6976,-91.6226,d36b7a82-ffbe-40ee-850c-db4cba7be1dc,,,,,,,,,,,,,,,,,
-001cv00000AuYg1,"City Of Booneville, AR",Arkansas,Municipality,Hugh Bargeron,3816,,Tier 3,0.75,35.1402,-93.9218,5e222766-b620-4ad7-ac34-f1f19f0e817b,,,,,,,,,,,,,,,,,
-001cv00000AuYhL,"City Of Dumas, AR",Arkansas,Municipality,Hugh Bargeron,3886,,Tier 3,0.75,33.8834,-91.4835,d51c1321-fa21-4e68-a517-5ff499df4c4e,,,,,,,,,,,,,,,,,
-001cv00000AuYli,"City Of Gentry, AR",Arkansas,Municipality,Hugh Bargeron,4000,,Tier 3,0.75,36.2676,-94.4849,8c521d56-d003-4348-92b5-4b842eaa063f,,,,,,,,,2,2025-08-27,2,,,,,,
-001cv00000AuYm1,"City Of Haskell, AR",Arkansas,Municipality,Hugh Bargeron,4015,,Tier 3,0.75,34.5098,-92.6433,ce52ed2c-88e0-4c89-acfe-43d45d7756e1,,,,,,,,,,,,,,,,,
-001cv00000AuYmG,"Town Of Austin, AR",Arkansas,Municipality,Hugh Bargeron,4028,,Tier 3,0.75,34.999,-91.984,acaa7bec-a59e-40a8-978f-a1d953eec890,,,,,,,,,,,,,,,,,
-001cv00000AuYo4,"City Of Nashville, AR",Arkansas,Municipality,Hugh Bargeron,4112,,Tier 3,0.75,33.9483,-93.8471,1f64a57a-bccb-45ac-a608-39c8c2741b32,,,,,,,,,3,2025-09-02,3,,,,,,
-001cv00000AuYoe,"City Of Lonoke, AR",Arkansas,Municipality,Hugh Bargeron,4146,,Tier 3,0.75,34.7843,-91.9001,37f715e6-4687-4b76-9e50-989dee37fafe,,,,,,,,,,,,,,,,,
-001cv00000AuYov,"City Of Ashdown, AR",Arkansas,Municipality,Hugh Bargeron,4165,,Tier 3,0.75,33.6743,-94.1316,4f9d2bab-8913-4d49-8f8a-bcb621e6eb36,,,,,,,,,1,2025-08-27,1,,,,,,
-001cv00000AuYsL,"City Of Elkins, AR",Arkansas,Municipality,Hugh Bargeron,3743,,Tier 3,0.75,36.0007,-94.0088,20bd7e1d-6070-41f9-b64d-ab6aa9f485e8,,,,,,,,,5,2026-04-20,5,,,,,,
-001cv00000AuYt2,"City Of Mcgehee, AR",Arkansas,Municipality,Hugh Bargeron,3772,,Tier 3,0.75,33.6108,-91.3833,b1b68d0d-4de4-4091-80e9-c00e19844fd9,,,,,,,,,1,2026-04-20,1,,,,,,
-001cv00000AuYy6,"City Of Vilonia, AR",Arkansas,Municipality,Hugh Bargeron,4429,,Tier 3,0.75,35.0854,-92.1984,1ac03904-00f2-4613-a2a9-a3a390b02005,,,,,,,,,,,,,,,,,
-001cv00000AuYyz,"City Of Dardanelle, AR",Arkansas,Municipality,Hugh Bargeron,4491,,Tier 3,0.75,35.2234,-93.1565,0da25739-db15-4b32-9e1d-87aee8de354b,,,,,,,,,,,,,,,,,
-001cv00000AuZAl,"City Of Cave Springs, AR",Arkansas,Municipality,Hugh Bargeron,5916,,Tier 3,0.75,36.2648,-94.232,b3515e29-93d3-41e6-ad74-607cfc94e969,,,,,,,,,12,2025-07-29,12,,,,,,
-001cv00000AuZBI,"County Of Woodruff, AR",Arkansas,County,Hugh Bargeron,6116,,Tier 3,0.75,35.1216,-91.1353,090252c5-4c32-4a7b-9c1e-203cc5f94ce9,,,,,,,,,3,2025-09-09,3,,,,,,
-001cv00000AuZBT,"County Of Lafayette, AR",Arkansas,County,Hugh Bargeron,6163,,Tier 3,0.75,33.2512,-93.6218,67992a63-3923-4c09-94b6-5ad58ec26036,,,,,,,,,,,,,,,,,
-001cv00000AuZCS,"County Of Monroe, AR",Arkansas,County,Hugh Bargeron,6683,,Tier 3,0.75,34.5919,-91.1353,f96c9d9e-56a5-4db1-ab69-ec1d5b47646b,,,,,,,,,,,,,,,,,
-001cv00000AuZIL,"County Of Dallas, AR",Arkansas,County,Hugh Bargeron,6308,,Tier 3,0.75,34.0347,-92.6984,ecac42cf-658a-4848-806b-fd76372d640f,,,,,,,,,,,,,,,,,
-001cv00000AuZK4,"City Of Tontitown, AR",Arkansas,Municipality,Hugh Bargeron,5633,Nurture,Tier 3,0.75,36.176,-94.2192,a715d14f-1741-43fc-9add-d79e71ff8975,Closed Lost,,,Ryan Minter,9/4/2025,7/9/2025,,,6,2026-04-17,6,,,,,,
-001cv00000AuZMY,"City Of Barling, AR",Arkansas,Municipality,Hugh Bargeron,4843,,Tier 3,0.75,35.3253,-94.3014,2783e43b-aa2b-4f2a-a68d-033c8c984942,,,,,,,,,6,2026-02-20,6,,,,,,
-001cv00000AuZMs,"City Of Cherokee Village, AR",Arkansas,Municipality,Hugh Bargeron,4866,Nurture,Tier 3,0.75,36.3078,-91.5284,2e9d5dda-6f7e-4768-af87-4dc2d6578570,Closed Lost,,,Ryan Minter,2/10/2026,1/28/2026,,,3,2026-02-17,3,,,,,,
-001cv00000AuZOq,"County Of Newton, AR",Arkansas,County,Hugh Bargeron,7204,,Tier 3,0.75,35.9604,-93.178,43e44a2a-3372-49f1-adf4-19cafff86e16,,,,,,,,,,,,,,,,,
-001cv00000AuZRG,"County Of Cleveland, AR",Arkansas,County,Hugh Bargeron,7514,,Tier 3,0.75,35.4215,-92.7096,184e5519-63ea-441b-a9e2-b0a420eba736,,,,,,,,,,,,,,,,,
-001cv00000AuZSM,"City Of Sheridan, AR",Arkansas,Municipality,Hugh Bargeron,5012,,Tier 3,0.75,34.3068,-92.3991,6f4cdcce-bc55-47ed-aea6-7bff51aa3998,,,,,,,,,4,2025-07-18,4,,,,,,
-001cv00000AuZVP,"County Of Searcy, AR",Arkansas,County,Hugh Bargeron,7880,,Tier 3,0.75,35.2438,-91.7364,2a8fa26d-34bc-40d8-b776-506e6b1659a4,,,,,,,,,,,,,,,,,
-001cv00000AuZVm,"County Of Prairie, AR",Arkansas,County,Hugh Bargeron,8135,,Tier 3,0.75,34.7636,-91.5984,b2abc70b-25f1-4149-b6cd-f85ef750e057,,,,,,,,,,,,,,,,,
-001cv00000AuZXQ,"County Of Nevada, AR",Arkansas,County,Hugh Bargeron,8187,,Tier 3,0.75,33.6621,-93.3389,d214bf62-0a3d-4fa8-9169-eaaea8e8f39c,,,,,,,,,,,,,,,,,
-001cv00000AuZYC,"County Of Montgomery, AR",Arkansas,County,Hugh Bargeron,8611,,Tier 3,0.75,34.5424,-93.6623,31f9a537-5c1e-4274-a244-349c7c641393,,,,,,,,,,,,,,,,,
-001cv00000AuZYD,"County Of Lee, AR",Arkansas,County,Hugh Bargeron,8619,,Tier 3,0.75,34.7713,-90.8294,5f00008f-d5eb-47b7-803c-b50a24de4f16,,,,,,,,,,,,,,,,,
-001cv00000AuZZC,"City Of Helena-West Helena, AR",Arkansas,Municipality,Hugh Bargeron,9707,Nurture,Tier 3,0.75,34.5292,-90.5912,6fc99b59-6880-4856-9675-61a91764f79f,Closed Lost,,,Shane Lieberman,5/30/2024,1/5/2025,,,34,2026-05-18,32,2,,,,,
-001cv00000AuZbE,"County Of Little River, AR",Arkansas,County,Hugh Bargeron,11944,,Tier 2,1.0,33.6781,-94.2744,80f9add4-7a4f-43c1-a37b-e4d339036a1d,,,,,,,,,,,,,,,,,
-001cv00000AuZbW,"County Of Fulton, AR",Arkansas,County,Hugh Bargeron,12145,,Tier 2,1.0,33.6145,-93.8135,350f4b2e-78d6-408e-9114-ec28e4b78872,,,,,,,,,,,,,,,,,
-001cv00000AuZcM,"County Of Chicot, AR",Arkansas,County,Hugh Bargeron,10019,,Tier 2,1.0,33.342,-91.2891,8de25fa1-d22e-470d-8307-11017f3df21e,,,,,,,,,,,,,,,,,
-001cv00000AuZcR,"County Of Pike, AR",Arkansas,County,Hugh Bargeron,10066,,Tier 2,1.0,34.1877,-93.6623,6910407d-beb3-4e42-8863-0a91cd38a65e,,,,,,,,,,,,,,,,,
-001cv00000AuZcs,"County Of Bradley, AR",Arkansas,County,Hugh Bargeron,10408,,Tier 2,1.0,33.0979,-93.6557,324584ef-c7d9-4c79-9b69-ab34f3e65e90,,,,,,,,,,,,,,,,,
-001cv00000AuZfr,"County Of Lincoln, AR",Arkansas,County,Hugh Bargeron,13037,,Tier 2,1.0,35.9476,-94.4235,328ac4ec-2101-49ee-b95e-cf562d3211b6,,,,,,,,,,,,,,,,,
-001cv00000AuZiY,"County Of Stone, AR",Arkansas,County,Hugh Bargeron,12481,,Tier 2,1.0,35.8075,-92.2237,d5c788b8-1544-4ace-b7ea-7b5c29510e7e,,,,,,,,,,,,,,,,,
-001cv00000AuZin,"County Of Howard, AR",Arkansas,County,Hugh Bargeron,12698,,Tier 2,1.0,34.1318,-94.0287,e252ff4e-6235-4ad4-a7e9-3cf655d94b73,,,,,,,,,,,,,,,,,
-001cv00000AuZkF,"County Of Scott, AR",Arkansas,County,Hugh Bargeron,9822,,Tier 3,0.75,34.6965,-92.0963,3009bb99-15e5-4f20-9830-dce4d8015c78,,,,,,,,,,,,,,,,,
-001cv00000AuZkS,"County Of Perry, AR",Arkansas,County,Hugh Bargeron,9964,,Tier 3,0.75,35.0484,-92.7931,29a83e3b-5238-4e63-8adc-d2b6f655c6a3,,,,,,,,,,,,,,,,,
-001cv00000AuZlq,"County Of Desha, AR",Arkansas,County,Hugh Bargeron,11090,,Tier 2,1.0,35.7362,-91.6799,95880d0d-c99c-473b-865f-052cd0a16b69,,,,,,,,,,,,,,,,,
-001cv00000AuZnN,"County Of Izard, AR",Arkansas,County,Hugh Bargeron,13911,,Tier 2,1.0,36.1611,-91.9099,24f6bef1-cc5a-458a-93d3-fd45eb8d0fe6,,,,,,,,,,,,,,,,,
-001cv00000AuZny,"County Of Clay, AR",Arkansas,County,Hugh Bargeron,14350,,Tier 2,1.0,36.3492,-90.3748,64924fca-c6c1-47e3-b3b5-7d756d7c1e97,,,,,,,,,,,,,,,,,
-001cv00000AuZon,"County Of Van Buren, AR",Arkansas,County,Hugh Bargeron,15694,,Tier 2,1.0,35.4589,-94.3566,3e4a26d2-c9e6-4515-8fe0-973092bf9222,,,,,,,,,,,,,,,,,
-001cv00000AuZot,"County Of Sevier, AR",Arkansas,County,Hugh Bargeron,15783,,Tier 2,1.0,34.0346,-94.2744,8cae114e-b504-4977-aa9c-e17eeedddbbc,,,,,,,,,,,,,,,,,
-001cv00000AuZp0,"County Of Phillips, AR",Arkansas,County,Hugh Bargeron,15906,,Tier 2,1.0,34.4611,-90.8675,2041bc5d-2e80-4cfd-a338-bebfb83e0f02,,,,,,,,,,,,,,,,,
-001cv00000AuZpQ,"County Of Lawrence, AR",Arkansas,County,Hugh Bargeron,16292,,Tier 2,1.0,35.997,-91.1353,f7c3301a-3d0b-4aca-994e-3fa4eb663f52,,,,,,,,,,,,,,,,,
-001cv00000AuZr7,"County Of Cross, AR",Arkansas,County,Hugh Bargeron,16681,,Tier 2,1.0,35.2999,-90.8294,b6443ae4-8e60-4884-ae57-d7e58b207e5f,,,,,,,,,,,,,,,,,
-001cv00000AuZr9,"County Of Arkansas, AR",Arkansas,County,Hugh Bargeron,16722,,Tier 2,1.0,34.2354,-91.2891,6c2f2fa2-1424-4c28-98fb-a42e1cf6aa32,,,,,,,,,,,,,,,,,
-001cv00000AuZrG,"County Of Jackson, AR",Arkansas,County,Hugh Bargeron,16811,,Tier 2,1.0,35.648,-91.1353,4d64c48a-0179-4ac3-b144-be3688a44236,,,,,,,,,,,,,,,,,
-001cv00000AuZrT,"County Of Madison, AR",Arkansas,County,Hugh Bargeron,16960,,Tier 2,1.0,35.9466,-93.6623,022ac1df-2073-4e3e-88ff-cd7acf956b41,,,,,,,,,,,,,,,,,
-001cv00000AuZrU,"County Of Marion, AR",Arkansas,County,Hugh Bargeron,16978,,Tier 2,1.0,35.2144,-90.1972,eff7c073-95ca-4107-ab1d-d10c20a66694,,,,,,,,,,,,,,,,,
-001cv00000AuZrd,"County Of Drew, AR",Arkansas,County,Hugh Bargeron,17110,,Tier 2,1.0,33.5156,-91.7539,482b5a09-00f6-4e65-b28f-b7cba67309a3,,,,,,,,,,,,,,,,,
-001cv00000AuZsa,"County Of Ashley, AR",Arkansas,County,Hugh Bargeron,18674,,Tier 2,1.0,33.1566,-91.7539,3775e31c-17b2-41f7-8f7f-37700bb7416f,,,,,,,,,,,,,,,,,
-001cv00000AuZsi,"County Of Randolph, AR",Arkansas,County,Hugh Bargeron,18865,,Tier 2,1.0,36.3458,-90.9821,04565e76-a3fe-4859-8f92-cabe490db400,,,,,,,,,,,,,,,,,
-001cv00000AuZt4,"County Of Polk, AR",Arkansas,County,Hugh Bargeron,19353,,Tier 2,1.0,34.5268,-94.1514,22ff71f0-1296-4172-8df8-71103c1a9520,,,,,,,,,,,,,,,,,
-001cv00000AuZtJ,"County Of Hempstead, AR",Arkansas,County,Hugh Bargeron,19694,,Tier 2,1.0,33.653,-93.6623,37babc72-eefd-48ab-9d29-298cdf7c5a3f,,,,,,,,,,,,,,,,,
-001cv00000AuZtP,"County Of Franklin, AR",Arkansas,County,Hugh Bargeron,17173,,Tier 2,1.0,35.5928,-93.8248,9bfea86c-6037-40c2-8722-43e302d27706,,,,,,,,,,,,,,,,,
-001cv00000AuZto,"County Of Sharp, AR",Arkansas,County,Hugh Bargeron,17622,,Tier 2,1.0,36.1676,-91.4435,0d0735ff-25e0-4a3f-aeff-6fc72d90ebc3,,,,,,,,,,,,,,,,,
-001cv00000AuZuC,"County Of Grant, AR",Arkansas,County,Hugh Bargeron,18090,,Tier 2,1.0,34.2628,-92.4209,60f6530d-6c4e-4072-bcbe-dfaddb7d5ef1,,,,,,,,,,,,,,,,,
-001cv00000AuZxL,"County Of Conway, AR",Arkansas,County,Hugh Bargeron,20873,,Tier 2,1.0,35.0918,-92.4367,da741f3b-df89-460c-9b28-aaee45816b16,,,,,,,,,,,,,,,,,
-001cv00000AuZxb,"County Of Logan, AR",Arkansas,County,Hugh Bargeron,21215,,Tier 2,1.0,35.2475,-93.6623,9e36874b-19bc-4ba6-ae2b-84cda87e9c92,,,,,,,,,,,,,,,,,
-001cv00000AuZxj,"County Of Clark, AR",Arkansas,County,Hugh Bargeron,21321,,Tier 2,1.0,34.0232,-93.178,84d4d90c-f522-435e-84a1-429c61132338,,,,,,,,,,,,,,,,,
-001cv00000Aua0R,"County Of Carroll, AR",Arkansas,County,Hugh Bargeron,28435,,Tier 1,1.5,36.2987,-93.5003,7f8aafb4-18fc-4be8-97d2-b82b78619548,,,,,,,,,,,,,,,,,
-001cv00000Aua2R,"County Of Cleburne, AR",Arkansas,County,Hugh Bargeron,25015,,Tier 1,1.5,35.4606,-92.0665,17f5cfd1-a221-49d3-8342-c0aef9a5cf18,,,,,,,,,,,,,,,,,
-001cv00000Aua3W,"County Of Yell, AR",Arkansas,County,Hugh Bargeron,20155,,Tier 2,1.0,35.0811,-93.3389,5708e332-9944-48de-90b6-6f05c8874606,,,,,,,,,,,,,,,,,
-001cv00000Aua5X,"County Of Hot Spring, AR",Arkansas,County,Hugh Bargeron,33148,,Tier 1,1.5,34.3394,-92.9776,3472ee9b-2628-4dad-810b-33114d3e7422,,,,,,,,,,,,,,,,,
-001cv00000Aua7V,"County Of Mississippi, AR",Arkansas,County,Hugh Bargeron,39661,,Tier 1,1.5,35.828,-90.0747,6e40bbea-010f-4b05-8147-c347240f76f0,,,,,,,,,,,,,,,,,
-001cv00000Aua9k,"County Of Ouachita, AR",Arkansas,County,Hugh Bargeron,22306,,Tier 2,1.0,33.5829,-92.9376,669e9786-e641-45ed-a874-8cf1385eff3e,,,,,,,,,,,,,,,,,
-001cv00000Aua9w,"County Of Poinsett, AR",Arkansas,County,Hugh Bargeron,22660,,Tier 2,1.0,35.6079,-90.6394,b4f31c17-fe2c-45ac-af01-772ff84efa4a,,,,,,,,,,,,,,,,,
-001cv00000Aua9x,"County Of Columbia, AR",Arkansas,County,Hugh Bargeron,22672,,Tier 2,1.0,33.1285,-93.178,5220fbd9-205b-4446-991a-8ec032c2a841,,,,,,,,,,,,,,,,,
-001cv00000AuaA3,"County Of St Francis, AR",Arkansas,County,Hugh Bargeron,22739,,Tier 2,1.0,34.9927,-90.7153,5410c14b-99d8-4c13-86fa-a01907820fe0,,,,,,,,,,,,,,,,,
-001cv00000AuaBA,"County Of Johnson, AR",Arkansas,County,Hugh Bargeron,25845,,Tier 1,1.5,36.1335,-94.163,9536dbe0-7c22-42f6-a87e-3435457738eb,,,,,,,,,,,,,,,,,
-001cv00000AuaE5,"County Of Independence, AR",Arkansas,County,Hugh Bargeron,37723,,Tier 1,1.5,35.8174,-91.5984,c5100b33-2852-4a4f-8212-ce41b9c99642,,,,,,,,,,,,,,,,,
-001cv00000AuaE8,"County Of Boone, AR",Arkansas,County,Hugh Bargeron,37830,,Tier 1,1.5,36.3119,-93.0176,a7bec8ad-1acc-4533-bfca-e489c5712257,,,,,,,,,,,,,,,,,
-001cv00000AuaEL,"County Of Union, AR",Arkansas,County,Hugh Bargeron,38340,,Tier 1,1.5,33.1431,-92.5396,36eac0d9-97b8-4fec-8561-17ffeae07ca1,,,,,,,,,,,,,,,,,
-001cv00000AuaGM,"County Of Baxter, AR",Arkansas,County,Hugh Bargeron,42144,,Tier 1,1.5,36.3262,-92.3814,993fe351-620a-4da7-86f7-3a216789566d,,,,,,,,,,,,,,,,,
-001cv00000AuaGV,"County Of Miller, AR",Arkansas,County,Hugh Bargeron,42649,,Tier 1,1.5,33.29,-93.8248,79ac067e-4d37-41e2-88e4-bd545bb286ad,,,,,,,,,,,,,,,,,
-001cv00000AuaJs,"County Of Greene, AR",Arkansas,County,Hugh Bargeron,46317,,Tier 1,1.5,36.1315,-90.5636,e6e502e2-8f1a-418e-875d-589dda9fa64e,,,,,,,,,,,,,,,,,
-001cv00000AuaKB,"County Of Crittenden, AR",Arkansas,County,Hugh Bargeron,47525,,Tier 1,1.5,35.3021,-90.3748,dfe7fa83-2d30-4b7f-b1fc-364f3b164a20,,,,,,,,,,,,,,,,,
-001cv00000AuaOk,"County Of Pope, AR",Arkansas,County,Hugh Bargeron,63789,,Tier S,2.0,35.4406,-93.0176,cda10586-1246-46b3-b113-5e987355b8f8,,,,,,,,,,,,,,,,,
-001cv00000AuaPH,"County Of Jefferson, AR",Arkansas,County,Hugh Bargeron,65861,,Tier S,2.0,34.2274,-91.9099,5db230da-63ce-4249-92bd-2badd3fc506f,,,,,,,,,,,,,,,,,
-001cv00000AuaTE,"County Of Crawford, AR",Arkansas,County,Hugh Bargeron,60378,,Tier S,2.0,35.5763,-94.3154,3411fecb-2e51-45c1-976c-6e5a2ac8be1e,,,,,,,,,,,,,,,,,
-001cv00000AuaWm,"County Of White, AR",Arkansas,County,Hugh Bargeron,77207,,Tier S,2.0,35.2901,-91.7539,72a927d4-6aba-4b06-90dc-8773e7572917,,,,,,,,,,,,,,,,,
-001cv00000B21pi,"City Of Holiday Island, AR",Arkansas,Municipality,Hugh Bargeron,2383,,Tier 3,0.75,36.4853,-93.7321,021a6e2e-fef1-41ba-8c2e-4eb21356357c,,,,,,,,,,,,,,,,,
-001cv00000B21rY,"City Of Lake City, AR",Arkansas,Municipality,Hugh Bargeron,2429,,Tier 3,0.75,35.8208,-90.4469,b406c306-843f-4af4-b909-402a099eaa3f,,,,,,,,,,,,,,,,,
-001cv00000B21sG,"City Of England, AR",Arkansas,Municipality,Hugh Bargeron,2445,,Tier 3,0.75,34.544,-91.9691,b709fb2e-6ae4-49a7-b761-a51fa8daebe9,,,,,,,,,,,,,,,,,
-001cv00000B21wb,"City Of Charleston, AR",Arkansas,Municipality,Hugh Bargeron,2623,,Tier 3,0.75,35.2972,-94.0437,503dec5e-2f60-4735-9742-fc209f5f46e3,,,,,,,,,,,,,,,,,
-001cv00000B21xX,"City Of Brinkley, AR",Arkansas,Municipality,Hugh Bargeron,2652,,Tier 3,0.75,34.8872,-91.1946,175424fa-61c4-42ae-85a0-f6c452e4deda,,,,,,,,,,,,,,,,,
-001cv00000B21xb,"City Of Hoxie, AR",Arkansas,Municipality,Hugh Bargeron,2653,,Tier 3,0.75,36.0504,-90.9751,3a36512a-9988-4841-b54f-97fec54e4885,,,,,,,,,,,,,,,,,
-001cv00000B21z0,"City Of Shannon Hills, AR",Arkansas,Municipality,Hugh Bargeron,4567,,Tier 3,0.75,34.6233,-92.3953,da1a5e3e-9706-4cc8-a0af-ad93d379be8e,,,,,,,,,,,,,,,,,
-001cv00000B221s,"City Of Crossett, AR",Arkansas,Municipality,Hugh Bargeron,4706,,Tier 3,0.75,33.1241,-91.9612,fdc8a66b-e267-4d52-bb2d-9cc01131468a,,,,,,,,,,,,,,,,,
-001cv00000B222R,"County Of Calhoun, AR",Arkansas,County,Hugh Bargeron,4741,,Tier 3,0.75,33.5021,-92.5396,6bd56b24-dea5-4062-8f6a-9e99e9b9dbe7,,,,,,,,,,,,,,,,,
-001cv00000bAeBe,City of Little Rock,Arkansas,Municipality,Hugh Bargeron,204774,,Tier S,2.0,34.7428,-92.2763,9e0cb9d1-1e34-4a8d-a5fd-cb80d446a6c9,,,,,,,,,,,,,,,,,
-001cv00000bBWFF,Craighead County,Arkansas,County,Hugh Bargeron,115852,,Tier S,2.0,35.8261,-90.6773,4f932253-5117-46b4-bd9e-19783c8861a8,,,,,,,,,,,,,,,,,
-001cv00000bBWMs,Lonoke County,Arkansas,County,Hugh Bargeron,76389,,Tier S,2.0,34.7592,-91.9099,11175a6f-8dce-4de9-99da-8f5b880e52fb,,,,,,,,,,,,,,,,,
-001cv00000bBWMx,Garland County,Arkansas,County,Hugh Bargeron,99902,,Tier S,2.0,34.5559,-93.178,0d3d0b20-db7b-4f8d-bdb9-bcfd36fded30,,,,,,,,,,,,,,,,,
-001cv00000bBWSl,Sebastian County,Arkansas,County,Hugh Bargeron,130035,,Tier S,2.0,35.226,-94.3154,6f37d2ff-c07a-445a-8b84-36ab34381460,,,,,,,,,,,,,,,,,
-001cv00000bBWSp,Saline County,Arkansas,County,Hugh Bargeron,131252,,Tier S,2.0,34.5708,-92.5396,ee20f4a4-602c-4073-9c56-defd4b4ba77b,,,,,,,,,8,2026-05-13,,,,8,,,
-001cv00000bBWSr,Faulkner County,Arkansas,County,Hugh Bargeron,131611,,Tier S,2.0,35.1036,-92.3814,cc0c7538-11c3-42d2-9753-f0dd695303f3,,,,,,,,,,,,,,,,,
-001cv00000bBWtD,City of Dover,Arkansas,Municipality,Hugh Bargeron,1368,,Tier 3,0.75,35.4018,-93.1142,f425edd9-8e50-4dea-9d89-b232e584ae86,,,,,,,,,,,,,,,,,
-001cv00000bBWtZ,City of Hazen,Arkansas,Municipality,Hugh Bargeron,1388,,Tier 3,0.75,34.7803,-91.5812,af24f059-8d19-475a-87db-600e97b13789,,,,,,,,,,,,,,,,,
-001cv00000bBX0K,Benton County,Arkansas,County,Hugh Bargeron,321566,,Tier S,2.0,36.34,-94.25,944a6700-792a-40ff-a4ca-a74789cf939a,,,,,,,,,,,,,,,,,
-001cv00000bBX0v,Pulaski County,Arkansas,County,Hugh Bargeron,401209,,Tier S,2.0,34.7539,-92.2237,30f9482f-13b6-4128-a1ff-03bc64974f1a,,,,,,,,,,,,,,,,,
-001cv00000fDj6E,"County of Pulaski, AR",Arkansas,County,Hugh Bargeron,402420,Open Opportunity,Tier S,2.0,34.7539,-92.2237,,Open,Meeting Booked,Top of Funnel,Sydney Ireland,6/8/2026,3/31/2026,,,2,2026-04-15,,,,,,2,
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ryan Minter,Calls - Hugh Bargeron,Calls - Leila Assil,Calls - Ben Laddis,Calls - Joe del Rosario,Calls - Sydney Ireland,Calls - Quinzel Perry,Outreach ID
+001Hr000028Zbqa,"City Of Arkadelphia, AR",Arkansas,Municipality,Hugh Bargeron,10258,,Tier 2,1.0,34.121,-93.0535,bc3c36fd-fe7a-4f6f-a6d1-8278de71bb98,,,,,,,,,2,2025-07-10,2,,,,,,,4615
+001Hr000028ZbsI,"City Of Cabot, AR",Arkansas,Municipality,Hugh Bargeron,26655,,Tier 1,1.5,34.9749,-92.0163,7a1b61c7-f33f-464e-af8d-c2b078c96661,,,,,,,,,7,2026-02-25,7,,,,,,,5710
+001Hr000028ZbuY,"City Of Heber Springs, AR",Arkansas,Municipality,Hugh Bargeron,7154,,Tier 3,0.75,35.4914,-92.0302,7e09c524-c354-48d4-abd0-5030db138d48,,,,,,,,,2,2025-07-07,2,,,,,,,3966
+001Hr000028Zc2Z,"City Of Bella Vista, AR",Arkansas,Municipality,Hugh Bargeron,30808,Open Opportunity,Tier 1,1.5,36.4758,-94.2475,c1ccff3e-de3a-41d5-bdcd-e0abdeafe32e,Open,Initial Interest,Top of Funnel,Ryan Minter,,12/2/2025,,,39,2026-05-18,35,4,,,,,,5838
+001Hr000028Zc4w,"City Of Warren, AR",Arkansas,Municipality,Hugh Bargeron,5380,,Tier 3,0.75,33.6099,-92.0716,4799cd3b-3f7a-4863-960b-5e35260b528e,,,,,,,,,9,2025-08-12,9,,,,,,,3627
+001Hr000028Zc9k,"City Of White Hall, AR",Arkansas,Municipality,Hugh Bargeron,5578,,Tier 3,0.75,34.2715,-92.0894,def20005-755d-4111-afe9-9c64b1bf90e1,,,,,,,,,4,2025-07-21,4,,,,,,,3444
+001Hr000028ZcCq,"City Of Morrilton, AR",Arkansas,Municipality,Hugh Bargeron,7064,Open Opportunity,Tier 3,0.75,35.1526,-92.7438,53222bcb-0e29-4f5d-97ee-e0ba87add612,Open,Meeting Booked,Top of Funnel,Ryan Minter,10/20/2025,7/8/2025,,,6,2025-10-21,6,,,,,,,3904
+001Hr000028ZcEn,"City Of Prairie Grove, AR",Arkansas,Municipality,Hugh Bargeron,7434,,Tier 3,0.75,35.9757,-94.3173,76c37d4e-bf1b-42e9-9e5c-dd88333eb510,,,,,,,,,12,2025-08-04,12,,,,,,,3820
+001Hr000028ZcJH,"City Of Alma, AR",Arkansas,Municipality,Hugh Bargeron,5850,Open Opportunity,Tier 3,0.75,35.4922,-94.2261,fc72aa32-a33f-48c0-b943-b7cd3c04064a,Open,Meeting Booked,Top of Funnel,Liam Shaw,10/14/2024,1/5/2025,,,7,2026-05-07,6,1,,,,,,3683
+001Hr000028ZcKV,"City Of Berryville, AR",Arkansas,Municipality,Hugh Bargeron,5687,Nurture,Tier 3,0.75,36.365,-93.5675,66c00786-9397-41c7-8eec-0aba8a616518,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,9,2025-08-26,8,,,,1,,,3625
+001Hr000028ZcNL,"City Of Pea Ridge, AR",Arkansas,Municipality,Hugh Bargeron,7140,Nurture,Tier 3,0.75,36.4538,-94.1152,d4727c7e-3baa-42f9-92a5-6f98314f6057,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,3,2026-05-14,1,2,,,,,,3740
+001Hr000028ZcQK,"City Of Farmington, AR",Arkansas,Municipality,Hugh Bargeron,8242,,Tier 3,0.75,36.0391,-94.2541,2234c6f5-7c64-472a-b281-bbc459bc1b27,,,,,,,,,2,2025-07-09,2,,,,,,,4114
+001Hr000028ZcQe,"City Of De Queen, AR",Arkansas,Municipality,Hugh Bargeron,6071,Open Opportunity,Tier 3,0.75,34.0368,-94.3415,cf9c39a3-a2fa-4e6d-a91c-934e388a4eff,Open,Meeting Booked,Top of Funnel,Ryan Minter,2/26/2026,2/24/2026,,,6,2026-02-26,6,,,,,,,3877
+001Hr000028ZcSB,"City Of Walnut Ridge, AR",Arkansas,Municipality,Hugh Bargeron,5448,,Tier 3,0.75,36.0684,-90.9559,149a9d4e-bb33-46ef-87ed-c4f8f7f03dfe,,,,,,,,,4,2025-07-07,4,,,,,,,3484
+001Hr000028ZcV0,"City Of Camden, AR",Arkansas,Municipality,Hugh Bargeron,10369,Nurture,Tier 2,1.0,33.5836,-92.8341,194fe26d-a2be-4174-94aa-30ebb3426c64,Closed Lost,,,Shane Lieberman,6/20/2024,1/5/2025,"$14,000",,11,2025-12-10,11,,,,,,,4655
+001Hr000028ZcWX,"City Of Lowell, AR",Arkansas,Municipality,Hugh Bargeron,10177,,Tier 2,1.0,36.2541,-94.1368,58cc2725-4f75-4944-a62a-529a1e4e02c1,,,,,,,,,10,2026-02-03,10,,,,,,,4513
+001Hr000028ZcYC,"City Of Bentonville, AR",Arkansas,Municipality,Hugh Bargeron,56734,,Tier S,2.0,36.3724,-94.2102,153e161d-17b4-45e5-8e7e-185fcdd9ea71,,,,,,,,,21,2026-05-07,20,1,,,,,,11428
+001Hr000028Zcad,"City Of Magnolia, AR",Arkansas,Municipality,Hugh Bargeron,11105,Nurture,Tier 2,1.0,33.2671,-93.2394,a0bb6e33-4ab8-4fe2-85f8-92ae416e3824,Closed Lost,,,Shane Lieberman,6/13/2024,1/5/2025,"$7,000",,4,2026-01-20,4,,,,,,,4726
+001Hr000028ZceP,"City Of Batesville, AR",Arkansas,Municipality,Hugh Bargeron,11166,,Tier 2,1.0,35.7697,-91.6409,d9fc2ab2-e228-4a89-93f2-7a1f543735f2,,,,,,,,,8,2026-05-11,7,1,,,,,,4713
+001Hr000028Zcf1,"City Of Ward, AR",Arkansas,Municipality,Hugh Bargeron,6359,,Tier 3,0.75,35.0303,-91.9505,ba7afe94-7f1f-45bb-aecf-c083e1698b23,,,,,,,,,4,2025-07-07,4,,,,,,,3507
+001Hr000028ZcgF,"City Of Greenbrier, AR",Arkansas,Municipality,Hugh Bargeron,5862,Nurture,Tier 3,0.75,35.234,-92.3879,3d3f01b6-bbba-4aa0-9680-45715982cb51,Closed Lost,,,Shane Lieberman,6/13/2024,1/5/2025,"$15,000",,11,2025-12-12,11,,,,,,,3623
+001Hr000028Zcgd,"City Of Mena, AR",Arkansas,Municipality,Hugh Bargeron,5613,,Tier 3,0.75,34.5842,-94.2364,c4dbe7ae-6014-49a6-be9f-c9195fb301cd,,,,,,,,,4,2025-07-15,4,,,,,,,3607
+001Hr000028Zch0,"City Of Newport, AR",Arkansas,Municipality,Hugh Bargeron,7852,Nurture,Tier 3,0.75,35.6061,-91.2641,00aec371-dafa-4759-8158-4cf5613c6645,Closed Lost,,,Ryan Minter,7/10/2025,7/3/2025,,,5,2025-07-09,5,,,,,,,4171
+001Hr000028ZchD,"City Of Pocahontas, AR",Arkansas,Municipality,Hugh Bargeron,7521,Open Opportunity,Tier 3,0.75,36.2633,-90.9717,619c3eb5-27bc-4bb6-bb57-164bca4f89b8,Open,Meeting Booked,Top of Funnel,Ryan Minter,9/18/2025,7/3/2025,,,3,2025-08-14,3,,,,,,,4034
+001Hr000028ZchL,"City Of Stuttgart, AR",Arkansas,Municipality,Hugh Bargeron,8056,,Tier 3,0.75,34.4941,-91.5581,f000ff82-d334-4946-8f0e-1c7f7ca11afc,,,,,,,,,4,2025-07-10,3,,,,1,,,4282
+001Hr000028ZcjW,"City Of Beebe, AR",Arkansas,Municipality,Hugh Bargeron,8561,,Tier 3,0.75,35.0704,-91.8798,efcb3498-5798-47eb-910e-20c6775b6ed1,,,,,,,,,3,2025-07-07,3,,,,,,,4278
+001Hr000028ZcmD,"City Of Osceola, AR",Arkansas,Municipality,Hugh Bargeron,6779,Recent Competitor Purchase,Tier 3,0.75,35.7029,-89.9701,1c3a99fb-b3e5-4f54-96d1-c22754cac3c7,Closed Lost,,,Shane Lieberman,6/26/2024,1/5/2025,"$7,650",,6,2026-02-20,6,,,,,,,3967
+001Hr000028ZcnJ,"City Of Springdale, AR",Arkansas,Municipality,Hugh Bargeron,87609,,Tier S,2.0,36.1884,-94.1298,65365cee-d86f-492b-827c-476f0749dc27,,,,,,,,,4,2025-10-07,4,,,,,,,11439
+001Hr000028Zcne,"City Of Trumann, AR",Arkansas,Municipality,Hugh Bargeron,7332,,Tier 3,0.75,35.6786,-90.5241,e331bb80-fd61-4d20-9485-def75db04fc8,,,,,,,,,2,2025-07-08,2,,,,,,,4070
+001Hr000028Zcnp,"City Of Marion, AR",Arkansas,Municipality,Hugh Bargeron,13695,Open Opportunity,Tier 2,1.0,35.2144,-90.1972,c781cacb-23fd-4006-9657-e04d8359a988,Open,Meeting Booked,Top of Funnel,Ryan Minter,11/24/2025,11/20/2025,,Yes,14,2025-12-05,14,,,,,,,4975
+001Hr000028ZcoL,"City of Texarkana, AR",Arkansas,Municipality,Hugh Bargeron,29492,Recent Competitor Purchase,Tier 1,1.5,33.4305,-94.0362,,Closed Lost,,,Leila Assil,8/26/2025,7/15/2025,"$55,000",,12,2026-01-06,1,,11,,,,,5826
+001Hr000028ZcoO,"City Of Wynne, AR",Arkansas,Municipality,Hugh Bargeron,8274,,Tier 3,0.75,35.2236,-90.7872,91576685-fbe9-4c2a-8020-968b0b7c0c7b,,,,,,,,,3,2025-07-16,3,,,,,,,4279
+001Hr000028Zcoq,"City Of Russellville, AR",Arkansas,Municipality,Hugh Bargeron,29338,Nurture,Tier 1,1.5,35.2781,-93.1337,72b0a016-bdd0-41e4-8b62-0ab34c7ee6d4,Closed Lost,,,Ryan Minter,7/14/2025,7/9/2025,,,5,2026-02-19,5,,,,,,,5812
+001Hr000028ZcqB,"City Of Malvern, AR",Arkansas,Municipality,Hugh Bargeron,10719,,Tier 2,1.0,34.3624,-92.8124,df7d1d36-c6ee-4a39-ab9f-909eba24cfe7,,,,,,,,,1,2025-07-10,1,,,,,,,4653
+001Hr000028ZcsK,"City Of Monticello, AR",Arkansas,Municipality,Hugh Bargeron,8308,,Tier 3,0.75,33.6297,-91.8022,02dd9453-20d7-4d01-9458-afd87512a8c7,,,,,,,,,1,2025-07-09,1,,,,,,,4325
+001Hr000028Zctc,"City Of Hope, AR",Arkansas,Municipality,Hugh Bargeron,8686,Nurture,Tier 3,0.75,33.6685,-93.5971,df9c52ba-2567-4480-8b95-557910b10f5d,Closed Lost,,,Ryan Minter,12/2/2025,7/9/2025,,,4,2025-12-02,4,,,,,,,4402
+001Hr000028Zcu8,"City Of Greenwood, AR",Arkansas,Municipality,Hugh Bargeron,9605,Nurture,Tier 3,0.75,35.2125,-94.2558,b1360c9b-d9f3-43c7-90e6-72c166b08cfa,Closed Lost,,,Ryan Minter,7/14/2025,7/10/2025,"$15,000",,4,2025-07-10,4,,,,,,,4495
+001Hr000028Zcuz,"City Of Clarksville, AR",Arkansas,Municipality,Hugh Bargeron,9476,,Tier 3,0.75,35.4712,-93.4686,2f331a57-1857-4923-abc0-edf9e887b5ba,,,,,,,,,3,2025-11-19,3,,,,,,,4485
+001Hr000028ZcwE,"City Of Siloam Springs, AR",Arkansas,Municipality,Hugh Bargeron,17575,Open Opportunity,Tier 2,1.0,36.1859,-94.5416,eb63f6e7-2a13-47be-af4a-b3c39580f972,Open,Initial Interest,Top of Funnel,Ryan Minter,,7/8/2025,,,13,2026-05-11,9,4,,,,,,5244
+001Hr000028ZcxV,"City Of Mountain Home, AR",Arkansas,Municipality,Hugh Bargeron,12993,Open Opportunity,Tier 2,1.0,36.3401,-92.3852,37654fae-3d89-4c6c-b3b7-0d8fd9b2aaf4,Open,Initial Interest,Top of Funnel,Ryan Minter,8/27/2025,7/8/2025,,,12,2026-04-27,12,,,,,,,4895
+001Hr000028Zcyg,"City Of Searcy, AR",Arkansas,Municipality,Hugh Bargeron,23098,Open Opportunity,Tier 2,1.0,35.2438,-91.7364,7cb0c9bf-fe28-4f02-97aa-477e11945c61,Open,Initial Interest,Top of Funnel,Shane Lieberman,11/14/2024,1/5/2025,,,3,2026-05-14,1,2,,,,,,5566
+001Hr000028Zczn,"City Of Jacksonville, AR",Arkansas,Municipality,Hugh Bargeron,29305,,Tier 1,1.5,34.8674,-92.127,a0a6ddd0-c633-4e35-9dac-24b4b818ee1f,,,,,,,,,25,2026-02-18,25,,,,,,,5821
+001Hr000028Zd0e,"City Of Centerton, AR",Arkansas,Municipality,Hugh Bargeron,19984,Nurture,Tier 2,1.0,36.3585,-94.2849,b3dbb12f-7ae2-427e-9210-4f75af97cfc3,Closed Lost,,,Shane Lieberman,5/29/2024,1/5/2025,,,7,2026-05-15,6,1,,,,,,5270
+001Hr000028Zd2V,"City Of Forrest City, AR",Arkansas,Municipality,Hugh Bargeron,12972,Open Opportunity,Tier 2,1.0,35.0093,-90.7852,84ccacc9-4ae0-4eb0-90bd-4b366883b1fe,Open,Initial Interest,Top of Funnel,Ryan Minter,,11/14/2025,,Yes,6,2026-05-07,5,1,,,,,,4953
+001Hr000028Zd2j,"City Of Harrison, AR",Arkansas,Municipality,Hugh Bargeron,13195,,Tier 2,1.0,36.2298,-93.1074,3f02b6c4-bfaa-4416-81c3-2fc81dd00bfc,,,,,,,,,1,2025-07-15,,,1,,,,,4930
+001Hr000028Zd3D,"City Of Blytheville, AR",Arkansas,Municipality,Hugh Bargeron,13039,Open Opportunity,Tier 2,1.0,35.9285,-89.908,e2f01425-ee95-4ff0-b47c-4ca44d487062,Open,Initial Interest,Top of Funnel,Ryan Minter,,12/8/2025,,Yes,12,2026-05-14,8,4,,,,,,4968
+001Hr000028Zd4O,"City Of Van Buren, AR",Arkansas,Municipality,Hugh Bargeron,23353,Open Opportunity,Tier 2,1.0,35.4589,-94.3566,d3eeca8b-d404-40f9-ae33-ec867372358f,Open,Initial Interest,Top of Funnel,Ryan Minter,,7/10/2025,,,14,2026-05-19,11,3,,,,,,5575
+001Hr000028Zd7E,"City Of West Memphis, AR",Arkansas,Municipality,Hugh Bargeron,24150,Nurture,Tier 2,1.0,35.1465,-90.1848,ef6fd778-8dd1-441d-b59f-1813ca572175,Closed Lost,,,Leila Assil,4/30/2025,4/16/2025,,,4,2025-10-30,4,,,,,,,5639
+001Hr000028Zd8h,"City Of El Dorado, AR",Arkansas,Municipality,Hugh Bargeron,17339,,Tier 2,1.0,33.2075,-92.6656,dbae5e8c-cb64-4b38-ae49-a388c4d81d2e,,,,,,,,,,,,,,,,,,5293
+001Hr000028Zd98,"City Of Pine Bluff, AR",Arkansas,Municipality,Hugh Bargeron,40244,Nurture,Tier 1,1.5,34.2249,-92.0034,f11a4e58-ed11-4214-938f-7e58bd3c59df,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,4,2026-05-06,3,1,,,,,,6068
+001Hr000028Zd9f,"City Of Maumelle, AR",Arkansas,Municipality,Hugh Bargeron,19270,,Tier 2,1.0,34.87,-92.3978,a8ef0314-9bdc-4976-b285-62c5a8e141dd,,,,,,,,,4,2025-11-18,4,,,,,,,5372
+001Hr000028ZdAd,"City Of Bryant, AR",Arkansas,Municipality,Hugh Bargeron,21073,,Tier 2,1.0,34.6246,-92.4995,94b409af-1e0e-4544-9efa-65953788760c,,,,,,,,,34,2025-11-18,34,,,,,,,5446
+001Hr000028ZdCl,"City Of Sherwood, AR",Arkansas,Municipality,Hugh Bargeron,33020,,Tier 1,1.5,34.8321,-92.1911,61b453de-9da4-4706-bb3a-cfd49627a553,,,,,,,,,13,2026-02-23,13,,,,,,,5912
+001Hr000028ZdGX,"City Of Benton, AR",Arkansas,Municipality,Hugh Bargeron,35675,Nurture,Tier 1,1.5,34.5693,-92.5854,9fb72506-79c4-4e72-8c34-ef2b170169e4,Closed Lost,,,Shane Lieberman,8/8/2024,1/5/2025,,,9,2026-02-19,9,,,,,,,5954
+001Hr000028ZdGq,"City Of Paragould, AR",Arkansas,Municipality,Hugh Bargeron,29906,,Tier 1,1.5,36.0526,-90.4887,8bc457e0-e457-40d0-919c-72d92fcdef28,,,,,,,,,9,2026-05-11,8,1,,,,,,5817
+001Hr000028ZdK9,"City Of Hot Springs, AR",Arkansas,Municipality,Hugh Bargeron,38114,Nurture,Tier 1,1.5,34.5078,-93.0546,e1f28013-b7e6-453d-8468-c34353b5d80b,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,6,2025-07-16,6,,,,,,,6007
+001Hr000028ZdOT,"City Of Conway, AR",Arkansas,Municipality,Hugh Bargeron,65121,,Tier S,2.0,35.0918,-92.4367,af694f7e-c6ba-442c-936e-10fd8df383d8,,,,,,,,,15,2025-07-17,15,,,,,,,11769
+001Hr000028ZdUt,"City Of North Little Rock, AR",Arkansas,Municipality,Hugh Bargeron,64162,,Tier S,2.0,34.7561,-92.2678,d2127b7c-d5fa-4ef1-ad67-a4cb4b022e41,,,,,,,,,5,2026-02-06,4,,,,,,1,11434
+001Hr000028ZdVz,"City Of Rogers, AR",Arkansas,Municipality,Hugh Bargeron,71112,,Tier S,2.0,36.3335,-94.1257,756d137d-de45-400b-8f75-55712827b96d,,,,,,,,,11,2025-07-21,11,,,,,,,11438
+001Hr000028ZdYm,"City Of Fayetteville, AR",Arkansas,Municipality,Hugh Bargeron,95230,,Tier S,2.0,36.0619,-94.158,bea89e8c-2f7c-4474-bb92-20c9ca00126c,,,,,,,,,3,2026-05-18,2,1,,,,,,11427
+001Hr000028Zdcx,"City Of Jonesboro, AR",Arkansas,Municipality,Hugh Bargeron,79324,,Tier S,2.0,35.8357,-90.7051,3b189459-fe60-41d0-a4cd-0d0786c9b042,,,,,,,,,12,2026-05-18,11,1,,,,,,11432
+001Hr000028Zde9,"City Of Fort Smith, AR",Arkansas,Municipality,Hugh Bargeron,89576,Recent Competitor Purchase,Tier S,2.0,35.3844,-94.421,39b563fb-8061-445c-b7c5-d7d5c1fae1a8,,,,,,,,,4,2026-02-19,4,,,,,,,11430
+001Hr000028ZdjZ,"Washington County, AR",Arkansas,County,Hugh Bargeron,,,Tier 3,0.75,35.9308,-94.1514,fe27c87b-0657-4b58-b5e6-c5669a693be6,,,,,,,,,3,2025-12-17,2,,1,,,,,12008
+001cv00000AuWNl,"City Of Carlisle, AR",Arkansas,Municipality,Hugh Bargeron,2004,,Tier 3,0.75,34.7805,-91.7479,5c8f557a-abbb-446a-b209-c2de85690dcf,,,,,,,,,3,2025-07-16,3,,,,,,,12911
+001cv00000AuWO4,"City Of Danville, AR",Arkansas,Municipality,Hugh Bargeron,2009,,Tier 3,0.75,35.0544,-93.3934,abe80b62-8e90-4d28-bd25-edbf13db86da,,,,,,,,,5,2025-07-22,5,,,,,,,12854
+001cv00000AuWON,"City Of Lake Village, AR",Arkansas,Municipality,Hugh Bargeron,2016,,Tier 3,0.75,33.3314,-91.2841,d1ed3bea-d352-44dc-b9ab-e47a106333a3,,,,,,,,,7,2025-07-18,7,,,,,,,12956
+001cv00000AuWP3,"City Of Mayflower, AR",Arkansas,Municipality,Hugh Bargeron,2027,,Tier 3,0.75,34.9569,-92.4277,482fbb74-fac9-4880-9df4-a0bd970ecb36,,,,,,,,,1,2025-07-08,1,,,,,,,12943
+001cv00000AuWPo,"City Of Glenwood, AR",Arkansas,Municipality,Hugh Bargeron,2036,,Tier 3,0.75,34.3271,-93.5497,b5096206-fda0-46b5-9d1e-aa8812690cb4,,,,,,,,,,,,,,,,,,12966
+001cv00000AuWah,"City Of Fairfield Bay, AR",Arkansas,Municipality,Hugh Bargeron,2116,,Tier 3,0.75,35.6106,-92.263,79b11e5e-cc23-430b-867a-95f7fd0e25c4,,,,,,,,,7,2026-04-07,7,,,,,,,13054
+001cv00000AuWk8,"City Of Eureka Springs, AR",Arkansas,Municipality,Hugh Bargeron,2171,,Tier 3,0.75,36.4006,-93.7393,b869bc2e-4e7f-4106-bfb6-11eb47324555,,,,,,,,,3,2025-07-08,3,,,,,,,13408
+001cv00000AuWpq,"City Of Gassville, AR",Arkansas,Municipality,Hugh Bargeron,2187,Open Opportunity,Tier 3,0.75,36.2873,-92.4817,8df7e668-df8e-4602-826c-1ea57a9aa7b5,Closed Lost,,,Ryan Minter,7/17/2025,7/7/2025,,,13,2026-01-20,13,,,,,,,13509
+001cv00000AuWpt,"Town Of Goshen, AR",Arkansas,Municipality,Hugh Bargeron,2188,,Tier 3,0.75,36.101,-93.9914,96074a6e-3c52-43ae-ba4f-26812f42fedb,,,,,,,,,,,,,,,,,,13477
+001cv00000AuWqR,"City Of Harrisburg, AR",Arkansas,Municipality,Hugh Bargeron,2199,,Tier 3,0.75,35.564,-90.7243,c809eef1-2c04-477f-a1c7-98f5af2ca967,,,,,,,,,,,,,,,,,,13501
+001cv00000AuWrh,"City Of Marked Tree, AR",Arkansas,Municipality,Hugh Bargeron,2228,,Tier 3,0.75,35.5347,-90.4216,60059c4f-5f18-46e7-9be8-3a95e1e14eed,,,,,,,,,,,,,,,,,,13640
+001cv00000AuX5G,"City Of Star City, AR",Arkansas,Municipality,Hugh Bargeron,2246,,Tier 3,0.75,33.9426,-91.8436,606f74b3-b6a6-42b8-bb3c-61a51792c61f,,,,,,,,,,,,,,,,,,13697
+001cv00000AuX8R,"City Of Lincoln, AR",Arkansas,Municipality,Hugh Bargeron,2306,,Tier 3,0.75,35.9476,-94.4235,692fefc3-ea78-470a-bfd9-888135d47b7c,,,,,,,,,,,,,,,,,,13808
+001cv00000AuX9c,"City Of West Fork, AR",Arkansas,Municipality,Hugh Bargeron,2335,,Tier 3,0.75,35.9315,-94.18,c60205df-dd18-4ad5-bf2e-4c693ea65ee1,,,,,,,,,2,2025-07-08,2,,,,,,,13887
+001cv00000AuXI3,"City Of Bald Knob, AR",Arkansas,Municipality,Hugh Bargeron,2526,,Tier 3,0.75,35.3083,-91.5707,780c87af-c1fb-450a-8cc2-ab01b04c8ee3,,,,,,,,,,,,,,,,,,14006
+001cv00000AuXNH,"City Of Lavaca, AR",Arkansas,Municipality,Hugh Bargeron,2463,,Tier 3,0.75,35.3363,-94.1754,02d0dd41-e2f5-4d5a-80ab-1eb019d3fd19,,,,,,,,,,,,,,,,,,14054
+001cv00000AuXNU,"City Of Hamburg, AR",Arkansas,Municipality,Hugh Bargeron,2469,,Tier 3,0.75,33.2257,-91.7976,f51b6a74-9374-42f0-9a34-b5098fcc72a0,,,,,,,,,,,,,,,,,,14124
+001cv00000AuXPG,"City Of Clinton, AR",Arkansas,Municipality,Hugh Bargeron,2510,,Tier 3,0.75,35.5932,-92.4596,2ef038d0-729d-463f-bca6-abb900dd59ec,,,,,,,,,,,,,,,,,,14135
+001cv00000AuXTm,"City Of Horseshoe Bend, AR",Arkansas,Municipality,Hugh Bargeron,2539,,Tier 3,0.75,36.2187,-91.759,da408488-797c-4360-93a9-c9e5933194b0,,,,,,,,,,,,,,,,,,14180
+001cv00000AuXVO,"City Of Elm Springs, AR",Arkansas,Municipality,Hugh Bargeron,2581,Open Opportunity,Tier 3,0.75,36.2063,-94.2348,70f8fc4c-b38b-4a07-b280-6102e9c268e0,Open,Initial Interest,Top of Funnel,Ryan Minter,,10/14/2025,,,3,2026-02-18,3,,,,,,,14335
+001cv00000AuXVP,"City Of Bono, AR",Arkansas,Municipality,Hugh Bargeron,2582,,Tier 3,0.75,35.9091,-90.8027,79037919-ec5e-4cfa-a796-357f9f13933f,,,,,,,,,,,,,,,,,,14319
+001cv00000AuXjW,"City Of Gosnell, AR",Arkansas,Municipality,Hugh Bargeron,2826,,Tier 3,0.75,35.9599,-89.9718,7be8bd16-0cfe-4a51-928e-d7170ff7f17d,,,,,,,,,,,,,,,,,,14653
+001cv00000AuXkX,"City Of Atkins, AR",Arkansas,Municipality,Hugh Bargeron,2856,,Tier 3,0.75,35.242,-92.9374,b87466b7-84ae-4dda-af66-236ab33cab4b,,,,,,,,,,,,,,,,,,14791
+001cv00000AuXlM,"City Of Mountain View, AR",Arkansas,Municipality,Hugh Bargeron,2873,,Tier 3,0.75,35.8686,-92.1178,3412349d-e48a-41f4-a23f-a444613736e2,,,,,,,,,,,,,,,,,,14814
+001cv00000AuXm6,"City Of Dewitt, AR",Arkansas,Municipality,Hugh Bargeron,2898,,Tier 3,0.75,34.2932,-91.3351,470b7dc5-e45f-41a8-b358-b54380171ac3,,,,,,,,,,,,,,,,,,14757
+001cv00000AuYAP,"City Of Corning, AR",Arkansas,Municipality,Hugh Bargeron,3166,,Tier 3,0.75,36.4113,-90.5864,1c8f5c0c-cebf-4b5a-8062-de4894c70035,,,,,,,,,,,,,,,,,,15628
+001cv00000AuYAn,"City Of Pottsville, AR",Arkansas,Municipality,Hugh Bargeron,3182,,Tier 3,0.75,35.2535,-93.0477,e2bfbe8c-ae39-40da-b720-36c8fcfbe5ec,,,,,,,,,,,,,,,,,,15793
+001cv00000AuYEE,"City Of Huntsville, AR",Arkansas,Municipality,Hugh Bargeron,2981,,Tier 3,0.75,36.0874,-93.735,b4f12bea-afd8-48fc-bd4b-c9e63e93bb31,,,,,,,,,,,,,,,,,,15352
+001cv00000AuYFM,"City Of Prescott, AR",Arkansas,Municipality,Hugh Bargeron,3017,,Tier 3,0.75,33.8025,-93.381,24f28a75-ec79-49b3-98d5-79db5889c153,,,,,,,,,,,,,,,,,,14989
+001cv00000AuYGA,"City Of Little Flock, AR",Arkansas,Municipality,Hugh Bargeron,3044,,Tier 3,0.75,36.3773,-94.138,e6131764-c4d0-4fe4-8650-05f7d93654c0,,,,,,,,,,,,,,,,,,15124
+001cv00000AuYGB,"City Of Green Forest, AR",Arkansas,Municipality,Hugh Bargeron,3044,,Tier 3,0.75,36.3354,-93.436,589d9df4-3445-4672-a2f3-5d9f49248a71,,,,,,,,,,,,,,,,,,15104
+001cv00000AuYIE,"City Of Waldron, AR",Arkansas,Municipality,Hugh Bargeron,3316,,Tier 3,0.75,34.8964,-94.091,4bbfe88e-f9f4-4222-a37b-cbcad4f56ca6,,,,,,,,,,,,,,,,,,15609
+001cv00000AuYIX,"City Of Fordyce, AR",Arkansas,Municipality,Hugh Bargeron,3329,,Tier 3,0.75,33.8137,-92.413,43c0ebaa-8f31-43b4-9399-be4508fe202b,,,,,,,,,,,,,,,,,,15818
+001cv00000AuYOX,"City Of Paris, AR",Arkansas,Municipality,Hugh Bargeron,3213,,Tier 3,0.75,35.2921,-93.7299,5daca2c5-2a50-4ec9-8f48-1c51470167ed,,,,,,,,,,,,,,,,,,15386
+001cv00000AuYRi,"City Of Ozark, AR",Arkansas,Municipality,Hugh Bargeron,3566,,Tier 3,0.75,35.487,-93.8272,4d4a6623-3fde-4f87-984f-4bba0dffcced,,,,,,,,,,,,,,,,,,15585
+001cv00000AuYRr,"City Of Piggott, AR",Arkansas,Municipality,Hugh Bargeron,3573,,Tier 3,0.75,36.3822,-90.1905,eb5cbb96-096f-40a8-8c8f-676e9cbf625c,,,,,,,,,,,,,,,,,,15594
+001cv00000AuYSL,"City Of Marianna, AR",Arkansas,Municipality,Hugh Bargeron,3597,,Tier 3,0.75,34.7746,-90.7723,0a6b1a94-2054-4c69-9ae1-d463efea0c4c,,,,,,,,,,,,,,,,,,15556
+001cv00000AuYSS,"Town Of Alexander, AR",Arkansas,Municipality,Hugh Bargeron,3603,,Tier 3,0.75,34.6118,-92.4461,a675d34a-1a15-42dc-b50e-e3069ee63035,,,,,,,,,,,,,,,,,,16046
+001cv00000AuYT4,"City Of Johnson, AR",Arkansas,Municipality,Hugh Bargeron,3631,,Tier 3,0.75,36.1335,-94.163,a6297958-8c7d-418e-a0f3-e7910f0cb9e7,,,,,,,,,,,,,,,,,,16006
+001cv00000AuYTU,"City Of Gravette, AR",Arkansas,Municipality,Hugh Bargeron,3647,,Tier 3,0.75,36.4223,-94.4519,031d3a09-0dca-4f8c-9586-5fa8e136476d,,,,,,,,,,,,,,,,,,15975
+001cv00000AuYdf,"City Of Manila, AR",Arkansas,Municipality,Hugh Bargeron,3662,,Tier 3,0.75,35.8802,-90.1663,325ba466-3eb2-43fb-bbb3-75174065af4c,,,,,,,,,,,,,,,,,,16311
+001cv00000AuYfJ,"City Of Brookland, AR",Arkansas,Municipality,Hugh Bargeron,4235,,Tier 3,0.75,35.9074,-90.5773,e981a723-8c5f-423c-a98f-77f272723f04,,,,,,,,,,,,,,,,,,16863
+001cv00000AuYfX,"City Of Southside, AR",Arkansas,Municipality,Hugh Bargeron,4243,,Tier 3,0.75,35.6976,-91.6226,d36b7a82-ffbe-40ee-850c-db4cba7be1dc,,,,,,,,,,,,,,,,,,16770
+001cv00000AuYg1,"City Of Booneville, AR",Arkansas,Municipality,Hugh Bargeron,3816,,Tier 3,0.75,35.1402,-93.9218,5e222766-b620-4ad7-ac34-f1f19f0e817b,,,,,,,,,,,,,,,,,,16044
+001cv00000AuYhL,"City Of Dumas, AR",Arkansas,Municipality,Hugh Bargeron,3886,,Tier 3,0.75,33.8834,-91.4835,d51c1321-fa21-4e68-a517-5ff499df4c4e,,,,,,,,,,,,,,,,,,16097
+001cv00000AuYli,"City Of Gentry, AR",Arkansas,Municipality,Hugh Bargeron,4000,,Tier 3,0.75,36.2676,-94.4849,8c521d56-d003-4348-92b5-4b842eaa063f,,,,,,,,,2,2025-08-27,2,,,,,,,16704
+001cv00000AuYm1,"City Of Haskell, AR",Arkansas,Municipality,Hugh Bargeron,4015,,Tier 3,0.75,34.5098,-92.6433,ce52ed2c-88e0-4c89-acfe-43d45d7756e1,,,,,,,,,,,,,,,,,,16534
+001cv00000AuYmG,"Town Of Austin, AR",Arkansas,Municipality,Hugh Bargeron,4028,,Tier 3,0.75,34.999,-91.984,acaa7bec-a59e-40a8-978f-a1d953eec890,,,,,,,,,,,,,,,,,,16790
+001cv00000AuYo4,"City Of Nashville, AR",Arkansas,Municipality,Hugh Bargeron,4112,,Tier 3,0.75,33.9483,-93.8471,1f64a57a-bccb-45ac-a608-39c8c2741b32,,,,,,,,,3,2025-09-02,3,,,,,,,16697
+001cv00000AuYoe,"City Of Lonoke, AR",Arkansas,Municipality,Hugh Bargeron,4146,,Tier 3,0.75,34.7843,-91.9001,37f715e6-4687-4b76-9e50-989dee37fafe,,,,,,,,,,,,,,,,,,16751
+001cv00000AuYov,"City Of Ashdown, AR",Arkansas,Municipality,Hugh Bargeron,4165,,Tier 3,0.75,33.6743,-94.1316,4f9d2bab-8913-4d49-8f8a-bcb621e6eb36,,,,,,,,,1,2025-08-27,1,,,,,,,16721
+001cv00000AuYsL,"City Of Elkins, AR",Arkansas,Municipality,Hugh Bargeron,3743,,Tier 3,0.75,36.0007,-94.0088,20bd7e1d-6070-41f9-b64d-ab6aa9f485e8,,,,,,,,,5,2026-04-20,5,,,,,,,16448
+001cv00000AuYt2,"City Of Mcgehee, AR",Arkansas,Municipality,Hugh Bargeron,3772,,Tier 3,0.75,33.6108,-91.3833,b1b68d0d-4de4-4091-80e9-c00e19844fd9,,,,,,,,,1,2026-04-20,1,,,,,,,16492
+001cv00000AuYy6,"City Of Vilonia, AR",Arkansas,Municipality,Hugh Bargeron,4429,,Tier 3,0.75,35.0854,-92.1984,1ac03904-00f2-4613-a2a9-a3a390b02005,,,,,,,,,,,,,,,,,,19980
+001cv00000AuYyz,"City Of Dardanelle, AR",Arkansas,Municipality,Hugh Bargeron,4491,,Tier 3,0.75,35.2234,-93.1565,0da25739-db15-4b32-9e1d-87aee8de354b,,,,,,,,,,,,,,,,,,20088
+001cv00000AuZAl,"City Of Cave Springs, AR",Arkansas,Municipality,Hugh Bargeron,5916,,Tier 3,0.75,36.2648,-94.232,b3515e29-93d3-41e6-ad74-607cfc94e969,,,,,,,,,12,2025-07-29,12,,,,,,,17017
+001cv00000AuZBI,"County Of Woodruff, AR",Arkansas,County,Hugh Bargeron,6116,,Tier 3,0.75,35.1216,-91.1353,090252c5-4c32-4a7b-9c1e-203cc5f94ce9,,,,,,,,,3,2025-09-09,3,,,,,,,17222
+001cv00000AuZBT,"County Of Lafayette, AR",Arkansas,County,Hugh Bargeron,6163,,Tier 3,0.75,33.2512,-93.6218,67992a63-3923-4c09-94b6-5ad58ec26036,,,,,,,,,,,,,,,,,,16994
+001cv00000AuZCS,"County Of Monroe, AR",Arkansas,County,Hugh Bargeron,6683,,Tier 3,0.75,34.5919,-91.1353,f96c9d9e-56a5-4db1-ab69-ec1d5b47646b,,,,,,,,,,,,,,,,,,17194
+001cv00000AuZIL,"County Of Dallas, AR",Arkansas,County,Hugh Bargeron,6308,,Tier 3,0.75,34.0347,-92.6984,ecac42cf-658a-4848-806b-fd76372d640f,,,,,,,,,,,,,,,,,,17111
+001cv00000AuZK4,"City Of Tontitown, AR",Arkansas,Municipality,Hugh Bargeron,5633,Nurture,Tier 3,0.75,36.176,-94.2192,a715d14f-1741-43fc-9add-d79e71ff8975,Closed Lost,,,Ryan Minter,9/4/2025,7/9/2025,,,6,2026-04-17,6,,,,,,,17199
+001cv00000AuZMY,"City Of Barling, AR",Arkansas,Municipality,Hugh Bargeron,4843,,Tier 3,0.75,35.3253,-94.3014,2783e43b-aa2b-4f2a-a68d-033c8c984942,,,,,,,,,6,2026-02-20,6,,,,,,,17482
+001cv00000AuZMs,"City Of Cherokee Village, AR",Arkansas,Municipality,Hugh Bargeron,4866,Nurture,Tier 3,0.75,36.3078,-91.5284,2e9d5dda-6f7e-4768-af87-4dc2d6578570,Closed Lost,,,Ryan Minter,2/10/2026,1/28/2026,,,3,2026-02-17,3,,,,,,,17387
+001cv00000AuZOq,"County Of Newton, AR",Arkansas,County,Hugh Bargeron,7204,,Tier 3,0.75,35.9604,-93.178,43e44a2a-3372-49f1-adf4-19cafff86e16,,,,,,,,,,,,,,,,,,17513
+001cv00000AuZRG,"County Of Cleveland, AR",Arkansas,County,Hugh Bargeron,7514,,Tier 3,0.75,35.4215,-92.7096,184e5519-63ea-441b-a9e2-b0a420eba736,,,,,,,,,,,,,,,,,,17683
+001cv00000AuZSM,"City Of Sheridan, AR",Arkansas,Municipality,Hugh Bargeron,5012,,Tier 3,0.75,34.3068,-92.3991,6f4cdcce-bc55-47ed-aea6-7bff51aa3998,,,,,,,,,4,2025-07-18,4,,,,,,,17609
+001cv00000AuZVP,"County Of Searcy, AR",Arkansas,County,Hugh Bargeron,7880,,Tier 3,0.75,35.2438,-91.7364,2a8fa26d-34bc-40d8-b776-506e6b1659a4,,,,,,,,,,,,,,,,,,17657
+001cv00000AuZVm,"County Of Prairie, AR",Arkansas,County,Hugh Bargeron,8135,,Tier 3,0.75,34.7636,-91.5984,b2abc70b-25f1-4149-b6cd-f85ef750e057,,,,,,,,,,,,,,,,,,17676
+001cv00000AuZXQ,"County Of Nevada, AR",Arkansas,County,Hugh Bargeron,8187,,Tier 3,0.75,33.6621,-93.3389,d214bf62-0a3d-4fa8-9169-eaaea8e8f39c,,,,,,,,,,,,,,,,,,17670
+001cv00000AuZYC,"County Of Montgomery, AR",Arkansas,County,Hugh Bargeron,8611,,Tier 3,0.75,34.5424,-93.6623,31f9a537-5c1e-4274-a244-349c7c641393,,,,,,,,,,,,,,,,,,17729
+001cv00000AuZYD,"County Of Lee, AR",Arkansas,County,Hugh Bargeron,8619,,Tier 3,0.75,34.7713,-90.8294,5f00008f-d5eb-47b7-803c-b50a24de4f16,,,,,,,,,,,,,,,,,,17786
+001cv00000AuZZC,"City Of Helena-West Helena, AR",Arkansas,Municipality,Hugh Bargeron,9707,Nurture,Tier 3,0.75,34.5292,-90.5912,6fc99b59-6880-4856-9675-61a91764f79f,Closed Lost,,,Shane Lieberman,5/30/2024,1/5/2025,,,34,2026-05-18,32,2,,,,,,18323
+001cv00000AuZbE,"County Of Little River, AR",Arkansas,County,Hugh Bargeron,11944,,Tier 2,1.0,33.6781,-94.2744,80f9add4-7a4f-43c1-a37b-e4d339036a1d,,,,,,,,,,,,,,,,,,18305
+001cv00000AuZbW,"County Of Fulton, AR",Arkansas,County,Hugh Bargeron,12145,,Tier 2,1.0,33.6145,-93.8135,350f4b2e-78d6-408e-9114-ec28e4b78872,,,,,,,,,,,,,,,,,,18311
+001cv00000AuZcM,"County Of Chicot, AR",Arkansas,County,Hugh Bargeron,10019,,Tier 2,1.0,33.342,-91.2891,8de25fa1-d22e-470d-8307-11017f3df21e,,,,,,,,,,,,,,,,,,18367
+001cv00000AuZcR,"County Of Pike, AR",Arkansas,County,Hugh Bargeron,10066,,Tier 2,1.0,34.1877,-93.6623,6910407d-beb3-4e42-8863-0a91cd38a65e,,,,,,,,,,,,,,,,,,18316
+001cv00000AuZcs,"County Of Bradley, AR",Arkansas,County,Hugh Bargeron,10408,,Tier 2,1.0,33.0979,-93.6557,324584ef-c7d9-4c79-9b69-ab34f3e65e90,,,,,,,,,,,,,,,,,,18287
+001cv00000AuZfr,"County Of Lincoln, AR",Arkansas,County,Hugh Bargeron,13037,,Tier 2,1.0,35.9476,-94.4235,328ac4ec-2101-49ee-b95e-cf562d3211b6,,,,,,,,,,,,,,,,,,18247
+001cv00000AuZiY,"County Of Stone, AR",Arkansas,County,Hugh Bargeron,12481,,Tier 2,1.0,35.8075,-92.2237,d5c788b8-1544-4ace-b7ea-7b5c29510e7e,,,,,,,,,,,,,,,,,,18060
+001cv00000AuZin,"County Of Howard, AR",Arkansas,County,Hugh Bargeron,12698,,Tier 2,1.0,34.1318,-94.0287,e252ff4e-6235-4ad4-a7e9-3cf655d94b73,,,,,,,,,,,,,,,,,,18158
+001cv00000AuZkF,"County Of Scott, AR",Arkansas,County,Hugh Bargeron,9822,,Tier 3,0.75,34.6965,-92.0963,3009bb99-15e5-4f20-9830-dce4d8015c78,,,,,,,,,,,,,,,,,,18047
+001cv00000AuZkS,"County Of Perry, AR",Arkansas,County,Hugh Bargeron,9964,,Tier 3,0.75,35.0484,-92.7931,29a83e3b-5238-4e63-8adc-d2b6f655c6a3,,,,,,,,,,,,,,,,,,18068
+001cv00000AuZlq,"County Of Desha, AR",Arkansas,County,Hugh Bargeron,11090,,Tier 2,1.0,35.7362,-91.6799,95880d0d-c99c-473b-865f-052cd0a16b69,,,,,,,,,,,,,,,,,,17966
+001cv00000AuZnN,"County Of Izard, AR",Arkansas,County,Hugh Bargeron,13911,,Tier 2,1.0,36.1611,-91.9099,24f6bef1-cc5a-458a-93d3-fd45eb8d0fe6,,,,,,,,,,,,,,,,,,17880
+001cv00000AuZny,"County Of Clay, AR",Arkansas,County,Hugh Bargeron,14350,,Tier 2,1.0,36.3492,-90.3748,64924fca-c6c1-47e3-b3b5-7d756d7c1e97,,,,,,,,,,,,,,,,,,17928
+001cv00000AuZon,"County Of Van Buren, AR",Arkansas,County,Hugh Bargeron,15694,,Tier 2,1.0,35.4589,-94.3566,3e4a26d2-c9e6-4515-8fe0-973092bf9222,,,,,,,,,,,,,,,,,,17919
+001cv00000AuZot,"County Of Sevier, AR",Arkansas,County,Hugh Bargeron,15783,,Tier 2,1.0,34.0346,-94.2744,8cae114e-b504-4977-aa9c-e17eeedddbbc,,,,,,,,,,,,,,,,,,17891
+001cv00000AuZp0,"County Of Phillips, AR",Arkansas,County,Hugh Bargeron,15906,,Tier 2,1.0,34.4611,-90.8675,2041bc5d-2e80-4cfd-a338-bebfb83e0f02,,,,,,,,,,,,,,,,,,17843
+001cv00000AuZpQ,"County Of Lawrence, AR",Arkansas,County,Hugh Bargeron,16292,,Tier 2,1.0,35.997,-91.1353,f7c3301a-3d0b-4aca-994e-3fa4eb663f52,,,,,,,,,,,,,,,,,,17794
+001cv00000AuZr7,"County Of Cross, AR",Arkansas,County,Hugh Bargeron,16681,,Tier 2,1.0,35.2999,-90.8294,b6443ae4-8e60-4884-ae57-d7e58b207e5f,,,,,,,,,,,,,,,,,,18422
+001cv00000AuZr9,"County Of Arkansas, AR",Arkansas,County,Hugh Bargeron,16722,,Tier 2,1.0,34.2354,-91.2891,6c2f2fa2-1424-4c28-98fb-a42e1cf6aa32,,,,,,,,,,,,,,,,,,18465
+001cv00000AuZrG,"County Of Jackson, AR",Arkansas,County,Hugh Bargeron,16811,,Tier 2,1.0,35.648,-91.1353,4d64c48a-0179-4ac3-b144-be3688a44236,,,,,,,,,,,,,,,,,,18365
+001cv00000AuZrT,"County Of Madison, AR",Arkansas,County,Hugh Bargeron,16960,,Tier 2,1.0,35.9466,-93.6623,022ac1df-2073-4e3e-88ff-cd7acf956b41,,,,,,,,,,,,,,,,,,18520
+001cv00000AuZrU,"County Of Marion, AR",Arkansas,County,Hugh Bargeron,16978,,Tier 2,1.0,35.2144,-90.1972,eff7c073-95ca-4107-ab1d-d10c20a66694,,,,,,,,,,,,,,,,,,18583
+001cv00000AuZrd,"County Of Drew, AR",Arkansas,County,Hugh Bargeron,17110,,Tier 2,1.0,33.5156,-91.7539,482b5a09-00f6-4e65-b28f-b7cba67309a3,,,,,,,,,,,,,,,,,,18582
+001cv00000AuZsa,"County Of Ashley, AR",Arkansas,County,Hugh Bargeron,18674,,Tier 2,1.0,33.1566,-91.7539,3775e31c-17b2-41f7-8f7f-37700bb7416f,,,,,,,,,,,,,,,,,,18628
+001cv00000AuZsi,"County Of Randolph, AR",Arkansas,County,Hugh Bargeron,18865,,Tier 2,1.0,36.3458,-90.9821,04565e76-a3fe-4859-8f92-cabe490db400,,,,,,,,,,,,,,,,,,18599
+001cv00000AuZt4,"County Of Polk, AR",Arkansas,County,Hugh Bargeron,19353,,Tier 2,1.0,34.5268,-94.1514,22ff71f0-1296-4172-8df8-71103c1a9520,,,,,,,,,,,,,,,,,,18603
+001cv00000AuZtJ,"County Of Hempstead, AR",Arkansas,County,Hugh Bargeron,19694,,Tier 2,1.0,33.653,-93.6623,37babc72-eefd-48ab-9d29-298cdf7c5a3f,,,,,,,,,,,,,,,,,,18724
+001cv00000AuZtP,"County Of Franklin, AR",Arkansas,County,Hugh Bargeron,17173,,Tier 2,1.0,35.5928,-93.8248,9bfea86c-6037-40c2-8722-43e302d27706,,,,,,,,,,,,,,,,,,18484
+001cv00000AuZto,"County Of Sharp, AR",Arkansas,County,Hugh Bargeron,17622,,Tier 2,1.0,36.1676,-91.4435,0d0735ff-25e0-4a3f-aeff-6fc72d90ebc3,,,,,,,,,,,,,,,,,,18377
+001cv00000AuZuC,"County Of Grant, AR",Arkansas,County,Hugh Bargeron,18090,,Tier 2,1.0,34.2628,-92.4209,60f6530d-6c4e-4072-bcbe-dfaddb7d5ef1,,,,,,,,,,,,,,,,,,18467
+001cv00000AuZxL,"County Of Conway, AR",Arkansas,County,Hugh Bargeron,20873,,Tier 2,1.0,35.0918,-92.4367,da741f3b-df89-460c-9b28-aaee45816b16,,,,,,,,,,,,,,,,,,18707
+001cv00000AuZxb,"County Of Logan, AR",Arkansas,County,Hugh Bargeron,21215,,Tier 2,1.0,35.2475,-93.6623,9e36874b-19bc-4ba6-ae2b-84cda87e9c92,,,,,,,,,,,,,,,,,,19081
+001cv00000AuZxj,"County Of Clark, AR",Arkansas,County,Hugh Bargeron,21321,,Tier 2,1.0,34.0232,-93.178,84d4d90c-f522-435e-84a1-429c61132338,,,,,,,,,,,,,,,,,,19134
+001cv00000Aua0R,"County Of Carroll, AR",Arkansas,County,Hugh Bargeron,28435,,Tier 1,1.5,36.2987,-93.5003,7f8aafb4-18fc-4be8-97d2-b82b78619548,,,,,,,,,,,,,,,,,,18824
+001cv00000Aua2R,"County Of Cleburne, AR",Arkansas,County,Hugh Bargeron,25015,,Tier 1,1.5,35.4606,-92.0665,17f5cfd1-a221-49d3-8342-c0aef9a5cf18,,,,,,,,,,,,,,,,,,19369
+001cv00000Aua3W,"County Of Yell, AR",Arkansas,County,Hugh Bargeron,20155,,Tier 2,1.0,35.0811,-93.3389,5708e332-9944-48de-90b6-6f05c8874606,,,,,,,,,,,,,,,,,,18730
+001cv00000Aua5X,"County Of Hot Spring, AR",Arkansas,County,Hugh Bargeron,33148,,Tier 1,1.5,34.3394,-92.9776,3472ee9b-2628-4dad-810b-33114d3e7422,,,,,,,,,,,,,,,,,,19461
+001cv00000Aua7V,"County Of Mississippi, AR",Arkansas,County,Hugh Bargeron,39661,,Tier 1,1.5,35.828,-90.0747,6e40bbea-010f-4b05-8147-c347240f76f0,,,,,,,,,,,,,,,,,,19304
+001cv00000Aua9k,"County Of Ouachita, AR",Arkansas,County,Hugh Bargeron,22306,,Tier 2,1.0,33.5829,-92.9376,669e9786-e641-45ed-a874-8cf1385eff3e,,,,,,,,,,,,,,,,,,18850
+001cv00000Aua9w,"County Of Poinsett, AR",Arkansas,County,Hugh Bargeron,22660,,Tier 2,1.0,35.6079,-90.6394,b4f31c17-fe2c-45ac-af01-772ff84efa4a,,,,,,,,,,,,,,,,,,18948
+001cv00000Aua9x,"County Of Columbia, AR",Arkansas,County,Hugh Bargeron,22672,,Tier 2,1.0,33.1285,-93.178,5220fbd9-205b-4446-991a-8ec032c2a841,,,,,,,,,,,,,,,,,,18944
+001cv00000AuaA3,"County Of St Francis, AR",Arkansas,County,Hugh Bargeron,22739,,Tier 2,1.0,34.9927,-90.7153,5410c14b-99d8-4c13-86fa-a01907820fe0,,,,,,,,,,,,,,,,,,18884
+001cv00000AuaBA,"County Of Johnson, AR",Arkansas,County,Hugh Bargeron,25845,,Tier 1,1.5,36.1335,-94.163,9536dbe0-7c22-42f6-a87e-3435457738eb,,,,,,,,,,,,,,,,,,19178
+001cv00000AuaE5,"County Of Independence, AR",Arkansas,County,Hugh Bargeron,37723,,Tier 1,1.5,35.8174,-91.5984,c5100b33-2852-4a4f-8212-ce41b9c99642,,,,,,,,,,,,,,,,,,19314
+001cv00000AuaE8,"County Of Boone, AR",Arkansas,County,Hugh Bargeron,37830,,Tier 1,1.5,36.3119,-93.0176,a7bec8ad-1acc-4533-bfca-e489c5712257,,,,,,,,,,,,,,,,,,19180
+001cv00000AuaEL,"County Of Union, AR",Arkansas,County,Hugh Bargeron,38340,,Tier 1,1.5,33.1431,-92.5396,36eac0d9-97b8-4fec-8561-17ffeae07ca1,,,,,,,,,,,,,,,,,,19376
+001cv00000AuaGM,"County Of Baxter, AR",Arkansas,County,Hugh Bargeron,42144,,Tier 1,1.5,36.3262,-92.3814,993fe351-620a-4da7-86f7-3a216789566d,,,,,,,,,,,,,,,,,,18993
+001cv00000AuaGV,"County Of Miller, AR",Arkansas,County,Hugh Bargeron,42649,,Tier 1,1.5,33.29,-93.8248,79ac067e-4d37-41e2-88e4-bd545bb286ad,,,,,,,,,,,,,,,,,,19009
+001cv00000AuaJs,"County Of Greene, AR",Arkansas,County,Hugh Bargeron,46317,,Tier 1,1.5,36.1315,-90.5636,e6e502e2-8f1a-418e-875d-589dda9fa64e,,,,,,,,,,,,,,,,,,19459
+001cv00000AuaKB,"County Of Crittenden, AR",Arkansas,County,Hugh Bargeron,47525,,Tier 1,1.5,35.3021,-90.3748,dfe7fa83-2d30-4b7f-b1fc-364f3b164a20,,,,,,,,,,,,,,,,,,19476
+001cv00000AuaOk,"County Of Pope, AR",Arkansas,County,Hugh Bargeron,63789,,Tier S,2.0,35.4406,-93.0176,cda10586-1246-46b3-b113-5e987355b8f8,,,,,,,,,,,,,,,,,,19827
+001cv00000AuaPH,"County Of Jefferson, AR",Arkansas,County,Hugh Bargeron,65861,,Tier S,2.0,34.2274,-91.9099,5db230da-63ce-4249-92bd-2badd3fc506f,,,,,,,,,,,,,,,,,,19614
+001cv00000AuaTE,"County Of Crawford, AR",Arkansas,County,Hugh Bargeron,60378,,Tier S,2.0,35.5763,-94.3154,3411fecb-2e51-45c1-976c-6e5a2ac8be1e,,,,,,,,,,,,,,,,,,19784
+001cv00000AuaWm,"County Of White, AR",Arkansas,County,Hugh Bargeron,77207,,Tier S,2.0,35.2901,-91.7539,72a927d4-6aba-4b06-90dc-8773e7572917,,,,,,,,,,,,,,,,,,19741
+001cv00000B21pi,"City Of Holiday Island, AR",Arkansas,Municipality,Hugh Bargeron,2383,,Tier 3,0.75,36.4853,-93.7321,021a6e2e-fef1-41ba-8c2e-4eb21356357c,,,,,,,,,,,,,,,,,,20152
+001cv00000B21rY,"City Of Lake City, AR",Arkansas,Municipality,Hugh Bargeron,2429,,Tier 3,0.75,35.8208,-90.4469,b406c306-843f-4af4-b909-402a099eaa3f,,,,,,,,,,,,,,,,,,20205
+001cv00000B21sG,"City Of England, AR",Arkansas,Municipality,Hugh Bargeron,2445,,Tier 3,0.75,34.544,-91.9691,b709fb2e-6ae4-49a7-b761-a51fa8daebe9,,,,,,,,,,,,,,,,,,20236
+001cv00000B21wb,"City Of Charleston, AR",Arkansas,Municipality,Hugh Bargeron,2623,,Tier 3,0.75,35.2972,-94.0437,503dec5e-2f60-4735-9742-fc209f5f46e3,,,,,,,,,,,,,,,,,,20475
+001cv00000B21xX,"City Of Brinkley, AR",Arkansas,Municipality,Hugh Bargeron,2652,,Tier 3,0.75,34.8872,-91.1946,175424fa-61c4-42ae-85a0-f6c452e4deda,,,,,,,,,,,,,,,,,,20358
+001cv00000B21xb,"City Of Hoxie, AR",Arkansas,Municipality,Hugh Bargeron,2653,,Tier 3,0.75,36.0504,-90.9751,3a36512a-9988-4841-b54f-97fec54e4885,,,,,,,,,,,,,,,,,,20299
+001cv00000B21z0,"City Of Shannon Hills, AR",Arkansas,Municipality,Hugh Bargeron,4567,,Tier 3,0.75,34.6233,-92.3953,da1a5e3e-9706-4cc8-a0af-ad93d379be8e,,,,,,,,,,,,,,,,,,20505
+001cv00000B221s,"City Of Crossett, AR",Arkansas,Municipality,Hugh Bargeron,4706,,Tier 3,0.75,33.1241,-91.9612,fdc8a66b-e267-4d52-bb2d-9cc01131468a,,,,,,,,,,,,,,,,,,20599
+001cv00000B222R,"County Of Calhoun, AR",Arkansas,County,Hugh Bargeron,4741,,Tier 3,0.75,33.5021,-92.5396,6bd56b24-dea5-4062-8f6a-9e99e9b9dbe7,,,,,,,,,,,,,,,,,,20648
+001cv00000bAeBe,City of Little Rock,Arkansas,Municipality,Hugh Bargeron,204774,,Tier S,2.0,34.7428,-92.2763,9e0cb9d1-1e34-4a8d-a5fd-cb80d446a6c9,,,,,,,,,,,,,,,,,,22759
+001cv00000bBWFF,Craighead County,Arkansas,County,Hugh Bargeron,115852,,Tier S,2.0,35.8261,-90.6773,4f932253-5117-46b4-bd9e-19783c8861a8,,,,,,,,,,,,,,,,,,22299
+001cv00000bBWMs,Lonoke County,Arkansas,County,Hugh Bargeron,76389,,Tier S,2.0,34.7592,-91.9099,11175a6f-8dce-4de9-99da-8f5b880e52fb,,,,,,,,,,,,,,,,,,21970
+001cv00000bBWMx,Garland County,Arkansas,County,Hugh Bargeron,99902,,Tier S,2.0,34.5559,-93.178,0d3d0b20-db7b-4f8d-bdb9-bcfd36fded30,,,,,,,,,,,,,,,,,,21985
+001cv00000bBWSl,Sebastian County,Arkansas,County,Hugh Bargeron,130035,,Tier S,2.0,35.226,-94.3154,6f37d2ff-c07a-445a-8b84-36ab34381460,,,,,,,,,,,,,,,,,,22337
+001cv00000bBWSp,Saline County,Arkansas,County,Hugh Bargeron,131252,,Tier S,2.0,34.5708,-92.5396,ee20f4a4-602c-4073-9c56-defd4b4ba77b,,,,,,,,,8,2026-05-13,,,,8,,,,22353
+001cv00000bBWSr,Faulkner County,Arkansas,County,Hugh Bargeron,131611,,Tier S,2.0,35.1036,-92.3814,cc0c7538-11c3-42d2-9753-f0dd695303f3,,,,,,,,,,,,,,,,,,22443
+001cv00000bBWtD,City of Dover,Arkansas,Municipality,Hugh Bargeron,1368,,Tier 3,0.75,35.4018,-93.1142,f425edd9-8e50-4dea-9d89-b232e584ae86,,,,,,,,,,,,,,,,,,22603
+001cv00000bBWtZ,City of Hazen,Arkansas,Municipality,Hugh Bargeron,1388,,Tier 3,0.75,34.7803,-91.5812,af24f059-8d19-475a-87db-600e97b13789,,,,,,,,,,,,,,,,,,22618
+001cv00000bBX0K,Benton County,Arkansas,County,Hugh Bargeron,321566,,Tier S,2.0,36.34,-94.25,944a6700-792a-40ff-a4ca-a74789cf939a,,,,,,,,,,,,,,,,,,22828
+001cv00000bBX0v,Pulaski County,Arkansas,County,Hugh Bargeron,401209,,Tier S,2.0,34.7539,-92.2237,30f9482f-13b6-4128-a1ff-03bc64974f1a,,,,,,,,,,,,,,,,,,22845
+001cv00000fDj6E,"County of Pulaski, AR",Arkansas,County,Hugh Bargeron,402420,Open Opportunity,Tier S,2.0,34.7539,-92.2237,,Open,Meeting Booked,Top of Funnel,Sydney Ireland,6/8/2026,3/31/2026,,,2,2026-04-15,,,,,,2,,24382

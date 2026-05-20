@@ -99,7 +99,7 @@ Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,S
 001Hr000028Zded,"City Of Decatur, AL",Alabama,Municipality,Maia Golub,57804,Nurture,Tier S,2.0,34.6059,-86.9833,d2c50666-2f73-4212-bd5d-9ccbf53e9f87,Closed Lost,,,Emily Murnane,1/13/2026,1/5/2025,,,14,2026-04-14,12,2,,,,11452
 001Hr000028ZdhO,"Calhoun County, AL",Alabama,County,Maia Golub,,,Tier 3,0.75,33.7702,-85.8077,82d6ca24-a82a-4ccc-8b97-e5e5318e80d6,,,,,,,,,1,2025-05-21,,1,,,,12005
 001Hr000028ZdmI,"Russell County, AL",Alabama,County,Maia Golub,,,Tier 3,0.75,32.3552,-85.1894,ac289e42-53f3-4f5c-add1-ca8dd92e5ddd,,,,,,,,,,,,,,,,11929
-001Hr000028Zdnz,"Lee County, AL",Alabama,County,Maia Golub,183215,,Tier S,2.0,32.5889,-85.3963,2254eae1-2a2b-4ddd-bfb7-251e6de4cc99,,,,,,,,,3,2026-04-21,3,,,,,22430
+001Hr000028Zdnz,"Lee County, AL",Alabama,County,Maia Golub,183215,,Tier S,2.0,32.5889,-85.3963,2254eae1-2a2b-4ddd-bfb7-251e6de4cc99,,,,,,,,,3,2026-04-21,3,,,,,12006
 001Hr000028ZdpD,"Baldwin County, AL",Alabama,County,Maia Golub,253507,,Tier S,2.0,30.6011,-87.7763,9d290a87-1990-486f-aaa7-98006b7cc3a6,,,,,,,,,,,,,,,,12191
 001Hr000028Zdr5,"Mobile, AL",Alabama,Municipality,Maia Golub,182595,,Tier S,2.0,30.6954,-88.0399,bd16b3c3-2815-46c7-8b9d-7f8a56f9a76c,,,,,,,,,5,2025-12-29,5,,,,,12510
 001cv000006lZN8,"City Of Hanceville, AL",Alabama,Municipality,Maia Golub,3215,,Tier 3,0.75,34.0607,-86.7675,f375e1f6-b264-414c-8bab-b01a587e3f25,,,,,,,,,,,,,,,,12685
@@ -250,7 +250,7 @@ Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,S
 001cv00000bBWOe,City of Cordova,Alabama,Municipality,Maia Golub,1680,,Tier 3,0.75,33.7598,-87.1833,f75cc7e4-19e0-4b12-aa1b-d70e7616488b,,,,,,,,,,,,,,,,22124
 001cv00000bBWSK,Limestone County,Alabama,County,Maia Golub,118942,,Tier S,2.0,34.78,-86.9424,11a3d633-5596-40d5-a437-7d733de79dee,,,,,,,,,,,,,,,,22306
 001cv00000bBWSa,Morgan County,Alabama,County,Maia Golub,126084,,Tier S,2.0,34.4241,-86.8622,d7bf3075-51db-4095-81e1-0024c632626c,,,,,,,,,,,,,,,,22330
-001cv00000bBWTx,Lee County,Alabama,County,Maia Golub,187847,,Tier S,2.0,32.5889,-85.3963,71e17f05-0907-44b1-9809-0444b8ef115f,,,,,,,,,,,,,,,,22430
+001cv00000bBWTx,Lee County,Alabama,County,Maia Golub,187847,,Tier S,2.0,32.5889,-85.3963,71e17f05-0907-44b1-9809-0444b8ef115f,,,,,,,,,,,,,,,,12006
 001cv00000bBWU6,City of Birmingham,Alabama,Municipality,Maia Golub,196357,,Tier S,2.0,33.5186,-86.8104,550f961a-10e7-4551-b4c5-78b6f581511d,,,,,,,,,,,,,,,,22429
 001cv00000bBWyi,"City of Huntsville, AL",Alabama,Municipality,Maia Golub,230402,Nurture,Tier S,2.0,34.7296,-86.5853,37acd947-83d9-4ce8-84a3-4839dc1abe37,Closed Lost,,,Emily Murnane,,4/3/2026,,,,,,,,,,22766
 001cv00000bBWyr,Tuscaloosa County,Alabama,County,Maia Golub,241212,,Tier S,2.0,33.3228,-87.4604,16c7d92f-b6c5-4966-846c-4059aa84504d,,,,,,,,,,,,,,,,22739

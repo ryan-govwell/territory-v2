@@ -57,7 +57,7 @@ Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,S
 001Hr000028ZdcC,"Finney County, KS",Kansas,County,Maia Golub,38354,,Tier 1,1.5,38.0625,-100.8903,3ab13f0e-7432-4854-8227-66119911ee34,,,,,,,,,4,2025-07-23,4,,,,,,12249
 001Hr000028ZddE,"McPherson County, KS",Kansas,County,Maia Golub,30334,,Tier 1,1.5,38.3164,-97.6982,7d0dad10-fe50-4ad0-979d-4202aba0502a,,,,,,,,,4,2025-06-13,,,4,,,,12212
 001Hr000028Zdfs,"City Of Manhattan, KS",Kansas,Municipality,Maia Golub,54763,Nurture,Tier S,2.0,39.1795,-96.5733,bf055f44-423c-43fb-a2c8-1dfc8f8432d6,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,8,2025-10-21,8,,,,,,11734
-001Hr000028Zdfu,"Township Of Washington, KS",Kansas,Municipality,Maia Golub,3534,,Tier 3,0.75,39.2698,-96.0044,31db1d4e-6078-4021-a834-ec4de40d436c,,,,,,,,,,,,,,,,,14928
+001Hr000028Zdfu,"Township Of Washington, KS",Kansas,Municipality,Maia Golub,3534,,Tier 3,0.75,39.2698,-96.0044,31db1d4e-6078-4021-a834-ec4de40d436c,,,,,,,,,,,,,,,,,12245
 001Hr000028Zdgp,"City Of Lawrence, KS",Kansas,Municipality,Maia Golub,95256,,Tier S,2.0,38.9717,-95.2352,94235185-8eac-4a19-9a96-943cfc6a9fdc,,,,,,,,,1,2025-12-05,1,,,,,,11704
 001Hr000028ZdjT,"City Of Shawnee, KS",Kansas,Municipality,Maia Golub,67511,,Tier S,2.0,39.0228,-94.7152,52039393-dab1-433c-87a6-510e8d67099b,,,,,,,,,6,2025-11-07,6,,,,,,11746
 001Hr000028Zdoy,"Miami County, KS",Kansas,County,Maia Golub,35320,,Tier 1,1.5,38.6382,-94.8106,0bb44c3c-4db7-4306-9790-ad53d31b99ac,,,,,,,,,5,2025-12-02,4,,1,,,,12196
@@ -127,7 +127,7 @@ Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,S
 001cv00000AuXkE,"City Of Osage, KS",Kansas,Municipality,Maia Golub,2846,,Tier 3,0.75,38.6339,-95.8258,a9bd390e-b94e-40bd-bb99-72ae52fac191,,,,,,,,,,,,,,,,,14694
 001cv00000AuXli,"City Of Columbus, KS",Kansas,Municipality,Maia Golub,2882,,Tier 3,0.75,37.1692,-94.8441,6d388e2d-a935-4907-994f-91b54fb211e3,,,,,,,,,,,,,,,,,14841
 001cv00000AuXmD,"County Of Lincoln, KS",Kansas,County,Maia Golub,2903,,Tier 3,0.75,39.0403,-98.1477,c8150cef-789f-4b86-9d05-fdcffdd5ce33,,,,,,,,,,,,,,,,,14761
-001cv00000AuXmY,"Township Of Washington, KS",Kansas,Municipality,Maia Golub,2910,,Tier 3,0.75,39.2698,-96.0044,0381376b-87d5-4904-bad7-a5032e5a6282,,,,,,,,,,,,,,,,,14928
+001cv00000AuXmY,"Township Of Washington, KS",Kansas,Municipality,Maia Golub,2910,,Tier 3,0.75,39.2698,-96.0044,0381376b-87d5-4904-bad7-a5032e5a6282,,,,,,,,,,,,,,,,,12245
 001cv00000AuXn9,"County Of Jewell, KS",Kansas,County,Maia Golub,2937,,Tier 3,0.75,39.6714,-98.1537,c2285f07-790d-462d-8c87-80cf88cc69d0,,,,,,,,,,,,,,,,,14871
 001cv00000AuXna,"County Of Rush, KS",Kansas,County,Maia Golub,2953,,Tier 3,0.75,38.5359,-99.2786,e7d8ab8a-dbe3-4bca-b765-9154b220f901,,,,,,,,,,,,,,,,,14888
 001cv00000AuXnk,"Township Of Sherlock, KS",Kansas,Municipality,Maia Golub,2956,,Tier 3,0.75,37.9242,-101.0259,aca34250-ad06-40ef-b034-6398e04db63d,,,,,,,,,,,,,,,,,14873
@@ -220,7 +220,7 @@ Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,S
 001cv00000AuZax,"County Of Marion, KS",Kansas,County,Maia Golub,11712,,Tier 2,1.0,38.3483,-97.0172,f1928dec-d737-4276-a003-676fa7fa5b71,,,,,,,,,3,2025-11-04,3,,,,,,18256
 001cv00000AuZcH,"County Of Marshall, KS",Kansas,County,Maia Golub,9979,,Tier 3,0.75,39.7177,-96.493,3ff7640a-d393-42bf-8405-e951820a6f45,,,,,,,,,,,,,,,,,18335
 001cv00000AuZcK,"Township Of Gypsum, KS",Kansas,Municipality,Maia Golub,9996,,Tier 3,0.75,37.6105,-97.2006,32916dbb-3696-4b3b-b0bb-f220b48962a1,,,,,,,,,,,,,,,,,18254
-001cv00000AuZcS,"Township Of Mission, KS",Kansas,Municipality,Maia Golub,10068,,Tier 2,1.0,39.0278,-94.6558,f3f40b79-9399-4d33-92b9-72bd65c18833,,,,,,,,,,,,,,,,,21281
+001cv00000AuZcS,"Township Of Mission, KS",Kansas,Municipality,Maia Golub,10068,,Tier 2,1.0,39.0278,-94.6558,f3f40b79-9399-4d33-92b9-72bd65c18833,,,,,,,,,,,,,,,,,18330
 001cv00000AuZcb,"County Of Nemaha, KS",Kansas,County,Maia Golub,10216,,Tier 2,1.0,39.7451,-95.9833,df1564f8-b7e9-4661-9b73-1d3053c1a451,,,,,,,,,4,2025-11-04,4,,,,,,18345
 001cv00000AuZdF,"Township Of Madison, KS",Kansas,Municipality,Maia Golub,8693,,Tier 3,0.75,38.1113,-96.1951,86f06ee4-d2b2-4a39-a4af-ce4fdead86f0,,,,,,,,,,,,,,,,,17767
 001cv00000AuZdo,"County Of Cloud, KS",Kansas,County,Maia Golub,8928,,Tier 3,0.75,39.4796,-97.6982,bc178272-2cd1-4d24-9f68-845bd0d235d1,,,,,,,,,,,,,,,,,17800
@@ -287,7 +287,7 @@ Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,S
 001cv00000bBVfq,City of Cottonwood Falls,Kansas,Municipality,Maia Golub,833,,Tier 3,0.75,38.3722,-96.5428,cf591252-34d2-47ac-88fc-4b57e77da44d,,,,,,,,,,,,,,,,,21229
 001cv00000bBVhe,City of Alma,Kansas,Municipality,Maia Golub,839,,Tier 3,0.75,38.98,-96.284,b3db18a9-6f12-4ac1-aea2-b06bf6fa7a6f,,,,,,,,,,,,,,,,,21252
 001cv00000bBVi3,City of Kiowa,Kansas,Municipality,Maia Golub,870,,Tier 3,0.75,37.0172,-98.4854,5d678ffd-b335-4c15-ad13-8fdf15d591a1,,,,,,,,,,,,,,,,,21311
-001cv00000bBViB,Township of Mission,Kansas,Municipality,Maia Golub,883,,Tier 3,0.75,39.0278,-94.6558,c95ff417-71a8-4101-9c45-87b37cef9836,,,,,,,,,,,,,,,,,21281
+001cv00000bBViB,Township of Mission,Kansas,Municipality,Maia Golub,883,,Tier 3,0.75,39.0278,-94.6558,c95ff417-71a8-4101-9c45-87b37cef9836,,,,,,,,,,,,,,,,,18330
 001cv00000bBViF,City of Lebo,Kansas,Municipality,Maia Golub,887,,Tier 3,0.75,38.4167,-95.853,4d64cc00-5372-4538-adca-ade982ae4304,,,,,,,,,,,,,,,,,21354
 001cv00000bBViZ,City of Chetopa,Kansas,Municipality,Maia Golub,905,,Tier 3,0.75,37.0373,-95.09,8bf86b75-0553-4b4a-997f-de50cd084094,,,,,,,,,,,,,,,,,21274
 001cv00000bBVia,City of Dighton,Kansas,Municipality,Maia Golub,907,,Tier 3,0.75,38.482,-100.4671,4f8fcc40-7a3f-46da-bdaf-4aaa9121efe7,,,,,,,,,,,,,,,,,21299

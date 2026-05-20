@@ -1,28 +1,28 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ali Cohen,Calls - Joe del Rosario,Calls - Quinzel Perry
-001Hr000028ZcQx,"City Of Seaford, DE",Delaware,Municipality,Ali Cohen,8250,,Tier 3,0.75,38.6412,-75.611,70324abf-9e14-4d31-8cd9-4f2e1a7d7870,,,,,,,,,7,2025-12-15,6,,1
-001Hr000028ZcWA,"City Of New Castle, DE",Delaware,Municipality,Ali Cohen,5499,Nurture,Tier 3,0.75,39.662,-75.5668,173e765b-86aa-4a60-a27f-da30f360583c,Closed Lost,,,Ali Cohen,2/25/2026,12/8/2025,,,10,2026-04-06,10,,
-001Hr000028ZcaE,"Town Of Middletown, DE",Delaware,Municipality,Ali Cohen,24164,,Tier 2,1.0,39.4496,-75.7163,4b0a178b-c0ff-4c31-9850-f693595b000b,,,,,,,,,15,2025-12-08,5,10,
-001Hr000028Zcfg,"Town Of Elsmere, DE",Delaware,Municipality,Ali Cohen,6157,Open Opportunity,Tier 3,0.75,39.7393,-75.598,cf59ecc6-a135-459e-81ed-94dd0bf04433,Open,Initial Interest,Top of Funnel,Quinzel Perry,,2/8/2025,,,5,2026-01-16,5,,
-001Hr000028Zcl0,"Town Of Georgetown, DE",Delaware,Municipality,Ali Cohen,7413,Nurture,Tier 3,0.75,38.6901,-75.3855,dea2281c-324b-4e95-af6e-982ce0b79265,Closed Lost,,,Ali Cohen,2/19/2026,11/10/2025,,,29,2026-04-28,29,,
-001Hr000028Zcqq,"City Of Newark, DE",Delaware,Municipality,Ali Cohen,31155,Nurture,Tier 1,1.5,39.6837,-75.7497,74b3f7b2-232e-4400-92f9-048becc14764,Closed Lost,,,Ali Cohen,1/7/2026,12/17/2025,,,5,2026-01-08,5,,
-001Hr000028Zcr0,"City Of Dover, DE",Delaware,Municipality,Ali Cohen,38992,Open Opportunity,Tier 1,1.5,39.1582,-75.5244,a95ed1f5-a651-4408-acaf-575b77702166,Open,Initial Interest,Top of Funnel,Ali Cohen,,12/5/2025,,,22,2026-02-20,16,6,
-001Hr000028ZcvB,"Town Of Smyrna, DE",Delaware,Municipality,Ali Cohen,13149,,Tier 2,1.0,39.2998,-75.6046,cfbe03a6-2c4b-44f9-81d1-25018e8ed74a,,,,,,,,,2,2025-10-16,,2,
-001Hr000028ZcyX,"City Of Milford, DE",Delaware,Municipality,Ali Cohen,12272,,Tier 2,1.0,38.9126,-75.428,f7dfa652-7e1b-4aee-8752-9634c1a38247,,,,,,,,,2,2025-12-09,2,,
-001Hr000028Zdd8,"City Of Wilmington, DE",Delaware,Municipality,Ali Cohen,70750,,Tier S,2.0,39.7447,-75.5484,8d6cdf79-b8a6-4a64-bc44-39a2b86a8b9c,,,,,,,,,18,2026-01-08,18,,
-001Hr000028Zdde,"Kent County, DE",Delaware,County,Ali Cohen,192690,Open Opportunity,Tier S,2.0,39.1441,-75.4345,1210859a-3003-4d64-acc9-9538b713a638,Open,Initial Interest,Top of Funnel,Ali Cohen,,12/8/2025,,,3,2026-04-22,3,,
-001cv00000AuWZw,"Town Of Delmar, DE",Delaware,Municipality,Ali Cohen,2105,,Tier 3,0.75,38.4565,-75.5771,f2d8f6cb-ea60-428e-b0d3-bc1b381ca9c2,,,,,,,,,,,,,
-001cv00000AuXgY,"Town Of Ocean View, DE",Delaware,Municipality,Ali Cohen,2752,,Tier 3,0.75,38.5451,-75.0891,a99f4149-c06a-40e4-9e6a-005e77685a24,,,,,,,,,,,,,
-001cv00000AuXiA,"Town Of Townsend, DE",Delaware,Municipality,Ali Cohen,2788,,Tier 3,0.75,39.3951,-75.6916,e1dc4057-059e-4ffe-ae59-2739145a535b,,,,,,,,,,,,,
-001cv00000AuYEs,"Town Of Selbyville, DE",Delaware,Municipality,Ali Cohen,2999,,Tier 3,0.75,38.4604,-75.2207,6c6193e6-2143-455a-b912-6212a4032f3e,,,,,,,,,,,,,
-001cv00000AuYL2,"City Of Lewes, DE",Delaware,Municipality,Ali Cohen,3420,Open Opportunity,Tier 3,0.75,38.7746,-75.1393,10003cf4-6e11-4ed7-adef-3474e746fca4,Open,Initial Interest,Top of Funnel,Ali Cohen,,11/30/2025,,,24,2026-04-22,24,,
-001cv00000AuYLG,"Town Of Milton, DE",Delaware,Municipality,Ali Cohen,3428,,Tier 3,0.75,38.7776,-75.3099,3aff5f2a-327d-44f3-b39c-8376e0410264,,,,,,,,,,,,,
-001cv00000AuYlR,"Town Of Clayton, DE",Delaware,Municipality,Ali Cohen,3991,,Tier 3,0.75,39.2896,-75.6354,4e41511e-aba2-4bf5-bc8c-cfb63a5a3b55,,,,,,,,,2,2025-12-10,2,,
-001cv00000AuYmT,"Town Of Laurel, DE",Delaware,Municipality,Ali Cohen,4038,,Tier 3,0.75,38.5565,-75.5713,16c5325a-355d-4fcf-ae49-57b187970552,,,,,,,,,,,,,
-001cv00000AuYt8,"City Of Harrington, DE",Delaware,Municipality,Ali Cohen,3777,,Tier 3,0.75,38.9237,-75.5777,6535e89c-b059-458b-aded-4be65f0e1e51,,,,,,,,,,,,,
-001cv00000AuYuA,"Town Of Camden, DE",Delaware,Municipality,Ali Cohen,4248,,Tier 3,0.75,39.1134,-75.5419,d4d121a7-9843-4e80-bbf5-02072e17cce3,,,,,,,,,4,2025-12-10,4,,
-001cv00000AuZDN,"Town Of Millsboro, DE",Delaware,Municipality,Ali Cohen,7139,,Tier 3,0.75,38.5915,-75.2913,58c57bdf-a8cb-448a-8f99-d4f41db619ea,,,,,,,,,23,2025-12-09,13,10,
-001cv00000B21yD,"Town Of Bridgeville, DE",Delaware,Municipality,Ali Cohen,2667,,Tier 3,0.75,38.7426,-75.6044,8458fe82-585a-48d2-b4fb-ada0836360b2,,,,,,,,,1,2025-12-08,1,,
-001cv00000R4uCJ,"County of Sussex, DE",Delaware,County,Ali Cohen,271134,Open Opportunity,Tier S,2.0,38.6531,-75.4345,82cb1bdd-93fc-4e64-9545-8ca6b873492d,Open,Initial Interest,Top of Funnel,Ali Cohen,,12/8/2025,,,,,,,
-001cv00000R4yse,"County of New Castle, DE",Delaware,County,Ali Cohen,575494,,Tier S,2.0,39.5393,-75.6674,d3e7793f-4339-4488-b73b-6c3c58394e39,,,,,,,,,4,2026-01-21,4,,
-001cv00000bBVoj,Town of Bethany Beach,Delaware,Municipality,Asher Rosenfeld,1083,,Tier 3,0.75,38.5396,-75.0552,ad25c309-9605-433a-bbca-ec3fde090247,,,,,,,,,,,,,
-001cv00000bBVxS,City of Rehoboth Beach,Delaware,Municipality,Asher Rosenfeld,1257,,Tier 3,0.75,38.7209,-75.076,7e429b99-a6ae-44ad-a907-5befdb9a6526,,,,,,,,,1,2026-04-23,1,,
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ali Cohen,Calls - Joe del Rosario,Calls - Quinzel Perry,Outreach ID
+001Hr000028ZcQx,"City Of Seaford, DE",Delaware,Municipality,Ali Cohen,8250,,Tier 3,0.75,38.6412,-75.611,70324abf-9e14-4d31-8cd9-4f2e1a7d7870,,,,,,,,,7,2025-12-15,6,,1,4175
+001Hr000028ZcWA,"City Of New Castle, DE",Delaware,Municipality,Ali Cohen,5499,Nurture,Tier 3,0.75,39.662,-75.5668,173e765b-86aa-4a60-a27f-da30f360583c,Closed Lost,,,Ali Cohen,2/25/2026,12/8/2025,,,10,2026-04-06,10,,,3543
+001Hr000028ZcaE,"Town Of Middletown, DE",Delaware,Municipality,Ali Cohen,24164,,Tier 2,1.0,39.4496,-75.7163,4b0a178b-c0ff-4c31-9850-f693595b000b,,,,,,,,,15,2025-12-08,5,10,,5558
+001Hr000028Zcfg,"Town Of Elsmere, DE",Delaware,Municipality,Ali Cohen,6157,Open Opportunity,Tier 3,0.75,39.7393,-75.598,cf59ecc6-a135-459e-81ed-94dd0bf04433,Open,Initial Interest,Top of Funnel,Quinzel Perry,,2/8/2025,,,5,2026-01-16,5,,,3680
+001Hr000028Zcl0,"Town Of Georgetown, DE",Delaware,Municipality,Ali Cohen,7413,Nurture,Tier 3,0.75,38.6901,-75.3855,dea2281c-324b-4e95-af6e-982ce0b79265,Closed Lost,,,Ali Cohen,2/19/2026,11/10/2025,,,29,2026-04-28,29,,,3986
+001Hr000028Zcqq,"City Of Newark, DE",Delaware,Municipality,Ali Cohen,31155,Nurture,Tier 1,1.5,39.6837,-75.7497,74b3f7b2-232e-4400-92f9-048becc14764,Closed Lost,,,Ali Cohen,1/7/2026,12/17/2025,,,5,2026-01-08,5,,,5880
+001Hr000028Zcr0,"City Of Dover, DE",Delaware,Municipality,Ali Cohen,38992,Open Opportunity,Tier 1,1.5,39.1582,-75.5244,a95ed1f5-a651-4408-acaf-575b77702166,Open,Initial Interest,Top of Funnel,Ali Cohen,,12/5/2025,,,22,2026-02-20,16,6,,6024
+001Hr000028ZcvB,"Town Of Smyrna, DE",Delaware,Municipality,Ali Cohen,13149,,Tier 2,1.0,39.2998,-75.6046,cfbe03a6-2c4b-44f9-81d1-25018e8ed74a,,,,,,,,,2,2025-10-16,,2,,4884
+001Hr000028ZcyX,"City Of Milford, DE",Delaware,Municipality,Ali Cohen,12272,,Tier 2,1.0,38.9126,-75.428,f7dfa652-7e1b-4aee-8752-9634c1a38247,,,,,,,,,2,2025-12-09,2,,,4731
+001Hr000028Zdd8,"City Of Wilmington, DE",Delaware,Municipality,Ali Cohen,70750,,Tier S,2.0,39.7447,-75.5484,8d6cdf79-b8a6-4a64-bc44-39a2b86a8b9c,,,,,,,,,18,2026-01-08,18,,,11514
+001Hr000028Zdde,"Kent County, DE",Delaware,County,Ali Cohen,192690,Open Opportunity,Tier S,2.0,39.1441,-75.4345,1210859a-3003-4d64-acc9-9538b713a638,Open,Initial Interest,Top of Funnel,Ali Cohen,,12/8/2025,,,3,2026-04-22,3,,,12170
+001cv00000AuWZw,"Town Of Delmar, DE",Delaware,Municipality,Ali Cohen,2105,,Tier 3,0.75,38.4565,-75.5771,f2d8f6cb-ea60-428e-b0d3-bc1b381ca9c2,,,,,,,,,,,,,,13465
+001cv00000AuXgY,"Town Of Ocean View, DE",Delaware,Municipality,Ali Cohen,2752,,Tier 3,0.75,38.5451,-75.0891,a99f4149-c06a-40e4-9e6a-005e77685a24,,,,,,,,,,,,,,14540
+001cv00000AuXiA,"Town Of Townsend, DE",Delaware,Municipality,Ali Cohen,2788,,Tier 3,0.75,39.3951,-75.6916,e1dc4057-059e-4ffe-ae59-2739145a535b,,,,,,,,,,,,,,14601
+001cv00000AuYEs,"Town Of Selbyville, DE",Delaware,Municipality,Ali Cohen,2999,,Tier 3,0.75,38.4604,-75.2207,6c6193e6-2143-455a-b912-6212a4032f3e,,,,,,,,,,,,,,15271
+001cv00000AuYL2,"City Of Lewes, DE",Delaware,Municipality,Ali Cohen,3420,Open Opportunity,Tier 3,0.75,38.7746,-75.1393,10003cf4-6e11-4ed7-adef-3474e746fca4,Open,Initial Interest,Top of Funnel,Ali Cohen,,11/30/2025,,,24,2026-04-22,24,,,15854
+001cv00000AuYLG,"Town Of Milton, DE",Delaware,Municipality,Ali Cohen,3428,,Tier 3,0.75,38.7776,-75.3099,3aff5f2a-327d-44f3-b39c-8376e0410264,,,,,,,,,,,,,,15890
+001cv00000AuYlR,"Town Of Clayton, DE",Delaware,Municipality,Ali Cohen,3991,,Tier 3,0.75,39.2896,-75.6354,4e41511e-aba2-4bf5-bc8c-cfb63a5a3b55,,,,,,,,,2,2025-12-10,2,,,16655
+001cv00000AuYmT,"Town Of Laurel, DE",Delaware,Municipality,Ali Cohen,4038,,Tier 3,0.75,38.5565,-75.5713,16c5325a-355d-4fcf-ae49-57b187970552,,,,,,,,,,,,,,16585
+001cv00000AuYt8,"City Of Harrington, DE",Delaware,Municipality,Ali Cohen,3777,,Tier 3,0.75,38.9237,-75.5777,6535e89c-b059-458b-aded-4be65f0e1e51,,,,,,,,,,,,,,16614
+001cv00000AuYuA,"Town Of Camden, DE",Delaware,Municipality,Ali Cohen,4248,,Tier 3,0.75,39.1134,-75.5419,d4d121a7-9843-4e80-bbf5-02072e17cce3,,,,,,,,,4,2025-12-10,4,,,16949
+001cv00000AuZDN,"Town Of Millsboro, DE",Delaware,Municipality,Ali Cohen,7139,,Tier 3,0.75,38.5915,-75.2913,58c57bdf-a8cb-448a-8f99-d4f41db619ea,,,,,,,,,23,2025-12-09,13,10,,17190
+001cv00000B21yD,"Town Of Bridgeville, DE",Delaware,Municipality,Ali Cohen,2667,,Tier 3,0.75,38.7426,-75.6044,8458fe82-585a-48d2-b4fb-ada0836360b2,,,,,,,,,1,2025-12-08,1,,,20504
+001cv00000R4uCJ,"County of Sussex, DE",Delaware,County,Ali Cohen,271134,Open Opportunity,Tier S,2.0,38.6531,-75.4345,82cb1bdd-93fc-4e64-9545-8ca6b873492d,Open,Initial Interest,Top of Funnel,Ali Cohen,,12/8/2025,,,,,,,,20950
+001cv00000R4yse,"County of New Castle, DE",Delaware,County,Ali Cohen,575494,,Tier S,2.0,39.5393,-75.6674,d3e7793f-4339-4488-b73b-6c3c58394e39,,,,,,,,,4,2026-01-21,4,,,20951
+001cv00000bBVoj,Town of Bethany Beach,Delaware,Municipality,Asher Rosenfeld,1083,,Tier 3,0.75,38.5396,-75.0552,ad25c309-9605-433a-bbca-ec3fde090247,,,,,,,,,,,,,,21471
+001cv00000bBVxS,City of Rehoboth Beach,Delaware,Municipality,Asher Rosenfeld,1257,,Tier 3,0.75,38.7209,-75.076,7e429b99-a6ae-44ad-a907-5befdb9a6526,,,,,,,,,1,2026-04-23,1,,,21636

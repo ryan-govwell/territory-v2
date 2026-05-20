@@ -1,212 +1,212 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Jenny Allison,Calls - Catherine Silvestri,Calls - Leila Assil,Calls - Nick Martino,Calls - Ryan Minter,Calls - Alicia Gopal,Calls - Joe del Rosario
-001Hr000028ZbmD,"Town Of Windsor, CO",Colorado,Municipality,Catherine Silvestri,35788,Open Opportunity,Tier 1,1.5,40.4775,-104.9014,dc69ec96-dd5d-4e27-b5d3-4dfc0ebd944a,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,5/19/2026,4/20/2026,,,37,2026-05-18,30,7,,,,,
-001Hr000028Zbmr,"City Of Federal Heights, CO",Colorado,Municipality,Catherine Silvestri,14194,Nurture,Tier 2,1.0,39.8599,-105.0161,ac6a0659-4fca-421c-a218-1f1a8bbd1af2,Closed Lost,,,Troy LeCaire,,1/5/2025,,,20,2026-04-24,8,12,,,,,
-001Hr000028Zbn5,"City Of Castle Pines, CO",Colorado,Municipality,Catherine Silvestri,12298,,Tier 2,1.0,39.4716,-104.8948,6eca523c-54e8-472d-a841-5fbbe495d636,,,,,,,,,24,2026-04-08,22,2,,,,,
-001Hr000028Zboc,"Town Of Milliken, CO",Colorado,Municipality,Catherine Silvestri,8696,,Tier 3,0.75,40.3294,-104.8552,9e19ab0c-a3cb-49b1-8c05-7ade672e1e52,,,,,,,,,24,2025-12-12,24,,,,,,
-001Hr000028Zbog,"City Of Fort Lupton, CO",Colorado,Municipality,Catherine Silvestri,8260,Open Opportunity,Tier 3,0.75,40.0847,-104.813,eae9c0a9-9b37-4ba5-9c14-ceef61107e47,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,3/11/2026,3/3/2026,,,19,2026-03-31,13,6,,,,,
-001Hr000028Zbp5,"Town Of Monument, CO",Colorado,Municipality,Catherine Silvestri,10859,,Tier 2,1.0,39.0917,-104.8728,1b776fee-675e-4181-9555-0d35bd385abb,,,,,,,,,18,2026-05-11,13,5,,,,,
-001Hr000028ZbpF,"Town Of Berthoud, CO",Colorado,Municipality,Catherine Silvestri,11717,,Tier 2,1.0,40.3083,-105.0811,f053f1ad-d857-46b9-a044-8cdfcd6be25c,,,,,,,,,22,2025-12-10,22,,,,,,
-001Hr000028Zbpe,"City Of Steamboat Springs, CO",Colorado,Municipality,Catherine Silvestri,13390,,Tier 2,1.0,40.485,-106.8317,a97767c2-034b-4e88-bfe7-a66c627b227e,,,,,,,,,28,2026-05-05,,28,,,,,
-001Hr000028Zbqh,"City Of Fruita, CO",Colorado,Municipality,Catherine Silvestri,13508,,Tier 2,1.0,39.1589,-108.729,7f1d5ed7-2edd-4000-9253-c9c9d178f704,,,,,,,,,30,2026-05-13,23,7,,,,,
-001Hr000028Zbqr,"Town Of Lochbuie, CO",Colorado,Municipality,Catherine Silvestri,8135,Open Opportunity,Tier 3,0.75,40.0072,-104.7161,d6efe90d-2565-4638-a5f9-8f3b2de95544,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,5/4/2026,,,19,2026-05-04,10,4,5,,,,
-001Hr000028ZbrI,"City Of Evans, CO",Colorado,Municipality,Catherine Silvestri,22296,,Tier 2,1.0,40.3764,-104.6922,477bd044-b4cf-42b8-8418-81f94dddccf5,,,,,,,,,9,2025-09-22,9,,,,,,
-001Hr000028ZbrR,"City Of Glendale, CO",Colorado,Municipality,Catherine Silvestri,4552,Nurture,Tier 3,0.75,39.705,-104.9336,58555cd9-5593-431f-b5e2-c81a715f336c,Closed Lost,,,Jenny Allison,10/2/2025,9/29/2025,"$18,000",,5,2025-09-29,5,,,,,,
-001Hr000028ZbrV,"Town Of Erie, CO",Colorado,Municipality,Catherine Silvestri,31686,Nurture,Tier 1,1.5,40.0503,-105.05,57d152a9-7986-4c29-b202-b2cda47bdf6e,Closed Lost,,,Jenny Allison,9/23/2025,4/16/2025,,,8,2025-09-17,8,,,,,,
-001Hr000028Zbra,"City Of Louisville, CO",Colorado,Municipality,Catherine Silvestri,20975,,Tier 2,1.0,39.9778,-105.1319,575076e1-6589-46d2-a9b0-e4e9edff70ef,,,,,,,,,6,2026-04-03,,5,1,,,,
-001Hr000028ZbsJ,"City Of Littleton, CO",Colorado,Municipality,Catherine Silvestri,45191,Open Opportunity,Tier 1,1.5,39.6133,-105.0166,23f2cc0c-785b-4572-802c-6ac0b89408ac,Open,Demo,Mid Funnel,Jenny Allison,9/24/2025,9/16/2025,,Yes,2,2025-09-16,2,,,,,,
-001Hr000028ZbtC,"City Of Englewood, CO",Colorado,Municipality,Catherine Silvestri,33516,,Tier 1,1.5,39.6478,-104.9878,7f14fcf8-c265-47f8-a79e-6785373e7c03,,,,,,,,,14,2026-05-06,7,7,,,,,
-001Hr000028ZbtH,"City Of Fountain, CO",Colorado,Municipality,Catherine Silvestri,29677,,Tier 1,1.5,38.6822,-104.7008,41c75254-1988-46da-b481-0b2672754b00,,,,,,,,,28,2025-11-25,28,,,,,,
-001Hr000028ZbtW,"City Of Trinidad, CO",Colorado,Municipality,Catherine Silvestri,8335,Nurture,Tier 3,0.75,37.1695,-104.5005,f62df910-fee0-4b5f-b298-d2c4a1b09db6,Closed Lost,,,Jenny Allison,9/17/2025,9/11/2025,,,10,2026-05-13,5,5,,,,,
-001Hr000028ZbtX,"City Of Aspen, CO",Colorado,Municipality,Catherine Silvestri,6949,Nurture,Tier 3,0.75,39.1911,-106.8175,64d1633a-e63b-409f-8439-ea3f91ebec31,Closed Lost,,,Catherine Silvestri,3/16/2026,3/10/2026,,,11,2026-03-10,1,7,3,,,,
-001Hr000028Zbth,"Town Of Johnstown, CO",Colorado,Municipality,Catherine Silvestri,18204,Open Opportunity,Tier 2,1.0,40.3369,-104.9122,501940bc-b797-4ea8-9f32-c07215e8e546,Open,Sales Qualified,Mid Funnel,Catherine Silvestri,5/6/2026,4/13/2026,,Yes,6,2026-05-08,4,2,,,,,
-001Hr000028ZbuA,"City Of Fort Morgan, CO",Colorado,Municipality,Catherine Silvestri,11439,Open Opportunity,Tier 2,1.0,40.2503,-103.8,b9614ede-9dcb-4679-b8e1-26bb4459ac96,Open,Proposal,Mid Funnel,Jenny Allison,9/25/2025,9/12/2025,"$20,000",Yes,6,2026-01-14,2,,,,,4,
-001Hr000028Zbv4,"City Of Rifle, CO",Colorado,Municipality,Catherine Silvestri,10518,Nurture,Tier 2,1.0,39.5297,-107.7832,eb1860d9-0d71-4bc6-8d9c-2082fc36e85b,Closed Lost,,,Leila Assil,9/25/2024,1/5/2025,,,10,2026-04-17,4,6,,,,,
-001Hr000028ZbvI,"City Of Brighton, CO",Colorado,Municipality,Catherine Silvestri,40693,Open Opportunity,Tier 1,1.5,39.9853,-104.8205,b981405e-20a2-4ae2-a8a1-9e107cbe245f,Open,Initial Interest,Top of Funnel,Catherine Silvestri,4/24/2026,4/9/2026,,,9,2026-05-15,5,,,,4,,
-001Hr000028ZbvK,"City Of Sheridan, CO",Colorado,Municipality,Catherine Silvestri,6035,Nurture,Tier 3,0.75,39.6469,-105.0253,3e1ecaef-b6e9-40ab-91a4-b50feb53e2a6,Closed Lost,,,Jenny Allison,9/18/2025,9/11/2025,,,7,2025-09-18,7,,,,,,
-001Hr000028ZbvS,"Town Of Superior, CO",Colorado,Municipality,Catherine Silvestri,13271,,Tier 2,1.0,39.9528,-105.1686,2407b74b-9896-4dcd-b822-9e54ab65add1,,,,,,,,,2,2025-09-11,2,,,,,,
-001Hr000028ZbvX,"Town Of Firestone, CO",Colorado,Municipality,Catherine Silvestri,17299,,Tier 2,1.0,40.1125,-104.9366,7a71ec87-7509-4b7d-bd0e-ba27b023e278,,,,,,,,,38,2025-11-12,38,,,,,,
-001Hr000028Zbvc,"City Of Lafayette, CO",Colorado,Municipality,Catherine Silvestri,31002,,Tier 1,1.5,39.9936,-105.0897,68fdb15c-6684-419e-8f55-a5a82d3004fa,,,,,,,,,18,2025-11-19,18,,,,,,
-001Hr000028ZbwM,"Town Of Wellington, CO",Colorado,Municipality,Catherine Silvestri,11722,,Tier 2,1.0,40.7039,-105.0086,94ac00f4-e92b-413f-8859-1f80cd5ed0c0,,,,,,,,,17,2026-05-12,11,6,,,,,
-001Hr000028Zbwa,"City Of Lamar, CO",Colorado,Municipality,Catherine Silvestri,7656,,Tier 3,0.75,38.0872,-102.6208,70ac27ae-9447-4128-bf7f-59809f8d20f5,,,,,,,,,11,2025-11-05,11,,,,,,
-001Hr000028Zbwk,"City Of La Junta, CO",Colorado,Municipality,Catherine Silvestri,7298,,Tier 3,0.75,37.985,-103.5438,55a1d5f9-3401-49d8-b2e3-ee64c0890fba,,,,,,,,,14,2025-11-19,14,,,,,,
-001Hr000028Zbwp,"City Of Alamosa, CO",Colorado,Municipality,Catherine Silvestri,9814,Open Opportunity,Tier 3,0.75,37.4694,-105.87,7f0059af-49ee-4793-b22e-2f6b751f23c8,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,5/21/2026,5/6/2026,,,15,2025-09-18,,,15,,,,
-001Hr000028Zbwu,"City Of Woodland Park, CO",Colorado,Municipality,Catherine Silvestri,7983,,Tier 3,0.75,38.9939,-105.0569,83e849ed-39e3-45ea-af3f-d00e04d69ae9,,,,,,,,,24,2025-10-24,24,,,,,,
-001Hr000028Zbx4,"Town Of Frederick, CO",Colorado,Municipality,Catherine Silvestri,17937,Recent Competitor Purchase,Tier 2,1.0,40.0992,-104.9372,6a5f57e8-385c-4849-9802-6feffe27f6f5,Closed Lost,,,Jenny Allison,10/1/2025,9/17/2025,,,2,2025-09-17,2,,,,,,
-001Hr000028ZbxU,"City Of Montrose, CO",Colorado,Municipality,Catherine Silvestri,20648,Recent Competitor Purchase,Tier 2,1.0,38.4783,-107.8762,71848c73-1e58-4dd1-b350-34f69cd2623e,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,11,2026-01-29,1,,2,,8,,
-001Hr000028ZbyK,"City Of Dacono, CO",Colorado,Municipality,Catherine Silvestri,6487,,Tier 3,0.75,40.0847,-104.9394,2fda804a-557e-461e-88dc-81ee6ef518b1,,,,,,,,,11,2025-09-25,11,,,,,,
-001Hr000028Zbyv,"Town Of Eagle, CO",Colorado,Municipality,Catherine Silvestri,7538,Open Opportunity,Tier 3,0.75,39.6542,-106.8266,651ed99d-bb5c-4a93-8153-2b266c97c758,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,10,2026-03-02,,4,3,,3,,
-001Hr000028Zbz0,"City Of Durango, CO",Colorado,Municipality,Catherine Silvestri,19223,,Tier 2,1.0,37.274,-107.8792,be09f546-c781-4a6a-b06c-ae3e6ca291df,,,,,,,,,14,2025-11-25,14,,,,,,
-001Hr000028Zbz5,"City Of Glenwood Springs, CO",Colorado,Municipality,Catherine Silvestri,10326,Open Opportunity,Tier 2,1.0,39.5505,-107.3248,8976660b-1332-424f-8afc-43be84078b84,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,6/10/2026,4/2/2026,,,9,2026-04-02,,2,7,,,,
-001Hr000028ZbzA,"City Of Cortez, CO",Colorado,Municipality,Catherine Silvestri,8855,,Tier 3,0.75,37.3489,-108.5859,adc04826-c749-415f-a0dc-eaa380cdd55c,,,,,,,,,23,2025-11-12,22,,1,,,,
-001Hr000028ZbzF,"City Of Craig, CO",Colorado,Municipality,Catherine Silvestri,8969,,Tier 3,0.75,40.5152,-107.5465,fb962074-8391-440e-934a-71efb2f5aa67,,,,,,,,,6,2026-02-02,2,,4,,,,
-001Hr000028ZbzK,"City Of Sterling, CO",Colorado,Municipality,Catherine Silvestri,13739,,Tier 2,1.0,40.6255,-103.2077,3226ea46-7eb1-477a-83c3-99f0c890c561,,,,,,,,,10,2026-05-15,1,9,,,,,
-001Hr000028ZbzU,"City Of Delta, CO",Colorado,Municipality,Catherine Silvestri,9224,,Tier 3,0.75,38.7422,-108.069,8350f95b-341f-40b3-bb01-4b9d0116446b,,,,,,,,,21,2026-04-23,19,2,,,,,
-001Hr000028Zbzj,"City Of Wheat Ridge, CO",Colorado,Municipality,Catherine Silvestri,32722,,Tier 1,1.5,39.7661,-105.0772,1e4522d8-4017-42ea-82ca-35acf6afd0a4,,,,,,,,,4,2025-07-17,,,4,,,,
-001Hr000028Zbzo,"City Of Greenwood Village, CO",Colorado,Municipality,Catherine Silvestri,15495,Nurture,Tier 2,1.0,39.6172,-104.9508,73b78e65-6963-4fd6-92ac-3728e4a3b252,Closed Lost,,,Troy LeCaire,,1/5/2025,,,14,2026-03-09,12,2,,,,,
-001Hr000028Zc03,"City Of Northglenn, CO",Colorado,Municipality,Catherine Silvestri,37333,,Tier 1,1.5,39.8962,-104.9811,24a7f5f7-e7f0-47d8-b2d2-c44c86798038,,,,,,,,,9,2026-04-09,2,3,4,,,,
-001Hr000028Zc0D,"Town Of Gypsum, CO",Colorado,Municipality,Catherine Silvestri,8529,Open Opportunity,Tier 3,0.75,39.6447,-106.9491,f47d02e7-1e8f-40b1-bf71-48f8c379cba5,Open,Initial Interest,Top of Funnel,Leila Assil,,3/3/2026,,,10,2026-05-04,7,3,,,,,
-001Hr000028Zc0i,"City Of Cherry Hills Village, CO",Colorado,Municipality,Catherine Silvestri,6353,Nurture,Tier 3,0.75,39.6417,-104.9594,cc13916d-b067-4ed9-85c2-4a9983323cce,Closed Lost,,,Leila Assil,9/30/2024,1/5/2025,"$25,000",,2,2026-02-02,2,,,,,,
-001Hr000028ZcHA,"Town Of Avon, CO",Colorado,Municipality,Catherine Silvestri,6058,,Tier 3,0.75,39.6351,-106.5221,2167a128-8922-4c9b-8995-adf825ed1760,,,,,,,,,5,2025-10-13,5,,,,,,
-001Hr000028ZcJp,"City Of Edgewater, CO",Colorado,Municipality,Catherine Silvestri,4951,Nurture,Tier 3,0.75,39.753,-105.0641,5f9c25ef-f326-4976-b16d-627f209612a5,Closed Lost,,,Catherine Silvestri,3/16/2026,3/9/2026,,,30,2026-03-09,,1,29,,,,
-001Hr000028ZcKk,"City Of Salida, CO",Colorado,Municipality,Catherine Silvestri,5812,,Tier 3,0.75,38.5347,-105.9989,7f096088-d878-40bf-ad0b-86bcf8b2e824,,,,,,,,,10,2026-04-10,,4,6,,,,
-001Hr000028ZcN1,"City Of Brush, CO",Colorado,Municipality,Catherine Silvestri,5296,,Tier 3,0.75,40.2589,-103.6238,226b3f63-6e6c-4f68-88f2-c45ae68554da,,,,,,,,,7,2025-12-12,4,,3,,,,
-001Hr000028ZcNA,"Summit County, CO",Colorado,County,Catherine Silvestri,30882,Open Opportunity,Tier 1,1.5,39.5912,-106.064,53600333-2725-4aac-b2c3-4ee0ee0d242d,Open,Initial Interest,Top of Funnel,Leila Assil,,3/3/2026,,,51,2026-03-19,19,12,20,,,,
-001Hr000028ZcQB,"City Of Canon, CO",Colorado,Municipality,Catherine Silvestri,17363,,Tier 2,1.0,38.4494,-105.2253,0f1d12cb-7807-4b6b-9d23-178418291e4c,,,,,,,,,18,2026-04-23,,10,8,,,,
-001Hr000028ZcQL,"City Of Manitou Springs, CO",Colorado,Municipality,Catherine Silvestri,4832,,Tier 3,0.75,38.8576,-104.9128,ad834653-f86e-41b0-8b3a-75e4e713ff30,,,,,,,,,10,2026-04-22,4,6,,,,,
-001Hr000028ZcRt,"Town Of Breckenridge, CO",Colorado,Municipality,Catherine Silvestri,5024,,Tier 3,0.75,39.4817,-106.0384,92a6bd35-0959-4ebf-bb86-a9be98612b86,,,,,,,,,28,2026-04-20,12,12,4,,,,
-001Hr000028ZcWP,"Town Of Vail, CO",Colorado,Municipality,Catherine Silvestri,4735,Open Opportunity,Tier 3,0.75,39.6433,-106.3781,b49b8ba9-06c1-4d70-819f-eadce6ea5dec,Open,Initial Interest,Top of Funnel,Harrison Peacock,,6/3/2025,,,5,2025-10-10,5,,,,,,
-001Hr000028ZcZc,"City Of Gunnison, CO",Colorado,Municipality,Catherine Silvestri,6695,Open Opportunity,Tier 3,0.75,38.5458,-106.9253,f904e17c-6f06-4694-98d4-f5db0bd5b206,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,4/30/2026,,Yes,30,2026-04-30,28,2,,,,,
-001Hr000028ZcZm,"Town Of Eaton, CO",Colorado,Municipality,Catherine Silvestri,5868,,Tier 3,0.75,40.5194,-104.7025,f6804495-48d7-466f-8a61-442a81c7b12e,,,,,,,,,11,2025-10-14,11,,,,,,
-001Hr000028ZcZr,"Town Of Estes Park, CO",Colorado,Municipality,Catherine Silvestri,5880,,Tier 3,0.75,40.3772,-105.5217,533b8803-4aa7-4eaa-a16e-e7e363fead55,,,,,,,,,29,2026-04-22,16,13,,,,,
-001Hr000028ZcZw,"Town Of Carbondale, CO",Colorado,Municipality,Catherine Silvestri,6491,Open Opportunity,Tier 3,0.75,39.4022,-107.2112,bb5bcac5-6a0f-473c-959d-54041ce0e1a1,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,6/15/2026,5/5/2026,,,3,2026-04-08,2,1,,,,,
-001Hr000028Zcdc,"County of La Plata, CO",Colorado,County,Catherine Silvestri,56250,,Tier S,2.0,37.2126,-107.7636,0f225190-50f8-4688-b081-897e83112cf7,,,,,,,,,34,2026-05-18,,27,7,,,,
-001Hr000028ZclI,"Town Of Castle Rock, CO",Colorado,Municipality,Catherine Silvestri,76353,Open Opportunity,Tier S,2.0,39.3722,-104.8561,7ba762d2-772c-47a3-acda-9f5f38c72802,Open,Initial Interest,Top of Funnel,Alicia Gopal,3/10/2026,1/7/2026,,,17,2026-02-18,15,,,,,2,
-001Hr000028Zd4J,"County of Garfield, CO",Colorado,County,Catherine Silvestri,62707,Nurture,Tier S,2.0,39.6585,-107.7636,2d2e9316-e20c-42c8-ae9e-22ff97884d12,Closed Lost,,,Leila Assil,6/13/2025,5/14/2025,"$60,000",,6,2026-05-04,,1,5,,,,
-001Hr000028ZdGo,"City Of Loveland, CO",Colorado,Municipality,Catherine Silvestri,77194,,Tier S,2.0,40.3955,-105.0746,b51a0cd2-1bc3-4362-a0b9-6dd3a6f9f9f4,,,,,,,,,9,2025-09-23,9,,,,,,
-001Hr000028ZdHS,"Fremont County, CO",Colorado,County,Catherine Silvestri,50318,Open Opportunity,Tier S,2.0,38.5307,-105.5005,d0bb9672-f741-4572-af13-a988eca6b4d3,Open,Initial Interest,Top of Funnel,Leila Assil,,6/23/2025,,,17,2025-11-25,4,,13,,,,
-001Hr000028ZdSR,"Broomfield County, CO",Colorado,County,Catherine Silvestri,,,Tier 3,0.75,39.9205,-105.0867,c2bed48f-7a35-4e0d-b5be-3c5343f50a6d,,,,,,,,,8,2025-07-03,,,8,,,,
-001Hr000028ZdU8,"Mesa County, CO",Colorado,County,Catherine Silvestri,161260,,Tier S,2.0,38.9585,-108.6176,e665357b-a232-42ab-adcf-8a6557635f7d,,,,,,,,,18,2026-01-20,,,10,,8,,
-001Hr000028ZdWH,"City of Longmont, CO",Colorado,Municipality,Catherine Silvestri,98630,,Tier S,2.0,40.1672,-105.1019,20fe5e00-844f-47ba-a73a-f6dabbf77c21,,,,,,,,,18,2026-01-14,8,,,,,10,
-001Hr000028Zdc2,"City Of Lone Tree, CO",Colorado,Municipality,Catherine Silvestri,14206,,Tier 2,1.0,39.5363,-104.8855,9d7dc4f0-ce30-496a-af71-746eeadf2a21,,,,,,,,,19,2026-04-07,18,1,,,,,
-001Hr000028ZddX,"Town Of Parker, CO",Colorado,Municipality,Catherine Silvestri,60313,Open Opportunity,Tier S,2.0,39.5186,-104.7614,ed7a6831-d457-4e2f-bad3-f2a3d85e7767,Open,Demo,Mid Funnel,Jenny Allison,10/22/2025,10/3/2025,,,14,2026-01-09,14,,,,,,
-001Hr000028Zdes,"City of Broomfield, CO",Colorado,Municipality,Catherine Silvestri,76860,Nurture,Tier S,2.0,39.9205,-105.0867,c2bed48f-7a35-4e0d-b5be-3c5343f50a6d,Closed Lost,,,Leila Assil,1/22/2025,1/5/2025,,,,,,,,,,,
-001Hr000028Zdg9,"Montrose County, CO",Colorado,County,Catherine Silvestri,44806,,Tier 1,1.5,38.4683,-108.1429,f6069ed1-adb0-4268-87ab-5ff58b54642c,,,,,,,,,19,2025-12-12,19,,,,,,
-001Hr000028ZdlR,"Montezuma County, CO",Colorado,County,Catherine Silvestri,26531,,Tier 1,1.5,37.3258,-108.6176,3ccba849-7309-4af5-8f6b-10559d3ce6bb,,,,,,,,,3,2026-04-03,,1,2,,,,
-001Hr000028Zdpq,"Pueblo County, CO",Colorado,County,Catherine Silvestri,169422,,Tier S,2.0,38.2529,-104.4723,f571fa65-b7a9-4cc7-9dec-8143e0742440,,,,,,,,,28,2026-03-19,,2,24,,2,,
-001Hr000028Zdsg,"City Of Golden, CO",Colorado,Municipality,Catherine Silvestri,19871,,Tier 2,1.0,39.7555,-105.2211,a6d722d9-d420-4cda-ae58-7be74f7ebf4d,,,,,,,,,7,2026-04-07,,6,1,,,,
-001Hr000028ZdvZ,"Town Of Severance, CO",Colorado,Municipality,Catherine Silvestri,9605,,Tier 3,0.75,40.5241,-104.8511,02a084d6-0d56-495f-9955-6379a454ed31,,,,,,,,,37,2026-05-18,16,17,,,,,4
-001Hr000028ZiwO,"Town of Crested Butte, CO",Colorado,Municipality,Catherine Silvestri,1658,Nurture,Tier 3,0.75,38.8697,-106.9878,a371fae9-e8b4-4665-9569-e2f7fc2a3bd7,Closed Lost,,,Troy LeCaire,4/11/2024,1/5/2025,"$15,000",,4,2026-04-06,,4,,,,,
-001Hr000028ZjNP,"Town of Mt. Crested Butte, CO",Colorado,Municipality,Catherine Silvestri,961,1+ Module Live,Tier 3,0.75,38.9122,-106.9624,c3507abe-e2ad-43c2-82c9-0a3a70cca1b6,Closed Won,,,Asher Rosenfeld,,1/5/2025,"$15,000",,,,,,,,,,
-001cv00000AuWNn,"Town Of Elizabeth, CO",Colorado,Municipality,Catherine Silvestri,2004,Nurture,Tier 3,0.75,39.3603,-104.5969,8a1ebadf-d172-458a-b317-ce46a4be685a,Closed Lost,,,Jenny Allison,9/24/2025,9/15/2025,,,4,2025-09-15,4,,,,,,
-001cv00000AuWQC,"Town Of Limon, CO",Colorado,Municipality,Catherine Silvestri,2041,,Tier 3,0.75,39.2639,-103.6922,fade1b15-61ee-437e-9a98-1361544a1abc,,,,,,,,,4,2025-09-29,4,,,,,,
-001cv00000AuWbT,"Town Of Granby, CO",Colorado,Municipality,Catherine Silvestri,2132,,Tier 3,0.75,40.0861,-105.9395,b2d2ea79-7742-4918-8c69-f26024717dc1,,,,,,,,,6,2025-07-31,,,6,,,,
-001cv00000AuWqo,"Town Of Lyons, CO",Colorado,Municipality,Catherine Silvestri,2208,,Tier 3,0.75,40.2247,-105.2714,2922a7a7-ada8-4b21-84ea-80eb05542a9b,,,,,,,,,18,2025-11-19,18,,,,,,
-001cv00000AuX7k,"Town Of Rangely, CO",Colorado,Municipality,Catherine Silvestri,2296,Nurture,Tier 3,0.75,40.0875,-108.8048,4065ab7e-44ce-4631-8727-7a4f0bbd0ab6,Closed Lost,,,Jenny Allison,9/22/2025,9/15/2025,,,2,2025-09-15,2,,,,,,
-001cv00000AuX8U,"City Of Wray, CO",Colorado,Municipality,Catherine Silvestri,2308,,Tier 3,0.75,40.0758,-102.2232,8908cea4-acd8-4162-8b0b-e52c7d4b8b8e,,,,,,,,,9,2025-10-10,9,,,,,,
-001cv00000AuX9P,"City Of Holyoke, CO",Colorado,Municipality,Catherine Silvestri,2332,,Tier 3,0.75,40.5844,-102.3024,274d9333-3328-4d3f-994f-8d85fa7c119b,,,,,,,,,6,2025-11-06,6,,,,,,
-001cv00000AuX9e,"County Of Sedgwick, CO",Colorado,County,Catherine Silvestri,2336,,Tier 3,0.75,40.9364,-102.5255,0973374f-07e5-4897-95ec-b45ed89c4c49,,,,,,,,,8,2025-08-22,,,8,,,,
-001cv00000AuX9f,"Town Of Meeker, CO",Colorado,Municipality,Catherine Silvestri,2336,,Tier 3,0.75,40.0375,-107.9131,7197a33c-969a-4367-832d-5f47c1b1e67a,,,,,,,,,3,2025-09-24,3,,,,,,
-001cv00000AuX9u,"Town Of La Salle, CO",Colorado,Municipality,Catherine Silvestri,2342,,Tier 3,0.75,40.3489,-104.7019,334e6e47-2ab8-4af1-b7d6-8ca54781c0d1,,,,,,,,,3,2025-08-08,,,3,,,,
-001cv00000AuXAT,"Town Of Cedaredge, CO",Colorado,Municipality,Catherine Silvestri,2356,Nurture,Tier 3,0.75,38.9016,-107.9265,d5146443-36e7-46ac-bdad-71981ea3ff35,Closed Lost,,,Jenny Allison,10/14/2025,10/9/2025,,,16,2025-10-21,5,,11,,,,
-001cv00000AuXAj,"Town Of Ault, CO",Colorado,Municipality,Catherine Silvestri,2365,,Tier 3,0.75,40.5825,-104.7319,3ef3595d-6f86-48d3-9784-b7b1495c6e3b,,,,,,,,,4,2025-09-18,4,,,,,,
-001cv00000AuXB1,"City Of Las Animas, CO",Colorado,Municipality,Catherine Silvestri,2373,Open Opportunity,Tier 3,0.75,38.0667,-103.2227,e88c153d-42d3-45ef-8419-91c03d740a0d,Open,Meeting Booked,Top of Funnel,Leila Assil,8/13/2025,8/4/2025,,,8,2026-03-11,,3,5,,,,
-001cv00000AuXVW,"Town Of Palisade, CO",Colorado,Municipality,Catherine Silvestri,2584,Recent Competitor Purchase,Tier 3,0.75,39.1103,-108.3509,fb9a87ff-999b-4657-8c09-caf56fcc18ca,Closed Lost,,,Jenny Allison,9/19/2025,9/12/2025,"$19,000",,2,2025-10-01,2,,,,,,
-001cv00000AuXVs,"Town Of Telluride, CO",Colorado,Municipality,Catherine Silvestri,2595,,Tier 3,0.75,37.9375,-107.8123,202582da-ab04-4954-b417-9d7f0b185d36,,,,,,,,,16,2026-03-31,11,5,,,,,
-001cv00000AuXlp,"Town Of Bayfield, CO",Colorado,Municipality,Catherine Silvestri,2887,,Tier 3,0.75,37.2256,-107.5981,1e46083f-285d-48c1-a190-860241db130c,,,,,,,,,14,2025-09-19,14,,,,,,
-001cv00000AuXmB,"Town Of Frisco, CO",Colorado,Municipality,Catherine Silvestri,2903,,Tier 3,0.75,39.5744,-106.0975,4b122ad8-e968-486a-af4c-6fe4ad04848b,,,,,,,,,8,2025-09-25,8,,,,,,
-001cv00000AuXn7,"Town Of Platteville, CO",Colorado,Municipality,Catherine Silvestri,2937,Nurture,Tier 3,0.75,40.215,-104.8227,5560429d-08db-4289-9cb7-2064323e3a03,Closed Lost,,,Jenny Allison,9/19/2025,9/12/2025,,,1,2025-09-12,1,,,,,,
-001cv00000AuYBN,"Town Of Snowmass Village, CO",Colorado,Municipality,Catherine Silvestri,3093,,Tier 3,0.75,39.213,-106.9378,ba743215-8112-4699-94e5-fa3751a70f26,,,,,,,,,7,2025-10-09,7,,,,,,
-001cv00000AuYBX,"City Of Burlington, CO",Colorado,Municipality,Catherine Silvestri,3098,,Tier 3,0.75,39.3061,-102.2694,b65b17e5-7bdc-40c8-96aa-7046f7d62d52,,,,,,,,,2,2025-09-16,2,,,,,,
-001cv00000AuYEM,"Town Of Buena Vista, CO",Colorado,Municipality,Catherine Silvestri,2988,Implementation,Tier 3,0.75,38.8422,-106.1311,5b3993f2-f9cf-4442-aa39-422b577bec8a,Closed Won,,,Jenny Allison,12/2/2025,10/9/2025,"$14,000",,12,2025-12-01,12,,,,,,
-001cv00000AuYGr,"City Of Walsenburg, CO",Colorado,Municipality,Catherine Silvestri,3065,,Tier 3,0.75,37.6227,-104.7804,e4c12620-2c9e-4d92-a72b-900e0a596cf3,,,,,,,,,17,2026-05-13,10,7,,,,,
-001cv00000AuYHX,"Town Of Bennett, CO",Colorado,Municipality,Catherine Silvestri,3295,Nurture,Tier 3,0.75,39.7589,-104.4275,8d9e717e-e510-4596-bdd4-2c9e6ec74efe,Closed Lost,,,Jenny Allison,1/8/2026,10/9/2025,,,13,2026-01-08,13,,,,,,
-001cv00000AuYLp,"City Of Yuma, CO",Colorado,Municipality,Catherine Silvestri,3455,,Tier 3,0.75,40.1222,-102.7252,3ef22507-a2f5-4a5b-b11c-2ccc0bea3953,,,,,,,,,19,2025-11-12,19,,,,,,
-001cv00000AuYND,"County Of Baca, CO",Colorado,County,Catherine Silvestri,3514,,Tier 3,0.75,37.3947,-102.5298,2c27df48-c0ff-4d82-ada6-db3eca957531,,,,,,,,,2,2025-09-22,2,,,,,,
-001cv00000AuYOA,"Town Of Orchard City, CO",Colorado,Municipality,Catherine Silvestri,3199,,Tier 3,0.75,38.8391,-107.9649,765147ac-57f8-4dbd-b5c4-a91c0244f243,,,,,,,,,3,2025-10-14,3,,,,,,
-001cv00000AuYRl,"Town Of Silt, CO",Colorado,Municipality,Catherine Silvestri,3569,Nurture,Tier 3,0.75,39.5486,-107.6562,965ab19c-ff38-417a-9efa-776eac56b5ea,Closed Lost,,,Jenny Allison,9/29/2025,9/22/2025,,,2,2025-09-22,2,,,,,,
-001cv00000AuYSs,"County Of Costilla, CO",Colorado,County,Catherine Silvestri,3625,Nurture,Tier 3,0.75,37.205,-105.5005,3103341b-dc32-4be0-90ab-88a21cc7ff24,Closed Lost,,,Jenny Allison,10/27/2025,10/21/2025,"$22,000",,9,2025-10-21,9,,,,,,
-001cv00000AuYgl,"City Of Rocky Ford, CO",Colorado,Municipality,Catherine Silvestri,3854,,Tier 3,0.75,38.0525,-103.7202,f44b3efd-d907-488c-9dfa-a1b948cb2a94,,,,,,,,,13,2025-11-19,13,,,,,,
-001cv00000AuYhs,"City Of Florence, CO",Colorado,Municipality,Catherine Silvestri,3909,Recent Competitor Purchase,Tier 3,0.75,38.3903,-105.1186,d48507b6-1b19-4c29-abfb-c4d14103d749,Closed Lost,,,Catherine Silvestri,3/12/2026,3/10/2026,,,24,2026-03-12,22,2,,,,,
-001cv00000AuYn3,"Town Of Basalt, CO",Colorado,Municipality,Catherine Silvestri,4071,,Tier 3,0.75,39.3725,-107.0785,fc8c6f9e-4283-4446-a8ee-a8215524fd90,,,,,,,,,7,2025-09-23,7,,,,,,
-001cv00000AuYpM,"City Of Monte Vista, CO",Colorado,Municipality,Catherine Silvestri,4194,,Tier 3,0.75,37.5792,-106.1481,9aa8fb4a-92df-4407-802b-f9ff831facfd,,,,,,,,,10,2025-11-19,10,,,,,,
-001cv00000AuYzK,"County Of Phillips, CO",Colorado,County,Catherine Silvestri,4512,,Tier 3,0.75,40.5371,-102.3464,73f71dd1-b1c3-42cb-bc13-c1800edcc29d,,,,,,,,,1,2025-09-23,1,,,,,,
-001cv00000AuZ7l,"Town Of Mead, CO",Colorado,Municipality,Catherine Silvestri,6735,Open Opportunity,Tier 3,0.75,40.2333,-104.9986,e3557cd4-a9a5-428f-ae89-c1af02a1aba4,Open,Sales Qualified,Mid Funnel,Jenny Allison,2/23/2026,1/12/2026,,,18,2026-05-12,18,,,,,,
-001cv00000AuZAb,"County Of Gilpin, CO",Colorado,County,Catherine Silvestri,5873,,Tier 3,0.75,39.877,-105.4537,4e45b563-8991-4d50-9be9-7598244fb7c8,,,,,,,,,4,2025-10-02,4,,,,,,
-001cv00000AuZB4,"County Of Crowley, CO",Colorado,County,Catherine Silvestri,6012,,Tier 3,0.75,38.1931,-103.8561,b43d9d28-ad50-4e8d-978e-e33486623e6f,,,,,,,,,14,2025-11-10,14,,,,,,
-001cv00000AuZBx,"County Of Saguache, CO",Colorado,County,Catherine Silvestri,6471,,Tier 3,0.75,38.0875,-106.142,7f3de7d5-ce1e-4e79-aa44-0392b213300c,,,,,,,,,6,2025-09-26,6,,,,,,
-001cv00000AuZBz,"County Of Rio Blanco, CO",Colorado,County,Catherine Silvestri,6476,Nurture,Tier 3,0.75,39.9814,-108.2378,3e0ad4b4-a106-462e-96af-ca22be09363c,Closed Lost,,,Jenny Allison,10/1/2025,9/26/2025,,,8,2025-09-26,8,,,,,,
-001cv00000AuZCu,"County Of Huerfano, CO",Colorado,County,Catherine Silvestri,6920,Open Opportunity,Tier 3,0.75,37.6126,-104.9389,0edb9d62-2093-40f0-8dc8-77e226c99d6a,Open,Initial Interest,Top of Funnel,Jenny Allison,9/16/2025,9/12/2025,,,3,2025-10-21,3,,,,,,
-001cv00000AuZCw,"County Of Kit Carson, CO",Colorado,County,Catherine Silvestri,6950,,Tier 3,0.75,39.3845,-102.5298,29cb4f09-3d39-4909-aa8b-0daea9a84d09,,,,,,,,,5,2025-10-02,5,,,,,,
-001cv00000AuZKB,"County Of Lincoln, CO",Colorado,County,Catherine Silvestri,5688,,Tier 3,0.75,39.0458,-103.3587,e2bb8a0d-db63-4d35-9cb2-91b925536c7d,,,,,,,,,9,2025-11-07,9,,,,,,
-001cv00000AuZKT,"County Of Bent, CO",Colorado,County,Catherine Silvestri,5759,,Tier 3,0.75,38.0036,-103.0818,9b3c5595-948c-483d-a768-5590f3ca6b74,,,,,,,,,3,2025-09-16,3,,,,,,
-001cv00000AuZMo,"County Of Washington, CO",Colorado,County,Catherine Silvestri,4861,Nurture,Tier 3,0.75,40.0637,-102.9896,575b164b-88c7-4fc5-aeec-57b369d8ff7a,Closed Lost,,,Jenny Allison,11/18/2025,9/23/2025,,,5,2026-02-18,5,,,,,,
-001cv00000AuZND,"Town Of New Castle, CO",Colorado,Municipality,Catherine Silvestri,4892,,Tier 3,0.75,39.5728,-107.5364,136be72b-d4af-4ff5-8685-a844e34c4895,,,,,,,,,1,2025-09-23,1,,,,,,
-001cv00000AuZR3,"County Of Lake, CO",Colorado,County,Catherine Silvestri,7407,Open Opportunity,Tier 3,0.75,39.1941,-106.2993,489254bd-8996-47c1-8c0c-77d5671362cd,Open,Initial Interest,Top of Funnel,Alicia Gopal,1/27/2026,1/15/2026,,Yes,8,2026-01-15,,,,,,8,
-001cv00000AuZRb,"County Of Conejos, CO",Colorado,County,Catherine Silvestri,7612,Nurture,Tier 3,0.75,37.0883,-106.0197,b1613b1d-7a78-4425-8fff-7919e4c7b4cb,Closed Lost,,,Jenny Allison,10/7/2025,9/29/2025,,,9,2026-04-14,8,1,,,,,
-001cv00000AuZSZ,"County Of Ouray, CO",Colorado,County,Catherine Silvestri,5035,Open Opportunity,Tier 3,0.75,38.2016,-107.7636,24069c37-c25f-470a-bb1f-50033912ab4e,,,,,,,,,2,2025-09-24,2,,,,,,
-001cv00000AuZSh,"County Of Custer, CO",Colorado,County,Catherine Silvestri,5045,,Tier 3,0.75,38.0616,-105.3131,cd4d9be1-7c42-4210-bda9-b517e4dd972f,,,,,,,,,3,2025-09-16,3,,,,,,
-001cv00000AuZVJ,"Town Of Timnath, CO",Colorado,Municipality,Catherine Silvestri,7839,Nurture,Tier 3,0.75,40.5291,-104.9853,7dd54487-872e-4fae-a337-1d9da6b5e6c2,Closed Lost,,,Jenny Allison,10/27/2025,10/22/2025,,,25,2025-10-22,25,,,,,,
-001cv00000AuZVf,"County Of San Miguel, CO",Colorado,County,Catherine Silvestri,8074,,Tier 3,0.75,37.9781,-108.1429,615ade88-01b7-44a5-9374-8c568d36b847,,,,,,,,,13,2026-05-04,5,8,,,,,
-001cv00000AuZZl,"County Of Clear Creek, CO",Colorado,County,Catherine Silvestri,9446,,Tier 3,0.75,39.6904,-105.6413,58c56916-84bd-44a1-a946-392a401ccd70,,,,,,,,,12,2026-05-15,,9,3,,,,
-001cv00000AuZaa,"County Of Rio Grande, CO",Colorado,County,Catherine Silvestri,11408,,Tier 2,1.0,37.575,-106.4406,bf41ea3a-6ad2-48bb-9c32-907210d7b90a,,,,,,,,,6,2025-10-03,6,,,,,,
-001cv00000AuZbH,"County Of Prowers, CO",Colorado,County,Catherine Silvestri,11996,Nurture,Tier 2,1.0,37.8434,-102.2548,57a7e2aa-6870-422d-a4a0-b6e3309474a3,Closed Lost,,,Jenny Allison,1/21/2026,9/23/2025,,,7,2026-02-03,7,,,,,,
-001cv00000AuZg0,"County Of Moffat, CO",Colorado,County,Catherine Silvestri,13185,,Tier 2,1.0,40.6138,-108.2378,80b85ebb-50d1-4c3d-855c-c98e1bf74ed3,,,,,,,,,2,2025-09-18,2,,,,,,
-001cv00000AuZhC,"County Of Las Animas, CO",Colorado,County,Catherine Silvestri,14633,,Tier 2,1.0,37.2995,-104.1001,ed8cf347-86c0-4ffb-bd67-af5bbbab6762,,,,,,,,,5,2026-03-09,4,1,,,,,
-001cv00000AuZkO,"County Of Yuma, CO",Colorado,County,Catherine Silvestri,10048,Recent Competitor Purchase,Tier 2,1.0,40.1222,-102.7252,6ca64fbc-284f-40e7-8343-6b6ef53242ad,Closed Lost,,,Jenny Allison,9/17/2025,9/12/2025,"$11,000",,5,2025-09-17,5,,,,,,
-001cv00000AuZnB,"County Of Archuleta, CO",Colorado,County,Catherine Silvestri,13790,,Tier 2,1.0,37.1604,-107.0067,ec4bfadc-ed35-4291-a8b9-97db5a3a1206,,,,,,,,,4,2026-04-08,,1,3,,,,
-001cv00000AuZox,"County Of Grand, CO",Colorado,County,Catherine Silvestri,15860,,Tier 2,1.0,40.0727,-106.064,7d7a4258-3b52-40a6-a879-00dfc65ee605,,,,,,,,,16,2026-04-03,1,15,,,,,
-001cv00000AuZr2,"County Of Alamosa, CO",Colorado,County,Catherine Silvestri,16547,,Tier 2,1.0,37.654,-105.876,63bfc37a-4c65-4143-b671-728013ae576d,,,,,,,,,5,2025-10-14,5,,,,,,
-001cv00000AuZsV,"County Of Otero, CO",Colorado,County,Catherine Silvestri,18594,,Tier 2,1.0,37.9398,-103.6363,3f770537-8c2f-46e5-bb39-8a1678968117,,,,,,,,,1,2025-09-23,1,,,,,,
-001cv00000AuZtV,"County Of Gunnison, CO",Colorado,County,Catherine Silvestri,17281,Nurture,Tier 2,1.0,38.5458,-106.9253,e6150086-cab0-4255-8164-d80ebd6ec784,Closed Lost,,,Jenny Allison,3/17/2026,3/3/2026,,,20,2026-03-17,20,,,,,,
-001cv00000AuZtZ,"County Of Pitkin, CO",Colorado,County,Catherine Silvestri,17348,,Tier 2,1.0,39.1591,-106.8178,83d4b835-7081-499f-80b5-6a7b82f982d0,,,,,,,,,32,2025-11-10,32,,,,,,
-001cv00000AuZtu,"County Of Park, CO",Colorado,County,Catherine Silvestri,17720,,Tier 2,1.0,39.0898,-105.5943,147d3b07-c304-48b2-a761-5d23f56bca92,,,,,,,,,13,2026-04-09,,3,10,,,,
-001cv00000AuZxr,"County Of Logan, CO",Colorado,County,Catherine Silvestri,21487,,Tier 2,1.0,40.7056,-102.9896,99f3b60e-3f3a-415e-b025-11a81af79440,,,,,,,,,11,2025-10-31,11,,,,,,
-001cv00000Aua0r,"County Of Morgan, CO",Colorado,County,Catherine Silvestri,29008,,Tier 1,1.5,40.2989,-103.7289,d5a53baa-eb2c-43f3-99b4-367702a83218,,,,,,,,,15,2026-05-11,10,5,,,,,
-001cv00000Aua2K,"County Of Teller, CO",Colorado,County,Catherine Silvestri,24926,,Tier 2,1.0,38.8612,-105.1727,c7a5a3ee-1e57-48cd-a51f-c8a0ce2aaa07,,,,,,,,,14,2025-11-03,14,,,,,,
-001cv00000Aua2X,"County Of Routt, CO",Colorado,County,Catherine Silvestri,25091,,Tier 1,1.5,40.4772,-107.1012,baf813bf-56f8-436c-9d33-0f60f48655bb,,,,,,,,,8,2025-11-25,8,,,,,,
-001cv00000Aua3S,"County Of Chaffee, CO",Colorado,County,Catherine Silvestri,20074,,Tier 2,1.0,38.7537,-106.2522,02f20fbc-3f4f-4ca7-9e6d-a47f1397a393,,,,,,,,,3,2025-09-23,3,,,,,,
-001cv00000Aua8Q,"County Of Delta, CO",Colorado,County,Catherine Silvestri,31661,,Tier 1,1.5,38.7422,-108.069,947e2b8c-53da-48f4-b2cf-36f42d695e9c,,,,,,,,,2,2025-10-01,2,,,,,,
-001cv00000AuaBr,"County Of Elbert, CO",Colorado,County,Catherine Silvestri,27128,Nurture,Tier 1,1.5,39.2195,-104.5372,c5c8bbe9-fcb7-4734-ac46-c1d04af46217,Closed Lost,,,Leila Assil,10/2/2025,9/18/2025,,,7,2025-10-02,1,,6,,,,
-001cv00000AuaNQ,"County Of Eagle, CO",Colorado,County,Catherine Silvestri,55727,,Tier S,2.0,39.5764,-106.7235,a690b071-a309-4bf0-9a6a-abceab30ca01,,,,,,,,,23,2026-04-08,12,11,,,,,
-001cv00000AuaOn,"City of Commerce City, CO",Colorado,Municipality,Catherine Silvestri,64287,Open Opportunity,Tier S,2.0,39.8083,-104.9339,3ce3386b-84a4-4a92-b642-7d8acccb843d,Open,Initial Interest,Top of Funnel,Jenny Allison,1/16/2026,11/6/2025,,,19,2026-04-21,17,2,,,,,
-001cv00000AuaPW,"City Of Grand Junction, CO",Colorado,Municipality,Catherine Silvestri,66964,,Tier S,2.0,39.0689,-108.5643,5187a537-57d8-4182-9365-080f119a25ac,,,,,,,,,17,2026-05-12,7,10,,,,,
-001cv00000AuaWa,"City And County Of Broomfield, CO",Colorado,Municipality,Catherine Silvestri,75325,,Tier S,2.0,39.9205,-105.0867,c2bed48f-7a35-4e0d-b5be-3c5343f50a6d,,,,,,,,,,,,,,,,,
-001cv00000B21qE,"County Of Dolores, CO",Colorado,County,Catherine Silvestri,2397,,Tier 3,0.75,37.4739,-108.5045,97643479-391b-423e-bb0e-8381918b9dcb,,,,,,,,,3,2025-09-23,3,,,,,,
-001cv00000B21w9,"City Of Leadville, CO",Colorado,Municipality,Catherine Silvestri,2613,,Tier 3,0.75,39.2508,-106.2925,2b3b4d53-ad95-44a2-8098-543f209b75c7,,,,,,,,,14,2025-11-13,14,,,,,,
-001cv00000B21xc,"Town Of Palmer Lake, CO",Colorado,Municipality,Catherine Silvestri,2654,,Tier 3,0.75,39.1222,-104.9172,83ddef16-abea-4ee8-b17c-3d5bf5eb98cf,,,,,,,,,3,2025-10-09,3,,,,,,
-001cv00000B221U,"Town Of Silverthorne, CO",Colorado,Municipality,Catherine Silvestri,4677,,Tier 3,0.75,39.6296,-106.0713,3eadd000-50f4-4410-a07f-c645b2e28077,,,,,,,,,18,2025-10-21,18,,,,,,
-001cv00000Dnusv,"City of Winter Park, CO",Colorado,Municipality,Catherine Silvestri,1192,,Tier 3,0.75,39.8917,-105.7631,5709ed2d-0e81-4585-8736-4b688ed47e0a,,,,,,,,,22,2025-09-05,,,22,,,,
-001cv00000No4Hw,"City of Ouray, CO",Colorado,Municipality,Catherine Silvestri,912,Recent Competitor Purchase,Tier 3,0.75,38.0228,-107.6714,d30868cd-d3fd-4e58-bf2b-3274bb31829b,Closed Lost,,,Jenny Allison,12/2/2025,10/2/2025,"$25,000",,5,2025-12-01,5,,,,,,
-001cv00000OVg8R,"Town of Poncha Springs, CO",Colorado,Municipality,Catherine Silvestri,925,Nurture,Tier 3,0.75,38.5128,-106.0772,81657706-9d08-4441-8c04-dae54df71bb9,Closed Lost,,,Jenny Allison,11/14/2025,11/12/2025,,,,,,,,,,,
-001cv00000YokQh,"County of Jefferson, CO",Colorado,County,Catherine Silvestri,578533,,Tier S,2.0,39.58,-105.2663,,,,,,,,,,43,2026-04-20,,,,43,,,
-001cv00000atEQd,"Town of Dinosaur, CO",Colorado,Municipality,Jenny Allison,315,Nurture,Tier 3,0.75,40.2422,-109.0067,,Closed Lost,,,Jenny Allison,3/9/2026,3/2/2026,,,1,2026-03-09,1,,,,,,
-001cv00000b35KR,"City of Thornton, CO",Colorado,Municipality,Catherine Silvestri,148938,Nurture,Tier S,2.0,39.868,-104.9719,,Closed Lost,,,Catherine Silvestri,3/24/2026,3/17/2026,,,7,2026-03-23,,7,,,,,
-001cv00000bB8Pg,Town of Kersey,Colorado,Municipality,Asher Rosenfeld,1499,,Tier 3,0.75,40.3875,-104.5616,a3859b95-1b33-46b6-9758-2f0a772bff97,,,,,,,,,,,,,,,,,
-001cv00000bB8Pr,Town of Fraser,Colorado,Municipality,Asher Rosenfeld,1515,,Tier 3,0.75,39.945,-105.8172,940c2b28-5414-403f-b714-b222e1df25cf,,,,,,,,,,,,,,,,,
-001cv00000bBVeq,Hinsdale County,Colorado,County,Asher Rosenfeld,747,,Tier 3,0.75,37.9316,-107.3849,3dfb1317-40e4-412d-b783-fd7592517edb,,,,,,,,,,,,,,,,,
-001cv00000bBVf0,Town of Fairplay,Colorado,Municipality,Asher Rosenfeld,755,,Tier 3,0.75,39.2247,-106.002,5ec43b28-1a8c-4c95-810c-9ffe37fe4408,,,,,,,,,,,,,,,,,
-001cv00000bBVfC,Town of Hugo,Colorado,Municipality,Asher Rosenfeld,771,,Tier 3,0.75,39.1361,-103.4699,5cb2aa99-71e9-4958-b679-225989f6314d,,,,,,,,,,,,,,,,,
-001cv00000bBVfR,City of Central City,Colorado,Municipality,Asher Rosenfeld,793,,Tier 3,0.75,39.8019,-105.5142,4052a11c-ab78-4757-b818-0d0cd66d4b6a,,,,,,,,,,,,,,,,,
-001cv00000bBVfh,San Juan County,Colorado,County,Asher Rosenfeld,821,,Tier 3,0.75,37.7574,-107.7163,9652d76c-29d9-4e5e-a1ea-7aa406bb5a61,,,,,,,,,,,,,,,,,
-001cv00000bBVhY,Town of Blue River,Colorado,Municipality,Asher Rosenfeld,836,,Tier 3,0.75,39.4299,-106.0438,9e6b3283-cd93-4d93-b020-68db1344f040,,,,,,,,,,,,,,,,,
-001cv00000bBVho,Town of Ignacio,Colorado,Municipality,Asher Rosenfeld,847,,Tier 3,0.75,37.115,-107.6331,e5f3ebd7-caf6-40a1-b1ce-73cbae5ff494,,,,,,,,,,,,,,,,,
-001cv00000bBVhu,Town of Oak Creek,Colorado,Municipality,Asher Rosenfeld,856,,Tier 3,0.75,40.275,-106.9584,8726ab15-06bc-4869-8b21-c8eb151ed813,,,,,,,,,,,,,,,,,
-001cv00000bBVi1,Town of La Veta,Colorado,Municipality,Asher Rosenfeld,869,,Tier 3,0.75,37.5058,-105.0091,3d708409-357d-48f5-969e-e71983af81bc,,,,,,,,,,,,,,,,,
-001cv00000bBVj1,Mineral County,Colorado,County,Asher Rosenfeld,933,,Tier 3,0.75,37.6584,-107.0067,ef04b7eb-9f58-4f2b-adfc-2f033d70313e,,,,,,,,,,,,,,,,,
-001cv00000bBVpM,City of Cripple Creek,Colorado,Municipality,Asher Rosenfeld,1122,,Tier 3,0.75,38.7467,-105.1783,03bc5bcd-27e9-47c7-994d-b77b0cdd5a32,,,,,,,,,,,,,,,,,
-001cv00000bBVwn,Town of Fowler,Colorado,Municipality,Asher Rosenfeld,1203,,Tier 3,0.75,38.1292,-104.0233,87e6330e-1874-409b-89b4-320e70c0c779,,,,,,,,,,,,,,,,,
-001cv00000bBVxA,Town of Mountain Village,Colorado,Municipality,Asher Rosenfeld,1240,,Tier 3,0.75,37.9314,-107.8565,df7c1c2e-7865-4e4f-ac51-76d128c7818c,,,,,,,,,,,,,,,,,
-001cv00000bBVxh,Town of Mancos,Colorado,Municipality,Asher Rosenfeld,1272,,Tier 3,0.75,37.345,-108.2892,bfe4117c-d2ae-4891-8773-a75b209325ee,,,,,,,,,,,,,,,,,
-001cv00000bBVxj,Jackson County,Colorado,County,Asher Rosenfeld,1273,,Tier 3,0.75,40.6819,-106.2522,83e41be5-febd-444c-92fe-811b82099c93,,,,,,,,,,,,,,,,,
-001cv00000bBVxp,Town of Ridgway,Colorado,Municipality,Asher Rosenfeld,1281,,Tier 3,0.75,38.1526,-107.7556,8d381374-4a22-41f3-8e20-f4723395123c,,,,,,,,,,,,,,,,,
-001cv00000bBVy8,Town of Springfield,Colorado,Municipality,Asher Rosenfeld,1298,,Tier 3,0.75,37.4083,-102.6144,de410ddb-d173-4b89-8c01-610ed734842a,,,,,,,,,,,,,,,,,
-001cv00000bBW3v,Town of Akron,Colorado,Municipality,Asher Rosenfeld,1745,,Tier 3,0.75,40.1605,-103.2144,d05d5236-d6cc-4211-8f9c-158f2f884b15,,,,,,,,,,,,,,,,,
-001cv00000bBWDW,Town of Olathe,Colorado,Municipality,Asher Rosenfeld,1970,,Tier 3,0.75,38.605,-107.9823,20f33520-295e-489c-9483-1be0346ac5a0,,,,,,,,,,,,,,,,,
-001cv00000bBWEm,City of Boulder,Colorado,Municipality,Asher Rosenfeld,106803,,Tier S,2.0,40.019,-105.2747,1873c928-a202-4cb2-b539-eab30c4ea981,,,,,,,,,,,,,,,,,
-001cv00000bBWEr,City of Centennial,Colorado,Municipality,Asher Rosenfeld,108853,,Tier S,2.0,39.5807,-104.8772,ae2bb0a7-2b67-455d-aab7-70e2796b66a8,,,,,,,,,,,,,,,,,
-001cv00000bBWEy,City of Pueblo,Colorado,Municipality,Asher Rosenfeld,111166,,Tier S,2.0,38.2706,-104.6101,c00cf515-5a6b-464d-8caa-9447aab4cfc2,,,,,,,,,,,,,,,,,
-001cv00000bBWFA,City of Greeley,Colorado,Municipality,Asher Rosenfeld,114363,,Tier S,2.0,40.4233,-104.7091,fa004a11-f6ef-4b0d-8d45-2cb03d7bd7bb,,,,,,,,,,,,,,,,,
-001cv00000bBWFC,City of Westminster,Colorado,Municipality,Catherine Silvestri,115302,,Tier S,2.0,39.8367,-105.0372,c93a97dd-8995-4bd2-a1b4-0c66b4bdcbfa,,,,,,,,,6,2026-05-15,,6,,,,,
-001cv00000bBWJ5,Town of Pagosa Springs,Colorado,Municipality,Asher Rosenfeld,1793,,Tier 3,0.75,37.2694,-107.0098,1acfdeab-1095-40bf-b57f-d05e22fac49e,,,,,,,,,,,,,,,,,
-001cv00000bBWKC,Town of Wiggins,Colorado,Municipality,Asher Rosenfeld,1872,,Tier 3,0.75,40.2305,-104.0727,3828ef8f-1779-4f16-806a-c89137e02a64,,,,,,,,,,,,,,,,,
-001cv00000bBWKR,Town of Center,Colorado,Municipality,Asher Rosenfeld,1889,,Tier 3,0.75,37.7531,-106.1086,a5fb8f25-6bb8-4d34-a461-22138e1fe56e,,,,,,,,,,,,,,,,,
-001cv00000bBWKr,Town of Hayden,Colorado,Municipality,Asher Rosenfeld,1920,,Tier 3,0.75,40.4894,-107.2637,25ea63a4-e306-490f-8b7c-e2f7570d12c0,,,,,,,,,,,,,,,,,
-001cv00000bBWOi,Town of Columbine Valley,Colorado,Municipality,Asher Rosenfeld,1683,,Tier 3,0.75,39.6011,-105.0322,267f107e-05cf-440a-bc00-1ff68eb92130,,,,,,,,,,,,,,,,,
-001cv00000bBWP2,City of Idaho Springs,Colorado,Municipality,Ryan Minter,1699,,Tier 3,0.75,39.7425,-105.5136,8239f437-22ed-4553-9c3a-932aa7110ba5,,,,,,,,,,,,,,,,,
-001cv00000bBWPH,Cheyenne County,Colorado,County,Asher Rosenfeld,1712,,Tier 3,0.75,38.8003,-102.6216,81d5f70a-2a96-46ec-aaec-940b6ce01098,,,,,,,,,,,,,,,,,
-001cv00000bBWR1,Town of Keenesburg,Colorado,Municipality,Asher Rosenfeld,2054,,Tier 3,0.75,40.1083,-104.52,1eb85bb9-3525-42e7-a46c-771373508f79,,,,,,,,,,,,,,,,,
-001cv00000bBWSQ,City of Arvada,Colorado,Municipality,Asher Rosenfeld,121873,,Tier S,2.0,39.8028,-105.0875,8097cedd-28ba-4d53-9471-1191b4c4a6ca,,,,,,,,,,,,,,,,,
-001cv00000bBWTY,City of Lakewood,Colorado,Municipality,Asher Rosenfeld,156868,,Tier S,2.0,39.7047,-105.0814,42bc9a0f-8255-4e1a-9281-e460d00740ff,,,,,,,,,,,,,,,,,
-001cv00000bBWTl,City of Fort Collins,Colorado,Municipality,Asher Rosenfeld,170924,,Tier S,2.0,40.5853,-105.0844,75d80592-6489-473b-a919-bbd52dd70086,,,,,,,,,,,,,,,,,
-001cv00000bBWXv,Adams County,Colorado,County,Asher Rosenfeld,542973,,Tier S,2.0,39.8398,-104.1931,ee530430-2cab-4101-89fd-9569d5f115ee,,,,,,,,,,,,,,,,,
-001cv00000bBWYJ,Arapahoe County,Colorado,County,Asher Rosenfeld,666918,,Tier S,2.0,39.6203,-104.3326,7d7c71cd-73c4-4d2a-a5fa-11de8b93da55,,,,,,,,,,,,,,,,,
-001cv00000bBWYZ,El Paso County,Colorado,County,Asher Rosenfeld,752772,,Tier S,2.0,38.83,-104.52,16da4bbc-f6e4-4819-83f0-723e50e18da2,,,,,,,,,,,,,,,,,
-001cv00000bBWt9,Town of Parachute,Colorado,Municipality,Asher Rosenfeld,1362,,Tier 3,0.75,39.4519,-108.0529,8859f3bc-7fa0-44b2-88c5-d4616cd82388,,,,,,,,,,,,,,,,,
-001cv00000bBWuN,Town of Paonia,Colorado,Municipality,Asher Rosenfeld,1464,,Tier 3,0.75,38.8683,-107.592,d75a963b-4d74-4242-9f44-9ae073d9618c,,,,,,,,,,,,,,,,,
-001cv00000bBWud,Town of Nederland,Colorado,Municipality,Asher Rosenfeld,1487,,Tier 3,0.75,39.9614,-105.5108,3735393e-03f1-45c6-86b8-9b99f86bc17f,,,,,,,,,,,,,,,,,
-001cv00000bBX0P,Boulder County,Colorado,County,Asher Rosenfeld,330262,,Tier S,2.0,40.1512,-105.5005,479428af-4fd4-4eb2-b361-824bed645194,,,,,,,,,,,,,,,,,
-001cv00000bBX0j,Weld County,Colorado,County,Asher Rosenfeld,369745,,Tier S,2.0,40.5266,-104.4723,cb3ea9e3-9ea4-401d-99e7-fcac25fa1aa5,,,,,,,,,,,,,,,,,
-001cv00000bBX0m,Larimer County,Colorado,County,Asher Rosenfeld,374574,,Tier S,2.0,40.6956,-105.5943,1f07c1eb-fd53-4401-841d-9d37255b3005,,,,,,,,,,,,,,,,,
-001cv00000bBX1M,City of Colorado Springs,Colorado,Municipality,Asher Rosenfeld,493554,,Tier S,2.0,38.8353,-104.8216,f910d63f-c656-443d-8690-29ff25fc7985,,,,,,,,,,,,,,,,,
-001cv00000bnj3f,"City of Boulder, CO",Colorado,Municipality,Catherine Silvestri,108250,Nurture,Tier S,2.0,40.019,-105.2747,,Closed Lost,,,Catherine Silvestri,4/6/2026,3/26/2026,,,21,2026-03-27,,21,,,,,
-001cv00000hzunj,"County of Douglas, CO",Colorado,County,Ryan Minter,357978,,Tier S,2.0,39.0598,-105.3111,,,,,,,,,,4,2026-04-23,,,,,4,,
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Jenny Allison,Calls - Catherine Silvestri,Calls - Leila Assil,Calls - Nick Martino,Calls - Ryan Minter,Calls - Alicia Gopal,Calls - Joe del Rosario,Outreach ID
+001Hr000028ZbmD,"Town Of Windsor, CO",Colorado,Municipality,Catherine Silvestri,35788,Open Opportunity,Tier 1,1.5,40.4775,-104.9014,dc69ec96-dd5d-4e27-b5d3-4dfc0ebd944a,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,5/19/2026,4/20/2026,,,37,2026-05-18,30,7,,,,,,724
+001Hr000028Zbmr,"City Of Federal Heights, CO",Colorado,Municipality,Catherine Silvestri,14194,Nurture,Tier 2,1.0,39.8599,-105.0161,ac6a0659-4fca-421c-a218-1f1a8bbd1af2,Closed Lost,,,Troy LeCaire,,1/5/2025,,,20,2026-04-24,8,12,,,,,,816
+001Hr000028Zbn5,"City Of Castle Pines, CO",Colorado,Municipality,Catherine Silvestri,12298,,Tier 2,1.0,39.4716,-104.8948,6eca523c-54e8-472d-a841-5fbbe495d636,,,,,,,,,24,2026-04-08,22,2,,,,,,725
+001Hr000028Zboc,"Town Of Milliken, CO",Colorado,Municipality,Catherine Silvestri,8696,,Tier 3,0.75,40.3294,-104.8552,9e19ab0c-a3cb-49b1-8c05-7ade672e1e52,,,,,,,,,24,2025-12-12,24,,,,,,,885
+001Hr000028Zbog,"City Of Fort Lupton, CO",Colorado,Municipality,Catherine Silvestri,8260,Open Opportunity,Tier 3,0.75,40.0847,-104.813,eae9c0a9-9b37-4ba5-9c14-ceef61107e47,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,3/11/2026,3/3/2026,,,19,2026-03-31,13,6,,,,,,697
+001Hr000028Zbp5,"Town Of Monument, CO",Colorado,Municipality,Catherine Silvestri,10859,,Tier 2,1.0,39.0917,-104.8728,1b776fee-675e-4181-9555-0d35bd385abb,,,,,,,,,18,2026-05-11,13,5,,,,,,696
+001Hr000028ZbpF,"Town Of Berthoud, CO",Colorado,Municipality,Catherine Silvestri,11717,,Tier 2,1.0,40.3083,-105.0811,f053f1ad-d857-46b9-a044-8cdfcd6be25c,,,,,,,,,22,2025-12-10,22,,,,,,,699
+001Hr000028Zbpe,"City Of Steamboat Springs, CO",Colorado,Municipality,Catherine Silvestri,13390,,Tier 2,1.0,40.485,-106.8317,a97767c2-034b-4e88-bfe7-a66c627b227e,,,,,,,,,28,2026-05-05,,28,,,,,,705
+001Hr000028Zbqh,"City Of Fruita, CO",Colorado,Municipality,Catherine Silvestri,13508,,Tier 2,1.0,39.1589,-108.729,7f1d5ed7-2edd-4000-9253-c9c9d178f704,,,,,,,,,30,2026-05-13,23,7,,,,,,721
+001Hr000028Zbqr,"Town Of Lochbuie, CO",Colorado,Municipality,Catherine Silvestri,8135,Open Opportunity,Tier 3,0.75,40.0072,-104.7161,d6efe90d-2565-4638-a5f9-8f3b2de95544,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,5/4/2026,,,19,2026-05-04,10,4,5,,,,,723
+001Hr000028ZbrI,"City Of Evans, CO",Colorado,Municipality,Catherine Silvestri,22296,,Tier 2,1.0,40.3764,-104.6922,477bd044-b4cf-42b8-8418-81f94dddccf5,,,,,,,,,9,2025-09-22,9,,,,,,,890
+001Hr000028ZbrR,"City Of Glendale, CO",Colorado,Municipality,Catherine Silvestri,4552,Nurture,Tier 3,0.75,39.705,-104.9336,58555cd9-5593-431f-b5e2-c81a715f336c,Closed Lost,,,Jenny Allison,10/2/2025,9/29/2025,"$18,000",,5,2025-09-29,5,,,,,,,1053
+001Hr000028ZbrV,"Town Of Erie, CO",Colorado,Municipality,Catherine Silvestri,31686,Nurture,Tier 1,1.5,40.0503,-105.05,57d152a9-7986-4c29-b202-b2cda47bdf6e,Closed Lost,,,Jenny Allison,9/23/2025,4/16/2025,,,8,2025-09-17,8,,,,,,,747
+001Hr000028Zbra,"City Of Louisville, CO",Colorado,Municipality,Catherine Silvestri,20975,,Tier 2,1.0,39.9778,-105.1319,575076e1-6589-46d2-a9b0-e4e9edff70ef,,,,,,,,,6,2026-04-03,,5,1,,,,,746
+001Hr000028ZbsJ,"City Of Littleton, CO",Colorado,Municipality,Catherine Silvestri,45191,Open Opportunity,Tier 1,1.5,39.6133,-105.0166,23f2cc0c-785b-4572-802c-6ac0b89408ac,Open,Demo,Mid Funnel,Jenny Allison,9/24/2025,9/16/2025,,Yes,2,2025-09-16,2,,,,,,,759
+001Hr000028ZbtC,"City Of Englewood, CO",Colorado,Municipality,Catherine Silvestri,33516,,Tier 1,1.5,39.6478,-104.9878,7f14fcf8-c265-47f8-a79e-6785373e7c03,,,,,,,,,14,2026-05-06,7,7,,,,,,771
+001Hr000028ZbtH,"City Of Fountain, CO",Colorado,Municipality,Catherine Silvestri,29677,,Tier 1,1.5,38.6822,-104.7008,41c75254-1988-46da-b481-0b2672754b00,,,,,,,,,28,2025-11-25,28,,,,,,,770
+001Hr000028ZbtW,"City Of Trinidad, CO",Colorado,Municipality,Catherine Silvestri,8335,Nurture,Tier 3,0.75,37.1695,-104.5005,f62df910-fee0-4b5f-b298-d2c4a1b09db6,Closed Lost,,,Jenny Allison,9/17/2025,9/11/2025,,,10,2026-05-13,5,5,,,,,,776
+001Hr000028ZbtX,"City Of Aspen, CO",Colorado,Municipality,Catherine Silvestri,6949,Nurture,Tier 3,0.75,39.1911,-106.8175,64d1633a-e63b-409f-8439-ea3f91ebec31,Closed Lost,,,Catherine Silvestri,3/16/2026,3/10/2026,,,11,2026-03-10,1,7,3,,,,,803
+001Hr000028Zbth,"Town Of Johnstown, CO",Colorado,Municipality,Catherine Silvestri,18204,Open Opportunity,Tier 2,1.0,40.3369,-104.9122,501940bc-b797-4ea8-9f32-c07215e8e546,Open,Sales Qualified,Mid Funnel,Catherine Silvestri,5/6/2026,4/13/2026,,Yes,6,2026-05-08,4,2,,,,,,892
+001Hr000028ZbuA,"City Of Fort Morgan, CO",Colorado,Municipality,Catherine Silvestri,11439,Open Opportunity,Tier 2,1.0,40.2503,-103.8,b9614ede-9dcb-4679-b8e1-26bb4459ac96,Open,Proposal,Mid Funnel,Jenny Allison,9/25/2025,9/12/2025,"$20,000",Yes,6,2026-01-14,2,,,,,4,,787
+001Hr000028Zbv4,"City Of Rifle, CO",Colorado,Municipality,Catherine Silvestri,10518,Nurture,Tier 2,1.0,39.5297,-107.7832,eb1860d9-0d71-4bc6-8d9c-2082fc36e85b,Closed Lost,,,Leila Assil,9/25/2024,1/5/2025,,,10,2026-04-17,4,6,,,,,,893
+001Hr000028ZbvI,"City Of Brighton, CO",Colorado,Municipality,Catherine Silvestri,40693,Open Opportunity,Tier 1,1.5,39.9853,-104.8205,b981405e-20a2-4ae2-a8a1-9e107cbe245f,Open,Initial Interest,Top of Funnel,Catherine Silvestri,4/24/2026,4/9/2026,,,9,2026-05-15,5,,,,4,,,818
+001Hr000028ZbvK,"City Of Sheridan, CO",Colorado,Municipality,Catherine Silvestri,6035,Nurture,Tier 3,0.75,39.6469,-105.0253,3e1ecaef-b6e9-40ab-91a4-b50feb53e2a6,Closed Lost,,,Jenny Allison,9/18/2025,9/11/2025,,,7,2025-09-18,7,,,,,,,1052
+001Hr000028ZbvS,"Town Of Superior, CO",Colorado,Municipality,Catherine Silvestri,13271,,Tier 2,1.0,39.9528,-105.1686,2407b74b-9896-4dcd-b822-9e54ab65add1,,,,,,,,,2,2025-09-11,2,,,,,,,817
+001Hr000028ZbvX,"Town Of Firestone, CO",Colorado,Municipality,Catherine Silvestri,17299,,Tier 2,1.0,40.1125,-104.9366,7a71ec87-7509-4b7d-bd0e-ba27b023e278,,,,,,,,,38,2025-11-12,38,,,,,,,820
+001Hr000028Zbvc,"City Of Lafayette, CO",Colorado,Municipality,Catherine Silvestri,31002,,Tier 1,1.5,39.9936,-105.0897,68fdb15c-6684-419e-8f55-a5a82d3004fa,,,,,,,,,18,2025-11-19,18,,,,,,,819
+001Hr000028ZbwM,"Town Of Wellington, CO",Colorado,Municipality,Catherine Silvestri,11722,,Tier 2,1.0,40.7039,-105.0086,94ac00f4-e92b-413f-8859-1f80cd5ed0c0,,,,,,,,,17,2026-05-12,11,6,,,,,,913
+001Hr000028Zbwa,"City Of Lamar, CO",Colorado,Municipality,Catherine Silvestri,7656,,Tier 3,0.75,38.0872,-102.6208,70ac27ae-9447-4128-bf7f-59809f8d20f5,,,,,,,,,11,2025-11-05,11,,,,,,,840
+001Hr000028Zbwk,"City Of La Junta, CO",Colorado,Municipality,Catherine Silvestri,7298,,Tier 3,0.75,37.985,-103.5438,55a1d5f9-3401-49d8-b2e3-ee64c0890fba,,,,,,,,,14,2025-11-19,14,,,,,,,841
+001Hr000028Zbwp,"City Of Alamosa, CO",Colorado,Municipality,Catherine Silvestri,9814,Open Opportunity,Tier 3,0.75,37.4694,-105.87,7f0059af-49ee-4793-b22e-2f6b751f23c8,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,5/21/2026,5/6/2026,,,15,2025-09-18,,,15,,,,,842
+001Hr000028Zbwu,"City Of Woodland Park, CO",Colorado,Municipality,Catherine Silvestri,7983,,Tier 3,0.75,38.9939,-105.0569,83e849ed-39e3-45ea-af3f-d00e04d69ae9,,,,,,,,,24,2025-10-24,24,,,,,,,843
+001Hr000028Zbx4,"Town Of Frederick, CO",Colorado,Municipality,Catherine Silvestri,17937,Recent Competitor Purchase,Tier 2,1.0,40.0992,-104.9372,6a5f57e8-385c-4849-9802-6feffe27f6f5,Closed Lost,,,Jenny Allison,10/1/2025,9/17/2025,,,2,2025-09-17,2,,,,,,,844
+001Hr000028ZbxU,"City Of Montrose, CO",Colorado,Municipality,Catherine Silvestri,20648,Recent Competitor Purchase,Tier 2,1.0,38.4783,-107.8762,71848c73-1e58-4dd1-b350-34f69cd2623e,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,11,2026-01-29,1,,2,,8,,,884
+001Hr000028ZbyK,"City Of Dacono, CO",Colorado,Municipality,Catherine Silvestri,6487,,Tier 3,0.75,40.0847,-104.9394,2fda804a-557e-461e-88dc-81ee6ef518b1,,,,,,,,,11,2025-09-25,11,,,,,,,1054
+001Hr000028Zbyv,"Town Of Eagle, CO",Colorado,Municipality,Catherine Silvestri,7538,Open Opportunity,Tier 3,0.75,39.6542,-106.8266,651ed99d-bb5c-4a93-8153-2b266c97c758,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,10,2026-03-02,,4,3,,3,,,886
+001Hr000028Zbz0,"City Of Durango, CO",Colorado,Municipality,Catherine Silvestri,19223,,Tier 2,1.0,37.274,-107.8792,be09f546-c781-4a6a-b06c-ae3e6ca291df,,,,,,,,,14,2025-11-25,14,,,,,,,887
+001Hr000028Zbz5,"City Of Glenwood Springs, CO",Colorado,Municipality,Catherine Silvestri,10326,Open Opportunity,Tier 2,1.0,39.5505,-107.3248,8976660b-1332-424f-8afc-43be84078b84,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,6/10/2026,4/2/2026,,,9,2026-04-02,,2,7,,,,,888
+001Hr000028ZbzA,"City Of Cortez, CO",Colorado,Municipality,Catherine Silvestri,8855,,Tier 3,0.75,37.3489,-108.5859,adc04826-c749-415f-a0dc-eaa380cdd55c,,,,,,,,,23,2025-11-12,22,,1,,,,,891
+001Hr000028ZbzF,"City Of Craig, CO",Colorado,Municipality,Catherine Silvestri,8969,,Tier 3,0.75,40.5152,-107.5465,fb962074-8391-440e-934a-71efb2f5aa67,,,,,,,,,6,2026-02-02,2,,4,,,,,894
+001Hr000028ZbzK,"City Of Sterling, CO",Colorado,Municipality,Catherine Silvestri,13739,,Tier 2,1.0,40.6255,-103.2077,3226ea46-7eb1-477a-83c3-99f0c890c561,,,,,,,,,10,2026-05-15,1,9,,,,,,889
+001Hr000028ZbzU,"City Of Delta, CO",Colorado,Municipality,Catherine Silvestri,9224,,Tier 3,0.75,38.7422,-108.069,8350f95b-341f-40b3-bb01-4b9d0116446b,,,,,,,,,21,2026-04-23,19,2,,,,,,895
+001Hr000028Zbzj,"City Of Wheat Ridge, CO",Colorado,Municipality,Catherine Silvestri,32722,,Tier 1,1.5,39.7661,-105.0772,1e4522d8-4017-42ea-82ca-35acf6afd0a4,,,,,,,,,4,2025-07-17,,,4,,,,,906
+001Hr000028Zbzo,"City Of Greenwood Village, CO",Colorado,Municipality,Catherine Silvestri,15495,Nurture,Tier 2,1.0,39.6172,-104.9508,73b78e65-6963-4fd6-92ac-3728e4a3b252,Closed Lost,,,Troy LeCaire,,1/5/2025,,,14,2026-03-09,12,2,,,,,,908
+001Hr000028Zc03,"City Of Northglenn, CO",Colorado,Municipality,Catherine Silvestri,37333,,Tier 1,1.5,39.8962,-104.9811,24a7f5f7-e7f0-47d8-b2d2-c44c86798038,,,,,,,,,9,2026-04-09,2,3,4,,,,,912
+001Hr000028Zc0D,"Town Of Gypsum, CO",Colorado,Municipality,Catherine Silvestri,8529,Open Opportunity,Tier 3,0.75,39.6447,-106.9491,f47d02e7-1e8f-40b1-bf71-48f8c379cba5,Open,Initial Interest,Top of Funnel,Leila Assil,,3/3/2026,,,10,2026-05-04,7,3,,,,,,918
+001Hr000028Zc0i,"City Of Cherry Hills Village, CO",Colorado,Municipality,Catherine Silvestri,6353,Nurture,Tier 3,0.75,39.6417,-104.9594,cc13916d-b067-4ed9-85c2-4a9983323cce,Closed Lost,,,Leila Assil,9/30/2024,1/5/2025,"$25,000",,2,2026-02-02,2,,,,,,,1051
+001Hr000028ZcHA,"Town Of Avon, CO",Colorado,Municipality,Catherine Silvestri,6058,,Tier 3,0.75,39.6351,-106.5221,2167a128-8922-4c9b-8995-adf825ed1760,,,,,,,,,5,2025-10-13,5,,,,,,,2525
+001Hr000028ZcJp,"City Of Edgewater, CO",Colorado,Municipality,Catherine Silvestri,4951,Nurture,Tier 3,0.75,39.753,-105.0641,5f9c25ef-f326-4976-b16d-627f209612a5,Closed Lost,,,Catherine Silvestri,3/16/2026,3/9/2026,,,30,2026-03-09,,1,29,,,,,1956
+001Hr000028ZcKk,"City Of Salida, CO",Colorado,Municipality,Catherine Silvestri,5812,,Tier 3,0.75,38.5347,-105.9989,7f096088-d878-40bf-ad0b-86bcf8b2e824,,,,,,,,,10,2026-04-10,,4,6,,,,,1954
+001Hr000028ZcN1,"City Of Brush, CO",Colorado,Municipality,Catherine Silvestri,5296,,Tier 3,0.75,40.2589,-103.6238,226b3f63-6e6c-4f68-88f2-c45ae68554da,,,,,,,,,7,2025-12-12,4,,3,,,,,2526
+001Hr000028ZcNA,"Summit County, CO",Colorado,County,Catherine Silvestri,30882,Open Opportunity,Tier 1,1.5,39.5912,-106.064,53600333-2725-4aac-b2c3-4ee0ee0d242d,Open,Initial Interest,Top of Funnel,Leila Assil,,3/3/2026,,,51,2026-03-19,19,12,20,,,,,12026
+001Hr000028ZcQB,"City Of Canon, CO",Colorado,Municipality,Catherine Silvestri,17363,,Tier 2,1.0,38.4494,-105.2253,0f1d12cb-7807-4b6b-9d23-178418291e4c,,,,,,,,,18,2026-04-23,,10,8,,,,,1953
+001Hr000028ZcQL,"City Of Manitou Springs, CO",Colorado,Municipality,Catherine Silvestri,4832,,Tier 3,0.75,38.8576,-104.9128,ad834653-f86e-41b0-8b3a-75e4e713ff30,,,,,,,,,10,2026-04-22,4,6,,,,,,1955
+001Hr000028ZcRt,"Town Of Breckenridge, CO",Colorado,Municipality,Catherine Silvestri,5024,,Tier 3,0.75,39.4817,-106.0384,92a6bd35-0959-4ebf-bb86-a9be98612b86,,,,,,,,,28,2026-04-20,12,12,4,,,,,2519
+001Hr000028ZcWP,"Town Of Vail, CO",Colorado,Municipality,Catherine Silvestri,4735,Open Opportunity,Tier 3,0.75,39.6433,-106.3781,b49b8ba9-06c1-4d70-819f-eadce6ea5dec,Open,Initial Interest,Top of Funnel,Harrison Peacock,,6/3/2025,,,5,2025-10-10,5,,,,,,,2521
+001Hr000028ZcZc,"City Of Gunnison, CO",Colorado,Municipality,Catherine Silvestri,6695,Open Opportunity,Tier 3,0.75,38.5458,-106.9253,f904e17c-6f06-4694-98d4-f5db0bd5b206,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,4/30/2026,,Yes,30,2026-04-30,28,2,,,,,,2524
+001Hr000028ZcZm,"Town Of Eaton, CO",Colorado,Municipality,Catherine Silvestri,5868,,Tier 3,0.75,40.5194,-104.7025,f6804495-48d7-466f-8a61-442a81c7b12e,,,,,,,,,11,2025-10-14,11,,,,,,,2520
+001Hr000028ZcZr,"Town Of Estes Park, CO",Colorado,Municipality,Catherine Silvestri,5880,,Tier 3,0.75,40.3772,-105.5217,533b8803-4aa7-4eaa-a16e-e7e363fead55,,,,,,,,,29,2026-04-22,16,13,,,,,,2523
+001Hr000028ZcZw,"Town Of Carbondale, CO",Colorado,Municipality,Catherine Silvestri,6491,Open Opportunity,Tier 3,0.75,39.4022,-107.2112,bb5bcac5-6a0f-473c-959d-54041ce0e1a1,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,6/15/2026,5/5/2026,,,3,2026-04-08,2,1,,,,,,2522
+001Hr000028Zcdc,"County of La Plata, CO",Colorado,County,Catherine Silvestri,56250,,Tier S,2.0,37.2126,-107.7636,0f225190-50f8-4688-b081-897e83112cf7,,,,,,,,,34,2026-05-18,,27,7,,,,,12027
+001Hr000028ZclI,"Town Of Castle Rock, CO",Colorado,Municipality,Catherine Silvestri,76353,Open Opportunity,Tier S,2.0,39.3722,-104.8561,7ba762d2-772c-47a3-acda-9f5f38c72802,Open,Initial Interest,Top of Funnel,Alicia Gopal,3/10/2026,1/7/2026,,,17,2026-02-18,15,,,,,2,,11472
+001Hr000028Zd4J,"County of Garfield, CO",Colorado,County,Catherine Silvestri,62707,Nurture,Tier S,2.0,39.6585,-107.7636,2d2e9316-e20c-42c8-ae9e-22ff97884d12,Closed Lost,,,Leila Assil,6/13/2025,5/14/2025,"$60,000",,6,2026-05-04,,1,5,,,,,12022
+001Hr000028ZdGo,"City Of Loveland, CO",Colorado,Municipality,Catherine Silvestri,77194,,Tier S,2.0,40.3955,-105.0746,b51a0cd2-1bc3-4362-a0b9-6dd3a6f9f9f4,,,,,,,,,9,2025-09-23,9,,,,,,,11470
+001Hr000028ZdHS,"Fremont County, CO",Colorado,County,Catherine Silvestri,50318,Open Opportunity,Tier S,2.0,38.5307,-105.5005,d0bb9672-f741-4572-af13-a988eca6b4d3,Open,Initial Interest,Top of Funnel,Leila Assil,,6/23/2025,,,17,2025-11-25,4,,13,,,,,12031
+001Hr000028ZdSR,"Broomfield County, CO",Colorado,County,Catherine Silvestri,,,Tier 3,0.75,39.9205,-105.0867,c2bed48f-7a35-4e0d-b5be-3c5343f50a6d,,,,,,,,,8,2025-07-03,,,8,,,,,12030
+001Hr000028ZdU8,"Mesa County, CO",Colorado,County,Catherine Silvestri,161260,,Tier S,2.0,38.9585,-108.6176,e665357b-a232-42ab-adcf-8a6557635f7d,,,,,,,,,18,2026-01-20,,,10,,8,,,12144
+001Hr000028ZdWH,"City of Longmont, CO",Colorado,Municipality,Catherine Silvestri,98630,,Tier S,2.0,40.1672,-105.1019,20fe5e00-844f-47ba-a73a-f6dabbf77c21,,,,,,,,,18,2026-01-14,8,,,,,10,,11469
+001Hr000028Zdc2,"City Of Lone Tree, CO",Colorado,Municipality,Catherine Silvestri,14206,,Tier 2,1.0,39.5363,-104.8855,9d7dc4f0-ce30-496a-af71-746eeadf2a21,,,,,,,,,19,2026-04-07,18,1,,,,,,680
+001Hr000028ZddX,"Town Of Parker, CO",Colorado,Municipality,Catherine Silvestri,60313,Open Opportunity,Tier S,2.0,39.5186,-104.7614,ed7a6831-d457-4e2f-bad3-f2a3d85e7767,Open,Demo,Mid Funnel,Jenny Allison,10/22/2025,10/3/2025,,,14,2026-01-09,14,,,,,,,11512
+001Hr000028Zdes,"City of Broomfield, CO",Colorado,Municipality,Catherine Silvestri,76860,Nurture,Tier S,2.0,39.9205,-105.0867,c2bed48f-7a35-4e0d-b5be-3c5343f50a6d,Closed Lost,,,Leila Assil,1/22/2025,1/5/2025,,,,,,,,,,,,11471
+001Hr000028Zdg9,"Montrose County, CO",Colorado,County,Catherine Silvestri,44806,,Tier 1,1.5,38.4683,-108.1429,f6069ed1-adb0-4268-87ab-5ff58b54642c,,,,,,,,,19,2025-12-12,19,,,,,,,12032
+001Hr000028ZdlR,"Montezuma County, CO",Colorado,County,Catherine Silvestri,26531,,Tier 1,1.5,37.3258,-108.6176,3ccba849-7309-4af5-8f6b-10559d3ce6bb,,,,,,,,,3,2026-04-03,,1,2,,,,,12021
+001Hr000028Zdpq,"Pueblo County, CO",Colorado,County,Catherine Silvestri,169422,,Tier S,2.0,38.2529,-104.4723,f571fa65-b7a9-4cc7-9dec-8143e0742440,,,,,,,,,28,2026-03-19,,2,24,,2,,,12148
+001Hr000028Zdsg,"City Of Golden, CO",Colorado,Municipality,Catherine Silvestri,19871,,Tier 2,1.0,39.7555,-105.2211,a6d722d9-d420-4cda-ae58-7be74f7ebf4d,,,,,,,,,7,2026-04-07,,6,1,,,,,683
+001Hr000028ZdvZ,"Town Of Severance, CO",Colorado,Municipality,Catherine Silvestri,9605,,Tier 3,0.75,40.5241,-104.8511,02a084d6-0d56-495f-9955-6379a454ed31,,,,,,,,,37,2026-05-18,16,17,,,,,4,722
+001Hr000028ZiwO,"Town of Crested Butte, CO",Colorado,Municipality,Catherine Silvestri,1658,Nurture,Tier 3,0.75,38.8697,-106.9878,a371fae9-e8b4-4665-9569-e2f7fc2a3bd7,Closed Lost,,,Troy LeCaire,4/11/2024,1/5/2025,"$15,000",,4,2026-04-06,,4,,,,,,12610
+001Hr000028ZjNP,"Town of Mt. Crested Butte, CO",Colorado,Municipality,Catherine Silvestri,961,1+ Module Live,Tier 3,0.75,38.9122,-106.9624,c3507abe-e2ad-43c2-82c9-0a3a70cca1b6,Closed Won,,,Asher Rosenfeld,,1/5/2025,"$15,000",,,,,,,,,,,12622
+001cv00000AuWNn,"Town Of Elizabeth, CO",Colorado,Municipality,Catherine Silvestri,2004,Nurture,Tier 3,0.75,39.3603,-104.5969,8a1ebadf-d172-458a-b317-ce46a4be685a,Closed Lost,,,Jenny Allison,9/24/2025,9/15/2025,,,4,2025-09-15,4,,,,,,,12944
+001cv00000AuWQC,"Town Of Limon, CO",Colorado,Municipality,Catherine Silvestri,2041,,Tier 3,0.75,39.2639,-103.6922,fade1b15-61ee-437e-9a98-1361544a1abc,,,,,,,,,4,2025-09-29,4,,,,,,,12977
+001cv00000AuWbT,"Town Of Granby, CO",Colorado,Municipality,Catherine Silvestri,2132,,Tier 3,0.75,40.0861,-105.9395,b2d2ea79-7742-4918-8c69-f26024717dc1,,,,,,,,,6,2025-07-31,,,6,,,,,13075
+001cv00000AuWqo,"Town Of Lyons, CO",Colorado,Municipality,Catherine Silvestri,2208,,Tier 3,0.75,40.2247,-105.2714,2922a7a7-ada8-4b21-84ea-80eb05542a9b,,,,,,,,,18,2025-11-19,18,,,,,,,13678
+001cv00000AuX7k,"Town Of Rangely, CO",Colorado,Municipality,Catherine Silvestri,2296,Nurture,Tier 3,0.75,40.0875,-108.8048,4065ab7e-44ce-4631-8727-7a4f0bbd0ab6,Closed Lost,,,Jenny Allison,9/22/2025,9/15/2025,,,2,2025-09-15,2,,,,,,,13767
+001cv00000AuX8U,"City Of Wray, CO",Colorado,Municipality,Catherine Silvestri,2308,,Tier 3,0.75,40.0758,-102.2232,8908cea4-acd8-4162-8b0b-e52c7d4b8b8e,,,,,,,,,9,2025-10-10,9,,,,,,,13820
+001cv00000AuX9P,"City Of Holyoke, CO",Colorado,Municipality,Catherine Silvestri,2332,,Tier 3,0.75,40.5844,-102.3024,274d9333-3328-4d3f-994f-8d85fa7c119b,,,,,,,,,6,2025-11-06,6,,,,,,,13910
+001cv00000AuX9e,"County Of Sedgwick, CO",Colorado,County,Catherine Silvestri,2336,,Tier 3,0.75,40.9364,-102.5255,0973374f-07e5-4897-95ec-b45ed89c4c49,,,,,,,,,8,2025-08-22,,,8,,,,,13905
+001cv00000AuX9f,"Town Of Meeker, CO",Colorado,Municipality,Catherine Silvestri,2336,,Tier 3,0.75,40.0375,-107.9131,7197a33c-969a-4367-832d-5f47c1b1e67a,,,,,,,,,3,2025-09-24,3,,,,,,,13925
+001cv00000AuX9u,"Town Of La Salle, CO",Colorado,Municipality,Catherine Silvestri,2342,,Tier 3,0.75,40.3489,-104.7019,334e6e47-2ab8-4af1-b7d6-8ca54781c0d1,,,,,,,,,3,2025-08-08,,,3,,,,,13856
+001cv00000AuXAT,"Town Of Cedaredge, CO",Colorado,Municipality,Catherine Silvestri,2356,Nurture,Tier 3,0.75,38.9016,-107.9265,d5146443-36e7-46ac-bdad-71981ea3ff35,Closed Lost,,,Jenny Allison,10/14/2025,10/9/2025,,,16,2025-10-21,5,,11,,,,,13961
+001cv00000AuXAj,"Town Of Ault, CO",Colorado,Municipality,Catherine Silvestri,2365,,Tier 3,0.75,40.5825,-104.7319,3ef3595d-6f86-48d3-9784-b7b1495c6e3b,,,,,,,,,4,2025-09-18,4,,,,,,,13986
+001cv00000AuXB1,"City Of Las Animas, CO",Colorado,Municipality,Catherine Silvestri,2373,Open Opportunity,Tier 3,0.75,38.0667,-103.2227,e88c153d-42d3-45ef-8419-91c03d740a0d,Open,Meeting Booked,Top of Funnel,Leila Assil,8/13/2025,8/4/2025,,,8,2026-03-11,,3,5,,,,,13977
+001cv00000AuXVW,"Town Of Palisade, CO",Colorado,Municipality,Catherine Silvestri,2584,Recent Competitor Purchase,Tier 3,0.75,39.1103,-108.3509,fb9a87ff-999b-4657-8c09-caf56fcc18ca,Closed Lost,,,Jenny Allison,9/19/2025,9/12/2025,"$19,000",,2,2025-10-01,2,,,,,,,14255
+001cv00000AuXVs,"Town Of Telluride, CO",Colorado,Municipality,Catherine Silvestri,2595,,Tier 3,0.75,37.9375,-107.8123,202582da-ab04-4954-b417-9d7f0b185d36,,,,,,,,,16,2026-03-31,11,5,,,,,,14405
+001cv00000AuXlp,"Town Of Bayfield, CO",Colorado,Municipality,Catherine Silvestri,2887,,Tier 3,0.75,37.2256,-107.5981,1e46083f-285d-48c1-a190-860241db130c,,,,,,,,,14,2025-09-19,14,,,,,,,14830
+001cv00000AuXmB,"Town Of Frisco, CO",Colorado,Municipality,Catherine Silvestri,2903,,Tier 3,0.75,39.5744,-106.0975,4b122ad8-e968-486a-af4c-6fe4ad04848b,,,,,,,,,8,2025-09-25,8,,,,,,,14721
+001cv00000AuXn7,"Town Of Platteville, CO",Colorado,Municipality,Catherine Silvestri,2937,Nurture,Tier 3,0.75,40.215,-104.8227,5560429d-08db-4289-9cb7-2064323e3a03,Closed Lost,,,Jenny Allison,9/19/2025,9/12/2025,,,1,2025-09-12,1,,,,,,,14874
+001cv00000AuYBN,"Town Of Snowmass Village, CO",Colorado,Municipality,Catherine Silvestri,3093,,Tier 3,0.75,39.213,-106.9378,ba743215-8112-4699-94e5-fa3751a70f26,,,,,,,,,7,2025-10-09,7,,,,,,,15152
+001cv00000AuYBX,"City Of Burlington, CO",Colorado,Municipality,Catherine Silvestri,3098,,Tier 3,0.75,39.3061,-102.2694,b65b17e5-7bdc-40c8-96aa-7046f7d62d52,,,,,,,,,2,2025-09-16,2,,,,,,,15200
+001cv00000AuYEM,"Town Of Buena Vista, CO",Colorado,Municipality,Catherine Silvestri,2988,Implementation,Tier 3,0.75,38.8422,-106.1311,5b3993f2-f9cf-4442-aa39-422b577bec8a,Closed Won,,,Jenny Allison,12/2/2025,10/9/2025,"$14,000",,12,2025-12-01,12,,,,,,,15317
+001cv00000AuYGr,"City Of Walsenburg, CO",Colorado,Municipality,Catherine Silvestri,3065,,Tier 3,0.75,37.6227,-104.7804,e4c12620-2c9e-4d92-a72b-900e0a596cf3,,,,,,,,,17,2026-05-13,10,7,,,,,,15057
+001cv00000AuYHX,"Town Of Bennett, CO",Colorado,Municipality,Catherine Silvestri,3295,Nurture,Tier 3,0.75,39.7589,-104.4275,8d9e717e-e510-4596-bdd4-2c9e6ec74efe,Closed Lost,,,Jenny Allison,1/8/2026,10/9/2025,,,13,2026-01-08,13,,,,,,,15676
+001cv00000AuYLp,"City Of Yuma, CO",Colorado,Municipality,Catherine Silvestri,3455,,Tier 3,0.75,40.1222,-102.7252,3ef22507-a2f5-4a5b-b11c-2ccc0bea3953,,,,,,,,,19,2025-11-12,19,,,,,,,15856
+001cv00000AuYND,"County Of Baca, CO",Colorado,County,Catherine Silvestri,3514,,Tier 3,0.75,37.3947,-102.5298,2c27df48-c0ff-4d82-ada6-db3eca957531,,,,,,,,,2,2025-09-22,2,,,,,,,15384
+001cv00000AuYOA,"Town Of Orchard City, CO",Colorado,Municipality,Catherine Silvestri,3199,,Tier 3,0.75,38.8391,-107.9649,765147ac-57f8-4dbd-b5c4-a91c0244f243,,,,,,,,,3,2025-10-14,3,,,,,,,15412
+001cv00000AuYRl,"Town Of Silt, CO",Colorado,Municipality,Catherine Silvestri,3569,Nurture,Tier 3,0.75,39.5486,-107.6562,965ab19c-ff38-417a-9efa-776eac56b5ea,Closed Lost,,,Jenny Allison,9/29/2025,9/22/2025,,,2,2025-09-22,2,,,,,,,15592
+001cv00000AuYSs,"County Of Costilla, CO",Colorado,County,Catherine Silvestri,3625,Nurture,Tier 3,0.75,37.205,-105.5005,3103341b-dc32-4be0-90ab-88a21cc7ff24,Closed Lost,,,Jenny Allison,10/27/2025,10/21/2025,"$22,000",,9,2025-10-21,9,,,,,,,15935
+001cv00000AuYgl,"City Of Rocky Ford, CO",Colorado,Municipality,Catherine Silvestri,3854,,Tier 3,0.75,38.0525,-103.7202,f44b3efd-d907-488c-9dfa-a1b948cb2a94,,,,,,,,,13,2025-11-19,13,,,,,,,16126
+001cv00000AuYhs,"City Of Florence, CO",Colorado,Municipality,Catherine Silvestri,3909,Recent Competitor Purchase,Tier 3,0.75,38.3903,-105.1186,d48507b6-1b19-4c29-abfb-c4d14103d749,Closed Lost,,,Catherine Silvestri,3/12/2026,3/10/2026,,,24,2026-03-12,22,2,,,,,,16228
+001cv00000AuYn3,"Town Of Basalt, CO",Colorado,Municipality,Catherine Silvestri,4071,,Tier 3,0.75,39.3725,-107.0785,fc8c6f9e-4283-4446-a8ee-a8215524fd90,,,,,,,,,7,2025-09-23,7,,,,,,,16630
+001cv00000AuYpM,"City Of Monte Vista, CO",Colorado,Municipality,Catherine Silvestri,4194,,Tier 3,0.75,37.5792,-106.1481,9aa8fb4a-92df-4407-802b-f9ff831facfd,,,,,,,,,10,2025-11-19,10,,,,,,,16827
+001cv00000AuYzK,"County Of Phillips, CO",Colorado,County,Catherine Silvestri,4512,,Tier 3,0.75,40.5371,-102.3464,73f71dd1-b1c3-42cb-bc13-c1800edcc29d,,,,,,,,,1,2025-09-23,1,,,,,,,20115
+001cv00000AuZ7l,"Town Of Mead, CO",Colorado,Municipality,Catherine Silvestri,6735,Open Opportunity,Tier 3,0.75,40.2333,-104.9986,e3557cd4-a9a5-428f-ae89-c1af02a1aba4,Open,Sales Qualified,Mid Funnel,Jenny Allison,2/23/2026,1/12/2026,,,18,2026-05-12,18,,,,,,,16999
+001cv00000AuZAb,"County Of Gilpin, CO",Colorado,County,Catherine Silvestri,5873,,Tier 3,0.75,39.877,-105.4537,4e45b563-8991-4d50-9be9-7598244fb7c8,,,,,,,,,4,2025-10-02,4,,,,,,,17093
+001cv00000AuZB4,"County Of Crowley, CO",Colorado,County,Catherine Silvestri,6012,,Tier 3,0.75,38.1931,-103.8561,b43d9d28-ad50-4e8d-978e-e33486623e6f,,,,,,,,,14,2025-11-10,14,,,,,,,17230
+001cv00000AuZBx,"County Of Saguache, CO",Colorado,County,Catherine Silvestri,6471,,Tier 3,0.75,38.0875,-106.142,7f3de7d5-ce1e-4e79-aa44-0392b213300c,,,,,,,,,6,2025-09-26,6,,,,,,,17058
+001cv00000AuZBz,"County Of Rio Blanco, CO",Colorado,County,Catherine Silvestri,6476,Nurture,Tier 3,0.75,39.9814,-108.2378,3e0ad4b4-a106-462e-96af-ca22be09363c,Closed Lost,,,Jenny Allison,10/1/2025,9/26/2025,,,8,2025-09-26,8,,,,,,,17144
+001cv00000AuZCu,"County Of Huerfano, CO",Colorado,County,Catherine Silvestri,6920,Open Opportunity,Tier 3,0.75,37.6126,-104.9389,0edb9d62-2093-40f0-8dc8-77e226c99d6a,Open,Initial Interest,Top of Funnel,Jenny Allison,9/16/2025,9/12/2025,,,3,2025-10-21,3,,,,,,,17184
+001cv00000AuZCw,"County Of Kit Carson, CO",Colorado,County,Catherine Silvestri,6950,,Tier 3,0.75,39.3845,-102.5298,29cb4f09-3d39-4909-aa8b-0daea9a84d09,,,,,,,,,5,2025-10-02,5,,,,,,,17200
+001cv00000AuZKB,"County Of Lincoln, CO",Colorado,County,Catherine Silvestri,5688,,Tier 3,0.75,39.0458,-103.3587,e2bb8a0d-db63-4d35-9cb2-91b925536c7d,,,,,,,,,9,2025-11-07,9,,,,,,,17250
+001cv00000AuZKT,"County Of Bent, CO",Colorado,County,Catherine Silvestri,5759,,Tier 3,0.75,38.0036,-103.0818,9b3c5595-948c-483d-a768-5590f3ca6b74,,,,,,,,,3,2025-09-16,3,,,,,,,17362
+001cv00000AuZMo,"County Of Washington, CO",Colorado,County,Catherine Silvestri,4861,Nurture,Tier 3,0.75,40.0637,-102.9896,575b164b-88c7-4fc5-aeec-57b369d8ff7a,Closed Lost,,,Jenny Allison,11/18/2025,9/23/2025,,,5,2026-02-18,5,,,,,,,17419
+001cv00000AuZND,"Town Of New Castle, CO",Colorado,Municipality,Catherine Silvestri,4892,,Tier 3,0.75,39.5728,-107.5364,136be72b-d4af-4ff5-8685-a844e34c4895,,,,,,,,,1,2025-09-23,1,,,,,,,17405
+001cv00000AuZR3,"County Of Lake, CO",Colorado,County,Catherine Silvestri,7407,Open Opportunity,Tier 3,0.75,39.1941,-106.2993,489254bd-8996-47c1-8c0c-77d5671362cd,Open,Initial Interest,Top of Funnel,Alicia Gopal,1/27/2026,1/15/2026,,Yes,8,2026-01-15,,,,,,8,,17572
+001cv00000AuZRb,"County Of Conejos, CO",Colorado,County,Catherine Silvestri,7612,Nurture,Tier 3,0.75,37.0883,-106.0197,b1613b1d-7a78-4425-8fff-7919e4c7b4cb,Closed Lost,,,Jenny Allison,10/7/2025,9/29/2025,,,9,2026-04-14,8,1,,,,,,17688
+001cv00000AuZSZ,"County Of Ouray, CO",Colorado,County,Catherine Silvestri,5035,Open Opportunity,Tier 3,0.75,38.2016,-107.7636,24069c37-c25f-470a-bb1f-50033912ab4e,,,,,,,,,2,2025-09-24,2,,,,,,,17601
+001cv00000AuZSh,"County Of Custer, CO",Colorado,County,Catherine Silvestri,5045,,Tier 3,0.75,38.0616,-105.3131,cd4d9be1-7c42-4210-bda9-b517e4dd972f,,,,,,,,,3,2025-09-16,3,,,,,,,17401
+001cv00000AuZVJ,"Town Of Timnath, CO",Colorado,Municipality,Catherine Silvestri,7839,Nurture,Tier 3,0.75,40.5291,-104.9853,7dd54487-872e-4fae-a337-1d9da6b5e6c2,Closed Lost,,,Jenny Allison,10/27/2025,10/22/2025,,,25,2025-10-22,25,,,,,,,17681
+001cv00000AuZVf,"County Of San Miguel, CO",Colorado,County,Catherine Silvestri,8074,,Tier 3,0.75,37.9781,-108.1429,615ade88-01b7-44a5-9374-8c568d36b847,,,,,,,,,13,2026-05-04,5,8,,,,,,17649
+001cv00000AuZZl,"County Of Clear Creek, CO",Colorado,County,Catherine Silvestri,9446,,Tier 3,0.75,39.6904,-105.6413,58c56916-84bd-44a1-a946-392a401ccd70,,,,,,,,,12,2026-05-15,,9,3,,,,,18314
+001cv00000AuZaa,"County Of Rio Grande, CO",Colorado,County,Catherine Silvestri,11408,,Tier 2,1.0,37.575,-106.4406,bf41ea3a-6ad2-48bb-9c32-907210d7b90a,,,,,,,,,6,2025-10-03,6,,,,,,,18408
+001cv00000AuZbH,"County Of Prowers, CO",Colorado,County,Catherine Silvestri,11996,Nurture,Tier 2,1.0,37.8434,-102.2548,57a7e2aa-6870-422d-a4a0-b6e3309474a3,Closed Lost,,,Jenny Allison,1/21/2026,9/23/2025,,,7,2026-02-03,7,,,,,,,18366
+001cv00000AuZg0,"County Of Moffat, CO",Colorado,County,Catherine Silvestri,13185,,Tier 2,1.0,40.6138,-108.2378,80b85ebb-50d1-4c3d-855c-c98e1bf74ed3,,,,,,,,,2,2025-09-18,2,,,,,,,18192
+001cv00000AuZhC,"County Of Las Animas, CO",Colorado,County,Catherine Silvestri,14633,,Tier 2,1.0,37.2995,-104.1001,ed8cf347-86c0-4ffb-bd67-af5bbbab6762,,,,,,,,,5,2026-03-09,4,1,,,,,,18120
+001cv00000AuZkO,"County Of Yuma, CO",Colorado,County,Catherine Silvestri,10048,Recent Competitor Purchase,Tier 2,1.0,40.1222,-102.7252,6ca64fbc-284f-40e7-8343-6b6ef53242ad,Closed Lost,,,Jenny Allison,9/17/2025,9/12/2025,"$11,000",,5,2025-09-17,5,,,,,,,18055
+001cv00000AuZnB,"County Of Archuleta, CO",Colorado,County,Catherine Silvestri,13790,,Tier 2,1.0,37.1604,-107.0067,ec4bfadc-ed35-4291-a8b9-97db5a3a1206,,,,,,,,,4,2026-04-08,,1,3,,,,,17908
+001cv00000AuZox,"County Of Grand, CO",Colorado,County,Catherine Silvestri,15860,,Tier 2,1.0,40.0727,-106.064,7d7a4258-3b52-40a6-a879-00dfc65ee605,,,,,,,,,16,2026-04-03,1,15,,,,,,17945
+001cv00000AuZr2,"County Of Alamosa, CO",Colorado,County,Catherine Silvestri,16547,,Tier 2,1.0,37.654,-105.876,63bfc37a-4c65-4143-b671-728013ae576d,,,,,,,,,5,2025-10-14,5,,,,,,,18439
+001cv00000AuZsV,"County Of Otero, CO",Colorado,County,Catherine Silvestri,18594,,Tier 2,1.0,37.9398,-103.6363,3f770537-8c2f-46e5-bb39-8a1678968117,,,,,,,,,1,2025-09-23,1,,,,,,,18644
+001cv00000AuZtV,"County Of Gunnison, CO",Colorado,County,Catherine Silvestri,17281,Nurture,Tier 2,1.0,38.5458,-106.9253,e6150086-cab0-4255-8164-d80ebd6ec784,Closed Lost,,,Jenny Allison,3/17/2026,3/3/2026,,,20,2026-03-17,20,,,,,,,18584
+001cv00000AuZtZ,"County Of Pitkin, CO",Colorado,County,Catherine Silvestri,17348,,Tier 2,1.0,39.1591,-106.8178,83d4b835-7081-499f-80b5-6a7b82f982d0,,,,,,,,,32,2025-11-10,32,,,,,,,18543
+001cv00000AuZtu,"County Of Park, CO",Colorado,County,Catherine Silvestri,17720,,Tier 2,1.0,39.0898,-105.5943,147d3b07-c304-48b2-a761-5d23f56bca92,,,,,,,,,13,2026-04-09,,3,10,,,,,18494
+001cv00000AuZxr,"County Of Logan, CO",Colorado,County,Catherine Silvestri,21487,,Tier 2,1.0,40.7056,-102.9896,99f3b60e-3f3a-415e-b025-11a81af79440,,,,,,,,,11,2025-10-31,11,,,,,,,18964
+001cv00000Aua0r,"County Of Morgan, CO",Colorado,County,Catherine Silvestri,29008,,Tier 1,1.5,40.2989,-103.7289,d5a53baa-eb2c-43f3-99b4-367702a83218,,,,,,,,,15,2026-05-11,10,5,,,,,,18900
+001cv00000Aua2K,"County Of Teller, CO",Colorado,County,Catherine Silvestri,24926,,Tier 2,1.0,38.8612,-105.1727,c7a5a3ee-1e57-48cd-a51f-c8a0ce2aaa07,,,,,,,,,14,2025-11-03,14,,,,,,,19413
+001cv00000Aua2X,"County Of Routt, CO",Colorado,County,Catherine Silvestri,25091,,Tier 1,1.5,40.4772,-107.1012,baf813bf-56f8-436c-9d33-0f60f48655bb,,,,,,,,,8,2025-11-25,8,,,,,,,19436
+001cv00000Aua3S,"County Of Chaffee, CO",Colorado,County,Catherine Silvestri,20074,,Tier 2,1.0,38.7537,-106.2522,02f20fbc-3f4f-4ca7-9e6d-a47f1397a393,,,,,,,,,3,2025-09-23,3,,,,,,,18683
+001cv00000Aua8Q,"County Of Delta, CO",Colorado,County,Catherine Silvestri,31661,,Tier 1,1.5,38.7422,-108.069,947e2b8c-53da-48f4-b2cf-36f42d695e9c,,,,,,,,,2,2025-10-01,2,,,,,,,18854
+001cv00000AuaBr,"County Of Elbert, CO",Colorado,County,Catherine Silvestri,27128,Nurture,Tier 1,1.5,39.2195,-104.5372,c5c8bbe9-fcb7-4734-ac46-c1d04af46217,Closed Lost,,,Leila Assil,10/2/2025,9/18/2025,,,7,2025-10-02,1,,6,,,,,19219
+001cv00000AuaNQ,"County Of Eagle, CO",Colorado,County,Catherine Silvestri,55727,,Tier S,2.0,39.5764,-106.7235,a690b071-a309-4bf0-9a6a-abceab30ca01,,,,,,,,,23,2026-04-08,12,11,,,,,,19594
+001cv00000AuaOn,"City of Commerce City, CO",Colorado,Municipality,Catherine Silvestri,64287,Open Opportunity,Tier S,2.0,39.8083,-104.9339,3ce3386b-84a4-4a92-b642-7d8acccb843d,Open,Initial Interest,Top of Funnel,Jenny Allison,1/16/2026,11/6/2025,,,19,2026-04-21,17,2,,,,,,19867
+001cv00000AuaPW,"City Of Grand Junction, CO",Colorado,Municipality,Catherine Silvestri,66964,,Tier S,2.0,39.0689,-108.5643,5187a537-57d8-4182-9365-080f119a25ac,,,,,,,,,17,2026-05-12,7,10,,,,,,19607
+001cv00000AuaWa,"City And County Of Broomfield, CO",Colorado,Municipality,Catherine Silvestri,75325,,Tier S,2.0,39.9205,-105.0867,c2bed48f-7a35-4e0d-b5be-3c5343f50a6d,,,,,,,,,,,,,,,,,,19770
+001cv00000B21qE,"County Of Dolores, CO",Colorado,County,Catherine Silvestri,2397,,Tier 3,0.75,37.4739,-108.5045,97643479-391b-423e-bb0e-8381918b9dcb,,,,,,,,,3,2025-09-23,3,,,,,,,20250
+001cv00000B21w9,"City Of Leadville, CO",Colorado,Municipality,Catherine Silvestri,2613,,Tier 3,0.75,39.2508,-106.2925,2b3b4d53-ad95-44a2-8098-543f209b75c7,,,,,,,,,14,2025-11-13,14,,,,,,,20332
+001cv00000B21xc,"Town Of Palmer Lake, CO",Colorado,Municipality,Catherine Silvestri,2654,,Tier 3,0.75,39.1222,-104.9172,83ddef16-abea-4ee8-b17c-3d5bf5eb98cf,,,,,,,,,3,2025-10-09,3,,,,,,,20406
+001cv00000B221U,"Town Of Silverthorne, CO",Colorado,Municipality,Catherine Silvestri,4677,,Tier 3,0.75,39.6296,-106.0713,3eadd000-50f4-4410-a07f-c645b2e28077,,,,,,,,,18,2025-10-21,18,,,,,,,20537
+001cv00000Dnusv,"City of Winter Park, CO",Colorado,Municipality,Catherine Silvestri,1192,,Tier 3,0.75,39.8917,-105.7631,5709ed2d-0e81-4585-8736-4b688ed47e0a,,,,,,,,,22,2025-09-05,,,22,,,,,20740
+001cv00000No4Hw,"City of Ouray, CO",Colorado,Municipality,Catherine Silvestri,912,Recent Competitor Purchase,Tier 3,0.75,38.0228,-107.6714,d30868cd-d3fd-4e58-bf2b-3274bb31829b,Closed Lost,,,Jenny Allison,12/2/2025,10/2/2025,"$25,000",,5,2025-12-01,5,,,,,,,20909
+001cv00000OVg8R,"Town of Poncha Springs, CO",Colorado,Municipality,Catherine Silvestri,925,Nurture,Tier 3,0.75,38.5128,-106.0772,81657706-9d08-4441-8c04-dae54df71bb9,Closed Lost,,,Jenny Allison,11/14/2025,11/12/2025,,,,,,,,,,,,20918
+001cv00000YokQh,"County of Jefferson, CO",Colorado,County,Catherine Silvestri,578533,,Tier S,2.0,39.58,-105.2663,,,,,,,,,,43,2026-04-20,,,,43,,,,21079
+001cv00000atEQd,"Town of Dinosaur, CO",Colorado,Municipality,Jenny Allison,315,Nurture,Tier 3,0.75,40.2422,-109.0067,,Closed Lost,,,Jenny Allison,3/9/2026,3/2/2026,,,1,2026-03-09,1,,,,,,,21139
+001cv00000b35KR,"City of Thornton, CO",Colorado,Municipality,Catherine Silvestri,148938,Nurture,Tier S,2.0,39.868,-104.9719,,Closed Lost,,,Catherine Silvestri,3/24/2026,3/17/2026,,,7,2026-03-23,,7,,,,,,21141
+001cv00000bB8Pg,Town of Kersey,Colorado,Municipality,Asher Rosenfeld,1499,,Tier 3,0.75,40.3875,-104.5616,a3859b95-1b33-46b6-9758-2f0a772bff97,,,,,,,,,,,,,,,,,,22702
+001cv00000bB8Pr,Town of Fraser,Colorado,Municipality,Asher Rosenfeld,1515,,Tier 3,0.75,39.945,-105.8172,940c2b28-5414-403f-b714-b222e1df25cf,,,,,,,,,,,,,,,,,,22714
+001cv00000bBVeq,Hinsdale County,Colorado,County,Asher Rosenfeld,747,,Tier 3,0.75,37.9316,-107.3849,3dfb1317-40e4-412d-b783-fd7592517edb,,,,,,,,,,,,,,,,,,21185
+001cv00000bBVf0,Town of Fairplay,Colorado,Municipality,Asher Rosenfeld,755,,Tier 3,0.75,39.2247,-106.002,5ec43b28-1a8c-4c95-810c-9ffe37fe4408,,,,,,,,,,,,,,,,,,21173
+001cv00000bBVfC,Town of Hugo,Colorado,Municipality,Asher Rosenfeld,771,,Tier 3,0.75,39.1361,-103.4699,5cb2aa99-71e9-4958-b679-225989f6314d,,,,,,,,,,,,,,,,,,21198
+001cv00000bBVfR,City of Central City,Colorado,Municipality,Asher Rosenfeld,793,,Tier 3,0.75,39.8019,-105.5142,4052a11c-ab78-4757-b818-0d0cd66d4b6a,,,,,,,,,,,,,,,,,,21175
+001cv00000bBVfh,San Juan County,Colorado,County,Asher Rosenfeld,821,,Tier 3,0.75,37.7574,-107.7163,9652d76c-29d9-4e5e-a1ea-7aa406bb5a61,,,,,,,,,,,,,,,,,,21168
+001cv00000bBVhY,Town of Blue River,Colorado,Municipality,Asher Rosenfeld,836,,Tier 3,0.75,39.4299,-106.0438,9e6b3283-cd93-4d93-b020-68db1344f040,,,,,,,,,,,,,,,,,,21241
+001cv00000bBVho,Town of Ignacio,Colorado,Municipality,Asher Rosenfeld,847,,Tier 3,0.75,37.115,-107.6331,e5f3ebd7-caf6-40a1-b1ce-73cbae5ff494,,,,,,,,,,,,,,,,,,21266
+001cv00000bBVhu,Town of Oak Creek,Colorado,Municipality,Asher Rosenfeld,856,,Tier 3,0.75,40.275,-106.9584,8726ab15-06bc-4869-8b21-c8eb151ed813,,,,,,,,,,,,,,,,,,21268
+001cv00000bBVi1,Town of La Veta,Colorado,Municipality,Asher Rosenfeld,869,,Tier 3,0.75,37.5058,-105.0091,3d708409-357d-48f5-969e-e71983af81bc,,,,,,,,,,,,,,,,,,21300
+001cv00000bBVj1,Mineral County,Colorado,County,Asher Rosenfeld,933,,Tier 3,0.75,37.6584,-107.0067,ef04b7eb-9f58-4f2b-adfc-2f033d70313e,,,,,,,,,,,,,,,,,,21341
+001cv00000bBVpM,City of Cripple Creek,Colorado,Municipality,Asher Rosenfeld,1122,,Tier 3,0.75,38.7467,-105.1783,03bc5bcd-27e9-47c7-994d-b77b0cdd5a32,,,,,,,,,,,,,,,,,,21516
+001cv00000bBVwn,Town of Fowler,Colorado,Municipality,Asher Rosenfeld,1203,,Tier 3,0.75,38.1292,-104.0233,87e6330e-1874-409b-89b4-320e70c0c779,,,,,,,,,,,,,,,,,,21605
+001cv00000bBVxA,Town of Mountain Village,Colorado,Municipality,Asher Rosenfeld,1240,,Tier 3,0.75,37.9314,-107.8565,df7c1c2e-7865-4e4f-ac51-76d128c7818c,,,,,,,,,,,,,,,,,,21637
+001cv00000bBVxh,Town of Mancos,Colorado,Municipality,Asher Rosenfeld,1272,,Tier 3,0.75,37.345,-108.2892,bfe4117c-d2ae-4891-8773-a75b209325ee,,,,,,,,,,,,,,,,,,21663
+001cv00000bBVxj,Jackson County,Colorado,County,Asher Rosenfeld,1273,,Tier 3,0.75,40.6819,-106.2522,83e41be5-febd-444c-92fe-811b82099c93,,,,,,,,,,,,,,,,,,21668
+001cv00000bBVxp,Town of Ridgway,Colorado,Municipality,Asher Rosenfeld,1281,,Tier 3,0.75,38.1526,-107.7556,8d381374-4a22-41f3-8e20-f4723395123c,,,,,,,,,,,,,,,,,,21657
+001cv00000bBVy8,Town of Springfield,Colorado,Municipality,Asher Rosenfeld,1298,,Tier 3,0.75,37.4083,-102.6144,de410ddb-d173-4b89-8c01-610ed734842a,,,,,,,,,,,,,,,,,,21687
+001cv00000bBW3v,Town of Akron,Colorado,Municipality,Asher Rosenfeld,1745,,Tier 3,0.75,40.1605,-103.2144,d05d5236-d6cc-4211-8f9c-158f2f884b15,,,,,,,,,,,,,,,,,,21731
+001cv00000bBWDW,Town of Olathe,Colorado,Municipality,Asher Rosenfeld,1970,,Tier 3,0.75,38.605,-107.9823,20f33520-295e-489c-9483-1be0346ac5a0,,,,,,,,,,,,,,,,,,22063
+001cv00000bBWEm,City of Boulder,Colorado,Municipality,Asher Rosenfeld,106803,,Tier S,2.0,40.019,-105.2747,1873c928-a202-4cb2-b539-eab30c4ea981,,,,,,,,,,,,,,,,,,22289
+001cv00000bBWEr,City of Centennial,Colorado,Municipality,Asher Rosenfeld,108853,,Tier S,2.0,39.5807,-104.8772,ae2bb0a7-2b67-455d-aab7-70e2796b66a8,,,,,,,,,,,,,,,,,,22290
+001cv00000bBWEy,City of Pueblo,Colorado,Municipality,Asher Rosenfeld,111166,,Tier S,2.0,38.2706,-104.6101,c00cf515-5a6b-464d-8caa-9447aab4cfc2,,,,,,,,,,,,,,,,,,22295
+001cv00000bBWFA,City of Greeley,Colorado,Municipality,Asher Rosenfeld,114363,,Tier S,2.0,40.4233,-104.7091,fa004a11-f6ef-4b0d-8d45-2cb03d7bd7bb,,,,,,,,,,,,,,,,,,22296
+001cv00000bBWFC,City of Westminster,Colorado,Municipality,Catherine Silvestri,115302,,Tier S,2.0,39.8367,-105.0372,c93a97dd-8995-4bd2-a1b4-0c66b4bdcbfa,,,,,,,,,6,2026-05-15,,6,,,,,,22303
+001cv00000bBWJ5,Town of Pagosa Springs,Colorado,Municipality,Asher Rosenfeld,1793,,Tier 3,0.75,37.2694,-107.0098,1acfdeab-1095-40bf-b57f-d05e22fac49e,,,,,,,,,,,,,,,,,,21761
+001cv00000bBWKC,Town of Wiggins,Colorado,Municipality,Asher Rosenfeld,1872,,Tier 3,0.75,40.2305,-104.0727,3828ef8f-1779-4f16-806a-c89137e02a64,,,,,,,,,,,,,,,,,,21839
+001cv00000bBWKR,Town of Center,Colorado,Municipality,Asher Rosenfeld,1889,,Tier 3,0.75,37.7531,-106.1086,a5fb8f25-6bb8-4d34-a461-22138e1fe56e,,,,,,,,,,,,,,,,,,21841
+001cv00000bBWKr,Town of Hayden,Colorado,Municipality,Asher Rosenfeld,1920,,Tier 3,0.75,40.4894,-107.2637,25ea63a4-e306-490f-8b7c-e2f7570d12c0,,,,,,,,,,,,,,,,,,21877
+001cv00000bBWOi,Town of Columbine Valley,Colorado,Municipality,Asher Rosenfeld,1683,,Tier 3,0.75,39.6011,-105.0322,267f107e-05cf-440a-bc00-1ff68eb92130,,,,,,,,,,,,,,,,,,22122
+001cv00000bBWP2,City of Idaho Springs,Colorado,Municipality,Ryan Minter,1699,,Tier 3,0.75,39.7425,-105.5136,8239f437-22ed-4553-9c3a-932aa7110ba5,,,,,,,,,,,,,,,,,,22160
+001cv00000bBWPH,Cheyenne County,Colorado,County,Asher Rosenfeld,1712,,Tier 3,0.75,38.8003,-102.6216,81d5f70a-2a96-46ec-aaec-940b6ce01098,,,,,,,,,,,,,,,,,,22162
+001cv00000bBWR1,Town of Keenesburg,Colorado,Municipality,Asher Rosenfeld,2054,,Tier 3,0.75,40.1083,-104.52,1eb85bb9-3525-42e7-a46c-771373508f79,,,,,,,,,,,,,,,,,,22161
+001cv00000bBWSQ,City of Arvada,Colorado,Municipality,Asher Rosenfeld,121873,,Tier S,2.0,39.8028,-105.0875,8097cedd-28ba-4d53-9471-1191b4c4a6ca,,,,,,,,,,,,,,,,,,22327
+001cv00000bBWTY,City of Lakewood,Colorado,Municipality,Asher Rosenfeld,156868,,Tier S,2.0,39.7047,-105.0814,42bc9a0f-8255-4e1a-9281-e460d00740ff,,,,,,,,,,,,,,,,,,22393
+001cv00000bBWTl,City of Fort Collins,Colorado,Municipality,Asher Rosenfeld,170924,,Tier S,2.0,40.5853,-105.0844,75d80592-6489-473b-a919-bbd52dd70086,,,,,,,,,,,,,,,,,,22399
+001cv00000bBWXv,Adams County,Colorado,County,Asher Rosenfeld,542973,,Tier S,2.0,39.8398,-104.1931,ee530430-2cab-4101-89fd-9569d5f115ee,,,,,,,,,,,,,,,,,,22438
+001cv00000bBWYJ,Arapahoe County,Colorado,County,Asher Rosenfeld,666918,,Tier S,2.0,39.6203,-104.3326,7d7c71cd-73c4-4d2a-a5fa-11de8b93da55,,,,,,,,,,,,,,,,,,22468
+001cv00000bBWYZ,El Paso County,Colorado,County,Asher Rosenfeld,752772,,Tier S,2.0,38.83,-104.52,16da4bbc-f6e4-4819-83f0-723e50e18da2,,,,,,,,,,,,,,,,,,22506
+001cv00000bBWt9,Town of Parachute,Colorado,Municipality,Asher Rosenfeld,1362,,Tier 3,0.75,39.4519,-108.0529,8859f3bc-7fa0-44b2-88c5-d4616cd82388,,,,,,,,,,,,,,,,,,22593
+001cv00000bBWuN,Town of Paonia,Colorado,Municipality,Asher Rosenfeld,1464,,Tier 3,0.75,38.8683,-107.592,d75a963b-4d74-4242-9f44-9ae073d9618c,,,,,,,,,,,,,,,,,,22678
+001cv00000bBWud,Town of Nederland,Colorado,Municipality,Asher Rosenfeld,1487,,Tier 3,0.75,39.9614,-105.5108,3735393e-03f1-45c6-86b8-9b99f86bc17f,,,,,,,,,,,,,,,,,,22699
+001cv00000bBX0P,Boulder County,Colorado,County,Asher Rosenfeld,330262,,Tier S,2.0,40.1512,-105.5005,479428af-4fd4-4eb2-b361-824bed645194,,,,,,,,,,,,,,,,,,22816
+001cv00000bBX0j,Weld County,Colorado,County,Asher Rosenfeld,369745,,Tier S,2.0,40.5266,-104.4723,cb3ea9e3-9ea4-401d-99e7-fcac25fa1aa5,,,,,,,,,,,,,,,,,,22840
+001cv00000bBX0m,Larimer County,Colorado,County,Asher Rosenfeld,374574,,Tier S,2.0,40.6956,-105.5943,1f07c1eb-fd53-4401-841d-9d37255b3005,,,,,,,,,,,,,,,,,,22831
+001cv00000bBX1M,City of Colorado Springs,Colorado,Municipality,Asher Rosenfeld,493554,,Tier S,2.0,38.8353,-104.8216,f910d63f-c656-443d-8690-29ff25fc7985,,,,,,,,,,,,,,,,,,22874
+001cv00000bnj3f,"City of Boulder, CO",Colorado,Municipality,Catherine Silvestri,108250,Nurture,Tier S,2.0,40.019,-105.2747,,Closed Lost,,,Catherine Silvestri,4/6/2026,3/26/2026,,,21,2026-03-27,,21,,,,,,22289
+001cv00000hzunj,"County of Douglas, CO",Colorado,County,Ryan Minter,357978,,Tier S,2.0,39.0598,-105.3111,,,,,,,,,,4,2026-04-23,,,,,4,,,24420

@@ -1,391 +1,391 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Nick Martino,Calls - Joe del Rosario,Calls - Ben Laddis,Calls - Alicia Gopal,Calls - Jenny Allison
-001Hr000028ZbdY,"City Of Goldsboro, NC",North Carolina,Municipality,Ben Laddis,32749,Open Opportunity,Tier 1,1.5,35.3839,-77.9949,08289b5d-8579-45b1-a22d-9513e38c2c89,Open,Initial Interest,Top of Funnel,Jenny Allison,,11/3/2025,,,8,2026-05-19,3,,3,,2
-001Hr000028ZbnB,"Town Of Mooresville, NC",North Carolina,Municipality,Ben Laddis,51594,,Tier S,2.0,35.582,-80.814,465bf2c3-25c2-40ba-a28e-e9b27649a0c4,,,,,,,,,8,2026-05-18,6,,2,,
-001Hr000028ZbnF,"Town Of Boone, NC",North Carolina,Municipality,Ben Laddis,18036,,Tier 2,1.0,36.2182,-81.683,6152c717-caf5-4441-9875-d66c7423379a,,,,,,,,,7,2026-05-18,3,,4,,
-001Hr000028ZbnG,"Town Of Angier, NC",North Carolina,Municipality,Ben Laddis,5703,,Tier 3,0.75,35.5071,-78.7392,78891115-927f-429e-ad37-b4b7317f6997,,,,,,,,,,,,,,,
-001Hr000028Zbnh,"Town Of Harrisburg, NC",North Carolina,Municipality,Nick Martino,19463,,Tier 2,1.0,35.3238,-80.6559,d224383b-b58e-4f4a-a067-3a8fc07e0ae9,,,,,,,,,3,2026-04-22,3,,,,
-001Hr000028Zbnk,"Town Of Fuquay-Varina, NC",North Carolina,Municipality,Nick Martino,36736,,Tier 1,1.5,35.5843,-78.8,bea9c931-64c4-428b-b0a3-917746d3667e,,,,,,,,,,,,,,,
-001Hr000028ZboG,"City Of Lexington, NC",North Carolina,Municipality,Ben Laddis,19516,Open Opportunity,Tier 2,1.0,35.824,-80.2534,b3e4a9cc-b2b0-4c7b-87bd-a16a550c81eb,Open,Demo,Mid Funnel,Jason Ginsberg,2/12/2026,2/5/2026,,,,,,,,,
-001Hr000028ZboQ,"City Of Boiling Spring Lakes, NC",North Carolina,Municipality,Nick Martino,6168,Nurture,Tier 3,0.75,34.0306,-78.0675,3d9eef60-de92-4a48-adad-ba0953d85707,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,3,2026-04-21,3,,,,
-001Hr000028ZbrY,"City Of Havelock, NC",North Carolina,Municipality,Nick Martino,17052,,Tier 2,1.0,34.879,-76.9013,862769c4-5538-407f-85b8-d3e289410fdf,,,,,,,,,3,2026-05-13,3,,,,
-001Hr000028Zbs7,"Town Of Winterville, NC",North Carolina,Municipality,Ben Laddis,10591,,Tier 2,1.0,35.5291,-77.4011,0d44fc13-f130-49c0-ad13-40df31d687e0,,,,,,,,,,,,,,,
-001Hr000028ZbsS,"City Of Morehead City, NC",North Carolina,Municipality,Nick Martino,9688,Nurture,Tier 3,0.75,34.7229,-76.726,ff4d4ead-11d3-4c98-a089-cbaa4779ab88,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,13,2025-09-23,13,,,,
-001Hr000028Zbsf,"City Of New Bern, NC",North Carolina,Municipality,Nick Martino,31346,Open Opportunity,Tier 1,1.5,35.1085,-77.0441,a9c296a2-e017-4449-925f-ed6e2fd65130,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,8,2025-10-31,8,,,,
-001Hr000028Zbsg,"Town Of Weddington, NC",North Carolina,Municipality,Nick Martino,13488,Nurture,Tier 2,1.0,35.0224,-80.7609,ceb0f507-597d-459f-a5f1-0bc64ed60e00,Closed Lost,,,Nick Martino,2/27/2026,2/23/2026,,,22,2026-02-23,22,,,,
-001Hr000028Zbt5,"City Of Mebane, NC",North Carolina,Municipality,Nick Martino,18408,Implementation,Tier 2,1.0,36.0968,-79.2697,58a79b7a-1612-4311-a844-90888cf03478,Closed Won,,,Joe del Rosario,6/27/2025,6/2/2025,"$37,500",,5,2025-06-02,,5,,,
-001Hr000028ZbtT,"Town Of Black Mountain, NC",North Carolina,Municipality,Ben Laddis,8452,All Modules Live,Tier 3,0.75,35.6179,-82.3212,a33a121b-ded9-4fd8-ac5d-b6639f99fddd,Closed Won,,,Asher Rosenfeld,2/8/2024,1/5/2025,"$29,000",,,,,,,,
-001Hr000028ZbuR,"City Of Shelby, NC",North Carolina,Municipality,Ben Laddis,21947,All Modules Live,Tier 2,1.0,35.2924,-81.5356,82a43adf-ef2d-4afa-aaf1-6e5a53e20089,Closed Won,,,Asher Rosenfeld,1/23/2024,1/5/2025,"$33,000",,,,,,,,
-001Hr000028ZbuS,"City Of Oxford, NC",North Carolina,Municipality,Nick Martino,8775,Nurture,Tier 3,0.75,36.3107,-78.5908,d2ea8e20-176a-49b8-8a3e-a61cae39ff71,,,,,,,,,13,2026-02-18,13,,,,
-001Hr000028Zbve,"Town Of Indian Trail, NC",North Carolina,Municipality,Nick Martino,40953,,Tier 1,1.5,35.0768,-80.6692,0b4444f5-407e-46ce-b97b-826223757db8,,,,,,,,,,,,,,,
-001Hr000028Zbvf,"City Of Roanoke Rapids, NC",North Carolina,Municipality,Ben Laddis,15128,,Tier 2,1.0,36.4615,-77.6541,468c9fa4-dc33-4155-81d6-4c3122ad3703,,,,,,,,,,,,,,,
-001Hr000028Zbvj,"Village Of Wesley Chapel, NC",North Carolina,Municipality,Nick Martino,8883,Nurture,Tier 3,0.75,35.0071,-80.6745,11846995-3283-4529-8930-9d8b86b900ac,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,29,2025-10-28,28,1,,,
-001Hr000028Zbwt,"City Of Kannapolis, NC",North Carolina,Municipality,Nick Martino,54446,,Tier S,2.0,35.4874,-80.6217,19587a72-d4a4-40c1-afe3-588e30aa82e0,,,,,,,,,7,2025-09-17,7,,,,
-001Hr000028ZbxH,"City Of Asheboro, NC",North Carolina,Municipality,Ben Laddis,27124,,Tier 1,1.5,35.7079,-79.8136,2d4360c9-2ba5-4809-aa14-15d01acf2b05,,,,,,,,,9,2025-09-15,9,,,,
-001Hr000028ZbxI,"Town Of Hillsborough, NC",North Carolina,Municipality,Nick Martino,9716,,Tier 3,0.75,36.0754,-79.0997,b6de58fa-0eb7-4687-b56e-c71a90e81598,,,,,,,,,35,2026-05-18,35,,,,
-001Hr000028Zbxt,"Town Of Chapel Hill, NC",North Carolina,Municipality,Ben Laddis,61128,,Tier S,2.0,35.9132,-79.0558,3eef293a-9546-4a41-b185-c80ab8fd9091,,,,,,,,,9,2025-07-01,,9,,,
-001Hr000028Zbxu,"Town Of Oak Island, NC",North Carolina,Municipality,Ben Laddis,8878,,Tier 3,0.75,33.9204,-78.1608,27683aec-cfaf-46f7-8b07-a35c361acd2f,,,,,,,,,22,2026-04-07,22,,,,
-001Hr000028ZbyQ,"City Of Hickory, NC",North Carolina,Municipality,Nick Martino,43532,Open Opportunity,Tier 1,1.5,35.7345,-81.3445,7f7a8aa2-e877-4807-9dee-51462a3e05f9,Open,Initial Interest,Top of Funnel,Shane Lieberman,1/22/2024,1/5/2025,,,6,2026-05-19,6,,,,
-001Hr000028Zbzx,"Town Of Woodfin, NC",North Carolina,Municipality,Nick Martino,8010,,Tier 3,0.75,35.6334,-82.5821,1b448d87-164a-4ff7-ad84-8be76ccc36e9,,,,,,,,,25,2026-01-05,25,,,,
-001Hr000028Zc0u,"City Of Kings Mountain, NC",North Carolina,Municipality,Nick Martino,11409,,Tier 2,1.0,35.2451,-81.3412,832fae5c-0d12-4eaf-bf39-1f3657ce625f,,,,,,,,,3,2026-03-16,3,,,,
-001Hr000028Zc1w,"Randolph County, NC",North Carolina,County,Nick Martino,147458,Nurture,Tier S,2.0,35.745,-79.8297,b73de596-b94d-4e70-bdf7-0b96c953f8c5,Closed Lost,,,Harrison Peacock,10/30/2024,1/5/2025,,,,,,,,,
-001Hr000028Zc2D,"Town Of Knightdale, NC",North Carolina,Municipality,Nick Martino,19576,,Tier 2,1.0,35.7877,-78.4806,598f2589-b551-457f-9320-b14dc73176bc,,,,,,,,,16,2026-01-15,16,,,,
-001Hr000028Zc2u,"Town Of Walkertown, NC",North Carolina,Municipality,Ben Laddis,5781,,Tier 3,0.75,36.1754,-80.1531,74785788-3b69-4e67-bcdd-eb0e8744c942,,,,,,,,,,,,,,,
-001Hr000028Zc3p,"City Of Gastonia, NC",North Carolina,Municipality,Nick Martino,81161,,Tier S,2.0,35.2622,-81.1871,8453ef91-b1dc-40e4-97eb-6725fd4ab51b,,,,,,,,,9,2025-07-01,,9,,,
-001Hr000028Zc3y,"Town Of Huntersville, NC",North Carolina,Municipality,Nick Martino,61839,,Tier S,2.0,35.4111,-80.8427,239dbd17-45a1-4fea-baf5-7c31177a7660,,,,,,,,,1,2025-07-01,,1,,,
-001Hr000028Zc3z,"City Of Morganton, NC",North Carolina,Municipality,Nick Martino,17518,Open Opportunity,Tier 2,1.0,35.7454,-81.6848,b86efdcd-da96-45e2-b461-481571b619e4,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,9,2025-08-05,9,,,,
-001Hr000028Zc49,"Town Of Carolina Beach, NC",North Carolina,Municipality,Nick Martino,6575,,Tier 3,0.75,34.036,-77.8938,e6360498-320f-4493-9b48-5170d6f1dbc8,,,,,,,,,16,2025-09-15,16,,,,
-001Hr000028Zc4v,"City Of Albemarle, NC",North Carolina,Municipality,Ben Laddis,16628,,Tier 2,1.0,35.3501,-80.2001,3696e660-4f81-4050-a27d-ffead55be780,,,,,,,,,6,2026-05-18,,3,3,,
-001Hr000028Zc6A,"Town Of Smithfield, NC",North Carolina,Municipality,Nick Martino,11630,Nurture,Tier 2,1.0,35.5085,-78.3394,cebb419b-fe80-43c9-8525-1cf83146908e,Closed Lost,,,Joe del Rosario,3/12/2025,3/6/2025,"$22,000",,2,2025-12-15,2,,,,
-001Hr000028Zc77,"City Of Washington, NC",North Carolina,Municipality,Ben Laddis,9705,,Tier 3,0.75,35.5466,-77.0522,efd15e53-7e11-4387-bb70-1c4aaf54bb42,,,,,,,,,13,2025-09-16,13,,,,
-001Hr000028Zc8d,"Town Of Williamston, NC",North Carolina,Municipality,Nick Martino,5104,,Tier 3,0.75,35.8546,-77.0555,d3e08a86-97ec-4791-b426-466753917b8f,,,,,,,,,2,2026-05-15,1,1,,,
-001Hr000028Zc9H,"City Of Henderson, NC",North Carolina,Municipality,Ben Laddis,14954,Open Opportunity,Tier 2,1.0,36.3296,-78.3992,11628fee-fef6-4118-a5fb-46d4580b33df,Open,Proposal,Mid Funnel,Nick Martino,3/20/2026,3/20/2026,"$27,000",Yes,12,2025-10-23,11,1,,,
-001Hr000028Zc9M,"Town Of Wadesboro, NC",North Carolina,Municipality,Ben Laddis,5038,,Tier 3,0.75,34.9682,-80.0767,ab9d5ae7-99bf-4701-9cee-1f7e23f80159,,,,,,,,,,,,,,,
-001Hr000028Zc9W,"Town Of Kernersville, NC",North Carolina,Municipality,Nick Martino,26793,Open Opportunity,Tier 1,1.5,36.1199,-80.0737,de171196-1c0d-4c77-bf23-751be3640a6b,Open,Initial Interest,Top of Funnel,,,1/5/2025,,,,,,,,,
-001Hr000028ZcAQ,"City Of Salisbury, NC",North Carolina,Municipality,Ben Laddis,35760,,Tier 1,1.5,35.671,-80.4742,00bbd409-d588-4362-a198-0dc688bfede6,,,,,,,,,9,2026-05-13,9,,,,
-001Hr000028ZcBs,"City Of Clinton, NC",North Carolina,Municipality,Ben Laddis,8037,,Tier 3,0.75,34.9979,-78.3233,1bb59626-d10d-488d-9955-6a930750f684,,,,,,,,,3,2025-09-09,3,,,,
-001Hr000028ZcCp,"City Of Graham, NC",North Carolina,Municipality,Nick Martino,17273,,Tier 2,1.0,36.068,-79.4004,9c256618-2912-4233-8fce-fd1d41b6bd43,,,,,,,,,15,2026-03-09,15,,,,
-001Hr000028ZcDF,"Town Of Leland, NC",North Carolina,Municipality,Nick Martino,33065,Open Opportunity,Tier 1,1.5,34.2294,-78.0343,2b70dd96-3180-4488-a317-c3b2d4d2620d,Open,Demo,Mid Funnel,Nick Martino,3/23/2026,3/19/2026,,,9,2026-03-19,9,,,,
-001Hr000028ZcDf,"Town Of Spring Lake, NC",North Carolina,Municipality,Nick Martino,11619,,Tier 2,1.0,35.174,-79.0063,79b57b7e-0338-4102-98fe-d754a37396b2,,,,,,,,,,,,,,,
-001Hr000028ZcEz,"Town Of Apex, NC",North Carolina,Municipality,Ben Laddis,62911,,Tier S,2.0,35.7327,-78.8503,4c29804d-17c0-4f35-b8d6-32127db67798,,,,,,,,,17,2026-05-18,13,,4,,
-001Hr000028ZcFL,"City Of Laurinburg, NC",North Carolina,Municipality,Nick Martino,15177,,Tier 2,1.0,34.774,-79.4628,de75922c-d1a8-47ce-9c81-12504f4d3426,,,,,,,,,1,2026-03-12,1,,,,
-001Hr000028ZcFM,"City Of Conover, NC",North Carolina,Municipality,Ben Laddis,8478,,Tier 3,0.75,35.7065,-81.2187,b20938fc-e732-4cc1-bf28-fc5d19dd986a,,,,,,,,,5,2026-03-20,5,,,,
-001Hr000028ZcGi,"Town Of Wake Forest, NC",North Carolina,Municipality,Nick Martino,49657,,Tier 1,1.5,35.9799,-78.5097,b47acda9-8f3a-4b31-9930-4e305a3c46e0,,,,,,,,,28,2025-12-18,28,,,,
-001Hr000028ZcHI,"City Of Hamlet, NC",North Carolina,Municipality,Ben Laddis,6022,,Tier 3,0.75,34.8849,-79.6942,f668b17c-7806-432c-82e9-95ba8db5ce3c,,,,,,,,,,,,,,,
-001Hr000028ZcHU,"City Of Monroe, NC",North Carolina,Municipality,Nick Martino,34888,,Tier 1,1.5,34.9854,-80.5495,76512d57-1ba6-4409-b5fa-440551232239,,,,,,,,,23,2026-04-13,23,,,,
-001Hr000028ZcJ7,"City Of Statesville, NC",North Carolina,Municipality,Nick Martino,28844,,Tier 1,1.5,35.7846,-80.8883,6dc3ecde-1cb6-4f66-a591-84d1c6a96b4c,,,,,,,,,16,2026-05-15,16,,,,
-001Hr000028ZcK1,"City Of Cherryville, NC",North Carolina,Municipality,Nick Martino,6132,,Tier 3,0.75,35.3789,-81.3796,47eedbc7-e95f-4fb2-9f28-0ebffdc75fda,,,,,,,,,10,2026-04-07,10,,,,
-001Hr000028ZcKC,"Town Of Ayden, NC",North Carolina,Municipality,Ben Laddis,5022,,Tier 3,0.75,35.4727,-77.4155,0b2e0a4d-175e-4306-98f0-380711171f57,,,,,,,,,,,,,,,
-001Hr000028ZcKp,"City Of Sanford, NC",North Carolina,Municipality,Nick Martino,30678,,Tier 1,1.5,35.4799,-79.1803,9f535a9d-3e66-479e-b6d0-dcae9b1d9a64,,,,,,,,,2,2025-06-23,,2,,,
-001Hr000028ZcLn,"Town Of Gibsonville, NC",North Carolina,Municipality,Nick Martino,9013,,Tier 3,0.75,36.1058,-79.5419,3e72546f-77a3-41f0-a43a-bbd83cdcd2ee,,,,,,,,,13,2025-09-23,13,,,,
-001Hr000028ZcOR,"Town Of Mocksville, NC",North Carolina,Municipality,Ben Laddis,5908,,Tier 3,0.75,35.894,-80.5614,2ae29ab0-e940-425b-a37a-a39f7121885c,,,,,,,,,,,,,,,
-001Hr000028ZcPA,"City Of Lincolnton, NC",North Carolina,Municipality,Ben Laddis,11352,,Tier 2,1.0,35.4737,-81.2545,313b19c0-dcfe-4ec5-b985-893d9616dd94,,,,,,,,,18,2025-10-10,18,,,,
-001Hr000028ZcPL,"Town Of Mills River, NC",North Carolina,Municipality,Nick Martino,7134,,Tier 3,0.75,35.3884,-82.5668,24328a7e-dc8a-4ddd-b459-85615d364dc3,,,,,,,,,14,2025-12-17,14,,,,
-001Hr000028ZcQ2,"City Of Thomasville, NC",North Carolina,Municipality,Nick Martino,27203,,Tier 1,1.5,35.8826,-80.082,5db5584e-c2e2-4b61-8763-f1cb105812b2,,,,,,,,,3,2026-03-13,3,,,,
-001Hr000028ZcQ3,"City Of Trinity, NC",North Carolina,Municipality,Nick Martino,7072,,Tier 3,0.75,35.8946,-79.9909,6262fec2-0457-4eca-9cc6-5c98e128ae32,,,,,,,,,6,2026-02-18,6,,,,
-001Hr000028ZcQA,"City Of Mount Holly, NC",North Carolina,Municipality,Nick Martino,17966,,Tier 2,1.0,35.2956,-81.0163,601c82ad-e2df-48ad-9091-e8092fe47f73,,,,,,,,,7,2026-03-27,7,,,,
-001Hr000028ZcQH,"Town Of Forest City, NC",North Carolina,Municipality,Nick Martino,7354,,Tier 3,0.75,35.334,-81.8651,d983ee5b-4cfb-44e1-a0f4-7c6787a0a22c,,,,,,,,,,,,,,,
-001Hr000028ZcQc,"City Of Marion, NC",North Carolina,Municipality,Ben Laddis,7652,,Tier 3,0.75,35.684,-82.0093,447dcbe9-d25a-4def-8d4a-9753300d0f6c,,,,,,,,,,,,,,,
-001Hr000028ZcS3,"City Of Newton, NC",North Carolina,Municipality,Nick Martino,13187,,Tier 2,1.0,35.6699,-81.2215,4c935ef8-c50b-4b52-9109-9fccafc77048,,,,,,,,,6,2026-04-14,6,,,,
-001Hr000028ZcUV,"City Of King, NC",North Carolina,Municipality,Nick Martino,7156,Unviable,Tier 3,0.75,36.2805,-80.3594,d6533364-1e98-4e5d-86af-5b1a5b9ea2b1,Open,Closed Lost,Mid Funnel,Shane Lieberman,1/18/2024,1/5/2025,"$16,000",,,,,,,,
-001Hr000028ZcUW,"Town Of Stokesdale, NC",North Carolina,Municipality,Ben Laddis,5995,,Tier 3,0.75,36.2371,-79.9795,ddb88d1d-7e4e-4366-930c-c06eb0f6109c,,,,,,,,,,,,,,,
-001Hr000028ZcUd,"City Of Wilson, NC",North Carolina,Municipality,Nick Martino,47731,Nurture,Tier 1,1.5,35.7258,-77.9111,2a6d1591-bf77-49ab-9b1c-8d170bade46f,Closed Lost,,,Nick Martino,11/21/2025,10/24/2025,,,30,2026-04-23,30,,,,
-001Hr000028ZcVH,"City Of Greenville, NC",North Carolina,Municipality,Nick Martino,88728,,Tier S,2.0,35.6115,-77.3752,4c282630-abbe-465e-94ef-7376ed5882ed,,,,,,,,,5,2025-06-23,,5,,,
-001Hr000028ZcVI,"City Of Kinston, NC",North Carolina,Municipality,Nick Martino,19546,Open Opportunity,Tier 2,1.0,35.2627,-77.5816,f1ab7c1c-351e-4814-8fb8-a904f9fd00da,Open,Initial Interest,Top of Funnel,Nick Martino,,5/7/2026,,,13,2026-05-18,13,,,,
-001Hr000028ZcVO,"City Of Rocky Mount, NC",North Carolina,Municipality,Nick Martino,53957,Nurture,Tier S,2.0,35.935,-77.7902,083c4445-f00d-4d23-bf4b-08700df78f37,Closed Lost,,,Nick Martino,8/12/2025,7/21/2025,,,29,2025-09-23,29,,,,
-001Hr000028ZcVP,"City Of Lenoir, NC",North Carolina,Municipality,Nick Martino,18193,Nurture,Tier 2,1.0,35.914,-81.539,bd5794e9-2033-4caf-acec-6173d9ee51e5,Closed Lost,,,Joe del Rosario,2/6/2025,2/3/2025,,,4,2026-03-20,4,,,,
-001Hr000028ZcVs,"Town Of Kill Devil Hills, NC",North Carolina,Municipality,Nick Martino,7777,Nurture,Tier 3,0.75,36.0307,-75.676,6e4058e8-4397-4073-80d0-e377f3e94397,Closed Lost,,,Shane Lieberman,2/1/2024,1/5/2025,"$25,000",,6,2025-07-30,6,,,,
-001Hr000028ZcVw,"Town Of Wendell, NC",North Carolina,Municipality,Ben Laddis,11570,,Tier 2,1.0,35.781,-78.3697,6afabe3c-c71b-4412-9515-9efbda951e1d,,,,,,,,,12,2026-01-16,12,,,,
-001Hr000028ZcW1,"Town Of Archer Lodge, NC",North Carolina,Municipality,Nick Martino,5034,Nurture,Tier 3,0.75,35.6941,-78.3754,282e4810-18a8-4b2a-9b9e-4dc0382f0637,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,8,2026-04-13,6,,,,2
-001Hr000028ZcXE,"Town Of Zebulon, NC",North Carolina,Municipality,Nick Martino,7974,Open Opportunity,Tier 3,0.75,35.8243,-78.3147,854adf11-7b42-41d0-b79f-45a0b1675ca7,Open,Meeting Booked,Top of Funnel,Nick Martino,11/14/2025,10/22/2025,,,8,2026-02-19,8,,,,
-001Hr000028ZcXO,"City Of Rockingham, NC",North Carolina,Municipality,Ben Laddis,9031,,Tier 3,0.75,34.9393,-79.7739,74f266be-4eeb-42c8-9f5f-bc9c74bd7307,,,,,,,,,2,2025-09-08,2,,,,
-001Hr000028ZcXT,"City Of Brevard, NC",North Carolina,Municipality,Shelly Tsirulik,7755,All Modules Live,Tier 3,0.75,35.2334,-82.7343,cf8699b0-0c2b-4ce8-ac84-1655b85f5975,Closed Won,,,Granger West,1/27/2025,1/5/2025,"$22,000",,,,,,,,
-001Hr000028ZcXk,"Edgecombe County, NC",North Carolina,County,Ben Laddis,,Open Opportunity,Tier 3,0.75,35.884,-77.6536,027a7d27-a96d-4e71-b64e-1ede3090f2a4,Open,Initial Interest,Top of Funnel,Harrison Peacock,12/5/2024,1/5/2025,,,,,,,,,
-001Hr000028ZcYM,"Town Of Hope Mills, NC",North Carolina,Municipality,Nick Martino,17786,,Tier 2,1.0,34.9757,-78.9507,024c7bde-9949-4e34-9e87-971e4787a836,,,,,,,,,17,2026-04-23,17,,,,
-001Hr000028ZcYN,"Town Of Fletcher, NC",North Carolina,Municipality,Nick Martino,8033,,Tier 3,0.75,35.4307,-82.5012,c2942b0c-92e6-4abb-a92c-a2f245f1ecf8,,,,,,,,,9,2025-12-17,9,,,,
-001Hr000028ZcYX,"Town Of Matthews, NC",North Carolina,Municipality,Nick Martino,29623,,Tier 1,1.5,35.1168,-80.7237,25a96100-3a3e-45b0-8e14-e0fc9d84b5f5,,,,,,,,,,,,,,,
-001Hr000028ZcYY,"Town Of Oak Ridge, NC",North Carolina,Municipality,Nick Martino,7595,,Tier 3,0.75,36.1735,-79.9889,e6dbf34c-03c6-4743-b5fb-568d5d456d13,,,,,,,,,4,2025-09-17,4,,,,
-001Hr000028ZcYu,"Town Of Waynesville, NC",North Carolina,Municipality,Ben Laddis,10178,Open Opportunity,Tier 2,1.0,35.4887,-82.9887,b642026e-cebf-4696-9f89-38febe42cdd3,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,Yes,19,2026-05-19,16,,3,,
-001Hr000028ZcYz,"Town Of St James, NC",North Carolina,Municipality,Nick Martino,6913,Open Opportunity,Tier 3,0.75,33.9499,-78.1159,55bf86f4-54c7-4f1e-a2ef-e62c666cea86,Open,Initial Interest,Top of Funnel,Nick Martino,,10/23/2025,,,7,2026-04-07,7,,,,
-001Hr000028ZcZ4,"Town Of Lewisville, NC",North Carolina,Municipality,Ben Laddis,13602,,Tier 2,1.0,36.0971,-80.4192,826d4427-5ed0-4a6d-acbf-82df8b6a33f4,,,,,,,,,1,2026-05-11,1,,,,
-001Hr000028ZcZn,"Town Of Tarboro, NC",North Carolina,Municipality,Nick Martino,10569,Open Opportunity,Tier 2,1.0,35.8968,-77.5358,5afb2bcf-84c5-4d49-b080-2c5269acd5b1,Open,Sales Qualified,Mid Funnel,Nick Martino,3/11/2026,1/21/2026,,Yes,37,2026-01-21,37,,,,
-001Hr000028Zca3,"City Of Elizabeth City, NC",North Carolina,Municipality,Ben Laddis,18703,,Tier 2,1.0,36.2946,-76.251,d3f17ea5-ad40-4861-8740-b4fe71ca536c,,,,,,,,,10,2026-03-24,10,,,,
-001Hr000028Zca7,"Town Of Cornelius, NC",North Carolina,Municipality,Ben Laddis,31650,,Tier 1,1.5,35.4812,-80.8578,faa167f5-ff14-43fd-93b7-cd8a3284ffce,,,,,,,,,11,2026-05-14,9,,2,,
-001Hr000028ZcaM,"Village Of Clemmons, NC",North Carolina,Municipality,Ben Laddis,21517,,Tier 2,1.0,36.0215,-80.382,95612c8a-928b-4545-87e8-98d7eb6e0d95,,,,,,,,,9,2026-05-18,7,,2,,
-001Hr000028ZcaR,"Town Of Stallings, NC",North Carolina,Municipality,Nick Martino,16481,,Tier 2,1.0,35.0907,-80.6862,d68483c0-c337-4388-8232-bd08542605d7,,,,,,,,,10,2025-08-12,10,,,,
-001Hr000028ZcaW,"Town Of Clayton, NC",North Carolina,Municipality,Ben Laddis,28306,,Tier 1,1.5,35.6507,-78.4564,fe90a586-86d6-447e-889d-57a4e77e2097,,,,,,,,,16,2026-04-13,16,,,,
-001Hr000028Zcal,"Town Of Davidson, NC",North Carolina,Municipality,Nick Martino,15132,,Tier 2,1.0,35.4993,-80.8487,f31ac5b6-291a-4c71-b16a-3c34168fbbe8,,,,,,,,,11,2026-04-07,11,,,,
-001Hr000028Zcav,"Town Of Carrboro, NC",North Carolina,Municipality,Nick Martino,21312,Nurture,Tier 2,1.0,35.9101,-79.0753,2d8b0eac-b843-401f-8179-0f80749e2167,Closed Lost,,,Shane Lieberman,2/7/2024,1/5/2025,,,36,2026-04-07,36,,,,
-001Hr000028Zcaz,"City Of Asheville, NC",North Carolina,Municipality,Nick Martino,94067,,Tier S,2.0,35.5975,-82.5461,d6f4e633-79dc-4503-b2cc-f132e809a965,,,,,,,,,46,2026-01-23,46,,,,
-001Hr000028Zcb4,"City Of Burlington, NC",North Carolina,Municipality,Nick Martino,58818,Nurture,Tier S,2.0,36.096,-79.4372,6e4afad0-e381-4b01-8b6a-300e9e07383a,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,2,2025-09-05,2,,,,
-001Hr000028ZcbE,"City Of Jacksonville, NC",North Carolina,Municipality,Ben Laddis,72876,,Tier S,2.0,34.7541,-77.4302,fc127267-2ba6-4ae7-9d0b-615361545ccf,,,,,,,,,9,2025-07-01,,9,,,
-001Hr000028ZcbJ,"Town Of Garner, NC",North Carolina,Municipality,Nick Martino,31935,,Tier 1,1.5,35.7113,-78.6142,f69a1811-437d-4475-b081-7ffa12fa1877,,,,,,,,,11,2026-01-15,11,,,,
-001Hr000028ZcbO,"Town Of Mint Hill, NC",North Carolina,Municipality,Nick Martino,26633,,Tier 1,1.5,35.1735,-80.657,9460f24e-5936-4831-ade0-ff9caed33170,,,,,,,,,3,2025-09-11,3,,,,
-001Hr000028ZcbP,"City Of Reidsville, NC",North Carolina,Municipality,Nick Martino,14524,,Tier 2,1.0,36.3549,-79.6645,37229f73-5b04-46e8-ab6e-bfc586120c7c,,,,,,,,,20,2026-05-08,20,,,,
-001Hr000028ZcbT,"Town Of Holly Springs, NC",North Carolina,Municipality,Nick Martino,43524,,Tier 1,1.5,35.6513,-78.8336,08c25bce-af7a-4f13-91b3-bc0767dfd427,,,,,,,,,15,2025-12-17,15,,,,
-001Hr000028ZcbU,"City Of Belmont, NC",North Carolina,Municipality,Ben Laddis,15136,Open Opportunity,Tier 2,1.0,35.2438,-81.0378,47854bc4-92e1-4b55-a6ef-4c31dc380c81,Open,Meeting Booked,Top of Funnel,Nick Martino,4/17/2026,4/2/2026,,,14,2026-04-22,14,,,,
-001Hr000028ZcbY,"City Of Lumberton, NC",North Carolina,Municipality,Nick Martino,18694,Nurture,Tier 2,1.0,34.6182,-79.0086,8d988918-1567-4d6a-a72f-0a0a1991e635,Closed Lost,,,Shane Lieberman,2/13/2024,1/5/2025,,,,,,,,,
-001Hr000028Zcbd,"Town Of Waxhaw, NC",North Carolina,Municipality,Nick Martino,21673,,Tier 2,1.0,34.9246,-80.7434,53d4316f-764c-4a18-98a2-cb8b84d569bd,,,,,,,,,25,2026-04-07,25,,,,
-001Hr000028Zcbi,"Town Of Southern Pines, NC",North Carolina,Municipality,Nick Martino,16987,Nurture,Tier 2,1.0,35.174,-79.3923,eeec798f-30af-43c7-a019-405c50ecdc1f,Closed Lost,,,Jenny Allison,11/12/2025,10/29/2025,,,,,,,,,
-001Hr000028Zcbn,"City Of Mount Airy, NC",North Carolina,Municipality,Ben Laddis,10551,Open Opportunity,Tier 2,1.0,36.5,-80.6054,cf20c8b9-fdd2-4f74-b12e-d2308dd5becc,Open,Initial Interest,Top of Funnel,Ben Laddis,,5/14/2026,,,1,2026-05-14,,,1,,
-001Hr000028Zcbs,"Town Of Elon, NC",North Carolina,Municipality,Nick Martino,11350,,Tier 2,1.0,36.1019,-79.5068,e9a54dd2-6097-4b84-9707-45b2e94cd466,,,,,,,,,12,2026-04-08,12,,,,
-001Hr000028Zcbt,"City Of Bessemer, NC",North Carolina,Municipality,Nick Martino,5507,,Tier 3,0.75,35.2848,-81.2839,1a10fa97-3579-4f85-99a3-ec97815b6b79,,,,,,,,,,,,,,,
-001Hr000028Zcbx,"City Of Eden, NC",North Carolina,Municipality,Ben Laddis,15319,,Tier 2,1.0,36.4885,-79.7667,73d1a32f-7730-44b6-bbcb-b94fc7507ef4,,,,,,,,,6,2025-10-07,6,,,,
-001Hr000028Zcc2,"City Of Hendersonville, NC",North Carolina,Municipality,Nick Martino,15099,Nurture,Tier 2,1.0,35.3187,-82.461,5751f1d1-8a56-4dd1-bee2-871a11305ea5,Closed Lost,,,Nick Martino,1/22/2026,12/30/2025,,,12,2026-01-22,12,,,,
-001Hr000028Zcc7,"City Of Archdale, NC",North Carolina,Municipality,Ben Laddis,11953,,Tier 2,1.0,35.9146,-79.972,3a9da73b-4a0c-4747-b556-7ab047a2a50f,,,,,,,,,9,2026-05-15,9,,,,
-001Hr000028ZccC,"Town Of Summerfield, NC",North Carolina,Municipality,Nick Martino,11119,,Tier 2,1.0,36.2087,-79.9048,5cba613e-5c8d-41aa-a7c1-bb2d4eb87413,,,,,,,,,2,2026-03-16,2,,,,
-001Hr000028ZccH,"Town Of Pineville, NC",North Carolina,Municipality,Nick Martino,10678,,Tier 2,1.0,35.0832,-80.8923,d3e2c91d-389b-4f4d-a77a-5206c7df9047,,,,,,,,,10,2026-01-06,10,,,,
-001Hr000028ZccM,"Town Of Morrisville, NC",North Carolina,Municipality,Ben Laddis,31278,,Tier 1,1.5,35.8235,-78.8256,28b4726b-34a4-4e87-9fb9-844cecacd0b5,,,,,,,,,5,2025-12-23,5,,,,
-001Hr000028ZccR,"Town Of Selma, NC",North Carolina,Municipality,Nick Martino,6601,Nurture,Tier 3,0.75,35.5365,-78.2844,269fc2b9-5eda-48a0-a021-3b1b70fdc7aa,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,12,2026-02-09,12,,,,
-001Hr000028ZccW,"Town Of Butner, NC",North Carolina,Municipality,Ben Laddis,8487,All Modules Live,Tier 3,0.75,36.1321,-78.7567,d3404b71-1c78-4b7d-b51d-03eac9a86f49,Closed Won,,,Shane Lieberman,10/10/2024,1/5/2025,"$12,000",,,,,,,,
-001Hr000028Zccb,"Town Of Nashville, NC",North Carolina,Municipality,Nick Martino,5682,,Tier 3,0.75,35.9746,-77.9655,90a3fee9-9931-416f-8e74-3841d2c5a5ce,,,,,,,,,1,2026-05-11,1,,,,
-001Hr000028Zccg,"Town Of Siler City, NC",North Carolina,Municipality,Nick Martino,7848,Open Opportunity,Tier 3,0.75,35.7235,-79.4622,a9ce5f68-4839-4ec8-8b6f-17bef5c5577e,Open,Initial Interest,Top of Funnel,Nick Martino,5/12/2026,5/6/2026,,,24,2026-05-15,24,,,,
-001Hr000028Zccl,"City Of Dunn, NC",North Carolina,Municipality,Nick Martino,8434,Open Opportunity,Tier 3,0.75,35.3063,-78.6089,7bca2810-a3b5-4d7f-9fa5-8d88bd650164,Open,Meeting Booked,Top of Funnel,Nick Martino,6/8/2026,5/12/2026,,,11,2026-05-19,11,,,,
-001Hr000028Zccm,"Town Of Aberdeen, NC",North Carolina,Municipality,Nick Martino,9036,,Tier 3,0.75,35.1315,-79.4295,95056fe3-794d-483a-aaf0-009a6a4440cf,,,,,,,,,20,2026-04-07,20,,,,
-001Hr000028Zccq,"City Of Whiteville, NC",North Carolina,Municipality,Nick Martino,4688,,Tier 3,0.75,34.3388,-78.7031,0022fa31-d3d2-437a-ae5c-5a23cb0b2698,,,,,,,,,,,,,,,
-001Hr000028Zccv,"Town Of Unionville, NC",North Carolina,Municipality,Nick Martino,6788,,Tier 3,0.75,35.0874,-80.509,1db44afd-1abe-4043-9395-f94384718a6f,,,,,,,,,10,2026-04-02,10,,,,
-001Hr000028Zcd0,"City Of Roxboro, NC",North Carolina,Municipality,Ben Laddis,8089,,Tier 3,0.75,36.3938,-78.9828,c0180dbf-c886-461c-bcee-c497509b4e0b,,,,,,,,,12,2026-01-15,12,,,,
-001Hr000028Zcd5,"Town Of Rolesville, NC",North Carolina,Municipality,Kenneth Taylor,10047,All Modules Live,Tier 2,1.0,35.9232,-78.4575,1b9de2b1-17c7-4950-b5e6-83ef6842e397,Closed Won,,,Troy LeCaire,3/27/2024,2/3/2025,"$16,500",,,,,,,,
-001Hr000028ZcdA,"Village Of Marvin, NC",North Carolina,Municipality,Nick Martino,6510,,Tier 3,0.75,34.9918,-80.8148,65e348bb-0ac3-45a9-9128-a0839e3f577d,,,,,,,,,2,2026-04-23,2,,,,
-001Hr000028ZcdF,"Village Of Pinehurst, NC",North Carolina,Municipality,Nick Martino,18019,Nurture,Tier 2,1.0,35.1954,-79.4695,03d41c89-d71c-4305-ab04-2679acb88123,Open,Initial Interest,Top of Funnel,,,1/5/2025,,,50,2026-01-23,50,,,,
-001Hr000028Zd5b,"Johnston County, NC",North Carolina,County,Ben Laddis,249794,,Tier S,2.0,35.4404,-78.3842,038ccb9b-88c3-4c77-8d10-6fb11461e0d0,,,,,,,,,,,,,,,
-001Hr000028Zd95,"Alamance County, NC",North Carolina,County,Nick Martino,183040,Nurture,Tier S,2.0,36.0117,-79.4254,27006d12-7707-44ae-bb7e-2b6460791c4d,Closed Lost,,,Shane Lieberman,8/21/2024,1/5/2025,"$45,000",,,,,,,,
-001Hr000028ZdEE,"Catawba County, NC",North Carolina,County,Ben Laddis,164645,,Tier S,2.0,35.6841,-81.2519,4e910b11-eb26-4ca2-b99f-012c0b6c726d,,,,,,,,,14,2026-04-07,14,,,,
-001Hr000028ZdK6,"Beaufort County, NC",North Carolina,County,Nick Martino,44481,,Tier 1,1.5,35.4614,-76.9182,abd8b25f-7cda-428e-9e78-c93511886da5,,,,,,,,,4,2025-10-22,4,,,,
-001Hr000028ZdOP,"Moore County, NC",North Carolina,County,Ben Laddis,108417,,Tier S,2.0,35.3674,-79.4704,b3c68c75-8761-425a-92c5-85a2e215d792,,,,,,,,,,,,,,,
-001Hr000028ZdPW,"Craven County, NC",North Carolina,County,Nick Martino,104167,,Tier S,2.0,35.0878,-77.0564,6cb56255-38a7-4406-8743-b4c23ce54b82,,,,,,,,,5,2025-05-28,,5,,,
-001Hr000028ZdTy,"Person County, NC",North Carolina,County,Nick Martino,40143,,Tier 1,1.5,36.3528,-78.9288,edb5c23b-85fa-429a-a6f3-2c87d4e97820,,,,,,,,,,,,,,,
-001Hr000028Zdbn,"Richmond County, NC",North Carolina,County,Nick Martino,42324,,Tier 1,1.5,35.003,-79.7848,7017197f-2db1-4094-a2e8-a1db879ed3fb,,,,,,,,,,,,,,,
-001Hr000028Zdf8,"Pitt County, NC",North Carolina,County,Ben Laddis,180783,,Tier S,2.0,35.5589,-77.4243,bf7637b7-e9f3-4702-8a1e-d6f261b6234f,,,,,,,,,4,2025-05-27,,4,,,
-001Hr000028Zdgv,"Gaston County, NC",North Carolina,County,Ben Laddis,242010,,Tier S,2.0,35.2896,-81.2078,4c23c45d-61a7-489e-ad0d-63c08dbfae1e,,,,,,,,,,,,,,,
-001Hr000028Zdh0,"Franklin County, NC",North Carolina,County,Nick Martino,,,Tier 3,0.75,36.073,-78.2476,4a8ae285-e54c-4765-8e78-ace562859156,,,,,,,,,,,,,,,
-001Hr000028Zdhs,"Halifax County, NC",North Carolina,County,Ben Laddis,46992,,Tier 1,1.5,36.2647,-77.6078,e07c72f4-6004-4776-bc3a-90410f6be964,,,,,,,,,6,2025-06-23,,6,,,
-001Hr000028Zdlv,"Pender County, NC",North Carolina,County,Nick Martino,70077,Nurture,Tier S,2.0,34.5171,-77.8367,9d74ae20-3ea6-415d-8a47-3f04285772e3,Closed Lost,,,Nick Martino,10/28/2025,10/16/2025,,,6,2025-07-29,1,5,,,
-001Hr000028Zdlw,"County Of Vance, NC",North Carolina,County,Ben Laddis,42185,Implementation,Tier 1,1.5,36.3479,-78.4297,68231393-0371-486a-9602-7536b4205580,Closed Won,,,Nick Martino,2/4/2026,2/2/2026,"$20,000",,11,2026-01-29,11,,,,
-001Hr000028Zdlx,"Rowan County, NC",North Carolina,County,Nick Martino,153384,,Tier S,2.0,35.6303,-80.5438,12b9f3d9-7243-4f27-976c-68e3a3e85b71,,,,,,,,,,,,,,,
-001Hr000028ZdmQ,"Harnett County, NC",North Carolina,County,Ben Laddis,146096,,Tier S,2.0,35.3579,-78.8836,dbe8b0f5-99d1-4512-816b-6734f9a3fc6e,,,,,,,,,,,,,,,
-001Hr000028ZdmT,"Montgomery County, NC",North Carolina,County,Ben Laddis,,,Tier 3,0.75,35.3588,-79.8745,08c38639-48f2-45d9-973f-e5a91de67577,,,,,,,,,,,,,,,
-001Hr000028Zdn4,"Union County, NC",North Carolina,County,Ben Laddis,238267,,Tier S,2.0,34.9339,-80.5438,62e99393-b912-46af-afc4-e63543a763a9,,,,,,,,,10,2026-04-23,6,4,,,
-001Hr000028Zdn8,"Rockingham County, NC",North Carolina,County,Ben Laddis,92518,Open Opportunity,Tier S,2.0,36.4335,-79.8297,48c519cb-e8c7-4600-b4cc-0298db0694ce,Open,Initial Interest,Top of Funnel,Harrison Peacock,11/20/2024,1/5/2025,,,,,,,,,
-001Hr000028ZdnD,"Rutherford County, NC",North Carolina,County,Nick Martino,65507,Open Opportunity,Tier S,2.0,35.4259,-81.9098,fdecae5d-5084-45cb-90f8-14ba597cbd0d,Open,Initial Interest,Top of Funnel,Joe del Rosario,4/10/2025,3/26/2025,,,2,2025-08-05,,2,,,
-001Hr000028ZdnR,"Orange County, NC",North Carolina,County,Nick Martino,,,Tier 3,0.75,36.0263,-79.1097,4cbc55f9-1479-44ca-ba2f-2db6944711df,,,,,,,,,8,2026-04-13,8,,,,
-001Hr000028Zdo4,"Brunswick County, NC",North Carolina,County,Ben Laddis,159964,,Tier S,2.0,34.0275,-78.202,5c37df78-899f-424e-8802-79bb19281cdc,,,,,,,,,23,2026-02-09,23,,,,
-001Hr000028ZdoH,"Cabarrus County, NC",North Carolina,County,Ben Laddis,244925,,Tier S,2.0,35.4168,-80.5883,a43fbac6-2cec-4bfc-a8c5-ef4ab4128e4a,,,,,,,,,,,,,,,
-001Hr000028ZdpG,"Carteret County, NC",North Carolina,County,Nick Martino,69615,,Tier S,2.0,34.9019,-76.5488,4f90073d-1c25-498f-8212-f1ddc03c99bd,,,,,,,,,4,2025-10-23,4,,,,
-001Hr000028Zdpw,"Chatham County, NC",North Carolina,County,Ben Laddis,81624,,Tier S,2.0,35.6978,-79.2902,48ef6065-140f-4a30-91f6-99a7f40389ba,,,,,,,,,,,,,,,
-001Hr000028Zdqg,"Robeson County, NC",North Carolina,County,Ben Laddis,118624,Open Opportunity,Tier S,2.0,34.6384,-79.1097,ef431e45-3bcf-48ac-a2cb-67da33466b53,Open,Initial Interest,Top of Funnel,Harrison Peacock,9/13/2024,1/5/2025,,,2,2026-05-18,,,2,,
-001Hr000028Zdqq,"Cleveland County, NC",North Carolina,County,Nick Martino,101378,Open Opportunity,Tier S,2.0,35.3614,-81.6035,3f25d963-8dd9-4e6a-8b3e-43344e867b92,Open,Initial Interest,Top of Funnel,Nick Martino,2/6/2026,1/20/2026,,Yes,19,2026-04-16,19,,,,
-001Hr000028ZdrA,"Nash County, NC",North Carolina,County,Ben Laddis,97990,,Tier S,2.0,35.9598,-77.9739,7498d95a-c530-4c15-8b77-2b751f82787b,,,,,,,,,,,,,,,
-001Hr000028ZdrZ,"Henderson County, NC",North Carolina,County,Nick Martino,,,Tier 3,0.75,35.3726,-82.4319,359777be-9ffc-4720-96ab-6facf8faf166,,,,,,,,,2,2026-05-19,,,2,,
-001Hr000028Zdrr,"Lenoir County, NC",North Carolina,County,Ben Laddis,55332,,Tier S,2.0,35.2327,-77.6078,72487b34-34a4-4d64-b802-ff97916e2249,,,,,,,,,,,,,,,
-001Hr000028Zds7,"Iredell County, NC",North Carolina,County,Nick Martino,206361,Open Opportunity,Tier S,2.0,35.831,-80.8987,c917fa9e-8197-44cd-9183-81105b3b93c9,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,9,2026-04-17,9,,,,
-001Hr000028ZdsQ,"Duplin County, NC",North Carolina,County,Nick Martino,50539,,Tier S,2.0,34.884,-78.0195,7f393c2e-1133-4416-a98c-29e5527a2863,,,,,,,,,,,,,,,
-001Hr000028ZdsV,"Dare County, NC",North Carolina,County,Ben Laddis,38183,,Tier 1,1.5,35.7015,-75.7378,2f502920-3cd3-4e18-b436-873eca27c0d9,,,,,,,,,,,,,,,
-001Hr000028Zdt5,"Wayne County, NC",North Carolina,County,Ben Laddis,,,Tier 3,0.75,35.3565,-77.9739,567b1ffe-e2a1-4544-b62d-061b0bd096b4,,,,,,,,,,,,,,,
-001Hr000028Zdtd,"Stokes County, NC",North Carolina,County,Nick Martino,45857,,Tier 1,1.5,36.4244,-80.2321,315fa1cf-cf9f-4ac8-bbb8-07082a68a144,,,,,,,,,,,,,,,
-001Hr000028Zdtx,"New Hanover County, NC",North Carolina,County,Ben Laddis,243333,,Tier S,2.0,34.2155,-77.8825,d7e24ecd-3d50-4a88-bbc0-be2ac5a5447e,,,,,,,,,,,,,,,
-001Hr000028Zj5C,"Davidson County, NC",North Carolina,County,Ben Laddis,174804,Open Opportunity,Tier S,2.0,35.7748,-80.1875,ace6581e-a08e-4f21-8747-4bde77bdfb7d,Open,Initial Interest,Top of Funnel,Ben Laddis,,5/18/2026,,Yes,4,2026-05-18,,,4,,
-001Hr000028ZjIn,"Town Of Kure Beach, NC",North Carolina,Municipality,Nick Martino,2148,Nurture,Tier 3,0.75,33.9968,-77.9072,8118d69d-0d93-43ef-b734-b33228ce8c2e,Closed Lost,,,Shane Lieberman,8/14/2024,1/5/2025,"$15,000",,,,,,,,
-001Hr000028ZjNs,"County Of Surry, NC",North Carolina,County,Nick Martino,71152,Nurture,Tier S,2.0,36.3743,-80.6771,ef292ea3-faa1-4044-a852-2247292fa1cb,Closed Lost,,,Shane Lieberman,8/21/2024,1/5/2025,,,4,2025-06-02,,4,,,
-001Hr000028Zjsh,"County Of Martin, NC",North Carolina,County,Ben Laddis,21754,Recent Competitor Purchase,Tier 2,1.0,35.8733,-77.1485,a546bb57-6f59-4b0f-8b13-a2df83d1d086,Closed Lost,,,Shane Lieberman,1/6/2025,1/3/2025,,,,,,,,,
-001cv00000AuWOh,"Town Of Mars Hill, NC",North Carolina,Municipality,Ben Laddis,2022,,Tier 3,0.75,35.8265,-82.5493,17e5d573-771c-4ebc-8c2b-af44d5d48250,,,,,,,,,,,,,,,
-001cv00000AuWPb,"Town Of Badin, NC",North Carolina,Municipality,Nick Martino,2034,,Tier 3,0.75,35.4035,-80.1177,57d02edd-e166-4b3d-97ea-f701301dc7f7,,,,,,,,,,,,,,,
-001cv00000AuWXV,"Town Of St Pauls, NC",North Carolina,Municipality,Ben Laddis,2055,,Tier 3,0.75,34.8066,-78.9711,7a46cd04-0ebf-47f3-9879-80589cbb8ae4,,,,,,,,,,,,,,,
-001cv00000AuWak,"Town Of Maxton, NC",North Carolina,Municipality,Nick Martino,2116,,Tier 3,0.75,34.7352,-79.3489,01b620c1-0319-44fe-8ca6-2d8c2d68350f,,,,,,,,,,,,,,,
-001cv00000AuWar,"Town Of Youngsville, NC",North Carolina,Municipality,Nick Martino,2119,,Tier 3,0.75,36.0249,-78.4744,0fb82d04-8033-4132-aa6b-dc1f856e5d1f,,,,,,,,,3,2025-12-17,3,,,,
-001cv00000AuWav,"Town Of Madison, NC",North Carolina,Municipality,Ben Laddis,2120,,Tier 3,0.75,36.3854,-79.9595,96d30bff-16c8-4731-bf0a-7fac06cee3c2,,,,,,,,,,,,,,,
-001cv00000AuWbr,"Town Of Pine Level, NC",North Carolina,Municipality,Ben Laddis,2139,,Tier 3,0.75,35.5132,-78.2444,4b8bda7c-2c7b-4a8b-be0e-af4187585973,,,,,,,,,11,2026-01-20,11,,,,
-001cv00000AuWdC,"Town Of Oakboro, NC",North Carolina,Municipality,Nick Martino,2162,,Tier 3,0.75,35.2257,-80.329,4ae13113-02bc-4476-82af-d3b3eea38120,,,,,,,,,,,,,,,
-001cv00000AuWpC,"Town Of Fairmont, NC",North Carolina,Municipality,Ben Laddis,2176,,Tier 3,0.75,34.4968,-79.1142,6b8c5898-b156-4793-8f5f-b38113317add,,,,,,,,,,,,,,,
-001cv00000AuWpy,"Town Of Coats, NC",North Carolina,Municipality,Nick Martino,2189,,Tier 3,0.75,35.4079,-78.672,33d168f4-3697-4657-850b-06d39970b854,,,,,,,,,,,,,,,
-001cv00000AuWq8,"Town Of Calabash, NC",North Carolina,Municipality,Ben Laddis,2192,,Tier 3,0.75,33.8912,-78.5671,0fce3708-af9c-4264-b8dd-43849e581768,,,,,,,,,,,,,,,
-001cv00000AuWrA,"Town Of Spruce Pine, NC",North Carolina,Municipality,Nick Martino,2216,,Tier 3,0.75,35.9154,-82.0646,6d5569de-4bd6-4b2b-a750-88ed1ec0367c,,,,,,,,,,,,,,,
-001cv00000AuWrr,"Town Of Laurel Park, NC",North Carolina,Municipality,Ben Laddis,2233,,Tier 3,0.75,35.3137,-82.4935,84ef6ae6-34b4-4770-9498-b85e47529b02,,,,,,,,,,,,,,,
-001cv00000AuWya,"Town Of Richlands, NC",North Carolina,Municipality,Nick Martino,2302,,Tier 3,0.75,34.8993,-77.5466,775baf17-e860-452c-a5e1-02a19a9983bd,,,,,,,,,,,,,,,
-001cv00000AuX5V,"Town Of Cape Carteret, NC",North Carolina,Municipality,Ben Laddis,2249,,Tier 3,0.75,34.6916,-77.063,4ecb8775-af24-412f-b92a-7cc1728a0974,,,,,,,,,,,,,,,
-001cv00000AuX68,"Town Of Haw River, NC",North Carolina,Municipality,Nick Martino,2263,,Tier 3,0.75,36.095,-79.3567,40a8f539-7188-4904-a9a0-1aa801bba4e6,,,,,,,,,,,,,,,
-001cv00000AuX8h,"Town Of Jonesville, NC",North Carolina,Municipality,Ben Laddis,2314,,Tier 3,0.75,36.2393,-80.8445,e018546c-35c1-462b-8810-1d532b0c86c6,,,,,,,,,,,,,,,
-001cv00000AuX8p,"Town Of Rockwell, NC",North Carolina,Municipality,Nick Martino,2317,,Tier 3,0.75,35.5513,-80.4064,14565789-84a5-4a2b-8730-aa7a93b1c086,,,,,,,,,,,,,,,
-001cv00000AuX8w,"Town Of Taylorsville, NC",North Carolina,Municipality,Ben Laddis,2320,,Tier 3,0.75,35.9224,-81.174,2b720de0-f02d-4462-b958-a74e76f9f5a8,,,,,,,,,,,,,,,
-001cv00000AuX9L,"Town Of Four Oaks, NC",North Carolina,Municipality,Nick Martino,2331,,Tier 3,0.75,35.4449,-78.4269,5df9e6e7-f03b-4d54-ac4b-7b2325a91620,,,,,,,,,,,,,,,
-001cv00000AuXN0,"Town Of Swepsonville, NC",North Carolina,Municipality,Ben Laddis,2456,,Tier 3,0.75,36.0297,-79.3594,c9dc0aa8-43b5-40d9-a484-0957cf366ced,,,,,,,,,,,,,,,
-001cv00000AuXNP,"Town Of Grifton, NC",North Carolina,Municipality,Nick Martino,2467,,Tier 3,0.75,35.3727,-77.4375,b9557be7-b2a9-4b7a-ba95-4e5d48ce038c,,,,,,,,,,,,,,,
-001cv00000AuXPN,"Town Of Murfreesboro, NC",North Carolina,Municipality,Ben Laddis,2512,,Tier 3,0.75,36.4424,-77.0986,bf194a3f-c541-4de4-be3a-977a058e6c0b,,,,,,,,,,,,,,,
-001cv00000AuXUi,"Town Of Marshville, NC",North Carolina,Municipality,Nick Martino,2565,,Tier 3,0.75,34.9885,-80.367,36f684fd-67d1-46e6-af97-0a1261092c92,,,,,,,,,,,,,,,
-001cv00000AuXV0,"Town Of Franklinton, NC",North Carolina,Municipality,Ben Laddis,2572,,Tier 3,0.75,36.1018,-78.4581,481c2070-7805-4ff2-914f-53796fd4050a,,,,,,,,,,,,,,,
-001cv00000AuXZk,"Town Of Carthage, NC",North Carolina,Municipality,Nick Martino,2781,,Tier 3,0.75,35.346,-79.417,2916bff6-df57-48ca-a703-dbccd5a4be97,,,,,,,,,,,,,,,
-001cv00000AuXiL,"Town Of Yadkinville, NC",North Carolina,Municipality,Ben Laddis,2792,,Tier 3,0.75,36.1346,-80.6595,1e4af660-3561-4cab-9f54-647f47f3ee29,,,,,,,,,,,,,,,
-001cv00000AuXj5,"Town Of Pembroke, NC",North Carolina,Municipality,Nick Martino,2812,,Tier 3,0.75,34.6802,-79.195,3c1ce614-b983-4788-b942-ae35783b48cb,,,,,,,,,,,,,,,
-001cv00000AuXlf,"Town Of River Bend, NC",North Carolina,Municipality,Ben Laddis,2881,,Tier 3,0.75,35.069,-77.1469,8e2d5804-f62d-4ad6-b954-fe51e1550186,,,,,,,,,,,,,,,
-001cv00000AuXmi,"Town Of Troy, NC",North Carolina,Municipality,Nick Martino,2913,,Tier 3,0.75,35.3585,-79.8945,827ecc57-2110-46ba-bbf0-3b4e5c5b3439,,,,,,,,,,,,,,,
-001cv00000AuXzI,"Town Of Burgaw, NC",North Carolina,Municipality,Ben Laddis,3071,,Tier 3,0.75,34.5521,-77.9261,b91c30e6-0e44-4f86-af74-83c962b05001,,,,,,,,,,,,,,,
-001cv00000AuYAW,"Town Of Green Level, NC",North Carolina,Municipality,Nick Martino,3174,,Tier 3,0.75,36.121,-79.3502,9fece132-0959-49b6-918a-263ead41d55a,,,,,,,,,,,,,,,
-001cv00000AuYAa,"Town Of Southern Shores, NC",North Carolina,Municipality,Ben Laddis,3175,,Tier 3,0.75,36.1391,-75.7316,556331c7-5587-445c-b022-21b6ac051e82,,,,,,,,,,,,,,,
-001cv00000AuYAq,"Town Of Nags Head, NC",North Carolina,Municipality,Nick Martino,3182,,Tier 3,0.75,35.9574,-75.6241,07c63c91-c1fe-4ece-924c-040ebcfcf850,,,,,,,,,,,,,,,
-001cv00000AuYBT,"Town Of Red Springs, NC",North Carolina,Municipality,Ben Laddis,3096,,Tier 3,0.75,34.8152,-79.1831,272a3ad3-629f-4a52-816b-00056a3c744b,,,,,,,,,,,,,,,
-001cv00000AuYBn,"Town Of Wallburg, NC",North Carolina,Municipality,Nick Martino,3107,,Tier 3,0.75,36.0101,-80.1392,36f1bb4e-f8ec-4a1d-8f7b-b665129fbb75,,,,,,,,,,,,,,,
-001cv00000AuYCV,"Town Of Elizabethtown, NC",North Carolina,Municipality,Ben Laddis,3132,,Tier 3,0.75,34.6293,-78.6053,545f108c-d254-4ecf-9165-db8c6efb44c3,,,,,,,,,,,,,,,
-001cv00000AuYCk,"Town Of Bermuda Run, NC",North Carolina,Municipality,Nick Martino,3141,,Tier 3,0.75,36.0005,-80.4268,524c95f1-13e6-49a1-9c47-ff6bd02e7bfd,,,,,,,,,,,,,,,
-001cv00000AuYF6,"Town Of Granite Quarry, NC",North Carolina,Municipality,Ben Laddis,3006,,Tier 3,0.75,35.6124,-80.4467,97209f33-9955-4cf1-88ab-6cc098440b93,,,,,,,,,,,,,,,
-001cv00000AuYFC,"Town Of Louisburg, NC",North Carolina,Municipality,Nick Martino,3008,Nurture,Tier 3,0.75,36.099,-78.3011,a94d1d9d-7b8c-4114-9d0a-f6b7b1a62fe4,Closed Lost,,,Nick Martino,1/26/2026,12/10/2025,"$17,000",,11,2026-05-18,11,,,,
-001cv00000AuYIC,"Town Of Wallace, NC",North Carolina,Municipality,Nick Martino,3315,,Tier 3,0.75,34.7357,-77.9953,01acaeeb-f5c0-4ab8-a727-c1be80fa7756,,,,,,,,,,,,,,,
-001cv00000AuYID,"Town Of Spencer, NC",North Carolina,Municipality,Ben Laddis,3315,,Tier 3,0.75,35.6924,-80.4347,a97b23db-6f67-4301-8dbd-b55552ae642a,,,,,,,,,,,,,,,
-001cv00000AuYIi,"Village Of Lake Park, NC",North Carolina,Municipality,Nick Martino,3335,,Tier 3,0.75,35.0863,-80.6351,cb1d727e-0c4d-49c7-b2bb-1ba1b604e5d4,,,,,,,,,,,,,,,
-001cv00000AuYJ1,"Town Of Red Oak, NC",North Carolina,Municipality,Ben Laddis,3349,,Tier 3,0.75,36.0385,-77.9064,b8706666-4110-4ea9-b68d-3d0a7b70f9ca,,,,,,,,,,,,,,,
-001cv00000AuYJA,"Town Of Windsor, NC",North Carolina,Municipality,Nick Martino,3354,,Tier 3,0.75,35.9985,-76.9461,2fb2adbc-a84d-4c70-a74e-7748060b4716,,,,,,,,,,,,,,,
-001cv00000AuYKq,"Town Of Rural Hall, NC",North Carolina,Municipality,Ben Laddis,3413,,Tier 3,0.75,36.2404,-80.2934,82d645fa-6b47-45e9-ab64-611448892b5a,,,,,,,,,,,,,,,
-001cv00000AuYN1,"Village Of Flat Rock, NC",North Carolina,Municipality,Ben Laddis,3504,,Tier 3,0.75,35.2712,-82.4415,040ff731-2702-4480-8ef8-9b7221e84a51,,,,,,,,,5,2025-12-18,5,,,,
-001cv00000AuYOq,"Town Of Plymouth, NC",North Carolina,Municipality,Nick Martino,3230,,Tier 3,0.75,35.8668,-76.7486,fc538dc4-e831-4dc6-b271-71fb68c16a6e,,,,,,,,,,,,,,,
-001cv00000AuYOy,"Town Of Mineral Springs, NC",North Carolina,Municipality,Ben Laddis,3235,,Tier 3,0.75,34.9379,-80.6687,c2e1794e-490d-40cd-8154-784bd24abc8c,,,,,,,,,,,,,,,
-001cv00000AuYPO,"County Of Tyrrell, NC",North Carolina,County,Nick Martino,3254,,Tier 3,0.75,35.8926,-76.1784,944b038a-e8eb-4d8a-90ff-afe7586275a8,,,,,,,,,,,,,,,
-001cv00000AuYRB,"Town Of Fairview, NC",North Carolina,Municipality,Nick Martino,3540,,Tier 3,0.75,35.514,-82.396,9104db75-caac-4322-b58d-d97e20d21e00,,,,,,,,,,,,,,,
-001cv00000AuYRx,"Town Of Wilkesboro, NC",North Carolina,Municipality,Ben Laddis,3575,,Tier 3,0.75,36.146,-81.1606,e0e15bdf-5531-48f9-b738-b0b1d4bc4d93,,,,,,,,,,,,,,,
-001cv00000AuYSo,"Town Of Rutherfordton, NC",North Carolina,Municipality,Nick Martino,3621,Nurture,Tier 3,0.75,35.3693,-81.9568,42f700ea-b3a8-484d-8da6-73eaa434982a,Closed Lost,,,Nick Martino,12/15/2025,12/10/2025,,,1,2025-12-10,1,,,,
-001cv00000AuYfT,"Town Of North Wilkesboro, NC",North Carolina,Municipality,Nick Martino,4239,,Tier 3,0.75,36.1585,-81.1476,1661bba8-9c73-4fc1-8100-8feb8151a5c1,,,,,,,,,9,2025-07-30,9,,,,
-001cv00000AuYfu,"Town Of Troutman, NC",North Carolina,Municipality,Nick Martino,3809,,Tier 3,0.75,35.7021,-80.8888,69d761f0-b38b-4b71-a042-1a4bdfda3a53,,,,,,,,,13,2026-04-07,13,,,,
-001cv00000AuYgF,"Town Of Swansboro, NC",North Carolina,Municipality,Nick Martino,3825,,Tier 3,0.75,34.6877,-77.1191,2b73fa2e-dbaa-4e01-a317-19cca8d247ff,,,,,,,,,,,,,,,
-001cv00000AuYhY,"Town Of Emerald Isle, NC",North Carolina,Municipality,Nick Martino,3891,,Tier 3,0.75,34.6779,-76.9508,35a18109-bcf3-4393-950c-ff12b93441a4,,,,,,,,,5,2026-01-06,5,,,,
-001cv00000AuYhq,"Town Of Wingate, NC",North Carolina,Municipality,Ben Laddis,3907,,Tier 3,0.75,34.9843,-80.4492,77f7916a-a22b-4fb5-a388-4b526a8d3a2e,,,,,,,,,,,,,,,
-001cv00000AuYlq,"Town Of Trent Woods, NC",North Carolina,Municipality,Nick Martino,4004,,Tier 3,0.75,35.0821,-77.0863,e2393c5e-f897-4fda-85bf-d2b2bdd16fb6,,,,,,,,,10,2025-08-01,10,,,,
-001cv00000AuYlr,"Town Of Stanley, NC",North Carolina,Municipality,Ben Laddis,4004,,Tier 3,0.75,35.3535,-81.0903,96ee0c8c-2e8e-4b7e-80e2-c786f56ac726,,,,,,,,,5,2025-11-12,5,,,,
-001cv00000AuYmQ,"Town Of Mount Olive, NC",North Carolina,Municipality,Nick Martino,4036,,Tier 3,0.75,35.1966,-78.0664,043e17f6-6a24-490a-ab5b-d23782a3ef9c,,,,,,,,,10,2025-08-04,10,,,,
-001cv00000AuYmr,"Town Of Elkin, NC",North Carolina,Municipality,Nick Martino,4060,,Tier 3,0.75,36.2443,-80.8484,90774f74-47dc-4e39-aaac-08907d461ab8,,,,,,,,,2,2025-07-10,2,,,,
-001cv00000AuYnq,"Town Of Benson, NC",North Carolina,Municipality,Ben Laddis,4103,,Tier 3,0.75,35.3821,-78.5486,2ec97af5-a0d3-4f48-9298-15642b328611,,,,,,,,,10,2025-07-31,10,,,,
-001cv00000AuYoB,"Town Of Surf City, NC",North Carolina,Municipality,Nick Martino,4119,,Tier 3,0.75,34.4271,-77.5461,d4a3b275-6d3f-4090-ba50-d561205357e7,,,,,,,,,3,2025-07-09,3,,,,
-001cv00000AuYoF,"City Of Southport, NC",North Carolina,Municipality,Ben Laddis,4124,,Tier 3,0.75,33.9182,-78.0193,6c4fc553-c3e5-45de-ba61-c67fd8961a48,,,,,,,,,7,2025-07-17,7,,,,
-001cv00000AuYou,"Town Of Spindale, NC",North Carolina,Municipality,Nick Martino,4163,,Tier 3,0.75,35.3601,-81.9293,6edb7947-4ead-4a70-960e-640f2d6eaf14,,,,,,,,,6,2025-07-24,6,,,,
-001cv00000AuYq9,"Town Of Franklin, NC",North Carolina,Municipality,Ben Laddis,4233,,Tier 3,0.75,35.1823,-83.3815,557ed212-aace-4b04-a511-b691098af70a,,,,,,,,,32,2026-01-27,32,,,,
-001cv00000AuYqu,"Town Of Tabor City, NC",North Carolina,Municipality,Nick Martino,3674,,Tier 3,0.75,34.1488,-78.8767,99883034-0bbc-431c-8180-a37c06ed4dad,,,,,,,,,,,,,,,
-001cv00000AuYqv,"Town Of Eastover, NC",North Carolina,Municipality,Ben Laddis,3675,,Tier 3,0.75,35.0975,-78.783,0ff164eb-89d5-49fc-a04b-adec7f879714,,,,,,,,,,,,,,,
-001cv00000AuYrb,"City Of Lowell, NC",North Carolina,Municipality,Nick Martino,3701,,Tier 3,0.75,35.268,-81.0994,c3fff0da-68c2-4f8e-b571-40cf77652f09,,,,,,,,,,,,,,,
-001cv00000AuYrg,"Town Of Gamewell, NC",North Carolina,Municipality,Ben Laddis,3704,,Tier 3,0.75,35.8693,-81.5962,20fc2590-a277-41cb-966a-3e6d2553f4cd,,,,,,,,,,,,,,,
-001cv00000AuYrx,"Town Of Landis, NC",North Carolina,Municipality,Nick Martino,3712,,Tier 3,0.75,35.5457,-80.6109,c9875535-a545-45d9-8ca6-1c999119c514,,,,,,,,,,,,,,,
-001cv00000AuYs4,"Town Of Jamestown, NC",North Carolina,Municipality,Ben Laddis,3721,,Tier 3,0.75,35.9943,-79.9353,d61cbce6-99ec-4e99-b85b-9ceefb4ea405,,,,,,,,,,,,,,,
-001cv00000AuYs9,"Town Of Maiden, NC",North Carolina,Municipality,Nick Martino,3726,,Tier 3,0.75,35.5757,-81.2117,e410eb0c-830e-48d4-a06a-9fe65139c3f5,,,,,,,,,,,,,,,
-001cv00000AuYso,"Town Of Kitty Hawk, NC",North Carolina,Municipality,Ben Laddis,3761,,Tier 3,0.75,36.0646,-75.7057,bb20d110-c2f9-4e5b-b7e6-88ced865f821,,,,,,,,,,,,,,,
-001cv00000AuYt9,"Town Of Hudson, NC",North Carolina,Municipality,Nick Martino,3777,,Tier 3,0.75,35.8485,-81.4959,ab1e5517-f66e-4d3a-b655-065512d55bd4,,,,,,,,,,,,,,,
-001cv00000AuYuY,"Town Of Sunset Beach, NC",North Carolina,Municipality,Nick Martino,4270,,Tier 3,0.75,33.8821,-78.5184,40dd2e3b-9915-4c8d-836a-a93ac615dfba,,,,,,,,,7,2025-07-16,7,,,,
-001cv00000AuYvE,"Town Of Shallotte, NC",North Carolina,Municipality,Nick Martino,4310,Nurture,Tier 3,0.75,33.9793,-78.3765,c95a248d-5b1c-469c-b3d5-caf0de2f8ebb,Closed Lost,,,Nick Martino,1/5/2026,12/8/2025,,,4,2025-12-08,4,,,,
-001cv00000AuYwc,"Town Of Edenton, NC",North Carolina,Municipality,Ben Laddis,4391,,Tier 3,0.75,36.0579,-76.6077,f77e8108-ae5b-4687-878f-c61a7bb1e349,,,,,,,,,9,2025-08-01,9,,,,
-001cv00000AuYxn,"Town Of Canton, NC",North Carolina,Municipality,Nick Martino,4418,,Tier 3,0.75,35.5329,-82.8374,b5887238-0a9e-470b-8ecf-a6e21b5d18ad,,,,,,,,,9,2025-12-17,9,,,,
-001cv00000AuYxs,"Town Of Holly Ridge, NC",North Carolina,Municipality,Ben Laddis,4420,,Tier 3,0.75,34.4954,-77.555,be669ecc-eb87-40e2-8be4-3fac8bf9e910,,,,,,,,,8,2025-07-31,8,,,,
-001cv00000AuYyS,"Town Of China Grove, NC",North Carolina,Municipality,Nick Martino,4454,,Tier 3,0.75,35.5693,-80.5817,d0b18f27-a2a3-4740-a929-423626ddf435,,,,,,,,,4,2026-01-13,4,,,,
-001cv00000AuYyZ,"Town Of Newport, NC",North Carolina,Municipality,Nick Martino,4459,Nurture,Tier 3,0.75,34.7865,-76.8591,bb2ff6bf-3ac6-4523-9f78-a38db4bc7650,Closed Lost,,,Nick Martino,7/15/2025,7/14/2025,"$20,000",,4,2026-01-05,4,,,,
-001cv00000AuYyg,"Town Of Farmville, NC",North Carolina,Municipality,Nick Martino,4469,,Tier 3,0.75,35.5954,-77.5853,ab5cdad4-ca41-44c0-8287-c8c708167827,,,,,,,,,9,2025-08-04,9,,,,
-001cv00000AuYzB,"County Of Hyde, NC",North Carolina,County,Nick Martino,4508,,Tier 3,0.75,35.3778,-76.1784,889b0050-7ba7-4e04-9fed-c69fff7a060f,,,,,,,,,4,2025-07-15,4,,,,
-001cv00000AuYzh,"Town Of Boiling Springs, NC",North Carolina,Municipality,Nick Martino,4536,,Tier 3,0.75,35.2543,-81.667,51634fdb-9fd2-44d8-8030-43e16ae23469,,,,,,,,,1,2025-07-11,1,,,,
-001cv00000AuZ01,"Town Of Lillington, NC",North Carolina,Municipality,Ben Laddis,4558,,Tier 3,0.75,35.3993,-78.8159,bf8c924e-837b-4682-ad74-799723bf37aa,,,,,,,,,16,2025-12-17,16,,,,
-001cv00000AuZ7t,"Town Of Cramerton, NC",North Carolina,Municipality,Nick Martino,5381,,Tier 3,0.75,35.2351,-81.072,824fd582-4533-4348-97ed-61ea5443bbef,,,,,,,,,3,2025-08-28,3,,,,
-001cv00000AuZ9y,"Town Of Carolina Shores, NC",North Carolina,Municipality,Nick Martino,4763,,Tier 3,0.75,33.9088,-78.5756,c940af4d-c807-4e03-9a92-10aaf72f4543,,,,,,,,,33,2026-02-24,33,,,,
-001cv00000AuZB5,"Town Of Dallas, NC",North Carolina,Municipality,Nick Martino,6016,,Tier 3,0.75,35.3165,-81.1758,e1b06752-1cac-43f2-958d-523c87c2e97d,,,,,,,,,1,2025-07-11,1,,,,
-001cv00000AuZLl,"Town Of Midland, NC",North Carolina,Municipality,Ben Laddis,4801,,Tier 3,0.75,35.2274,-80.5006,29f2f147-2120-4d80-b865-b09a8cbd6dc6,,,,,,,,,1,2025-07-11,1,,,,
-001cv00000AuZM1,"Town Of Midway, NC",North Carolina,Municipality,Nick Martino,4814,,Tier 3,0.75,35.9535,-80.2181,c2e5aac1-5d8a-4098-908a-07aee0257a47,,,,,,,,,10,2025-08-05,10,,,,
-001cv00000AuZN1,"Town Of Ahoskie, NC",North Carolina,Municipality,Nick Martino,4879,Nurture,Tier 3,0.75,36.2868,-76.9847,27bcdd2f-60fb-45d8-b681-bd2b4e53f6bd,Closed Lost,,,Nick Martino,7/22/2025,7/15/2025,,,3,2025-07-18,3,,,,
-001cv00000AuZNl,"Town Of Granite Falls, NC",North Carolina,Municipality,Ben Laddis,4927,,Tier 3,0.75,35.7965,-81.4306,3f0f3099-1078-4fb6-b4e1-e044d6c647b2,,,,,,,,,,,,,,,
-001cv00000AuZSQ,"City Of Creedmoor, NC",North Carolina,Municipality,Ben Laddis,5017,Open Opportunity,Tier 3,0.75,36.1224,-78.6861,022a5456-2ab5-45e0-9ba6-7e018e168cd8,Open,Proposal,Mid Funnel,Nick Martino,2/11/2026,2/3/2026,"$17,000",,28,2026-02-20,28,,,,
-001cv00000AuZSa,"Town Of Sawmills, NC",North Carolina,Municipality,Ben Laddis,5036,,Tier 3,0.75,35.8186,-81.48,42a81086-c37c-4772-8286-59c7a025a257,,,,,,,,,11,2025-09-11,11,,,,
-001cv00000AuZSg,"Town Of Pleasant Garden, NC",North Carolina,Municipality,Nick Martino,5044,,Tier 3,0.75,35.9621,-79.7623,dd3a2d8b-eb85-4d9d-a7c7-125c6150db2c,,,,,,,,,,,,,,,
-001cv00000AuZTK,"Village Of Whispering Pines, NC",North Carolina,Municipality,Nick Martino,5124,,Tier 3,0.75,35.2557,-79.3722,39680bf0-4521-4757-9559-0d2b2bef3dd4,,,,,,,,,2,2025-08-27,2,,,,
-001cv00000AuZTL,"Town Of Long View, NC",North Carolina,Municipality,Nick Martino,5125,,Tier 3,0.75,35.7293,-81.3834,d167884c-59bf-4194-a0b6-1c5e27959a23,,,,,,,,,9,2025-09-11,9,,,,
-001cv00000AuZVd,"County Of Graham, NC",North Carolina,County,Ben Laddis,8043,Open Opportunity,Tier 3,0.75,36.068,-79.4004,2f1c053b-6613-4ce0-bf01-bc8dd064452a,Open,Meeting Booked,Top of Funnel,Nick Martino,1/27/2026,1/15/2026,,,76,2026-04-20,76,,,,
-001cv00000AuZZN,"County Of Jones, NC",North Carolina,County,Ben Laddis,9255,,Tier 3,0.75,35.0306,-77.3324,54605680-c07f-48d3-ac53-e2b298acc966,,,,,,,,,,,,,,,
-001cv00000AuZaU,"County Of Clay, NC",North Carolina,County,Ben Laddis,11309,,Tier 2,1.0,35.0964,-83.7199,6e7d011d-7674-4ecc-b5cf-173a0687b888,,,,,,,,,,,,,,,
-001cv00000AuZcn,"County Of Gates, NC",North Carolina,County,Nick Martino,10366,,Tier 2,1.0,36.4202,-76.6875,8d0b5c89-3a6e-4b17-b835-abab7b4db19a,,,,,,,,,,,,,,,
-001cv00000AuZfw,"County Of Perquimans, NC",North Carolina,County,Ben Laddis,13130,,Tier 2,1.0,36.133,-76.41,49005baf-623b-482a-aa3b-9076c7603e5d,,,,,,,,,,,,,,,
-001cv00000AuZhX,"County Of Mitchell, NC",North Carolina,County,Nick Martino,14963,,Tier 2,1.0,36.0278,-82.1496,0ae995bc-edbc-4f10-8506-81f51cc09a6c,,,,,,,,,18,2025-10-06,18,,,,
-001cv00000AuZiM,"County Of Pamlico, NC",North Carolina,County,Nick Martino,12344,,Tier 2,1.0,35.1338,-76.6875,0e51c45a-874b-4b70-870e-9d322279ccbf,,,,,,,,,5,2025-09-10,5,,,,
-001cv00000AuZlS,"County Of Camden, NC",North Carolina,County,Ben Laddis,10835,,Tier 2,1.0,36.3281,-76.1718,55d24503-2016-4be9-b338-d6e4887196fb,,,,,,,,,3,2025-10-21,3,,,,
-001cv00000AuZlY,"County Of Washington, NC",North Carolina,County,Nick Martino,10892,,Tier 2,1.0,35.5466,-77.0522,63813317-6bf7-472b-b8d5-a0b907a12777,,,,,,,,,2,2026-02-06,2,,,,
-001cv00000AuZln,"County Of Alleghany, NC",North Carolina,County,Ben Laddis,11049,,Tier 2,1.0,36.4941,-81.1196,892df46e-746d-402f-8703-4f0b947163c6,,,,,,,,,15,2026-05-18,13,,2,,
-001cv00000AuZn3,"County Of Chowan, NC",North Carolina,County,Nick Martino,13722,,Tier 2,1.0,36.1354,-76.6182,9d8e35d4-2480-4613-b15a-f66e6a562eea,,,,,,,,,5,2025-07-17,5,,,,
-001cv00000AuZng,"County Of Swain, NC",North Carolina,County,Ben Laddis,14136,,Tier 2,1.0,35.4329,-83.4644,c1c0e895-2e79-4678-8e51-d7f9fbb04910,,,,,,,,,4,2025-12-10,4,,,,
-001cv00000AuZrg,"County Of Northampton, NC",North Carolina,County,Ben Laddis,17129,,Tier 2,1.0,36.416,-77.4243,0e821ad6-fa6e-4dad-8142-b9de94be7503,,,,,,,,,,,,,,,
-001cv00000AuZsc,"County Of Yancey, NC",North Carolina,County,Nick Martino,18757,,Tier 2,1.0,35.8889,-82.3452,cfef0af5-9772-4769-9e39-daf683a4553d,,,,,,,,,,,,,,,
-001cv00000AuZsd,"County Of Warren, NC",North Carolina,County,Ben Laddis,18762,,Tier 2,1.0,36.4352,-78.0195,544fa3e0-56c5-4836-94f9-6a351afed010,,,,,,,,,12,2026-02-19,12,,,,
-001cv00000AuZtH,"County Of Polk, NC",North Carolina,County,Nick Martino,19656,Open Opportunity,Tier 2,1.0,35.2687,-82.1714,d7bd84ba-737a-4fb8-a614-2c952b815ffd,Open,Meeting Booked,Top of Funnel,Nick Martino,3/18/2026,3/9/2026,,,68,2026-04-21,68,,,,
-001cv00000AuZtj,"County Of Bertie, NC",North Carolina,County,Ben Laddis,17505,,Tier 2,1.0,36.0245,-76.9643,89fb2ace-46b7-4fb1-bb49-91f6b205f901,,,,,,,,,12,2026-02-19,12,,,,
-001cv00000AuZu3,"County Of Avery, NC",North Carolina,County,Ben Laddis,17864,,Tier 2,1.0,36.1198,-81.9098,93331773-3f95-43e9-8e41-7e7e4f12913a,,,,,,,,,,,,,,,
-001cv00000AuZxg,"County Of Hertford, NC",North Carolina,County,Ben Laddis,21278,,Tier 2,1.0,36.3762,-77.0564,61bf6d1f-cf89-407f-ae0a-fd9ad0d20548,,,,,,,,,14,2026-02-25,14,,,,
-001cv00000AuZxs,"County Of Madison, NC",North Carolina,County,Ben Laddis,21502,,Tier 2,1.0,35.8238,-82.6915,73d2d660-aa29-4513-93c9-9fd78384b8ec,,,,,,,,,,,,,,,
-001cv00000Aua0w,"County Of Cherokee, NC",North Carolina,County,Nick Martino,29167,,Tier 1,1.5,35.1135,-84.059,10278e8d-16d2-45f3-936b-804cad32744c,Open,Initial Interest,Top of Funnel,Granger West,,1/21/2025,,,15,2026-01-16,15,,,,
-001cv00000Aua13,"County Of Bladen, NC",North Carolina,County,Ben Laddis,29525,,Tier 1,1.5,34.5882,-78.5661,1d6707a8-1d8d-403b-a1f8-191a68f07523,,,,,,,,,6,2026-05-19,,,6,,
-001cv00000Aua16,"County Of Currituck, NC",North Carolina,County,Nick Martino,29653,,Tier 1,1.5,36.419,-75.9463,ad9d8a71-5255-4c4e-961d-514ec217c03e,,,,,,,,,14,2026-04-23,14,,,,
-001cv00000Aua3i,"County Of Greene, NC",North Carolina,County,Ben Laddis,20417,,Tier 2,1.0,35.5014,-77.6994,366489f7-ddb3-4931-8bb6-675256103b96,,,,,,,,,7,2026-02-05,7,,,,
-001cv00000Aua5Z,"County Of Transylvania, NC",North Carolina,County,Ben Laddis,33165,Open Opportunity,Tier 1,1.5,35.2191,-82.7779,c56fcc5e-97d6-4833-82f1-f36f2e085a1b,Open,Proposal,Mid Funnel,Nick Martino,4/9/2026,4/8/2026,"$22,000",,35,2026-04-08,35,,,,
-001cv00000Aua61,"County Of Scotland, NC",North Carolina,County,Nick Martino,34227,Nurture,Tier 1,1.5,34.8451,-79.4704,214e5908-c1ec-44fe-ac7c-ef95407636fd,Closed Lost,,,Joe del Rosario,9/2/2025,4/9/2025,,,10,2025-09-22,,10,,,
-001cv00000Aua7r,"County Of Pasquotank, NC",North Carolina,County,Ben Laddis,40821,,Tier 1,1.5,36.2927,-76.3174,d9f7960a-a1d1-4d36-b5da-b8a8ab895a7c,,,,,,,,,7,2025-10-22,7,,,,
-001cv00000Aua9c,"County Of Anson, NC",North Carolina,County,Nick Martino,22060,,Tier 2,1.0,34.9055,-80.1875,f50c340d-4131-4566-886c-4e1438c70d0f,,,,,,,,,33,2026-03-04,33,,,,
-001cv00000AuaA0,"County Of Caswell, NC",North Carolina,County,Ben Laddis,22714,,Tier 2,1.0,36.386,-79.2902,37c6756a-675c-43cd-8376-b4dfdef24585,,,,,,,,,38,2026-03-09,38,,,,
-001cv00000AuaBZ,"County Of Ashe, NC",North Carolina,County,Ben Laddis,26711,,Tier 1,1.5,36.434,-81.4718,29c4fb71-6b57-4daf-b679-919e98476c66,,,,,,,,,,,,,,,
-001cv00000AuaDW,"County Of Alexander, NC",North Carolina,County,Nick Martino,36644,Nurture,Tier 1,1.5,35.8974,-81.2078,46b0147a-4cd9-4e8a-ac75-9d3c2f4e8b15,Closed Lost,,,Nick Martino,10/21/2025,10/9/2025,,,1,2025-10-09,1,,,,
-001cv00000AuaDq,"County Of Yadkin, NC",North Carolina,County,Ben Laddis,37192,,Tier 1,1.5,36.2024,-80.6771,a4058ad2-6552-435d-bfd3-4a4787b0b8bf,Closed Lost,,,Shane Lieberman,1/24/2025,1/24/2025,,,2,2026-02-09,2,,,,
-001cv00000AuaE0,"County Of Macon, NC",North Carolina,County,Nick Martino,37564,1+ Module Live,Tier 1,1.5,36.4388,-78.0839,7def0da7-c579-4178-ac3b-0e7209a5e583,Closed Won,,,Nick Martino,12/30/2025,12/16/2025,"$28,000",,11,2025-12-18,11,,,,
-001cv00000AuaGo,"County Of Jackson, NC",North Carolina,County,Ben Laddis,43410,,Tier 1,1.5,36.3896,-77.4214,eea025c5-dbdf-4a4a-a8e8-abb0c9fdb072,,,,,,,,,11,2026-01-15,11,,,,
-001cv00000AuaGs,"County Of Davie, NC",North Carolina,County,Nick Martino,43533,,Tier 1,1.5,35.9367,-80.5883,d241a822-19f8-4331-a0d7-5de05093000b,,,,,,,,,,,,,,,
-001cv00000AuaHI,"County Of Beaufort, NC",North Carolina,County,Ben Laddis,44468,,Tier 1,1.5,35.4614,-76.9182,abd8b25f-7cda-428e-9e78-c93511886da5,,,,,,,,,,,,,,,
-001cv00000AuaHN,"County Of Mcdowell, NC",North Carolina,County,Ben Laddis,44717,,Tier 1,1.5,35.6984,-82.0843,5dcbf6f2-8124-44d5-ba76-6638f65db6fa,,,,,,,,,22,2025-09-26,22,,,,
-001cv00000AuaKm,"County Of Columbus, NC",North Carolina,County,Ben Laddis,50092,,Tier S,2.0,34.2549,-78.7476,fa915988-a55d-4d28-b5d3-52870b1b22e5,,,,,,,,,,,,,,,
-001cv00000AuaLV,"County Of Hoke, NC",North Carolina,County,Nick Martino,53114,,Tier S,2.0,35.0432,-79.2451,e09e862e-dbe8-41aa-af90-219b433d3109,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,3,2025-07-30,3,,,,
-001cv00000AuaN6,"County Of Watauga, NC",North Carolina,County,Nick Martino,54234,Nurture,Tier S,2.0,36.1942,-81.7349,4369b971-82e9-45ee-94ba-0b89b6fc3985,Closed Lost,,,Nick Martino,1/8/2026,12/12/2025,,,19,2026-02-27,19,,,,
-001cv00000AuaOV,"County Of Granville, NC",North Carolina,County,Ben Laddis,61986,,Tier S,2.0,36.2799,-78.6115,1818057b-8f18-43c7-aa30-14435950d198,,,,,,,,,1,2025-12-10,1,,,,
-001cv00000AuaOb,"County Of Haywood, NC",North Carolina,County,Nick Martino,62476,,Tier S,2.0,35.6244,-82.9932,12505f24-afc6-41bf-8793-910c90720124,,,,,,,,,9,2025-12-11,9,,,,
-001cv00000AuaOh,"County Of Stanly, NC",North Carolina,County,Nick Martino,63425,,Tier S,2.0,35.3015,-80.2321,ca569d17-49fd-47d2-9f7f-568724bcc77b,,,,,,,,,,,,,,,
-001cv00000AuaOl,"County Of Lee, NC",North Carolina,County,Ben Laddis,64138,,Tier S,2.0,35.4694,-79.1549,b61bb42d-a899-48c1-aa40-a78d6c4c801d,,,,,,,,,,,,,,,
-001cv00000AuaPF,"County Of Wilkes, NC",North Carolina,County,Ben Laddis,65806,,Tier S,2.0,36.2029,-81.2519,79259063-98d2-4bd4-9dda-004887a4cf0a,,,,,,,,,,,,,,,
-001cv00000AuaR0,"County Of Burke, NC",North Carolina,County,Nick Martino,87611,,Tier S,2.0,35.7617,-81.7349,b321bb54-86c7-4deb-a3b5-be8e295cee1f,Open,Initial Interest,Top of Funnel,Granger West,,1/8/2025,,,9,2025-08-04,9,,,,
-001cv00000AuaRA,"County Of Lincoln, NC",North Carolina,County,Nick Martino,95670,Nurture,Tier S,2.0,35.4637,-81.2078,6b524055-b475-401e-92c2-05692b2b122e,Closed Lost,,,Nick Martino,7/28/2025,7/23/2025,,,1,2025-07-23,1,,,,
-001cv00000AuaSw,"County Of Sampson, NC",North Carolina,County,Nick Martino,58990,,Tier S,2.0,34.9198,-78.3842,85802dc9-8258-4f60-9890-88d080059f73,,,,,,,,,,,,,,,
-001cv00000AuaWu,"County Of Wilson, NC",North Carolina,County,Nick Martino,78369,,Tier S,2.0,35.6925,-77.8825,e336665f-6648-455b-90b1-2ce55c0e7296,,,,,,,,,,,,,,,
-001cv00000AuaX9,"County Of Caldwell, NC",North Carolina,County,Ben Laddis,80463,,Tier S,2.0,35.9227,-81.5596,2fdeec57-a7aa-4317-9689-f545037fb221,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,8,2026-01-28,8,,,,
-001cv00000B21qR,"Town Of Norwood, NC",North Carolina,Municipality,Ben Laddis,2403,,Tier 3,0.75,35.2196,-80.1189,a6ba12cd-8227-4629-a8e7-360d9516c6e5,,,,,,,,,,,,,,,
-001cv00000B21qu,"Town Of Mayodan, NC",North Carolina,Municipality,Nick Martino,2415,,Tier 3,0.75,36.4124,-79.967,95dd565f-0f1d-45f9-9379-16bb1fe4288e,,,,,,,,,,,,,,,
-001cv00000B21rE,"Town Of Wrightsville Beach, NC",North Carolina,Municipality,Ben Laddis,2421,,Tier 3,0.75,34.2085,-77.7964,f3d498be-1667-4d1d-84a8-b6a74c283bf8,,,,,,,,,10,2025-08-21,10,,,,
-001cv00000B21sP,"Town Of Belville, NC",North Carolina,Municipality,Ben Laddis,2447,,Tier 3,0.75,34.2311,-77.9925,c83e95dd-17d4-4e65-aa62-432ae8b4b2ad,,,,,,,,,,,,,,,
-001cv00000B21wQ,"Town Of Sylva, NC",North Carolina,Municipality,Nick Martino,2618,,Tier 3,0.75,35.3746,-83.2133,4fe4b862-7386-4ab5-8deb-45f04cf2b24b,,,,,,,,,,,,,,,
-001cv00000B21wa,"Town Of Tobaccoville, NC",North Carolina,Municipality,Ben Laddis,2622,,Tier 3,0.75,36.2382,-80.3714,437c8020-9782-4815-932b-08b5e8679ae2,,,,,,,,,,,,,,,
-001cv00000B21xn,"Town Of Wentworth, NC",North Carolina,Municipality,Nick Martino,2657,,Tier 3,0.75,36.4001,-79.7745,d92138c9-f884-4274-842b-9f4609bf86e8,,,,,,,,,,,,,,,
-001cv00000B21xy,"Town Of Wilson's Mills, NC",North Carolina,Municipality,Ben Laddis,2661,,Tier 3,0.75,35.584,-78.3558,91f9ce54-3542-4e4f-8a56-910384805555,,,,,,,,,,,,,,,
-001cv00000B21yP,"Town Of La Grange, NC",North Carolina,Municipality,Nick Martino,2672,,Tier 3,0.75,35.3068,-77.788,019a96b7-5dab-49c9-be1a-74e736868b81,,,,,,,,,,,,,,,
-001cv00000B21yZ,"Town Of Liberty, NC",North Carolina,Municipality,Ben Laddis,2676,,Tier 3,0.75,35.8535,-79.5717,c392b2d1-c51a-4ca0-8539-6f08f1d42dca,,,,,,,,,,,,,,,
-001cv00000B21yk,"Town Of Cajah Mountain, NC",North Carolina,Municipality,Nick Martino,2682,,Tier 3,0.75,35.848,-81.535,94c26c14-8823-468a-aaec-eab46908e669,,,,,,,,,,,,,,,
-001cv00000B21yn,"Town Of Warsaw, NC",North Carolina,Municipality,Ben Laddis,2683,,Tier 3,0.75,34.9993,-78.0911,bfbeedb3-39cd-4849-b131-e96a0e0b34ac,,,,,,,,,,,,,,,
-001cv00000B21z3,"Town Of Beaufort, NC",North Carolina,Municipality,Nick Martino,4569,Nurture,Tier 3,0.75,34.7182,-76.6638,a774920d-96ed-4026-8bbc-97d9ed0caba9,Closed Lost,,,Nick Martino,12/11/2025,11/20/2025,,,7,2025-11-20,7,,,,
-001cv00000B21z5,"Town Of Ranlo, NC",North Carolina,Municipality,Nick Martino,4570,Nurture,Tier 3,0.75,35.2863,-81.1305,1d098d71-9a05-4a7e-b3b2-ab99d2634bfc,Closed Lost,,,Nick Martino,8/18/2025,8/11/2025,,,7,2025-08-14,7,,,,
-001cv00000B220H,"Town Of Pittsboro, NC",North Carolina,Municipality,Nick Martino,4592,Open Opportunity,Tier 3,0.75,35.7201,-79.1772,4bae7762-25a6-48aa-b68e-c6b53d7764b8,,,,,,,,,1,2025-07-11,1,,,,
-001cv00000B220V,"Town Of Erwin, NC",North Carolina,Municipality,Nick Martino,4604,,Tier 3,0.75,35.3268,-78.6761,1a8d7bd3-fd3c-493a-adef-589e2a3a93c7,,,,,,,,,3,2025-07-29,3,,,,
-001cv00000B220k,"City Of Locust, NC",North Carolina,Municipality,Nick Martino,4623,Open Opportunity,Tier 3,0.75,35.2599,-80.4253,1d5232eb-e7f3-4196-9f64-bf75fe80709b,Open,Initial Interest,Top of Funnel,Nick Martino,8/8/2025,8/4/2025,,,21,2026-02-05,21,,,,
-001cv00000B220t,"Town Of Weaverville, NC",North Carolina,Municipality,Nick Martino,4631,,Tier 3,0.75,35.6971,-82.5607,39355ad1-9890-43ed-93f1-d115ce1c607b,,,,,,,,,20,2026-01-15,20,,,,
-001cv00000B220u,"City Of Randleman, NC",North Carolina,Municipality,Ben Laddis,4631,,Tier 3,0.75,35.8179,-79.8031,9e73bc09-2da3-468c-b820-f22e6d2ba56a,,,,,,,,,34,2026-01-22,34,,,,
-001cv00000B221Q,"Town Of Valdese, NC",North Carolina,Municipality,Ben Laddis,4672,,Tier 3,0.75,35.7407,-81.5631,f75e8176-bdb1-4ae2-aeb3-6d77ea6eae53,,,,,,,,,7,2025-07-24,7,,,,
-001cv00000B222I,"City Of Raeford, NC",North Carolina,Municipality,Nick Martino,4724,Open Opportunity,Tier 3,0.75,34.981,-79.2242,b6765952-994a-46f3-9345-5e81b1a5e260,Open,Proposal,Mid Funnel,Nick Martino,10/17/2025,10/7/2025,"$15,000",,18,2025-10-07,18,,,,
-001cv00000L8vwM,"City of High Point, NC",North Carolina,Municipality,Nick Martino,118601,Implementation,Tier S,2.0,35.9557,-80.0053,f76911a9-f933-4d04-a35a-9272ca2b4cfa,Closed Won,,,Nick Martino,10/21/2025,10/16/2025,"$241,000",,,,,,,,
-001cv00000NY20c,"County of Onslow, NC",North Carolina,County,Ben Laddis,212954,Open Opportunity,Tier S,2.0,34.654,-77.4702,9c97daf5-5610-43c6-b513-87c335c21063,Open,Initial Interest,Top of Funnel,Jenny Allison,,11/6/2025,,,12,2026-05-18,,,4,8,
-001cv00000U5mfW,Mid-East Commission,North Carolina,Municipality,Ben Laddis,282498,,Tier S,2.0,35.5558,-77.046,76ee91b1-b4f2-4055-ae20-8977d18c749f,,,,,,,,,6,2026-03-18,6,,,,
-001cv00000X6YyX,"City of Wilmington, NC",North Carolina,Municipality,Ben Laddis,122689,,Tier S,2.0,34.2104,-77.8868,,,,,,,,,,8,2026-02-04,8,,,,
-001cv00000X7XSW,"Town of Ocean Isle Beach, NC",North Carolina,Municipality,Nick Martino,867,Nurture,Tier 3,0.75,33.8877,-78.4364,,Closed Lost,,,Nick Martino,3/11/2026,2/25/2026,,,12,2026-03-11,12,,,,
-001cv00000bAeBh,"City of Fayetteville, NC",North Carolina,Municipality,Nick Martino,209496,Open Opportunity,Tier S,2.0,,,6554edef-7e9a-4fe4-b304-9b6e9ad6814c,Open,Initial Interest,Top of Funnel,Nick Martino,,5/7/2026,,,6,2026-05-18,6,,,,
-001cv00000bB8Pt,Town of Bryson City,North Carolina,Municipality,Ben Laddis,1522,,Tier 3,0.75,35.4309,-83.4474,125c1d3e-779d-4b2d-9010-2c79e5c732ec,,,,,,,,,,,,,,,
-001cv00000bBVeo,Town of Duck,North Carolina,Municipality,Ben Laddis,742,,Tier 3,0.75,36.1696,-75.7552,d71d2179-8f8d-41b1-b112-aa4eae88e5d9,,,,,,,,,,,,,,,
-001cv00000bBVev,Town of Rosman,North Carolina,Municipality,Ben Laddis,751,,Tier 3,0.75,35.1437,-82.8212,7f5d2374-1e49-4a39-9a92-a7d225c71f54,,,,,,,,,,,,,,,
-001cv00000bBVfs,Town of Warrenton,North Carolina,Municipality,Ben Laddis,834,,Tier 3,0.75,36.3985,-78.1553,f6cfcd98-672e-4735-bdb3-0bb7b90a7c2a,,,,,,,,,,,,,,,
-001cv00000bBVhj,Town of Maysville,North Carolina,Municipality,Ben Laddis,843,,Tier 3,0.75,34.9049,-77.2313,def2e66c-5179-4c26-89ba-81e7b3c86361,,,,,,,,,,,,,,,
-001cv00000bBVht,Town of White Lake,North Carolina,Municipality,Ben Laddis,852,,Tier 3,0.75,34.6404,-78.4839,8f713888-a756-4227-a5ea-763fa9b8afaa,,,,,,,,,,,,,,,
-001cv00000bBVim,Town of Holden Beach,North Carolina,Municipality,Ben Laddis,919,,Tier 3,0.75,33.9139,-78.2694,45a05ea0-6dcd-4ab6-9059-9a53d9cefad1,,,,,,,,,,,,,,,
-001cv00000bBVpG,"Town of Highlands, NC",North Carolina,Municipality,Nick Martino,1119,Open Opportunity,Tier 3,0.75,35.7838,-79.188,4c0dedd3-c308-466f-90dd-0fbd4dc8e7df,Open,Initial Interest,Top of Funnel,Nick Martino,,5/7/2026,,,5,2026-05-18,5,,,,
-001cv00000bBVwT,Town of Mount Gilead,North Carolina,Municipality,Ben Laddis,1185,,Tier 3,0.75,35.2149,-80.0023,a931ea30-f6fe-45c3-9a51-ebd5b022c7ee,,,,,,,,,,,,,,,
-001cv00000bBVwg,Town of Pinetops,North Carolina,Municipality,Ben Laddis,1196,,Tier 3,0.75,35.7885,-77.6378,48b40787-2257-443f-8458-6d22cfa7fa7a,,,,,,,,,,,,,,,
-001cv00000bBVwp,Town of Fremont,North Carolina,Municipality,Ben Laddis,1207,,Tier 3,0.75,35.5454,-77.9747,257e99bb-2c1f-491c-988d-44694b4df025,,,,,,,,,,,,,,,
-001cv00000bBVx4,Town of Robersonville,North Carolina,Municipality,Ben Laddis,1229,,Tier 3,0.75,35.8252,-77.2491,b502a874-9037-4992-8fb5-86335f9fdd89,,,,,,,,,,,,,,,
-001cv00000bBVxx,Town of Princeville,North Carolina,Municipality,Ben Laddis,1286,,Tier 3,0.75,35.89,-77.5309,7cb6f762-033d-42fc-8195-5d5a9884771d,,,,,,,,,,,,,,,
-001cv00000bBW3s,Town of Maggie Valley,North Carolina,Municipality,Ben Laddis,1742,,Tier 3,0.75,35.5182,-83.0976,cbeae6b5-a60e-4bd6-8b22-944d645b5119,,,,,,,,,,,,,,,
-001cv00000bBW41,City of Claremont,North Carolina,Municipality,Ben Laddis,1753,,Tier 3,0.75,35.7146,-81.1462,11b449d8-289b-4409-ad0a-45f8d6ad2d23,,,,,,,,,,,,,,,
-001cv00000bBWIg,Town of Andrews,North Carolina,Municipality,Ben Laddis,1762,,Tier 3,0.75,35.2018,-83.8241,69970aa1-6e24-4e57-939e-2422ab3c5c94,,,,,,,,,,,,,,,
-001cv00000bBWIs,Town of Drexel,North Carolina,Municipality,Ben Laddis,1777,,Tier 3,0.75,35.7579,-81.6043,93dce690-bfb6-415f-a869-448d54744ad8,,,,,,,,,,,,,,,
-001cv00000bBWJ4,Town of Ramseur,North Carolina,Municipality,Ben Laddis,1790,,Tier 3,0.75,35.7335,-79.6525,00d78ce4-ca31-47ea-8dc3-a7ab64ec7892,,,,,,,,,,,,,,,
-001cv00000bBWNV,"Town of Manteo, NC",North Carolina,Municipality,Nick Martino,1595,,Tier 3,0.75,,,854c2963-a616-4b58-aeda-78d27c7dbd71,,,,,,,,,4,2026-05-15,4,,,,
-001cv00000bBWNk,Town of Tryon,North Carolina,Municipality,Ben Laddis,1611,,Tier 3,0.75,35.2087,-82.2382,285cb215-ecc7-4e2d-818d-ccecc0d23aea,,,,,,,,,,,,,,,
-001cv00000bBWOn,Town of Kenly,North Carolina,Municipality,Ben Laddis,1687,,Tier 3,0.75,35.5961,-78.1248,602e55ce-ebc8-4538-9f52-395d1cf4839a,,,,,,,,,,,,,,,
-001cv00000bBWOv,Town of Murphy,North Carolina,Municipality,Ben Laddis,1693,,Tier 3,0.75,35.0876,-84.0346,8bf45c06-99f0-432f-8ffd-ba6cff7d0788,,,,,,,,,,,,,,,
-001cv00000bBWQg,Town of Hertford,North Carolina,Municipality,Ben Laddis,1992,,Tier 3,0.75,36.1902,-76.4661,1b7de478-04b9-43fb-8cab-51f05048871e,,,,,,,,,,,,,,,
-001cv00000bBWSM,Wayne County,North Carolina,County,Nick Martino,120338,,Tier S,2.0,35.3565,-77.9739,8c7c4636-f7db-437a-8d87-8092db1820b5,,,,,,,,,,,,,,,
-001cv00000bBWSY,City of Wilmington,North Carolina,Municipality,Nick Martino,125284,,Tier S,2.0,34.2104,-77.8868,091cf23f-6f47-4c9c-8906-c7dcce61042a,,,,,,,,,,,,,,,
-001cv00000bBWTt,Town of Cary,North Carolina,Municipality,Ben Laddis,182659,,Tier S,2.0,35.789,-78.7798,784a76b5-ce58-4f11-ab47-3eed07ce9af1,,,,,,,,,,,,,,,
-001cv00000bBWY0,"Guilford County, NC",North Carolina,County,Nick Martino,558816,,Tier S,2.0,36.09,-79.8297,cc454f26-497c-452f-80a9-522db9fe790d,,,,,,,,,26,2026-04-13,26,,,,
-001cv00000bBWYx,City of Charlotte,North Carolina,Municipality,Ben Laddis,943476,,Tier S,2.0,35.2271,-80.8409,f3640351-d601-4745-a976-c28ea1cb11e2,,,,,,,,,,,,,,,
-001cv00000bBWZH,Mecklenburg County,North Carolina,County,Ben Laddis,1206285,,Tier S,2.0,35.2633,-80.8544,baa43814-954b-47f6-881f-d4e3052e9374,,,,,,,,,,,,,,,
-001cv00000bBWZJ,Wake County,North Carolina,County,Nick Martino,1232444,,Tier S,2.0,35.8032,-78.5661,94da9a58-005f-4f77-ba2a-91026f457aa5,,,,,,,,,,,,,,,
-001cv00000bBWsp,Town of Blowing Rock,North Carolina,Municipality,Ben Laddis,1336,,Tier 3,0.75,36.1351,-81.6776,3a9f32ec-1213-44ef-a9d8-da62dbca104e,,,,,,,,,,,,,,,
-001cv00000bBWss,Town of West Jefferson,North Carolina,Municipality,Ben Laddis,1341,,Tier 3,0.75,36.4037,-81.4929,0fe41c82-9f91-40e8-a892-157c4153cc79,,,,,,,,,,,,,,,
-001cv00000bBWtJ,Town of Weldon,North Carolina,Municipality,Ben Laddis,1372,,Tier 3,0.75,36.4271,-77.5955,35a59b36-0fb8-4469-b557-d966111cacc1,,,,,,,,,,,,,,,
-001cv00000bBWtv,Town of Atlantic Beach,North Carolina,Municipality,Ben Laddis,1421,,Tier 3,0.75,34.699,-76.7402,c5a7fdd9-bef3-41c0-91c5-4912b3e71b4c,,,,,,,,,,,,,,,
-001cv00000bBWtz,Town of Pilot Mountain,North Carolina,Municipality,Ben Laddis,1430,,Tier 3,0.75,36.3865,-80.4695,4246b82f-3bd2-47ec-bf2d-5ed74fe8182c,,,,,,,,,,,,,,,
-001cv00000bBWu2,Town of Pine Knoll Shores,North Carolina,Municipality,Ben Laddis,1435,,Tier 3,0.75,34.6974,-76.8133,91712b71-d84b-4462-b719-08affbdd607f,,,,,,,,,,,,,,,
-001cv00000bBWuL,Town of Biltmore Forest,North Carolina,Municipality,Ben Laddis,1462,,Tier 3,0.75,35.5337,-82.5285,1e0cc849-ccf6-45dd-bfad-97049b9d22cf,,,,,,,,,,,,,,,
-001cv00000bBWuT,Town of Dobson,North Carolina,Municipality,Ben Laddis,1469,,Tier 3,0.75,36.3957,-80.7226,524f74b7-1e02-433e-994a-c7b9a697bc22,,,,,,,,,,,,,,,
-001cv00000bBWyy,City of Winston-Salem,North Carolina,Municipality,Ben Laddis,255769,,Tier S,2.0,36.0948,-80.2434,9c1c2397-43d3-40d7-9583-919a5dc429ad,,,,,,,,,,,,,,,
-001cv00000bBWzH,Buncombe County,North Carolina,County,Ben Laddis,279210,,Tier S,2.0,35.5931,-82.4753,06d3b2c7-e33b-45fa-a93e-1f9c55f0cfd6,,,,,,,,,2,2026-05-18,,,2,,
-001cv00000bBX0F,City of Greensboro,North Carolina,Municipality,Ben Laddis,307381,,Tier S,2.0,36.0726,-79.7915,f4dc1739-b42c-4e1c-b26a-32c54f0ce338,,,,,,,,,,,,,,,
-001cv00000bBX0V,Cumberland County,North Carolina,County,Ben Laddis,338430,,Tier S,2.0,34.9543,-78.7476,fef9d210-794f-46af-a9c2-291d313db3d2,,,,,,,,,,,,,,,
-001cv00000bBX0Z,Durham County,North Carolina,County,Ben Laddis,343628,,Tier S,2.0,36.0484,-78.8836,04546eed-6bf1-4500-a4c4-07083d9551bd,,,,,,,,,,,,,,,
-001cv00000bBX0s,Forsyth County,North Carolina,County,Ben Laddis,398143,,Tier S,2.0,36.12,-80.1875,f17e03b8-d92a-422e-aae7-fbb0499c389e,,,,,,,,,,,,,,,
-001cv00000bBX1P,"City of Raleigh, NC",North Carolina,Municipality,Nick Martino,499825,Open Opportunity,Tier S,2.0,35.7796,-78.6382,bb85cd79-a789-4195-846b-d47e3d3e456e,Open,Initial Interest,Top of Funnel,Nick Martino,,4/15/2026,,,27,2026-05-15,27,,,,
-001cv00000llyYn,"Town of Stantonsburg, NC",North Carolina,Municipality,Ben Laddis,786,Open Opportunity,Tier 3,0.75,35.9706,-79.8957,,Open,Meeting Booked,Top of Funnel,Nick Martino,5/12/2026,5/6/2026,,,10,2026-05-19,8,,,,2
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Nick Martino,Calls - Joe del Rosario,Calls - Ben Laddis,Calls - Alicia Gopal,Calls - Jenny Allison,Outreach ID
+001Hr000028ZbdY,"City Of Goldsboro, NC",North Carolina,Municipality,Ben Laddis,32749,Open Opportunity,Tier 1,1.5,35.3839,-77.9949,08289b5d-8579-45b1-a22d-9513e38c2c89,Open,Initial Interest,Top of Funnel,Jenny Allison,,11/3/2025,,,8,2026-05-19,3,,3,,2,2755
+001Hr000028ZbnB,"Town Of Mooresville, NC",North Carolina,Municipality,Ben Laddis,51594,,Tier S,2.0,35.582,-80.814,465bf2c3-25c2-40ba-a28e-e9b27649a0c4,,,,,,,,,8,2026-05-18,6,,2,,,2750
+001Hr000028ZbnF,"Town Of Boone, NC",North Carolina,Municipality,Ben Laddis,18036,,Tier 2,1.0,36.2182,-81.683,6152c717-caf5-4441-9875-d66c7423379a,,,,,,,,,7,2026-05-18,3,,4,,,2781
+001Hr000028ZbnG,"Town Of Angier, NC",North Carolina,Municipality,Ben Laddis,5703,,Tier 3,0.75,35.5071,-78.7392,78891115-927f-429e-ad37-b4b7317f6997,,,,,,,,,,,,,,,,2839
+001Hr000028Zbnh,"Town Of Harrisburg, NC",North Carolina,Municipality,Nick Martino,19463,,Tier 2,1.0,35.3238,-80.6559,d224383b-b58e-4f4a-a067-3a8fc07e0ae9,,,,,,,,,3,2026-04-22,3,,,,,2779
+001Hr000028Zbnk,"Town Of Fuquay-Varina, NC",North Carolina,Municipality,Nick Martino,36736,,Tier 1,1.5,35.5843,-78.8,bea9c931-64c4-428b-b0a3-917746d3667e,,,,,,,,,,,,,,,,2752
+001Hr000028ZboG,"City Of Lexington, NC",North Carolina,Municipality,Ben Laddis,19516,Open Opportunity,Tier 2,1.0,35.824,-80.2534,b3e4a9cc-b2b0-4c7b-87bd-a16a550c81eb,Open,Demo,Mid Funnel,Jason Ginsberg,2/12/2026,2/5/2026,,,,,,,,,,2810
+001Hr000028ZboQ,"City Of Boiling Spring Lakes, NC",North Carolina,Municipality,Nick Martino,6168,Nurture,Tier 3,0.75,34.0306,-78.0675,3d9eef60-de92-4a48-adad-ba0953d85707,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,3,2026-04-21,3,,,,,2853
+001Hr000028ZbrY,"City Of Havelock, NC",North Carolina,Municipality,Nick Martino,17052,,Tier 2,1.0,34.879,-76.9013,862769c4-5538-407f-85b8-d3e289410fdf,,,,,,,,,3,2026-05-13,3,,,,,2782
+001Hr000028Zbs7,"Town Of Winterville, NC",North Carolina,Municipality,Ben Laddis,10591,,Tier 2,1.0,35.5291,-77.4011,0d44fc13-f130-49c0-ad13-40df31d687e0,,,,,,,,,,,,,,,,2802
+001Hr000028ZbsS,"City Of Morehead City, NC",North Carolina,Municipality,Nick Martino,9688,Nurture,Tier 3,0.75,34.7229,-76.726,ff4d4ead-11d3-4c98-a089-cbaa4779ab88,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,13,2025-09-23,13,,,,,2812
+001Hr000028Zbsf,"City Of New Bern, NC",North Carolina,Municipality,Nick Martino,31346,Open Opportunity,Tier 1,1.5,35.1085,-77.0441,a9c296a2-e017-4449-925f-ed6e2fd65130,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,8,2025-10-31,8,,,,,2753
+001Hr000028Zbsg,"Town Of Weddington, NC",North Carolina,Municipality,Nick Martino,13488,Nurture,Tier 2,1.0,35.0224,-80.7609,ceb0f507-597d-459f-a5f1-0bc64ed60e00,Closed Lost,,,Nick Martino,2/27/2026,2/23/2026,,,22,2026-02-23,22,,,,,2809
+001Hr000028Zbt5,"City Of Mebane, NC",North Carolina,Municipality,Nick Martino,18408,Implementation,Tier 2,1.0,36.0968,-79.2697,58a79b7a-1612-4311-a844-90888cf03478,Closed Won,,,Joe del Rosario,6/27/2025,6/2/2025,"$37,500",,5,2025-06-02,,5,,,,2805
+001Hr000028ZbtT,"Town Of Black Mountain, NC",North Carolina,Municipality,Ben Laddis,8452,All Modules Live,Tier 3,0.75,35.6179,-82.3212,a33a121b-ded9-4fd8-ac5d-b6639f99fddd,Closed Won,,,Asher Rosenfeld,2/8/2024,1/5/2025,"$29,000",,,,,,,,,2849
+001Hr000028ZbuR,"City Of Shelby, NC",North Carolina,Municipality,Ben Laddis,21947,All Modules Live,Tier 2,1.0,35.2924,-81.5356,82a43adf-ef2d-4afa-aaf1-6e5a53e20089,Closed Won,,,Asher Rosenfeld,1/23/2024,1/5/2025,"$33,000",,,,,,,,,2762
+001Hr000028ZbuS,"City Of Oxford, NC",North Carolina,Municipality,Nick Martino,8775,Nurture,Tier 3,0.75,36.3107,-78.5908,d2ea8e20-176a-49b8-8a3e-a61cae39ff71,,,,,,,,,13,2026-02-18,13,,,,,2821
+001Hr000028Zbve,"Town Of Indian Trail, NC",North Carolina,Municipality,Nick Martino,40953,,Tier 1,1.5,35.0768,-80.6692,0b4444f5-407e-46ce-b97b-826223757db8,,,,,,,,,,,,,,,,2744
+001Hr000028Zbvf,"City Of Roanoke Rapids, NC",North Carolina,Municipality,Ben Laddis,15128,,Tier 2,1.0,36.4615,-77.6541,468c9fa4-dc33-4155-81d6-4c3122ad3703,,,,,,,,,,,,,,,,2774
+001Hr000028Zbvj,"Village Of Wesley Chapel, NC",North Carolina,Municipality,Nick Martino,8883,Nurture,Tier 3,0.75,35.0071,-80.6745,11846995-3283-4529-8930-9d8b86b900ac,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,29,2025-10-28,28,1,,,,2820
+001Hr000028Zbwt,"City Of Kannapolis, NC",North Carolina,Municipality,Nick Martino,54446,,Tier S,2.0,35.4874,-80.6217,19587a72-d4a4-40c1-afe3-588e30aa82e0,,,,,,,,,7,2025-09-17,7,,,,,2743
+001Hr000028ZbxH,"City Of Asheboro, NC",North Carolina,Municipality,Ben Laddis,27124,,Tier 1,1.5,35.7079,-79.8136,2d4360c9-2ba5-4809-aa14-15d01acf2b05,,,,,,,,,9,2025-09-15,9,,,,,2764
+001Hr000028ZbxI,"Town Of Hillsborough, NC",North Carolina,Municipality,Nick Martino,9716,,Tier 3,0.75,36.0754,-79.0997,b6de58fa-0eb7-4687-b56e-c71a90e81598,,,,,,,,,35,2026-05-18,35,,,,,2854
+001Hr000028Zbxt,"Town Of Chapel Hill, NC",North Carolina,Municipality,Ben Laddis,61128,,Tier S,2.0,35.9132,-79.0558,3eef293a-9546-4a41-b185-c80ab8fd9091,,,,,,,,,9,2025-07-01,,9,,,,2741
+001Hr000028Zbxu,"Town Of Oak Island, NC",North Carolina,Municipality,Ben Laddis,8878,,Tier 3,0.75,33.9204,-78.1608,27683aec-cfaf-46f7-8b07-a35c361acd2f,,,,,,,,,22,2026-04-07,22,,,,,2856
+001Hr000028ZbyQ,"City Of Hickory, NC",North Carolina,Municipality,Nick Martino,43532,Open Opportunity,Tier 1,1.5,35.7345,-81.3445,7f7a8aa2-e877-4807-9dee-51462a3e05f9,Open,Initial Interest,Top of Funnel,Shane Lieberman,1/22/2024,1/5/2025,,,6,2026-05-19,6,,,,,2746
+001Hr000028Zbzx,"Town Of Woodfin, NC",North Carolina,Municipality,Nick Martino,8010,,Tier 3,0.75,35.6334,-82.5821,1b448d87-164a-4ff7-ad84-8be76ccc36e9,,,,,,,,,25,2026-01-05,25,,,,,2850
+001Hr000028Zc0u,"City Of Kings Mountain, NC",North Carolina,Municipality,Nick Martino,11409,,Tier 2,1.0,35.2451,-81.3412,832fae5c-0d12-4eaf-bf39-1f3657ce625f,,,,,,,,,3,2026-03-16,3,,,,,2775
+001Hr000028Zc1w,"Randolph County, NC",North Carolina,County,Nick Martino,147458,Nurture,Tier S,2.0,35.745,-79.8297,b73de596-b94d-4e70-bdf7-0b96c953f8c5,Closed Lost,,,Harrison Peacock,10/30/2024,1/5/2025,,,,,,,,,,12449
+001Hr000028Zc2D,"Town Of Knightdale, NC",North Carolina,Municipality,Nick Martino,19576,,Tier 2,1.0,35.7877,-78.4806,598f2589-b551-457f-9320-b14dc73176bc,,,,,,,,,16,2026-01-15,16,,,,,2808
+001Hr000028Zc2u,"Town Of Walkertown, NC",North Carolina,Municipality,Ben Laddis,5781,,Tier 3,0.75,36.1754,-80.1531,74785788-3b69-4e67-bcdd-eb0e8744c942,,,,,,,,,,,,,,,,2846
+001Hr000028Zc3p,"City Of Gastonia, NC",North Carolina,Municipality,Nick Martino,81161,,Tier S,2.0,35.2622,-81.1871,8453ef91-b1dc-40e4-97eb-6725fd4ab51b,,,,,,,,,9,2025-07-01,,9,,,,2736
+001Hr000028Zc3y,"Town Of Huntersville, NC",North Carolina,Municipality,Nick Martino,61839,,Tier S,2.0,35.4111,-80.8427,239dbd17-45a1-4fea-baf5-7c31177a7660,,,,,,,,,1,2025-07-01,,1,,,,2739
+001Hr000028Zc3z,"City Of Morganton, NC",North Carolina,Municipality,Nick Martino,17518,Open Opportunity,Tier 2,1.0,35.7454,-81.6848,b86efdcd-da96-45e2-b461-481571b619e4,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,9,2025-08-05,9,,,,,2784
+001Hr000028Zc49,"Town Of Carolina Beach, NC",North Carolina,Municipality,Nick Martino,6575,,Tier 3,0.75,34.036,-77.8938,e6360498-320f-4493-9b48-5170d6f1dbc8,,,,,,,,,16,2025-09-15,16,,,,,2815
+001Hr000028Zc4v,"City Of Albemarle, NC",North Carolina,Municipality,Ben Laddis,16628,,Tier 2,1.0,35.3501,-80.2001,3696e660-4f81-4050-a27d-ffead55be780,,,,,,,,,6,2026-05-18,,3,3,,,2787
+001Hr000028Zc6A,"Town Of Smithfield, NC",North Carolina,Municipality,Nick Martino,11630,Nurture,Tier 2,1.0,35.5085,-78.3394,cebb419b-fe80-43c9-8525-1cf83146908e,Closed Lost,,,Joe del Rosario,3/12/2025,3/6/2025,"$22,000",,2,2025-12-15,2,,,,,2797
+001Hr000028Zc77,"City Of Washington, NC",North Carolina,Municipality,Ben Laddis,9705,,Tier 3,0.75,35.5466,-77.0522,efd15e53-7e11-4387-bb70-1c4aaf54bb42,,,,,,,,,13,2025-09-16,13,,,,,2817
+001Hr000028Zc8d,"Town Of Williamston, NC",North Carolina,Municipality,Nick Martino,5104,,Tier 3,0.75,35.8546,-77.0555,d3e08a86-97ec-4791-b426-466753917b8f,,,,,,,,,2,2026-05-15,1,1,,,,2845
+001Hr000028Zc9H,"City Of Henderson, NC",North Carolina,Municipality,Ben Laddis,14954,Open Opportunity,Tier 2,1.0,36.3296,-78.3992,11628fee-fef6-4118-a5fb-46d4580b33df,Open,Proposal,Mid Funnel,Nick Martino,3/20/2026,3/20/2026,"$27,000",Yes,12,2025-10-23,11,1,,,,2790
+001Hr000028Zc9M,"Town Of Wadesboro, NC",North Carolina,Municipality,Ben Laddis,5038,,Tier 3,0.75,34.9682,-80.0767,ab9d5ae7-99bf-4701-9cee-1f7e23f80159,,,,,,,,,,,,,,,,2844
+001Hr000028Zc9W,"Town Of Kernersville, NC",North Carolina,Municipality,Nick Martino,26793,Open Opportunity,Tier 1,1.5,36.1199,-80.0737,de171196-1c0d-4c77-bf23-751be3640a6b,Open,Initial Interest,Top of Funnel,,,1/5/2025,,,,,,,,,,2758
+001Hr000028ZcAQ,"City Of Salisbury, NC",North Carolina,Municipality,Ben Laddis,35760,,Tier 1,1.5,35.671,-80.4742,00bbd409-d588-4362-a198-0dc688bfede6,,,,,,,,,9,2026-05-13,9,,,,,2747
+001Hr000028ZcBs,"City Of Clinton, NC",North Carolina,Municipality,Ben Laddis,8037,,Tier 3,0.75,34.9979,-78.3233,1bb59626-d10d-488d-9955-6a930750f684,,,,,,,,,3,2025-09-09,3,,,,,2824
+001Hr000028ZcCp,"City Of Graham, NC",North Carolina,Municipality,Nick Martino,17273,,Tier 2,1.0,36.068,-79.4004,9c256618-2912-4233-8fce-fd1d41b6bd43,,,,,,,,,15,2026-03-09,15,,,,,2786
+001Hr000028ZcDF,"Town Of Leland, NC",North Carolina,Municipality,Nick Martino,33065,Open Opportunity,Tier 1,1.5,34.2294,-78.0343,2b70dd96-3180-4488-a317-c3b2d4d2620d,Open,Demo,Mid Funnel,Nick Martino,3/23/2026,3/19/2026,,,9,2026-03-19,9,,,,,2765
+001Hr000028ZcDf,"Town Of Spring Lake, NC",North Carolina,Municipality,Nick Martino,11619,,Tier 2,1.0,35.174,-79.0063,79b57b7e-0338-4102-98fe-d754a37396b2,,,,,,,,,,,,,,,,2796
+001Hr000028ZcEz,"Town Of Apex, NC",North Carolina,Municipality,Ben Laddis,62911,,Tier S,2.0,35.7327,-78.8503,4c29804d-17c0-4f35-b8d6-32127db67798,,,,,,,,,17,2026-05-18,13,,4,,,2740
+001Hr000028ZcFL,"City Of Laurinburg, NC",North Carolina,Municipality,Nick Martino,15177,,Tier 2,1.0,34.774,-79.4628,de75922c-d1a8-47ce-9c81-12504f4d3426,,,,,,,,,1,2026-03-12,1,,,,,2789
+001Hr000028ZcFM,"City Of Conover, NC",North Carolina,Municipality,Ben Laddis,8478,,Tier 3,0.75,35.7065,-81.2187,b20938fc-e732-4cc1-bf28-fc5d19dd986a,,,,,,,,,5,2026-03-20,5,,,,,2822
+001Hr000028ZcGi,"Town Of Wake Forest, NC",North Carolina,Municipality,Nick Martino,49657,,Tier 1,1.5,35.9799,-78.5097,b47acda9-8f3a-4b31-9930-4e305a3c46e0,,,,,,,,,28,2025-12-18,28,,,,,2751
+001Hr000028ZcHI,"City Of Hamlet, NC",North Carolina,Municipality,Ben Laddis,6022,,Tier 3,0.75,34.8849,-79.6942,f668b17c-7806-432c-82e9-95ba8db5ce3c,,,,,,,,,,,,,,,,2836
+001Hr000028ZcHU,"City Of Monroe, NC",North Carolina,Municipality,Nick Martino,34888,,Tier 1,1.5,34.9854,-80.5495,76512d57-1ba6-4409-b5fa-440551232239,,,,,,,,,23,2026-04-13,23,,,,,2748
+001Hr000028ZcJ7,"City Of Statesville, NC",North Carolina,Municipality,Nick Martino,28844,,Tier 1,1.5,35.7846,-80.8883,6dc3ecde-1cb6-4f66-a591-84d1c6a96b4c,,,,,,,,,16,2026-05-15,16,,,,,2767
+001Hr000028ZcK1,"City Of Cherryville, NC",North Carolina,Municipality,Nick Martino,6132,,Tier 3,0.75,35.3789,-81.3796,47eedbc7-e95f-4fb2-9f28-0ebffdc75fda,,,,,,,,,10,2026-04-07,10,,,,,2837
+001Hr000028ZcKC,"Town Of Ayden, NC",North Carolina,Municipality,Ben Laddis,5022,,Tier 3,0.75,35.4727,-77.4155,0b2e0a4d-175e-4306-98f0-380711171f57,,,,,,,,,,,,,,,,2847
+001Hr000028ZcKp,"City Of Sanford, NC",North Carolina,Municipality,Nick Martino,30678,,Tier 1,1.5,35.4799,-79.1803,9f535a9d-3e66-479e-b6d0-dcae9b1d9a64,,,,,,,,,2,2025-06-23,,2,,,,2754
+001Hr000028ZcLn,"Town Of Gibsonville, NC",North Carolina,Municipality,Nick Martino,9013,,Tier 3,0.75,36.1058,-79.5419,3e72546f-77a3-41f0-a43a-bbd83cdcd2ee,,,,,,,,,13,2025-09-23,13,,,,,2819
+001Hr000028ZcOR,"Town Of Mocksville, NC",North Carolina,Municipality,Ben Laddis,5908,,Tier 3,0.75,35.894,-80.5614,2ae29ab0-e940-425b-a37a-a39f7121885c,,,,,,,,,,,,,,,,2816
+001Hr000028ZcPA,"City Of Lincolnton, NC",North Carolina,Municipality,Ben Laddis,11352,,Tier 2,1.0,35.4737,-81.2545,313b19c0-dcfe-4ec5-b985-893d9616dd94,,,,,,,,,18,2025-10-10,18,,,,,2800
+001Hr000028ZcPL,"Town Of Mills River, NC",North Carolina,Municipality,Nick Martino,7134,,Tier 3,0.75,35.3884,-82.5668,24328a7e-dc8a-4ddd-b459-85615d364dc3,,,,,,,,,14,2025-12-17,14,,,,,2813
+001Hr000028ZcQ2,"City Of Thomasville, NC",North Carolina,Municipality,Nick Martino,27203,,Tier 1,1.5,35.8826,-80.082,5db5584e-c2e2-4b61-8763-f1cb105812b2,,,,,,,,,3,2026-03-13,3,,,,,2769
+001Hr000028ZcQ3,"City Of Trinity, NC",North Carolina,Municipality,Nick Martino,7072,,Tier 3,0.75,35.8946,-79.9909,6262fec2-0457-4eca-9cc6-5c98e128ae32,,,,,,,,,6,2026-02-18,6,,,,,2835
+001Hr000028ZcQA,"City Of Mount Holly, NC",North Carolina,Municipality,Nick Martino,17966,,Tier 2,1.0,35.2956,-81.0163,601c82ad-e2df-48ad-9091-e8092fe47f73,,,,,,,,,7,2026-03-27,7,,,,,2785
+001Hr000028ZcQH,"Town Of Forest City, NC",North Carolina,Municipality,Nick Martino,7354,,Tier 3,0.75,35.334,-81.8651,d983ee5b-4cfb-44e1-a0f4-7c6787a0a22c,,,,,,,,,,,,,,,,2831
+001Hr000028ZcQc,"City Of Marion, NC",North Carolina,Municipality,Ben Laddis,7652,,Tier 3,0.75,35.684,-82.0093,447dcbe9-d25a-4def-8d4a-9753300d0f6c,,,,,,,,,,,,,,,,2851
+001Hr000028ZcS3,"City Of Newton, NC",North Carolina,Municipality,Nick Martino,13187,,Tier 2,1.0,35.6699,-81.2215,4c935ef8-c50b-4b52-9109-9fccafc77048,,,,,,,,,6,2026-04-14,6,,,,,2794
+001Hr000028ZcUV,"City Of King, NC",North Carolina,Municipality,Nick Martino,7156,Unviable,Tier 3,0.75,36.2805,-80.3594,d6533364-1e98-4e5d-86af-5b1a5b9ea2b1,Open,Closed Lost,Mid Funnel,Shane Lieberman,1/18/2024,1/5/2025,"$16,000",,,,,,,,,2830
+001Hr000028ZcUW,"Town Of Stokesdale, NC",North Carolina,Municipality,Ben Laddis,5995,,Tier 3,0.75,36.2371,-79.9795,ddb88d1d-7e4e-4366-930c-c06eb0f6109c,,,,,,,,,,,,,,,,2842
+001Hr000028ZcUd,"City Of Wilson, NC",North Carolina,Municipality,Nick Martino,47731,Nurture,Tier 1,1.5,35.7258,-77.9111,2a6d1591-bf77-49ab-9b1c-8d170bade46f,Closed Lost,,,Nick Martino,11/21/2025,10/24/2025,,,30,2026-04-23,30,,,,,2756
+001Hr000028ZcVH,"City Of Greenville, NC",North Carolina,Municipality,Nick Martino,88728,,Tier S,2.0,35.6115,-77.3752,4c282630-abbe-465e-94ef-7376ed5882ed,,,,,,,,,5,2025-06-23,,5,,,,2735
+001Hr000028ZcVI,"City Of Kinston, NC",North Carolina,Municipality,Nick Martino,19546,Open Opportunity,Tier 2,1.0,35.2627,-77.5816,f1ab7c1c-351e-4814-8fb8-a904f9fd00da,Open,Initial Interest,Top of Funnel,Nick Martino,,5/7/2026,,,13,2026-05-18,13,,,,,2776
+001Hr000028ZcVO,"City Of Rocky Mount, NC",North Carolina,Municipality,Nick Martino,53957,Nurture,Tier S,2.0,35.935,-77.7902,083c4445-f00d-4d23-bf4b-08700df78f37,Closed Lost,,,Nick Martino,8/12/2025,7/21/2025,,,29,2025-09-23,29,,,,,2742
+001Hr000028ZcVP,"City Of Lenoir, NC",North Carolina,Municipality,Nick Martino,18193,Nurture,Tier 2,1.0,35.914,-81.539,bd5794e9-2033-4caf-acec-6173d9ee51e5,Closed Lost,,,Joe del Rosario,2/6/2025,2/3/2025,,,4,2026-03-20,4,,,,,2780
+001Hr000028ZcVs,"Town Of Kill Devil Hills, NC",North Carolina,Municipality,Nick Martino,7777,Nurture,Tier 3,0.75,36.0307,-75.676,6e4058e8-4397-4073-80d0-e377f3e94397,Closed Lost,,,Shane Lieberman,2/1/2024,1/5/2025,"$25,000",,6,2025-07-30,6,,,,,2828
+001Hr000028ZcVw,"Town Of Wendell, NC",North Carolina,Municipality,Ben Laddis,11570,,Tier 2,1.0,35.781,-78.3697,6afabe3c-c71b-4412-9515-9efbda951e1d,,,,,,,,,12,2026-01-16,12,,,,,2852
+001Hr000028ZcW1,"Town Of Archer Lodge, NC",North Carolina,Municipality,Nick Martino,5034,Nurture,Tier 3,0.75,35.6941,-78.3754,282e4810-18a8-4b2a-9b9e-4dc0382f0637,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,8,2026-04-13,6,,,,2,2848
+001Hr000028ZcXE,"Town Of Zebulon, NC",North Carolina,Municipality,Nick Martino,7974,Open Opportunity,Tier 3,0.75,35.8243,-78.3147,854adf11-7b42-41d0-b79f-45a0b1675ca7,Open,Meeting Booked,Top of Funnel,Nick Martino,11/14/2025,10/22/2025,,,8,2026-02-19,8,,,,,2858
+001Hr000028ZcXO,"City Of Rockingham, NC",North Carolina,Municipality,Ben Laddis,9031,,Tier 3,0.75,34.9393,-79.7739,74f266be-4eeb-42c8-9f5f-bc9c74bd7307,,,,,,,,,2,2025-09-08,2,,,,,2818
+001Hr000028ZcXT,"City Of Brevard, NC",North Carolina,Municipality,Shelly Tsirulik,7755,All Modules Live,Tier 3,0.75,35.2334,-82.7343,cf8699b0-0c2b-4ce8-ac84-1655b85f5975,Closed Won,,,Granger West,1/27/2025,1/5/2025,"$22,000",,,,,,,,,2814
+001Hr000028ZcXk,"Edgecombe County, NC",North Carolina,County,Ben Laddis,,Open Opportunity,Tier 3,0.75,35.884,-77.6536,027a7d27-a96d-4e71-b64e-1ede3090f2a4,Open,Initial Interest,Top of Funnel,Harrison Peacock,12/5/2024,1/5/2025,,,,,,,,,,12332
+001Hr000028ZcYM,"Town Of Hope Mills, NC",North Carolina,Municipality,Nick Martino,17786,,Tier 2,1.0,34.9757,-78.9507,024c7bde-9949-4e34-9e87-971e4787a836,,,,,,,,,17,2026-04-23,17,,,,,2783
+001Hr000028ZcYN,"Town Of Fletcher, NC",North Carolina,Municipality,Nick Martino,8033,,Tier 3,0.75,35.4307,-82.5012,c2942b0c-92e6-4abb-a92c-a2f245f1ecf8,,,,,,,,,9,2025-12-17,9,,,,,2826
+001Hr000028ZcYX,"Town Of Matthews, NC",North Carolina,Municipality,Nick Martino,29623,,Tier 1,1.5,35.1168,-80.7237,25a96100-3a3e-45b0-8e14-e0fc9d84b5f5,,,,,,,,,,,,,,,,2759
+001Hr000028ZcYY,"Town Of Oak Ridge, NC",North Carolina,Municipality,Nick Martino,7595,,Tier 3,0.75,36.1735,-79.9889,e6dbf34c-03c6-4743-b5fb-568d5d456d13,,,,,,,,,4,2025-09-17,4,,,,,2829
+001Hr000028ZcYu,"Town Of Waynesville, NC",North Carolina,Municipality,Ben Laddis,10178,Open Opportunity,Tier 2,1.0,35.4887,-82.9887,b642026e-cebf-4696-9f89-38febe42cdd3,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,Yes,19,2026-05-19,16,,3,,,2804
+001Hr000028ZcYz,"Town Of St James, NC",North Carolina,Municipality,Nick Martino,6913,Open Opportunity,Tier 3,0.75,33.9499,-78.1159,55bf86f4-54c7-4f1e-a2ef-e62c666cea86,Open,Initial Interest,Top of Funnel,Nick Martino,,10/23/2025,,,7,2026-04-07,7,,,,,2838
+001Hr000028ZcZ4,"Town Of Lewisville, NC",North Carolina,Municipality,Ben Laddis,13602,,Tier 2,1.0,36.0971,-80.4192,826d4427-5ed0-4a6d-acbf-82df8b6a33f4,,,,,,,,,1,2026-05-11,1,,,,,2792
+001Hr000028ZcZn,"Town Of Tarboro, NC",North Carolina,Municipality,Nick Martino,10569,Open Opportunity,Tier 2,1.0,35.8968,-77.5358,5afb2bcf-84c5-4d49-b080-2c5269acd5b1,Open,Sales Qualified,Mid Funnel,Nick Martino,3/11/2026,1/21/2026,,Yes,37,2026-01-21,37,,,,,2801
+001Hr000028Zca3,"City Of Elizabeth City, NC",North Carolina,Municipality,Ben Laddis,18703,,Tier 2,1.0,36.2946,-76.251,d3f17ea5-ad40-4861-8740-b4fe71ca536c,,,,,,,,,10,2026-03-24,10,,,,,2773
+001Hr000028Zca7,"Town Of Cornelius, NC",North Carolina,Municipality,Ben Laddis,31650,,Tier 1,1.5,35.4812,-80.8578,faa167f5-ff14-43fd-93b7-cd8a3284ffce,,,,,,,,,11,2026-05-14,9,,2,,,2745
+001Hr000028ZcaM,"Village Of Clemmons, NC",North Carolina,Municipality,Ben Laddis,21517,,Tier 2,1.0,36.0215,-80.382,95612c8a-928b-4545-87e8-98d7eb6e0d95,,,,,,,,,9,2026-05-18,7,,2,,,2763
+001Hr000028ZcaR,"Town Of Stallings, NC",North Carolina,Municipality,Nick Martino,16481,,Tier 2,1.0,35.0907,-80.6862,d68483c0-c337-4388-8232-bd08542605d7,,,,,,,,,10,2025-08-12,10,,,,,2772
+001Hr000028ZcaW,"Town Of Clayton, NC",North Carolina,Municipality,Ben Laddis,28306,,Tier 1,1.5,35.6507,-78.4564,fe90a586-86d6-447e-889d-57a4e77e2097,,,,,,,,,16,2026-04-13,16,,,,,2761
+001Hr000028Zcal,"Town Of Davidson, NC",North Carolina,Municipality,Nick Martino,15132,,Tier 2,1.0,35.4993,-80.8487,f31ac5b6-291a-4c71-b16a-3c34168fbbe8,,,,,,,,,11,2026-04-07,11,,,,,2793
+001Hr000028Zcav,"Town Of Carrboro, NC",North Carolina,Municipality,Nick Martino,21312,Nurture,Tier 2,1.0,35.9101,-79.0753,2d8b0eac-b843-401f-8179-0f80749e2167,Closed Lost,,,Shane Lieberman,2/7/2024,1/5/2025,,,36,2026-04-07,36,,,,,2768
+001Hr000028Zcaz,"City Of Asheville, NC",North Carolina,Municipality,Nick Martino,94067,,Tier S,2.0,35.5975,-82.5461,d6f4e633-79dc-4503-b2cc-f132e809a965,,,,,,,,,46,2026-01-23,46,,,,,2734
+001Hr000028Zcb4,"City Of Burlington, NC",North Carolina,Municipality,Nick Martino,58818,Nurture,Tier S,2.0,36.096,-79.4372,6e4afad0-e381-4b01-8b6a-300e9e07383a,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,2,2025-09-05,2,,,,,2737
+001Hr000028ZcbE,"City Of Jacksonville, NC",North Carolina,Municipality,Ben Laddis,72876,,Tier S,2.0,34.7541,-77.4302,fc127267-2ba6-4ae7-9d0b-615361545ccf,,,,,,,,,9,2025-07-01,,9,,,,2738
+001Hr000028ZcbJ,"Town Of Garner, NC",North Carolina,Municipality,Nick Martino,31935,,Tier 1,1.5,35.7113,-78.6142,f69a1811-437d-4475-b081-7ffa12fa1877,,,,,,,,,11,2026-01-15,11,,,,,2749
+001Hr000028ZcbO,"Town Of Mint Hill, NC",North Carolina,Municipality,Nick Martino,26633,,Tier 1,1.5,35.1735,-80.657,9460f24e-5936-4831-ade0-ff9caed33170,,,,,,,,,3,2025-09-11,3,,,,,2760
+001Hr000028ZcbP,"City Of Reidsville, NC",North Carolina,Municipality,Nick Martino,14524,,Tier 2,1.0,36.3549,-79.6645,37229f73-5b04-46e8-ab6e-bfc586120c7c,,,,,,,,,20,2026-05-08,20,,,,,2806
+001Hr000028ZcbT,"Town Of Holly Springs, NC",North Carolina,Municipality,Nick Martino,43524,,Tier 1,1.5,35.6513,-78.8336,08c25bce-af7a-4f13-91b3-bc0767dfd427,,,,,,,,,15,2025-12-17,15,,,,,2757
+001Hr000028ZcbU,"City Of Belmont, NC",North Carolina,Municipality,Ben Laddis,15136,Open Opportunity,Tier 2,1.0,35.2438,-81.0378,47854bc4-92e1-4b55-a6ef-4c31dc380c81,Open,Meeting Booked,Top of Funnel,Nick Martino,4/17/2026,4/2/2026,,,14,2026-04-22,14,,,,,2807
+001Hr000028ZcbY,"City Of Lumberton, NC",North Carolina,Municipality,Nick Martino,18694,Nurture,Tier 2,1.0,34.6182,-79.0086,8d988918-1567-4d6a-a72f-0a0a1991e635,Closed Lost,,,Shane Lieberman,2/13/2024,1/5/2025,,,,,,,,,,2778
+001Hr000028Zcbd,"Town Of Waxhaw, NC",North Carolina,Municipality,Nick Martino,21673,,Tier 2,1.0,34.9246,-80.7434,53d4316f-764c-4a18-98a2-cb8b84d569bd,,,,,,,,,25,2026-04-07,25,,,,,2777
+001Hr000028Zcbi,"Town Of Southern Pines, NC",North Carolina,Municipality,Nick Martino,16987,Nurture,Tier 2,1.0,35.174,-79.3923,eeec798f-30af-43c7-a019-405c50ecdc1f,Closed Lost,,,Jenny Allison,11/12/2025,10/29/2025,,,,,,,,,,2770
+001Hr000028Zcbn,"City Of Mount Airy, NC",North Carolina,Municipality,Ben Laddis,10551,Open Opportunity,Tier 2,1.0,36.5,-80.6054,cf20c8b9-fdd2-4f74-b12e-d2308dd5becc,Open,Initial Interest,Top of Funnel,Ben Laddis,,5/14/2026,,,1,2026-05-14,,,1,,,2771
+001Hr000028Zcbs,"Town Of Elon, NC",North Carolina,Municipality,Nick Martino,11350,,Tier 2,1.0,36.1019,-79.5068,e9a54dd2-6097-4b84-9707-45b2e94cd466,,,,,,,,,12,2026-04-08,12,,,,,2798
+001Hr000028Zcbt,"City Of Bessemer, NC",North Carolina,Municipality,Nick Martino,5507,,Tier 3,0.75,35.2848,-81.2839,1a10fa97-3579-4f85-99a3-ec97815b6b79,,,,,,,,,,,,,,,,2840
+001Hr000028Zcbx,"City Of Eden, NC",North Carolina,Municipality,Ben Laddis,15319,,Tier 2,1.0,36.4885,-79.7667,73d1a32f-7730-44b6-bbcb-b94fc7507ef4,,,,,,,,,6,2025-10-07,6,,,,,2788
+001Hr000028Zcc2,"City Of Hendersonville, NC",North Carolina,Municipality,Nick Martino,15099,Nurture,Tier 2,1.0,35.3187,-82.461,5751f1d1-8a56-4dd1-bee2-871a11305ea5,Closed Lost,,,Nick Martino,1/22/2026,12/30/2025,,,12,2026-01-22,12,,,,,2791
+001Hr000028Zcc7,"City Of Archdale, NC",North Carolina,Municipality,Ben Laddis,11953,,Tier 2,1.0,35.9146,-79.972,3a9da73b-4a0c-4747-b556-7ab047a2a50f,,,,,,,,,9,2026-05-15,9,,,,,2795
+001Hr000028ZccC,"Town Of Summerfield, NC",North Carolina,Municipality,Nick Martino,11119,,Tier 2,1.0,36.2087,-79.9048,5cba613e-5c8d-41aa-a7c1-bb2d4eb87413,,,,,,,,,2,2026-03-16,2,,,,,2799
+001Hr000028ZccH,"Town Of Pineville, NC",North Carolina,Municipality,Nick Martino,10678,,Tier 2,1.0,35.0832,-80.8923,d3e2c91d-389b-4f4d-a77a-5206c7df9047,,,,,,,,,10,2026-01-06,10,,,,,2803
+001Hr000028ZccM,"Town Of Morrisville, NC",North Carolina,Municipality,Ben Laddis,31278,,Tier 1,1.5,35.8235,-78.8256,28b4726b-34a4-4e87-9fb9-844cecacd0b5,,,,,,,,,5,2025-12-23,5,,,,,2766
+001Hr000028ZccR,"Town Of Selma, NC",North Carolina,Municipality,Nick Martino,6601,Nurture,Tier 3,0.75,35.5365,-78.2844,269fc2b9-5eda-48a0-a021-3b1b70fdc7aa,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,12,2026-02-09,12,,,,,2833
+001Hr000028ZccW,"Town Of Butner, NC",North Carolina,Municipality,Ben Laddis,8487,All Modules Live,Tier 3,0.75,36.1321,-78.7567,d3404b71-1c78-4b7d-b51d-03eac9a86f49,Closed Won,,,Shane Lieberman,10/10/2024,1/5/2025,"$12,000",,,,,,,,,2825
+001Hr000028Zccb,"Town Of Nashville, NC",North Carolina,Municipality,Nick Martino,5682,,Tier 3,0.75,35.9746,-77.9655,90a3fee9-9931-416f-8e74-3841d2c5a5ce,,,,,,,,,1,2026-05-11,1,,,,,2841
+001Hr000028Zccg,"Town Of Siler City, NC",North Carolina,Municipality,Nick Martino,7848,Open Opportunity,Tier 3,0.75,35.7235,-79.4622,a9ce5f68-4839-4ec8-8b6f-17bef5c5577e,Open,Initial Interest,Top of Funnel,Nick Martino,5/12/2026,5/6/2026,,,24,2026-05-15,24,,,,,2827
+001Hr000028Zccl,"City Of Dunn, NC",North Carolina,Municipality,Nick Martino,8434,Open Opportunity,Tier 3,0.75,35.3063,-78.6089,7bca2810-a3b5-4d7f-9fa5-8d88bd650164,Open,Meeting Booked,Top of Funnel,Nick Martino,6/8/2026,5/12/2026,,,11,2026-05-19,11,,,,,2823
+001Hr000028Zccm,"Town Of Aberdeen, NC",North Carolina,Municipality,Nick Martino,9036,,Tier 3,0.75,35.1315,-79.4295,95056fe3-794d-483a-aaf0-009a6a4440cf,,,,,,,,,20,2026-04-07,20,,,,,2859
+001Hr000028Zccq,"City Of Whiteville, NC",North Carolina,Municipality,Nick Martino,4688,,Tier 3,0.75,34.3388,-78.7031,0022fa31-d3d2-437a-ae5c-5a23cb0b2698,,,,,,,,,,,,,,,,2843
+001Hr000028Zccv,"Town Of Unionville, NC",North Carolina,Municipality,Nick Martino,6788,,Tier 3,0.75,35.0874,-80.509,1db44afd-1abe-4043-9395-f94384718a6f,,,,,,,,,10,2026-04-02,10,,,,,2832
+001Hr000028Zcd0,"City Of Roxboro, NC",North Carolina,Municipality,Ben Laddis,8089,,Tier 3,0.75,36.3938,-78.9828,c0180dbf-c886-461c-bcee-c497509b4e0b,,,,,,,,,12,2026-01-15,12,,,,,2857
+001Hr000028Zcd5,"Town Of Rolesville, NC",North Carolina,Municipality,Kenneth Taylor,10047,All Modules Live,Tier 2,1.0,35.9232,-78.4575,1b9de2b1-17c7-4950-b5e6-83ef6842e397,Closed Won,,,Troy LeCaire,3/27/2024,2/3/2025,"$16,500",,,,,,,,,2855
+001Hr000028ZcdA,"Village Of Marvin, NC",North Carolina,Municipality,Nick Martino,6510,,Tier 3,0.75,34.9918,-80.8148,65e348bb-0ac3-45a9-9128-a0839e3f577d,,,,,,,,,2,2026-04-23,2,,,,,2834
+001Hr000028ZcdF,"Village Of Pinehurst, NC",North Carolina,Municipality,Nick Martino,18019,Nurture,Tier 2,1.0,35.1954,-79.4695,03d41c89-d71c-4305-ab04-2679acb88123,Open,Initial Interest,Top of Funnel,,,1/5/2025,,,50,2026-01-23,50,,,,,2811
+001Hr000028Zd5b,"Johnston County, NC",North Carolina,County,Ben Laddis,249794,,Tier S,2.0,35.4404,-78.3842,038ccb9b-88c3-4c77-8d10-6fb11461e0d0,,,,,,,,,,,,,,,,12447
+001Hr000028Zd95,"Alamance County, NC",North Carolina,County,Nick Martino,183040,Nurture,Tier S,2.0,36.0117,-79.4254,27006d12-7707-44ae-bb7e-2b6460791c4d,Closed Lost,,,Shane Lieberman,8/21/2024,1/5/2025,"$45,000",,,,,,,,,12448
+001Hr000028ZdEE,"Catawba County, NC",North Carolina,County,Ben Laddis,164645,,Tier S,2.0,35.6841,-81.2519,4e910b11-eb26-4ca2-b99f-012c0b6c726d,,,,,,,,,14,2026-04-07,14,,,,,12441
+001Hr000028ZdK6,"Beaufort County, NC",North Carolina,County,Nick Martino,44481,,Tier 1,1.5,35.4614,-76.9182,abd8b25f-7cda-428e-9e78-c93511886da5,,,,,,,,,4,2025-10-22,4,,,,,11930
+001Hr000028ZdOP,"Moore County, NC",North Carolina,County,Ben Laddis,108417,,Tier S,2.0,35.3674,-79.4704,b3c68c75-8761-425a-92c5-85a2e215d792,,,,,,,,,,,,,,,,12312
+001Hr000028ZdPW,"Craven County, NC",North Carolina,County,Nick Martino,104167,,Tier S,2.0,35.0878,-77.0564,6cb56255-38a7-4406-8743-b4c23ce54b82,,,,,,,,,5,2025-05-28,,5,,,,12440
+001Hr000028ZdTy,"Person County, NC",North Carolina,County,Nick Martino,40143,,Tier 1,1.5,36.3528,-78.9288,edb5c23b-85fa-429a-a6f3-2c87d4e97820,,,,,,,,,,,,,,,,12315
+001Hr000028Zdbn,"Richmond County, NC",North Carolina,County,Nick Martino,42324,,Tier 1,1.5,35.003,-79.7848,7017197f-2db1-4094-a2e8-a1db879ed3fb,,,,,,,,,,,,,,,,12376
+001Hr000028Zdf8,"Pitt County, NC",North Carolina,County,Ben Laddis,180783,,Tier S,2.0,35.5589,-77.4243,bf7637b7-e9f3-4702-8a1e-d6f261b6234f,,,,,,,,,4,2025-05-27,,4,,,,12446
+001Hr000028Zdgv,"Gaston County, NC",North Carolina,County,Ben Laddis,242010,,Tier S,2.0,35.2896,-81.2078,4c23c45d-61a7-489e-ad0d-63c08dbfae1e,,,,,,,,,,,,,,,,12192
+001Hr000028Zdh0,"Franklin County, NC",North Carolina,County,Nick Martino,,,Tier 3,0.75,36.073,-78.2476,4a8ae285-e54c-4765-8e78-ace562859156,,,,,,,,,,,,,,,,12336
+001Hr000028Zdhs,"Halifax County, NC",North Carolina,County,Ben Laddis,46992,,Tier 1,1.5,36.2647,-77.6078,e07c72f4-6004-4776-bc3a-90410f6be964,,,,,,,,,6,2025-06-23,,6,,,,11928
+001Hr000028Zdlv,"Pender County, NC",North Carolina,County,Nick Martino,70077,Nurture,Tier S,2.0,34.5171,-77.8367,9d74ae20-3ea6-415d-8a47-3f04285772e3,Closed Lost,,,Nick Martino,10/28/2025,10/16/2025,,,6,2025-07-29,1,5,,,,12321
+001Hr000028Zdlw,"County Of Vance, NC",North Carolina,County,Ben Laddis,42185,Implementation,Tier 1,1.5,36.3479,-78.4297,68231393-0371-486a-9602-7536b4205580,Closed Won,,,Nick Martino,2/4/2026,2/2/2026,"$20,000",,11,2026-01-29,11,,,,,12375
+001Hr000028Zdlx,"Rowan County, NC",North Carolina,County,Nick Martino,153384,,Tier S,2.0,35.6303,-80.5438,12b9f3d9-7243-4f27-976c-68e3a3e85b71,,,,,,,,,,,,,,,,12457
+001Hr000028ZdmQ,"Harnett County, NC",North Carolina,County,Ben Laddis,146096,,Tier S,2.0,35.3579,-78.8836,dbe8b0f5-99d1-4512-816b-6734f9a3fc6e,,,,,,,,,,,,,,,,12455
+001Hr000028ZdmT,"Montgomery County, NC",North Carolina,County,Ben Laddis,,,Tier 3,0.75,35.3588,-79.8745,08c38639-48f2-45d9-973f-e5a91de67577,,,,,,,,,,,,,,,,12319
+001Hr000028Zdn4,"Union County, NC",North Carolina,County,Ben Laddis,238267,,Tier S,2.0,34.9339,-80.5438,62e99393-b912-46af-afc4-e63543a763a9,,,,,,,,,10,2026-04-23,6,4,,,,12454
+001Hr000028Zdn8,"Rockingham County, NC",North Carolina,County,Ben Laddis,92518,Open Opportunity,Tier S,2.0,36.4335,-79.8297,48c519cb-e8c7-4600-b4cc-0298db0694ce,Open,Initial Interest,Top of Funnel,Harrison Peacock,11/20/2024,1/5/2025,,,,,,,,,,12559
+001Hr000028ZdnD,"Rutherford County, NC",North Carolina,County,Nick Martino,65507,Open Opportunity,Tier S,2.0,35.4259,-81.9098,fdecae5d-5084-45cb-90f8-14ba597cbd0d,Open,Initial Interest,Top of Funnel,Joe del Rosario,4/10/2025,3/26/2025,,,2,2025-08-05,,2,,,,12378
+001Hr000028ZdnR,"Orange County, NC",North Carolina,County,Nick Martino,,,Tier 3,0.75,36.0263,-79.1097,4cbc55f9-1479-44ca-ba2f-2db6944711df,,,,,,,,,8,2026-04-13,8,,,,,12452
+001Hr000028Zdo4,"Brunswick County, NC",North Carolina,County,Ben Laddis,159964,,Tier S,2.0,34.0275,-78.202,5c37df78-899f-424e-8802-79bb19281cdc,,,,,,,,,23,2026-02-09,23,,,,,12002
+001Hr000028ZdoH,"Cabarrus County, NC",North Carolina,County,Ben Laddis,244925,,Tier S,2.0,35.4168,-80.5883,a43fbac6-2cec-4bfc-a8c5-ef4ab4128e4a,,,,,,,,,,,,,,,,12462
+001Hr000028ZdpG,"Carteret County, NC",North Carolina,County,Nick Martino,69615,,Tier S,2.0,34.9019,-76.5488,4f90073d-1c25-498f-8212-f1ddc03c99bd,,,,,,,,,4,2025-10-23,4,,,,,12324
+001Hr000028Zdpw,"Chatham County, NC",North Carolina,County,Ben Laddis,81624,,Tier S,2.0,35.6978,-79.2902,48ef6065-140f-4a30-91f6-99a7f40389ba,,,,,,,,,,,,,,,,12294
+001Hr000028Zdqg,"Robeson County, NC",North Carolina,County,Ben Laddis,118624,Open Opportunity,Tier S,2.0,34.6384,-79.1097,ef431e45-3bcf-48ac-a2cb-67da33466b53,Open,Initial Interest,Top of Funnel,Harrison Peacock,9/13/2024,1/5/2025,,,2,2026-05-18,,,2,,,12450
+001Hr000028Zdqq,"Cleveland County, NC",North Carolina,County,Nick Martino,101378,Open Opportunity,Tier S,2.0,35.3614,-81.6035,3f25d963-8dd9-4e6a-8b3e-43344e867b92,Open,Initial Interest,Top of Funnel,Nick Martino,2/6/2026,1/20/2026,,Yes,19,2026-04-16,19,,,,,12329
+001Hr000028ZdrA,"Nash County, NC",North Carolina,County,Ben Laddis,97990,,Tier S,2.0,35.9598,-77.9739,7498d95a-c530-4c15-8b77-2b751f82787b,,,,,,,,,,,,,,,,12372
+001Hr000028ZdrZ,"Henderson County, NC",North Carolina,County,Nick Martino,,,Tier 3,0.75,35.3726,-82.4319,359777be-9ffc-4720-96ab-6facf8faf166,,,,,,,,,2,2026-05-19,,,2,,,12464
+001Hr000028Zdrr,"Lenoir County, NC",North Carolina,County,Ben Laddis,55332,,Tier S,2.0,35.2327,-77.6078,72487b34-34a4-4d64-b802-ff97916e2249,,,,,,,,,,,,,,,,12299
+001Hr000028Zds7,"Iredell County, NC",North Carolina,County,Nick Martino,206361,Open Opportunity,Tier S,2.0,35.831,-80.8987,c917fa9e-8197-44cd-9183-81105b3b93c9,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,9,2026-04-17,9,,,,,12475
+001Hr000028ZdsQ,"Duplin County, NC",North Carolina,County,Nick Martino,50539,,Tier S,2.0,34.884,-78.0195,7f393c2e-1133-4416-a98c-29e5527a2863,,,,,,,,,,,,,,,,12310
+001Hr000028ZdsV,"Dare County, NC",North Carolina,County,Ben Laddis,38183,,Tier 1,1.5,35.7015,-75.7378,2f502920-3cd3-4e18-b436-873eca27c0d9,,,,,,,,,,,,,,,,12323
+001Hr000028Zdt5,"Wayne County, NC",North Carolina,County,Ben Laddis,,,Tier 3,0.75,35.3565,-77.9739,567b1ffe-e2a1-4544-b62d-061b0bd096b4,,,,,,,,,,,,,,,,12474
+001Hr000028Zdtd,"Stokes County, NC",North Carolina,County,Nick Martino,45857,,Tier 1,1.5,36.4244,-80.2321,315fa1cf-cf9f-4ac8-bbb8-07082a68a144,,,,,,,,,,,,,,,,12373
+001Hr000028Zdtx,"New Hanover County, NC",North Carolina,County,Ben Laddis,243333,,Tier S,2.0,34.2155,-77.8825,d7e24ecd-3d50-4a88-bbc0-be2ac5a5447e,,,,,,,,,,,,,,,,12445
+001Hr000028Zj5C,"Davidson County, NC",North Carolina,County,Ben Laddis,174804,Open Opportunity,Tier S,2.0,35.7748,-80.1875,ace6581e-a08e-4f21-8747-4bde77bdfb7d,Open,Initial Interest,Top of Funnel,Ben Laddis,,5/18/2026,,Yes,4,2026-05-18,,,4,,,12611
+001Hr000028ZjIn,"Town Of Kure Beach, NC",North Carolina,Municipality,Nick Martino,2148,Nurture,Tier 3,0.75,33.9968,-77.9072,8118d69d-0d93-43ef-b734-b33228ce8c2e,Closed Lost,,,Shane Lieberman,8/14/2024,1/5/2025,"$15,000",,,,,,,,,12620
+001Hr000028ZjNs,"County Of Surry, NC",North Carolina,County,Nick Martino,71152,Nurture,Tier S,2.0,36.3743,-80.6771,ef292ea3-faa1-4044-a852-2247292fa1cb,Closed Lost,,,Shane Lieberman,8/21/2024,1/5/2025,,,4,2025-06-02,,4,,,,12634
+001Hr000028Zjsh,"County Of Martin, NC",North Carolina,County,Ben Laddis,21754,Recent Competitor Purchase,Tier 2,1.0,35.8733,-77.1485,a546bb57-6f59-4b0f-8b13-a2df83d1d086,Closed Lost,,,Shane Lieberman,1/6/2025,1/3/2025,,,,,,,,,,12643
+001cv00000AuWOh,"Town Of Mars Hill, NC",North Carolina,Municipality,Ben Laddis,2022,,Tier 3,0.75,35.8265,-82.5493,17e5d573-771c-4ebc-8c2b-af44d5d48250,,,,,,,,,,,,,,,,12885
+001cv00000AuWPb,"Town Of Badin, NC",North Carolina,Municipality,Nick Martino,2034,,Tier 3,0.75,35.4035,-80.1177,57d02edd-e166-4b3d-97ea-f701301dc7f7,,,,,,,,,,,,,,,,13008
+001cv00000AuWXV,"Town Of St Pauls, NC",North Carolina,Municipality,Ben Laddis,2055,,Tier 3,0.75,34.8066,-78.9711,7a46cd04-0ebf-47f3-9879-80589cbb8ae4,,,,,,,,,,,,,,,,13348
+001cv00000AuWak,"Town Of Maxton, NC",North Carolina,Municipality,Nick Martino,2116,,Tier 3,0.75,34.7352,-79.3489,01b620c1-0319-44fe-8ca6-2d8c2d68350f,,,,,,,,,,,,,,,,13146
+001cv00000AuWar,"Town Of Youngsville, NC",North Carolina,Municipality,Nick Martino,2119,,Tier 3,0.75,36.0249,-78.4744,0fb82d04-8033-4132-aa6b-dc1f856e5d1f,,,,,,,,,3,2025-12-17,3,,,,,13080
+001cv00000AuWav,"Town Of Madison, NC",North Carolina,Municipality,Ben Laddis,2120,,Tier 3,0.75,36.3854,-79.9595,96d30bff-16c8-4731-bf0a-7fac06cee3c2,,,,,,,,,,,,,,,,13108
+001cv00000AuWbr,"Town Of Pine Level, NC",North Carolina,Municipality,Ben Laddis,2139,,Tier 3,0.75,35.5132,-78.2444,4b8bda7c-2c7b-4a8b-be0e-af4187585973,,,,,,,,,11,2026-01-20,11,,,,,13097
+001cv00000AuWdC,"Town Of Oakboro, NC",North Carolina,Municipality,Nick Martino,2162,,Tier 3,0.75,35.2257,-80.329,4ae13113-02bc-4476-82af-d3b3eea38120,,,,,,,,,,,,,,,,13217
+001cv00000AuWpC,"Town Of Fairmont, NC",North Carolina,Municipality,Ben Laddis,2176,,Tier 3,0.75,34.4968,-79.1142,6b8c5898-b156-4793-8f5f-b38113317add,,,,,,,,,,,,,,,,13488
+001cv00000AuWpy,"Town Of Coats, NC",North Carolina,Municipality,Nick Martino,2189,,Tier 3,0.75,35.4079,-78.672,33d168f4-3697-4657-850b-06d39970b854,,,,,,,,,,,,,,,,13505
+001cv00000AuWq8,"Town Of Calabash, NC",North Carolina,Municipality,Ben Laddis,2192,,Tier 3,0.75,33.8912,-78.5671,0fce3708-af9c-4264-b8dd-43849e581768,,,,,,,,,,,,,,,,13524
+001cv00000AuWrA,"Town Of Spruce Pine, NC",North Carolina,Municipality,Nick Martino,2216,,Tier 3,0.75,35.9154,-82.0646,6d5569de-4bd6-4b2b-a750-88ed1ec0367c,,,,,,,,,,,,,,,,13591
+001cv00000AuWrr,"Town Of Laurel Park, NC",North Carolina,Municipality,Ben Laddis,2233,,Tier 3,0.75,35.3137,-82.4935,84ef6ae6-34b4-4770-9498-b85e47529b02,,,,,,,,,,,,,,,,13666
+001cv00000AuWya,"Town Of Richlands, NC",North Carolina,Municipality,Nick Martino,2302,,Tier 3,0.75,34.8993,-77.5466,775baf17-e860-452c-a5e1-02a19a9983bd,,,,,,,,,,,,,,,,13522
+001cv00000AuX5V,"Town Of Cape Carteret, NC",North Carolina,Municipality,Ben Laddis,2249,,Tier 3,0.75,34.6916,-77.063,4ecb8775-af24-412f-b92a-7cc1728a0974,,,,,,,,,,,,,,,,13716
+001cv00000AuX68,"Town Of Haw River, NC",North Carolina,Municipality,Nick Martino,2263,,Tier 3,0.75,36.095,-79.3567,40a8f539-7188-4904-a9a0-1aa801bba4e6,,,,,,,,,,,,,,,,13694
+001cv00000AuX8h,"Town Of Jonesville, NC",North Carolina,Municipality,Ben Laddis,2314,,Tier 3,0.75,36.2393,-80.8445,e018546c-35c1-462b-8810-1d532b0c86c6,,,,,,,,,,,,,,,,13855
+001cv00000AuX8p,"Town Of Rockwell, NC",North Carolina,Municipality,Nick Martino,2317,,Tier 3,0.75,35.5513,-80.4064,14565789-84a5-4a2b-8730-aa7a93b1c086,,,,,,,,,,,,,,,,13926
+001cv00000AuX8w,"Town Of Taylorsville, NC",North Carolina,Municipality,Ben Laddis,2320,,Tier 3,0.75,35.9224,-81.174,2b720de0-f02d-4462-b958-a74e76f9f5a8,,,,,,,,,,,,,,,,13876
+001cv00000AuX9L,"Town Of Four Oaks, NC",North Carolina,Municipality,Nick Martino,2331,,Tier 3,0.75,35.4449,-78.4269,5df9e6e7-f03b-4d54-ac4b-7b2325a91620,,,,,,,,,,,,,,,,13883
+001cv00000AuXN0,"Town Of Swepsonville, NC",North Carolina,Municipality,Ben Laddis,2456,,Tier 3,0.75,36.0297,-79.3594,c9dc0aa8-43b5-40d9-a484-0957cf366ced,,,,,,,,,,,,,,,,13987
+001cv00000AuXNP,"Town Of Grifton, NC",North Carolina,Municipality,Nick Martino,2467,,Tier 3,0.75,35.3727,-77.4375,b9557be7-b2a9-4b7a-ba95-4e5d48ce038c,,,,,,,,,,,,,,,,14138
+001cv00000AuXPN,"Town Of Murfreesboro, NC",North Carolina,Municipality,Ben Laddis,2512,,Tier 3,0.75,36.4424,-77.0986,bf194a3f-c541-4de4-be3a-977a058e6c0b,,,,,,,,,,,,,,,,14341
+001cv00000AuXUi,"Town Of Marshville, NC",North Carolina,Municipality,Nick Martino,2565,,Tier 3,0.75,34.9885,-80.367,36f684fd-67d1-46e6-af97-0a1261092c92,,,,,,,,,,,,,,,,14221
+001cv00000AuXV0,"Town Of Franklinton, NC",North Carolina,Municipality,Ben Laddis,2572,,Tier 3,0.75,36.1018,-78.4581,481c2070-7805-4ff2-914f-53796fd4050a,,,,,,,,,,,,,,,,14384
+001cv00000AuXZk,"Town Of Carthage, NC",North Carolina,Municipality,Nick Martino,2781,,Tier 3,0.75,35.346,-79.417,2916bff6-df57-48ca-a703-dbccd5a4be97,,,,,,,,,,,,,,,,14391
+001cv00000AuXiL,"Town Of Yadkinville, NC",North Carolina,Municipality,Ben Laddis,2792,,Tier 3,0.75,36.1346,-80.6595,1e4af660-3561-4cab-9f54-647f47f3ee29,,,,,,,,,,,,,,,,14574
+001cv00000AuXj5,"Town Of Pembroke, NC",North Carolina,Municipality,Nick Martino,2812,,Tier 3,0.75,34.6802,-79.195,3c1ce614-b983-4788-b942-ae35783b48cb,,,,,,,,,,,,,,,,14677
+001cv00000AuXlf,"Town Of River Bend, NC",North Carolina,Municipality,Ben Laddis,2881,,Tier 3,0.75,35.069,-77.1469,8e2d5804-f62d-4ad6-b954-fe51e1550186,,,,,,,,,,,,,,,,14777
+001cv00000AuXmi,"Town Of Troy, NC",North Carolina,Municipality,Nick Martino,2913,,Tier 3,0.75,35.3585,-79.8945,827ecc57-2110-46ba-bbf0-3b4e5c5b3439,,,,,,,,,,,,,,,,14877
+001cv00000AuXzI,"Town Of Burgaw, NC",North Carolina,Municipality,Ben Laddis,3071,,Tier 3,0.75,34.5521,-77.9261,b91c30e6-0e44-4f86-af74-83c962b05001,,,,,,,,,,,,,,,,15027
+001cv00000AuYAW,"Town Of Green Level, NC",North Carolina,Municipality,Nick Martino,3174,,Tier 3,0.75,36.121,-79.3502,9fece132-0959-49b6-918a-263ead41d55a,,,,,,,,,,,,,,,,15618
+001cv00000AuYAa,"Town Of Southern Shores, NC",North Carolina,Municipality,Ben Laddis,3175,,Tier 3,0.75,36.1391,-75.7316,556331c7-5587-445c-b022-21b6ac051e82,,,,,,,,,,,,,,,,15622
+001cv00000AuYAq,"Town Of Nags Head, NC",North Carolina,Municipality,Nick Martino,3182,,Tier 3,0.75,35.9574,-75.6241,07c63c91-c1fe-4ece-924c-040ebcfcf850,,,,,,,,,,,,,,,,15671
+001cv00000AuYBT,"Town Of Red Springs, NC",North Carolina,Municipality,Ben Laddis,3096,,Tier 3,0.75,34.8152,-79.1831,272a3ad3-629f-4a52-816b-00056a3c744b,,,,,,,,,,,,,,,,15161
+001cv00000AuYBn,"Town Of Wallburg, NC",North Carolina,Municipality,Nick Martino,3107,,Tier 3,0.75,36.0101,-80.1392,36f1bb4e-f8ec-4a1d-8f7b-b665129fbb75,,,,,,,,,,,,,,,,15182
+001cv00000AuYCV,"Town Of Elizabethtown, NC",North Carolina,Municipality,Ben Laddis,3132,,Tier 3,0.75,34.6293,-78.6053,545f108c-d254-4ecf-9165-db8c6efb44c3,,,,,,,,,,,,,,,,15179
+001cv00000AuYCk,"Town Of Bermuda Run, NC",North Carolina,Municipality,Nick Martino,3141,,Tier 3,0.75,36.0005,-80.4268,524c95f1-13e6-49a1-9c47-ff6bd02e7bfd,,,,,,,,,,,,,,,,15247
+001cv00000AuYF6,"Town Of Granite Quarry, NC",North Carolina,Municipality,Ben Laddis,3006,,Tier 3,0.75,35.6124,-80.4467,97209f33-9955-4cf1-88ab-6cc098440b93,,,,,,,,,,,,,,,,15111
+001cv00000AuYFC,"Town Of Louisburg, NC",North Carolina,Municipality,Nick Martino,3008,Nurture,Tier 3,0.75,36.099,-78.3011,a94d1d9d-7b8c-4114-9d0a-f6b7b1a62fe4,Closed Lost,,,Nick Martino,1/26/2026,12/10/2025,"$17,000",,11,2026-05-18,11,,,,,15021
+001cv00000AuYIC,"Town Of Wallace, NC",North Carolina,Municipality,Nick Martino,3315,,Tier 3,0.75,34.7357,-77.9953,01acaeeb-f5c0-4ab8-a727-c1be80fa7756,,,,,,,,,,,,,,,,15672
+001cv00000AuYID,"Town Of Spencer, NC",North Carolina,Municipality,Ben Laddis,3315,,Tier 3,0.75,35.6924,-80.4347,a97b23db-6f67-4301-8dbd-b55552ae642a,,,,,,,,,,,,,,,,15697
+001cv00000AuYIi,"Village Of Lake Park, NC",North Carolina,Municipality,Nick Martino,3335,,Tier 3,0.75,35.0863,-80.6351,cb1d727e-0c4d-49c7-b2bb-1ba1b604e5d4,,,,,,,,,,,,,,,,15811
+001cv00000AuYJ1,"Town Of Red Oak, NC",North Carolina,Municipality,Ben Laddis,3349,,Tier 3,0.75,36.0385,-77.9064,b8706666-4110-4ea9-b68d-3d0a7b70f9ca,,,,,,,,,,,,,,,,15841
+001cv00000AuYJA,"Town Of Windsor, NC",North Carolina,Municipality,Nick Martino,3354,,Tier 3,0.75,35.9985,-76.9461,2fb2adbc-a84d-4c70-a74e-7748060b4716,,,,,,,,,,,,,,,,15800
+001cv00000AuYKq,"Town Of Rural Hall, NC",North Carolina,Municipality,Ben Laddis,3413,,Tier 3,0.75,36.2404,-80.2934,82d645fa-6b47-45e9-ab64-611448892b5a,,,,,,,,,,,,,,,,15879
+001cv00000AuYN1,"Village Of Flat Rock, NC",North Carolina,Municipality,Ben Laddis,3504,,Tier 3,0.75,35.2712,-82.4415,040ff731-2702-4480-8ef8-9b7221e84a51,,,,,,,,,5,2025-12-18,5,,,,,15425
+001cv00000AuYOq,"Town Of Plymouth, NC",North Carolina,Municipality,Nick Martino,3230,,Tier 3,0.75,35.8668,-76.7486,fc538dc4-e831-4dc6-b271-71fb68c16a6e,,,,,,,,,,,,,,,,15447
+001cv00000AuYOy,"Town Of Mineral Springs, NC",North Carolina,Municipality,Ben Laddis,3235,,Tier 3,0.75,34.9379,-80.6687,c2e1794e-490d-40cd-8154-784bd24abc8c,,,,,,,,,,,,,,,,15506
+001cv00000AuYPO,"County Of Tyrrell, NC",North Carolina,County,Nick Martino,3254,,Tier 3,0.75,35.8926,-76.1784,944b038a-e8eb-4d8a-90ff-afe7586275a8,,,,,,,,,,,,,,,,15518
+001cv00000AuYRB,"Town Of Fairview, NC",North Carolina,Municipality,Nick Martino,3540,,Tier 3,0.75,35.514,-82.396,9104db75-caac-4322-b58d-d97e20d21e00,,,,,,,,,,,,,,,,15473
+001cv00000AuYRx,"Town Of Wilkesboro, NC",North Carolina,Municipality,Ben Laddis,3575,,Tier 3,0.75,36.146,-81.1606,e0e15bdf-5531-48f9-b738-b0b1d4bc4d93,,,,,,,,,,,,,,,,15603
+001cv00000AuYSo,"Town Of Rutherfordton, NC",North Carolina,Municipality,Nick Martino,3621,Nurture,Tier 3,0.75,35.3693,-81.9568,42f700ea-b3a8-484d-8da6-73eaa434982a,Closed Lost,,,Nick Martino,12/15/2025,12/10/2025,,,1,2025-12-10,1,,,,,16106
+001cv00000AuYfT,"Town Of North Wilkesboro, NC",North Carolina,Municipality,Nick Martino,4239,,Tier 3,0.75,36.1585,-81.1476,1661bba8-9c73-4fc1-8100-8feb8151a5c1,,,,,,,,,9,2025-07-30,9,,,,,16780
+001cv00000AuYfu,"Town Of Troutman, NC",North Carolina,Municipality,Nick Martino,3809,,Tier 3,0.75,35.7021,-80.8888,69d761f0-b38b-4b71-a042-1a4bdfda3a53,,,,,,,,,13,2026-04-07,13,,,,,16080
+001cv00000AuYgF,"Town Of Swansboro, NC",North Carolina,Municipality,Nick Martino,3825,,Tier 3,0.75,34.6877,-77.1191,2b73fa2e-dbaa-4e01-a317-19cca8d247ff,,,,,,,,,,,,,,,,16226
+001cv00000AuYhY,"Town Of Emerald Isle, NC",North Carolina,Municipality,Nick Martino,3891,,Tier 3,0.75,34.6779,-76.9508,35a18109-bcf3-4393-950c-ff12b93441a4,,,,,,,,,5,2026-01-06,5,,,,,16203
+001cv00000AuYhq,"Town Of Wingate, NC",North Carolina,Municipality,Ben Laddis,3907,,Tier 3,0.75,34.9843,-80.4492,77f7916a-a22b-4fb5-a388-4b526a8d3a2e,,,,,,,,,,,,,,,,16104
+001cv00000AuYlq,"Town Of Trent Woods, NC",North Carolina,Municipality,Nick Martino,4004,,Tier 3,0.75,35.0821,-77.0863,e2393c5e-f897-4fda-85bf-d2b2bdd16fb6,,,,,,,,,10,2025-08-01,10,,,,,16663
+001cv00000AuYlr,"Town Of Stanley, NC",North Carolina,Municipality,Ben Laddis,4004,,Tier 3,0.75,35.3535,-81.0903,96ee0c8c-2e8e-4b7e-80e2-c786f56ac726,,,,,,,,,5,2025-11-12,5,,,,,16533
+001cv00000AuYmQ,"Town Of Mount Olive, NC",North Carolina,Municipality,Nick Martino,4036,,Tier 3,0.75,35.1966,-78.0664,043e17f6-6a24-490a-ab5b-d23782a3ef9c,,,,,,,,,10,2025-08-04,10,,,,,16574
+001cv00000AuYmr,"Town Of Elkin, NC",North Carolina,Municipality,Nick Martino,4060,,Tier 3,0.75,36.2443,-80.8484,90774f74-47dc-4e39-aaac-08907d461ab8,,,,,,,,,2,2025-07-10,2,,,,,16581
+001cv00000AuYnq,"Town Of Benson, NC",North Carolina,Municipality,Ben Laddis,4103,,Tier 3,0.75,35.3821,-78.5486,2ec97af5-a0d3-4f48-9298-15642b328611,,,,,,,,,10,2025-07-31,10,,,,,16638
+001cv00000AuYoB,"Town Of Surf City, NC",North Carolina,Municipality,Nick Martino,4119,,Tier 3,0.75,34.4271,-77.5461,d4a3b275-6d3f-4090-ba50-d561205357e7,,,,,,,,,3,2025-07-09,3,,,,,16808
+001cv00000AuYoF,"City Of Southport, NC",North Carolina,Municipality,Ben Laddis,4124,,Tier 3,0.75,33.9182,-78.0193,6c4fc553-c3e5-45de-ba61-c67fd8961a48,,,,,,,,,7,2025-07-17,7,,,,,16728
+001cv00000AuYou,"Town Of Spindale, NC",North Carolina,Municipality,Nick Martino,4163,,Tier 3,0.75,35.3601,-81.9293,6edb7947-4ead-4a70-960e-640f2d6eaf14,,,,,,,,,6,2025-07-24,6,,,,,16674
+001cv00000AuYq9,"Town Of Franklin, NC",North Carolina,Municipality,Ben Laddis,4233,,Tier 3,0.75,35.1823,-83.3815,557ed212-aace-4b04-a511-b691098af70a,,,,,,,,,32,2026-01-27,32,,,,,16328
+001cv00000AuYqu,"Town Of Tabor City, NC",North Carolina,Municipality,Nick Martino,3674,,Tier 3,0.75,34.1488,-78.8767,99883034-0bbc-431c-8180-a37c06ed4dad,,,,,,,,,,,,,,,,16285
+001cv00000AuYqv,"Town Of Eastover, NC",North Carolina,Municipality,Ben Laddis,3675,,Tier 3,0.75,35.0975,-78.783,0ff164eb-89d5-49fc-a04b-adec7f879714,,,,,,,,,,,,,,,,16386
+001cv00000AuYrb,"City Of Lowell, NC",North Carolina,Municipality,Nick Martino,3701,,Tier 3,0.75,35.268,-81.0994,c3fff0da-68c2-4f8e-b571-40cf77652f09,,,,,,,,,,,,,,,,16439
+001cv00000AuYrg,"Town Of Gamewell, NC",North Carolina,Municipality,Ben Laddis,3704,,Tier 3,0.75,35.8693,-81.5962,20fc2590-a277-41cb-966a-3e6d2553f4cd,,,,,,,,,,,,,,,,16441
+001cv00000AuYrx,"Town Of Landis, NC",North Carolina,Municipality,Nick Martino,3712,,Tier 3,0.75,35.5457,-80.6109,c9875535-a545-45d9-8ca6-1c999119c514,,,,,,,,,,,,,,,,16301
+001cv00000AuYs4,"Town Of Jamestown, NC",North Carolina,Municipality,Ben Laddis,3721,,Tier 3,0.75,35.9943,-79.9353,d61cbce6-99ec-4e99-b85b-9ceefb4ea405,,,,,,,,,,,,,,,,16332
+001cv00000AuYs9,"Town Of Maiden, NC",North Carolina,Municipality,Nick Martino,3726,,Tier 3,0.75,35.5757,-81.2117,e410eb0c-830e-48d4-a06a-9fe65139c3f5,,,,,,,,,,,,,,,,16395
+001cv00000AuYso,"Town Of Kitty Hawk, NC",North Carolina,Municipality,Ben Laddis,3761,,Tier 3,0.75,36.0646,-75.7057,bb20d110-c2f9-4e5b-b7e6-88ced865f821,,,,,,,,,,,,,,,,16465
+001cv00000AuYt9,"Town Of Hudson, NC",North Carolina,Municipality,Nick Martino,3777,,Tier 3,0.75,35.8485,-81.4959,ab1e5517-f66e-4d3a-b655-065512d55bd4,,,,,,,,,,,,,,,,16479
+001cv00000AuYuY,"Town Of Sunset Beach, NC",North Carolina,Municipality,Nick Martino,4270,,Tier 3,0.75,33.8821,-78.5184,40dd2e3b-9915-4c8d-836a-a93ac615dfba,,,,,,,,,7,2025-07-16,7,,,,,16831
+001cv00000AuYvE,"Town Of Shallotte, NC",North Carolina,Municipality,Nick Martino,4310,Nurture,Tier 3,0.75,33.9793,-78.3765,c95a248d-5b1c-469c-b3d5-caf0de2f8ebb,Closed Lost,,,Nick Martino,1/5/2026,12/8/2025,,,4,2025-12-08,4,,,,,16791
+001cv00000AuYwc,"Town Of Edenton, NC",North Carolina,Municipality,Ben Laddis,4391,,Tier 3,0.75,36.0579,-76.6077,f77e8108-ae5b-4687-878f-c61a7bb1e349,,,,,,,,,9,2025-08-01,9,,,,,16850
+001cv00000AuYxn,"Town Of Canton, NC",North Carolina,Municipality,Nick Martino,4418,,Tier 3,0.75,35.5329,-82.8374,b5887238-0a9e-470b-8ecf-a6e21b5d18ad,,,,,,,,,9,2025-12-17,9,,,,,19953
+001cv00000AuYxs,"Town Of Holly Ridge, NC",North Carolina,Municipality,Ben Laddis,4420,,Tier 3,0.75,34.4954,-77.555,be669ecc-eb87-40e2-8be4-3fac8bf9e910,,,,,,,,,8,2025-07-31,8,,,,,19950
+001cv00000AuYyS,"Town Of China Grove, NC",North Carolina,Municipality,Nick Martino,4454,,Tier 3,0.75,35.5693,-80.5817,d0b18f27-a2a3-4740-a929-423626ddf435,,,,,,,,,4,2026-01-13,4,,,,,19975
+001cv00000AuYyZ,"Town Of Newport, NC",North Carolina,Municipality,Nick Martino,4459,Nurture,Tier 3,0.75,34.7865,-76.8591,bb2ff6bf-3ac6-4523-9f78-a38db4bc7650,Closed Lost,,,Nick Martino,7/15/2025,7/14/2025,"$20,000",,4,2026-01-05,4,,,,,20087
+001cv00000AuYyg,"Town Of Farmville, NC",North Carolina,Municipality,Nick Martino,4469,,Tier 3,0.75,35.5954,-77.5853,ab5cdad4-ca41-44c0-8287-c8c708167827,,,,,,,,,9,2025-08-04,9,,,,,20029
+001cv00000AuYzB,"County Of Hyde, NC",North Carolina,County,Nick Martino,4508,,Tier 3,0.75,35.3778,-76.1784,889b0050-7ba7-4e04-9fed-c69fff7a060f,,,,,,,,,4,2025-07-15,4,,,,,20081
+001cv00000AuYzh,"Town Of Boiling Springs, NC",North Carolina,Municipality,Nick Martino,4536,,Tier 3,0.75,35.2543,-81.667,51634fdb-9fd2-44d8-8030-43e16ae23469,,,,,,,,,1,2025-07-11,1,,,,,20071
+001cv00000AuZ01,"Town Of Lillington, NC",North Carolina,Municipality,Ben Laddis,4558,,Tier 3,0.75,35.3993,-78.8159,bf8c924e-837b-4682-ad74-799723bf37aa,,,,,,,,,16,2025-12-17,16,,,,,20101
+001cv00000AuZ7t,"Town Of Cramerton, NC",North Carolina,Municipality,Nick Martino,5381,,Tier 3,0.75,35.2351,-81.072,824fd582-4533-4348-97ed-61ea5443bbef,,,,,,,,,3,2025-08-28,3,,,,,17057
+001cv00000AuZ9y,"Town Of Carolina Shores, NC",North Carolina,Municipality,Nick Martino,4763,,Tier 3,0.75,33.9088,-78.5756,c940af4d-c807-4e03-9a92-10aaf72f4543,,,,,,,,,33,2026-02-24,33,,,,,17195
+001cv00000AuZB5,"Town Of Dallas, NC",North Carolina,Municipality,Nick Martino,6016,,Tier 3,0.75,35.3165,-81.1758,e1b06752-1cac-43f2-958d-523c87c2e97d,,,,,,,,,1,2025-07-11,1,,,,,17159
+001cv00000AuZLl,"Town Of Midland, NC",North Carolina,Municipality,Ben Laddis,4801,,Tier 3,0.75,35.2274,-80.5006,29f2f147-2120-4d80-b865-b09a8cbd6dc6,,,,,,,,,1,2025-07-11,1,,,,,17310
+001cv00000AuZM1,"Town Of Midway, NC",North Carolina,Municipality,Nick Martino,4814,,Tier 3,0.75,35.9535,-80.2181,c2e5aac1-5d8a-4098-908a-07aee0257a47,,,,,,,,,10,2025-08-05,10,,,,,17295
+001cv00000AuZN1,"Town Of Ahoskie, NC",North Carolina,Municipality,Nick Martino,4879,Nurture,Tier 3,0.75,36.2868,-76.9847,27bcdd2f-60fb-45d8-b681-bd2b4e53f6bd,Closed Lost,,,Nick Martino,7/22/2025,7/15/2025,,,3,2025-07-18,3,,,,,17403
+001cv00000AuZNl,"Town Of Granite Falls, NC",North Carolina,Municipality,Ben Laddis,4927,,Tier 3,0.75,35.7965,-81.4306,3f0f3099-1078-4fb6-b4e1-e044d6c647b2,,,,,,,,,,,,,,,,17430
+001cv00000AuZSQ,"City Of Creedmoor, NC",North Carolina,Municipality,Ben Laddis,5017,Open Opportunity,Tier 3,0.75,36.1224,-78.6861,022a5456-2ab5-45e0-9ba6-7e018e168cd8,Open,Proposal,Mid Funnel,Nick Martino,2/11/2026,2/3/2026,"$17,000",,28,2026-02-20,28,,,,,17778
+001cv00000AuZSa,"Town Of Sawmills, NC",North Carolina,Municipality,Ben Laddis,5036,,Tier 3,0.75,35.8186,-81.48,42a81086-c37c-4772-8286-59c7a025a257,,,,,,,,,11,2025-09-11,11,,,,,17697
+001cv00000AuZSg,"Town Of Pleasant Garden, NC",North Carolina,Municipality,Nick Martino,5044,,Tier 3,0.75,35.9621,-79.7623,dd3a2d8b-eb85-4d9d-a7c7-125c6150db2c,,,,,,,,,,,,,,,,17448
+001cv00000AuZTK,"Village Of Whispering Pines, NC",North Carolina,Municipality,Nick Martino,5124,,Tier 3,0.75,35.2557,-79.3722,39680bf0-4521-4757-9559-0d2b2bef3dd4,,,,,,,,,2,2025-08-27,2,,,,,17565
+001cv00000AuZTL,"Town Of Long View, NC",North Carolina,Municipality,Nick Martino,5125,,Tier 3,0.75,35.7293,-81.3834,d167884c-59bf-4194-a0b6-1c5e27959a23,,,,,,,,,9,2025-09-11,9,,,,,17498
+001cv00000AuZVd,"County Of Graham, NC",North Carolina,County,Ben Laddis,8043,Open Opportunity,Tier 3,0.75,36.068,-79.4004,2f1c053b-6613-4ce0-bf01-bc8dd064452a,Open,Meeting Booked,Top of Funnel,Nick Martino,1/27/2026,1/15/2026,,,76,2026-04-20,76,,,,,17678
+001cv00000AuZZN,"County Of Jones, NC",North Carolina,County,Ben Laddis,9255,,Tier 3,0.75,35.0306,-77.3324,54605680-c07f-48d3-ac53-e2b298acc966,,,,,,,,,,,,,,,,18360
+001cv00000AuZaU,"County Of Clay, NC",North Carolina,County,Ben Laddis,11309,,Tier 2,1.0,35.0964,-83.7199,6e7d011d-7674-4ecc-b5cf-173a0687b888,,,,,,,,,,,,,,,,18455
+001cv00000AuZcn,"County Of Gates, NC",North Carolina,County,Nick Martino,10366,,Tier 2,1.0,36.4202,-76.6875,8d0b5c89-3a6e-4b17-b835-abab7b4db19a,,,,,,,,,,,,,,,,18238
+001cv00000AuZfw,"County Of Perquimans, NC",North Carolina,County,Ben Laddis,13130,,Tier 2,1.0,36.133,-76.41,49005baf-623b-482a-aa3b-9076c7603e5d,,,,,,,,,,,,,,,,18250
+001cv00000AuZhX,"County Of Mitchell, NC",North Carolina,County,Nick Martino,14963,,Tier 2,1.0,36.0278,-82.1496,0ae995bc-edbc-4f10-8506-81f51cc09a6c,,,,,,,,,18,2025-10-06,18,,,,,18116
+001cv00000AuZiM,"County Of Pamlico, NC",North Carolina,County,Nick Martino,12344,,Tier 2,1.0,35.1338,-76.6875,0e51c45a-874b-4b70-870e-9d322279ccbf,,,,,,,,,5,2025-09-10,5,,,,,18056
+001cv00000AuZlS,"County Of Camden, NC",North Carolina,County,Ben Laddis,10835,,Tier 2,1.0,36.3281,-76.1718,55d24503-2016-4be9-b338-d6e4887196fb,,,,,,,,,3,2025-10-21,3,,,,,17991
+001cv00000AuZlY,"County Of Washington, NC",North Carolina,County,Nick Martino,10892,,Tier 2,1.0,35.5466,-77.0522,63813317-6bf7-472b-b8d5-a0b907a12777,,,,,,,,,2,2026-02-06,2,,,,,18058
+001cv00000AuZln,"County Of Alleghany, NC",North Carolina,County,Ben Laddis,11049,,Tier 2,1.0,36.4941,-81.1196,892df46e-746d-402f-8703-4f0b947163c6,,,,,,,,,15,2026-05-18,13,,2,,,17982
+001cv00000AuZn3,"County Of Chowan, NC",North Carolina,County,Nick Martino,13722,,Tier 2,1.0,36.1354,-76.6182,9d8e35d4-2480-4613-b15a-f66e6a562eea,,,,,,,,,5,2025-07-17,5,,,,,17875
+001cv00000AuZng,"County Of Swain, NC",North Carolina,County,Ben Laddis,14136,,Tier 2,1.0,35.4329,-83.4644,c1c0e895-2e79-4678-8e51-d7f9fbb04910,,,,,,,,,4,2025-12-10,4,,,,,17840
+001cv00000AuZrg,"County Of Northampton, NC",North Carolina,County,Ben Laddis,17129,,Tier 2,1.0,36.416,-77.4243,0e821ad6-fa6e-4dad-8142-b9de94be7503,,,,,,,,,,,,,,,,18650
+001cv00000AuZsc,"County Of Yancey, NC",North Carolina,County,Nick Martino,18757,,Tier 2,1.0,35.8889,-82.3452,cfef0af5-9772-4769-9e39-daf683a4553d,,,,,,,,,,,,,,,,18750
+001cv00000AuZsd,"County Of Warren, NC",North Carolina,County,Ben Laddis,18762,,Tier 2,1.0,36.4352,-78.0195,544fa3e0-56c5-4836-94f9-6a351afed010,,,,,,,,,12,2026-02-19,12,,,,,18601
+001cv00000AuZtH,"County Of Polk, NC",North Carolina,County,Nick Martino,19656,Open Opportunity,Tier 2,1.0,35.2687,-82.1714,d7bd84ba-737a-4fb8-a614-2c952b815ffd,Open,Meeting Booked,Top of Funnel,Nick Martino,3/18/2026,3/9/2026,,,68,2026-04-21,68,,,,,18681
+001cv00000AuZtj,"County Of Bertie, NC",North Carolina,County,Ben Laddis,17505,,Tier 2,1.0,36.0245,-76.9643,89fb2ace-46b7-4fb1-bb49-91f6b205f901,,,,,,,,,12,2026-02-19,12,,,,,18496
+001cv00000AuZu3,"County Of Avery, NC",North Carolina,County,Ben Laddis,17864,,Tier 2,1.0,36.1198,-81.9098,93331773-3f95-43e9-8e41-7e7e4f12913a,,,,,,,,,,,,,,,,18564
+001cv00000AuZxg,"County Of Hertford, NC",North Carolina,County,Ben Laddis,21278,,Tier 2,1.0,36.3762,-77.0564,61bf6d1f-cf89-407f-ae0a-fd9ad0d20548,,,,,,,,,14,2026-02-25,14,,,,,19092
+001cv00000AuZxs,"County Of Madison, NC",North Carolina,County,Ben Laddis,21502,,Tier 2,1.0,35.8238,-82.6915,73d2d660-aa29-4513-93c9-9fd78384b8ec,,,,,,,,,,,,,,,,18992
+001cv00000Aua0w,"County Of Cherokee, NC",North Carolina,County,Nick Martino,29167,,Tier 1,1.5,35.1135,-84.059,10278e8d-16d2-45f3-936b-804cad32744c,Open,Initial Interest,Top of Funnel,Granger West,,1/21/2025,,,15,2026-01-16,15,,,,,18780
+001cv00000Aua13,"County Of Bladen, NC",North Carolina,County,Ben Laddis,29525,,Tier 1,1.5,34.5882,-78.5661,1d6707a8-1d8d-403b-a1f8-191a68f07523,,,,,,,,,6,2026-05-19,,,6,,,18864
+001cv00000Aua16,"County Of Currituck, NC",North Carolina,County,Nick Martino,29653,,Tier 1,1.5,36.419,-75.9463,ad9d8a71-5255-4c4e-961d-514ec217c03e,,,,,,,,,14,2026-04-23,14,,,,,18878
+001cv00000Aua3i,"County Of Greene, NC",North Carolina,County,Ben Laddis,20417,,Tier 2,1.0,35.5014,-77.6994,366489f7-ddb3-4931-8bb6-675256103b96,,,,,,,,,7,2026-02-05,7,,,,,18702
+001cv00000Aua5Z,"County Of Transylvania, NC",North Carolina,County,Ben Laddis,33165,Open Opportunity,Tier 1,1.5,35.2191,-82.7779,c56fcc5e-97d6-4833-82f1-f36f2e085a1b,Open,Proposal,Mid Funnel,Nick Martino,4/9/2026,4/8/2026,"$22,000",,35,2026-04-08,35,,,,,19405
+001cv00000Aua61,"County Of Scotland, NC",North Carolina,County,Nick Martino,34227,Nurture,Tier 1,1.5,34.8451,-79.4704,214e5908-c1ec-44fe-ac7c-ef95407636fd,Closed Lost,,,Joe del Rosario,9/2/2025,4/9/2025,,,10,2025-09-22,,10,,,,19231
+001cv00000Aua7r,"County Of Pasquotank, NC",North Carolina,County,Ben Laddis,40821,,Tier 1,1.5,36.2927,-76.3174,d9f7960a-a1d1-4d36-b5da-b8a8ab895a7c,,,,,,,,,7,2025-10-22,7,,,,,19307
+001cv00000Aua9c,"County Of Anson, NC",North Carolina,County,Nick Martino,22060,,Tier 2,1.0,34.9055,-80.1875,f50c340d-4131-4566-886c-4e1438c70d0f,,,,,,,,,33,2026-03-04,33,,,,,18727
+001cv00000AuaA0,"County Of Caswell, NC",North Carolina,County,Ben Laddis,22714,,Tier 2,1.0,36.386,-79.2902,37c6756a-675c-43cd-8376-b4dfdef24585,,,,,,,,,38,2026-03-09,38,,,,,18803
+001cv00000AuaBZ,"County Of Ashe, NC",North Carolina,County,Ben Laddis,26711,,Tier 1,1.5,36.434,-81.4718,29c4fb71-6b57-4daf-b679-919e98476c66,,,,,,,,,,,,,,,,19240
+001cv00000AuaDW,"County Of Alexander, NC",North Carolina,County,Nick Martino,36644,Nurture,Tier 1,1.5,35.8974,-81.2078,46b0147a-4cd9-4e8a-ac75-9d3c2f4e8b15,Closed Lost,,,Nick Martino,10/21/2025,10/9/2025,,,1,2025-10-09,1,,,,,19122
+001cv00000AuaDq,"County Of Yadkin, NC",North Carolina,County,Ben Laddis,37192,,Tier 1,1.5,36.2024,-80.6771,a4058ad2-6552-435d-bfd3-4a4787b0b8bf,Closed Lost,,,Shane Lieberman,1/24/2025,1/24/2025,,,2,2026-02-09,2,,,,,19187
+001cv00000AuaE0,"County Of Macon, NC",North Carolina,County,Nick Martino,37564,1+ Module Live,Tier 1,1.5,36.4388,-78.0839,7def0da7-c579-4178-ac3b-0e7209a5e583,Closed Won,,,Nick Martino,12/30/2025,12/16/2025,"$28,000",,11,2025-12-18,11,,,,,19188
+001cv00000AuaGo,"County Of Jackson, NC",North Carolina,County,Ben Laddis,43410,,Tier 1,1.5,36.3896,-77.4214,eea025c5-dbdf-4a4a-a8e8-abb0c9fdb072,,,,,,,,,11,2026-01-15,11,,,,,19141
+001cv00000AuaGs,"County Of Davie, NC",North Carolina,County,Nick Martino,43533,,Tier 1,1.5,35.9367,-80.5883,d241a822-19f8-4331-a0d7-5de05093000b,,,,,,,,,,,,,,,,19055
+001cv00000AuaHI,"County Of Beaufort, NC",North Carolina,County,Ben Laddis,44468,,Tier 1,1.5,35.4614,-76.9182,abd8b25f-7cda-428e-9e78-c93511886da5,,,,,,,,,,,,,,,,19138
+001cv00000AuaHN,"County Of Mcdowell, NC",North Carolina,County,Ben Laddis,44717,,Tier 1,1.5,35.6984,-82.0843,5dcbf6f2-8124-44d5-ba76-6638f65db6fa,,,,,,,,,22,2025-09-26,22,,,,,19099
+001cv00000AuaKm,"County Of Columbus, NC",North Carolina,County,Ben Laddis,50092,,Tier S,2.0,34.2549,-78.7476,fa915988-a55d-4d28-b5d3-52870b1b22e5,,,,,,,,,,,,,,,,19544
+001cv00000AuaLV,"County Of Hoke, NC",North Carolina,County,Nick Martino,53114,,Tier S,2.0,35.0432,-79.2451,e09e862e-dbe8-41aa-af90-219b433d3109,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,3,2025-07-30,3,,,,,19597
+001cv00000AuaN6,"County Of Watauga, NC",North Carolina,County,Nick Martino,54234,Nurture,Tier S,2.0,36.1942,-81.7349,4369b971-82e9-45ee-94ba-0b89b6fc3985,Closed Lost,,,Nick Martino,1/8/2026,12/12/2025,,,19,2026-02-27,19,,,,,19615
+001cv00000AuaOV,"County Of Granville, NC",North Carolina,County,Ben Laddis,61986,,Tier S,2.0,36.2799,-78.6115,1818057b-8f18-43c7-aa30-14435950d198,,,,,,,,,1,2025-12-10,1,,,,,19878
+001cv00000AuaOb,"County Of Haywood, NC",North Carolina,County,Nick Martino,62476,,Tier S,2.0,35.6244,-82.9932,12505f24-afc6-41bf-8793-910c90720124,,,,,,,,,9,2025-12-11,9,,,,,19800
+001cv00000AuaOh,"County Of Stanly, NC",North Carolina,County,Nick Martino,63425,,Tier S,2.0,35.3015,-80.2321,ca569d17-49fd-47d2-9f7f-568724bcc77b,,,,,,,,,,,,,,,,19927
+001cv00000AuaOl,"County Of Lee, NC",North Carolina,County,Ben Laddis,64138,,Tier S,2.0,35.4694,-79.1549,b61bb42d-a899-48c1-aa40-a78d6c4c801d,,,,,,,,,,,,,,,,19824
+001cv00000AuaPF,"County Of Wilkes, NC",North Carolina,County,Ben Laddis,65806,,Tier S,2.0,36.2029,-81.2519,79259063-98d2-4bd4-9dda-004887a4cf0a,,,,,,,,,,,,,,,,19638
+001cv00000AuaR0,"County Of Burke, NC",North Carolina,County,Nick Martino,87611,,Tier S,2.0,35.7617,-81.7349,b321bb54-86c7-4deb-a3b5-be8e295cee1f,Open,Initial Interest,Top of Funnel,Granger West,,1/8/2025,,,9,2025-08-04,9,,,,,19790
+001cv00000AuaRA,"County Of Lincoln, NC",North Carolina,County,Nick Martino,95670,Nurture,Tier S,2.0,35.4637,-81.2078,6b524055-b475-401e-92c2-05692b2b122e,Closed Lost,,,Nick Martino,7/28/2025,7/23/2025,,,1,2025-07-23,1,,,,,19706
+001cv00000AuaSw,"County Of Sampson, NC",North Carolina,County,Nick Martino,58990,,Tier S,2.0,34.9198,-78.3842,85802dc9-8258-4f60-9890-88d080059f73,,,,,,,,,,,,,,,,19830
+001cv00000AuaWu,"County Of Wilson, NC",North Carolina,County,Nick Martino,78369,,Tier S,2.0,35.6925,-77.8825,e336665f-6648-455b-90b1-2ce55c0e7296,,,,,,,,,,,,,,,,19856
+001cv00000AuaX9,"County Of Caldwell, NC",North Carolina,County,Ben Laddis,80463,,Tier S,2.0,35.9227,-81.5596,2fdeec57-a7aa-4317-9689-f545037fb221,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,8,2026-01-28,8,,,,,19887
+001cv00000B21qR,"Town Of Norwood, NC",North Carolina,Municipality,Ben Laddis,2403,,Tier 3,0.75,35.2196,-80.1189,a6ba12cd-8227-4629-a8e7-360d9516c6e5,,,,,,,,,,,,,,,,20162
+001cv00000B21qu,"Town Of Mayodan, NC",North Carolina,Municipality,Nick Martino,2415,,Tier 3,0.75,36.4124,-79.967,95dd565f-0f1d-45f9-9379-16bb1fe4288e,,,,,,,,,,,,,,,,20168
+001cv00000B21rE,"Town Of Wrightsville Beach, NC",North Carolina,Municipality,Ben Laddis,2421,,Tier 3,0.75,34.2085,-77.7964,f3d498be-1667-4d1d-84a8-b6a74c283bf8,,,,,,,,,10,2025-08-21,10,,,,,20308
+001cv00000B21sP,"Town Of Belville, NC",North Carolina,Municipality,Ben Laddis,2447,,Tier 3,0.75,34.2311,-77.9925,c83e95dd-17d4-4e65-aa62-432ae8b4b2ad,,,,,,,,,,,,,,,,20263
+001cv00000B21wQ,"Town Of Sylva, NC",North Carolina,Municipality,Nick Martino,2618,,Tier 3,0.75,35.3746,-83.2133,4fe4b862-7386-4ab5-8deb-45f04cf2b24b,,,,,,,,,,,,,,,,20334
+001cv00000B21wa,"Town Of Tobaccoville, NC",North Carolina,Municipality,Ben Laddis,2622,,Tier 3,0.75,36.2382,-80.3714,437c8020-9782-4815-932b-08b5e8679ae2,,,,,,,,,,,,,,,,20428
+001cv00000B21xn,"Town Of Wentworth, NC",North Carolina,Municipality,Nick Martino,2657,,Tier 3,0.75,36.4001,-79.7745,d92138c9-f884-4274-842b-9f4609bf86e8,,,,,,,,,,,,,,,,20331
+001cv00000B21xy,"Town Of Wilson's Mills, NC",North Carolina,Municipality,Ben Laddis,2661,,Tier 3,0.75,35.584,-78.3558,91f9ce54-3542-4e4f-8a56-910384805555,,,,,,,,,,,,,,,,20448
+001cv00000B21yP,"Town Of La Grange, NC",North Carolina,Municipality,Nick Martino,2672,,Tier 3,0.75,35.3068,-77.788,019a96b7-5dab-49c9-be1a-74e736868b81,,,,,,,,,,,,,,,,20466
+001cv00000B21yZ,"Town Of Liberty, NC",North Carolina,Municipality,Ben Laddis,2676,,Tier 3,0.75,35.8535,-79.5717,c392b2d1-c51a-4ca0-8539-6f08f1d42dca,,,,,,,,,,,,,,,,20516
+001cv00000B21yk,"Town Of Cajah Mountain, NC",North Carolina,Municipality,Nick Martino,2682,,Tier 3,0.75,35.848,-81.535,94c26c14-8823-468a-aaec-eab46908e669,,,,,,,,,,,,,,,,20569
+001cv00000B21yn,"Town Of Warsaw, NC",North Carolina,Municipality,Ben Laddis,2683,,Tier 3,0.75,34.9993,-78.0911,bfbeedb3-39cd-4849-b131-e96a0e0b34ac,,,,,,,,,,,,,,,,20515
+001cv00000B21z3,"Town Of Beaufort, NC",North Carolina,Municipality,Nick Martino,4569,Nurture,Tier 3,0.75,34.7182,-76.6638,a774920d-96ed-4026-8bbc-97d9ed0caba9,Closed Lost,,,Nick Martino,12/11/2025,11/20/2025,,,7,2025-11-20,7,,,,,20442
+001cv00000B21z5,"Town Of Ranlo, NC",North Carolina,Municipality,Nick Martino,4570,Nurture,Tier 3,0.75,35.2863,-81.1305,1d098d71-9a05-4a7e-b3b2-ab99d2634bfc,Closed Lost,,,Nick Martino,8/18/2025,8/11/2025,,,7,2025-08-14,7,,,,,20578
+001cv00000B220H,"Town Of Pittsboro, NC",North Carolina,Municipality,Nick Martino,4592,Open Opportunity,Tier 3,0.75,35.7201,-79.1772,4bae7762-25a6-48aa-b68e-c6b53d7764b8,,,,,,,,,1,2025-07-11,1,,,,,20447
+001cv00000B220V,"Town Of Erwin, NC",North Carolina,Municipality,Nick Martino,4604,,Tier 3,0.75,35.3268,-78.6761,1a8d7bd3-fd3c-493a-adef-589e2a3a93c7,,,,,,,,,3,2025-07-29,3,,,,,20460
+001cv00000B220k,"City Of Locust, NC",North Carolina,Municipality,Nick Martino,4623,Open Opportunity,Tier 3,0.75,35.2599,-80.4253,1d5232eb-e7f3-4196-9f64-bf75fe80709b,Open,Initial Interest,Top of Funnel,Nick Martino,8/8/2025,8/4/2025,,,21,2026-02-05,21,,,,,20522
+001cv00000B220t,"Town Of Weaverville, NC",North Carolina,Municipality,Nick Martino,4631,,Tier 3,0.75,35.6971,-82.5607,39355ad1-9890-43ed-93f1-d115ce1c607b,,,,,,,,,20,2026-01-15,20,,,,,20538
+001cv00000B220u,"City Of Randleman, NC",North Carolina,Municipality,Ben Laddis,4631,,Tier 3,0.75,35.8179,-79.8031,9e73bc09-2da3-468c-b820-f22e6d2ba56a,,,,,,,,,34,2026-01-22,34,,,,,20565
+001cv00000B221Q,"Town Of Valdese, NC",North Carolina,Municipality,Ben Laddis,4672,,Tier 3,0.75,35.7407,-81.5631,f75e8176-bdb1-4ae2-aeb3-6d77ea6eae53,,,,,,,,,7,2025-07-24,7,,,,,20507
+001cv00000B222I,"City Of Raeford, NC",North Carolina,Municipality,Nick Martino,4724,Open Opportunity,Tier 3,0.75,34.981,-79.2242,b6765952-994a-46f3-9345-5e81b1a5e260,Open,Proposal,Mid Funnel,Nick Martino,10/17/2025,10/7/2025,"$15,000",,18,2025-10-07,18,,,,,20644
+001cv00000L8vwM,"City of High Point, NC",North Carolina,Municipality,Nick Martino,118601,Implementation,Tier S,2.0,35.9557,-80.0053,f76911a9-f933-4d04-a35a-9272ca2b4cfa,Closed Won,,,Nick Martino,10/21/2025,10/16/2025,"$241,000",,,,,,,,,20871
+001cv00000NY20c,"County of Onslow, NC",North Carolina,County,Ben Laddis,212954,Open Opportunity,Tier S,2.0,34.654,-77.4702,9c97daf5-5610-43c6-b513-87c335c21063,Open,Initial Interest,Top of Funnel,Jenny Allison,,11/6/2025,,,12,2026-05-18,,,4,8,,20901
+001cv00000U5mfW,Mid-East Commission,North Carolina,Municipality,Ben Laddis,282498,,Tier S,2.0,35.5558,-77.046,76ee91b1-b4f2-4055-ae20-8977d18c749f,,,,,,,,,6,2026-03-18,6,,,,,20971
+001cv00000X6YyX,"City of Wilmington, NC",North Carolina,Municipality,Ben Laddis,122689,,Tier S,2.0,34.2104,-77.8868,,,,,,,,,,8,2026-02-04,8,,,,,21038
+001cv00000X7XSW,"Town of Ocean Isle Beach, NC",North Carolina,Municipality,Nick Martino,867,Nurture,Tier 3,0.75,33.8877,-78.4364,,Closed Lost,,,Nick Martino,3/11/2026,2/25/2026,,,12,2026-03-11,12,,,,,21041
+001cv00000bAeBh,"City of Fayetteville, NC",North Carolina,Municipality,Nick Martino,209496,Open Opportunity,Tier S,2.0,,,6554edef-7e9a-4fe4-b304-9b6e9ad6814c,Open,Initial Interest,Top of Funnel,Nick Martino,,5/7/2026,,,6,2026-05-18,6,,,,,22742
+001cv00000bB8Pt,Town of Bryson City,North Carolina,Municipality,Ben Laddis,1522,,Tier 3,0.75,35.4309,-83.4474,125c1d3e-779d-4b2d-9010-2c79e5c732ec,,,,,,,,,,,,,,,,22713
+001cv00000bBVeo,Town of Duck,North Carolina,Municipality,Ben Laddis,742,,Tier 3,0.75,36.1696,-75.7552,d71d2179-8f8d-41b1-b112-aa4eae88e5d9,,,,,,,,,,,,,,,,21155
+001cv00000bBVev,Town of Rosman,North Carolina,Municipality,Ben Laddis,751,,Tier 3,0.75,35.1437,-82.8212,7f5d2374-1e49-4a39-9a92-a7d225c71f54,,,,,,,,,,,,,,,,21192
+001cv00000bBVfs,Town of Warrenton,North Carolina,Municipality,Ben Laddis,834,,Tier 3,0.75,36.3985,-78.1553,f6cfcd98-672e-4735-bdb3-0bb7b90a7c2a,,,,,,,,,,,,,,,,21208
+001cv00000bBVhj,Town of Maysville,North Carolina,Municipality,Ben Laddis,843,,Tier 3,0.75,34.9049,-77.2313,def2e66c-5179-4c26-89ba-81e7b3c86361,,,,,,,,,,,,,,,,21253
+001cv00000bBVht,Town of White Lake,North Carolina,Municipality,Ben Laddis,852,,Tier 3,0.75,34.6404,-78.4839,8f713888-a756-4227-a5ea-763fa9b8afaa,,,,,,,,,,,,,,,,21264
+001cv00000bBVim,Town of Holden Beach,North Carolina,Municipality,Ben Laddis,919,,Tier 3,0.75,33.9139,-78.2694,45a05ea0-6dcd-4ab6-9059-9a53d9cefad1,,,,,,,,,,,,,,,,21292
+001cv00000bBVpG,"Town of Highlands, NC",North Carolina,Municipality,Nick Martino,1119,Open Opportunity,Tier 3,0.75,35.7838,-79.188,4c0dedd3-c308-466f-90dd-0fbd4dc8e7df,Open,Initial Interest,Top of Funnel,Nick Martino,,5/7/2026,,,5,2026-05-18,5,,,,,21508
+001cv00000bBVwT,Town of Mount Gilead,North Carolina,Municipality,Ben Laddis,1185,,Tier 3,0.75,35.2149,-80.0023,a931ea30-f6fe-45c3-9a51-ebd5b022c7ee,,,,,,,,,,,,,,,,21584
+001cv00000bBVwg,Town of Pinetops,North Carolina,Municipality,Ben Laddis,1196,,Tier 3,0.75,35.7885,-77.6378,48b40787-2257-443f-8458-6d22cfa7fa7a,,,,,,,,,,,,,,,,21591
+001cv00000bBVwp,Town of Fremont,North Carolina,Municipality,Ben Laddis,1207,,Tier 3,0.75,35.5454,-77.9747,257e99bb-2c1f-491c-988d-44694b4df025,,,,,,,,,,,,,,,,21590
+001cv00000bBVx4,Town of Robersonville,North Carolina,Municipality,Ben Laddis,1229,,Tier 3,0.75,35.8252,-77.2491,b502a874-9037-4992-8fb5-86335f9fdd89,,,,,,,,,,,,,,,,21615
+001cv00000bBVxx,Town of Princeville,North Carolina,Municipality,Ben Laddis,1286,,Tier 3,0.75,35.89,-77.5309,7cb6f762-033d-42fc-8195-5d5a9884771d,,,,,,,,,,,,,,,,21661
+001cv00000bBW3s,Town of Maggie Valley,North Carolina,Municipality,Ben Laddis,1742,,Tier 3,0.75,35.5182,-83.0976,cbeae6b5-a60e-4bd6-8b22-944d645b5119,,,,,,,,,,,,,,,,21712
+001cv00000bBW41,City of Claremont,North Carolina,Municipality,Ben Laddis,1753,,Tier 3,0.75,35.7146,-81.1462,11b449d8-289b-4409-ad0a-45f8d6ad2d23,,,,,,,,,,,,,,,,21742
+001cv00000bBWIg,Town of Andrews,North Carolina,Municipality,Ben Laddis,1762,,Tier 3,0.75,35.2018,-83.8241,69970aa1-6e24-4e57-939e-2422ab3c5c94,,,,,,,,,,,,,,,,21726
+001cv00000bBWIs,Town of Drexel,North Carolina,Municipality,Ben Laddis,1777,,Tier 3,0.75,35.7579,-81.6043,93dce690-bfb6-415f-a869-448d54744ad8,,,,,,,,,,,,,,,,21735
+001cv00000bBWJ4,Town of Ramseur,North Carolina,Municipality,Ben Laddis,1790,,Tier 3,0.75,35.7335,-79.6525,00d78ce4-ca31-47ea-8dc3-a7ab64ec7892,,,,,,,,,,,,,,,,21755
+001cv00000bBWNV,"Town of Manteo, NC",North Carolina,Municipality,Nick Martino,1595,,Tier 3,0.75,,,854c2963-a616-4b58-aeda-78d27c7dbd71,,,,,,,,,4,2026-05-15,4,,,,,22048
+001cv00000bBWNk,Town of Tryon,North Carolina,Municipality,Ben Laddis,1611,,Tier 3,0.75,35.2087,-82.2382,285cb215-ecc7-4e2d-818d-ccecc0d23aea,,,,,,,,,,,,,,,,22067
+001cv00000bBWOn,Town of Kenly,North Carolina,Municipality,Ben Laddis,1687,,Tier 3,0.75,35.5961,-78.1248,602e55ce-ebc8-4538-9f52-395d1cf4839a,,,,,,,,,,,,,,,,22157
+001cv00000bBWOv,Town of Murphy,North Carolina,Municipality,Ben Laddis,1693,,Tier 3,0.75,35.0876,-84.0346,8bf45c06-99f0-432f-8ffd-ba6cff7d0788,,,,,,,,,,,,,,,,22171
+001cv00000bBWQg,Town of Hertford,North Carolina,Municipality,Ben Laddis,1992,,Tier 3,0.75,36.1902,-76.4661,1b7de478-04b9-43fb-8cab-51f05048871e,,,,,,,,,,,,,,,,22213
+001cv00000bBWSM,Wayne County,North Carolina,County,Nick Martino,120338,,Tier S,2.0,35.3565,-77.9739,8c7c4636-f7db-437a-8d87-8092db1820b5,,,,,,,,,,,,,,,,12474
+001cv00000bBWSY,City of Wilmington,North Carolina,Municipality,Nick Martino,125284,,Tier S,2.0,34.2104,-77.8868,091cf23f-6f47-4c9c-8906-c7dcce61042a,,,,,,,,,,,,,,,,21038
+001cv00000bBWTt,Town of Cary,North Carolina,Municipality,Ben Laddis,182659,,Tier S,2.0,35.789,-78.7798,784a76b5-ce58-4f11-ab47-3eed07ce9af1,,,,,,,,,,,,,,,,22426
+001cv00000bBWY0,"Guilford County, NC",North Carolina,County,Nick Martino,558816,,Tier S,2.0,36.09,-79.8297,cc454f26-497c-452f-80a9-522db9fe790d,,,,,,,,,26,2026-04-13,26,,,,,22453
+001cv00000bBWYx,City of Charlotte,North Carolina,Municipality,Ben Laddis,943476,,Tier S,2.0,35.2271,-80.8409,f3640351-d601-4745-a976-c28ea1cb11e2,,,,,,,,,,,,,,,,22514
+001cv00000bBWZH,Mecklenburg County,North Carolina,County,Ben Laddis,1206285,,Tier S,2.0,35.2633,-80.8544,baa43814-954b-47f6-881f-d4e3052e9374,,,,,,,,,,,,,,,,22537
+001cv00000bBWZJ,Wake County,North Carolina,County,Nick Martino,1232444,,Tier S,2.0,35.8032,-78.5661,94da9a58-005f-4f77-ba2a-91026f457aa5,,,,,,,,,,,,,,,,22535
+001cv00000bBWsp,Town of Blowing Rock,North Carolina,Municipality,Ben Laddis,1336,,Tier 3,0.75,36.1351,-81.6776,3a9f32ec-1213-44ef-a9d8-da62dbca104e,,,,,,,,,,,,,,,,22592
+001cv00000bBWss,Town of West Jefferson,North Carolina,Municipality,Ben Laddis,1341,,Tier 3,0.75,36.4037,-81.4929,0fe41c82-9f91-40e8-a892-157c4153cc79,,,,,,,,,,,,,,,,22585
+001cv00000bBWtJ,Town of Weldon,North Carolina,Municipality,Ben Laddis,1372,,Tier 3,0.75,36.4271,-77.5955,35a59b36-0fb8-4469-b557-d966111cacc1,,,,,,,,,,,,,,,,22616
+001cv00000bBWtv,Town of Atlantic Beach,North Carolina,Municipality,Ben Laddis,1421,,Tier 3,0.75,34.699,-76.7402,c5a7fdd9-bef3-41c0-91c5-4912b3e71b4c,,,,,,,,,,,,,,,,22647
+001cv00000bBWtz,Town of Pilot Mountain,North Carolina,Municipality,Ben Laddis,1430,,Tier 3,0.75,36.3865,-80.4695,4246b82f-3bd2-47ec-bf2d-5ed74fe8182c,,,,,,,,,,,,,,,,22640
+001cv00000bBWu2,Town of Pine Knoll Shores,North Carolina,Municipality,Ben Laddis,1435,,Tier 3,0.75,34.6974,-76.8133,91712b71-d84b-4462-b719-08affbdd607f,,,,,,,,,,,,,,,,22651
+001cv00000bBWuL,Town of Biltmore Forest,North Carolina,Municipality,Ben Laddis,1462,,Tier 3,0.75,35.5337,-82.5285,1e0cc849-ccf6-45dd-bfad-97049b9d22cf,,,,,,,,,,,,,,,,22679
+001cv00000bBWuT,Town of Dobson,North Carolina,Municipality,Ben Laddis,1469,,Tier 3,0.75,36.3957,-80.7226,524f74b7-1e02-433e-994a-c7b9a697bc22,,,,,,,,,,,,,,,,22694
+001cv00000bBWyy,City of Winston-Salem,North Carolina,Municipality,Ben Laddis,255769,,Tier S,2.0,36.0948,-80.2434,9c1c2397-43d3-40d7-9583-919a5dc429ad,,,,,,,,,,,,,,,,22756
+001cv00000bBWzH,Buncombe County,North Carolina,County,Ben Laddis,279210,,Tier S,2.0,35.5931,-82.4753,06d3b2c7-e33b-45fa-a93e-1f9c55f0cfd6,,,,,,,,,2,2026-05-18,,,2,,,22792
+001cv00000bBX0F,City of Greensboro,North Carolina,Municipality,Ben Laddis,307381,,Tier S,2.0,36.0726,-79.7915,f4dc1739-b42c-4e1c-b26a-32c54f0ce338,,,,,,,,,,,,,,,,22790
+001cv00000bBX0V,Cumberland County,North Carolina,County,Ben Laddis,338430,,Tier S,2.0,34.9543,-78.7476,fef9d210-794f-46af-a9c2-291d313db3d2,,,,,,,,,,,,,,,,22830
+001cv00000bBX0Z,Durham County,North Carolina,County,Ben Laddis,343628,,Tier S,2.0,36.0484,-78.8836,04546eed-6bf1-4500-a4c4-07083d9551bd,,,,,,,,,,,,,,,,22820
+001cv00000bBX0s,Forsyth County,North Carolina,County,Ben Laddis,398143,,Tier S,2.0,36.12,-80.1875,f17e03b8-d92a-422e-aae7-fbb0499c389e,,,,,,,,,,,,,,,,22846
+001cv00000bBX1P,"City of Raleigh, NC",North Carolina,Municipality,Nick Martino,499825,Open Opportunity,Tier S,2.0,35.7796,-78.6382,bb85cd79-a789-4195-846b-d47e3d3e456e,Open,Initial Interest,Top of Funnel,Nick Martino,,4/15/2026,,,27,2026-05-15,27,,,,,22862
+001cv00000llyYn,"Town of Stantonsburg, NC",North Carolina,Municipality,Ben Laddis,786,Open Opportunity,Tier 3,0.75,35.9706,-79.8957,,Open,Meeting Booked,Top of Funnel,Nick Martino,5/12/2026,5/6/2026,,,10,2026-05-19,8,,,,2,31886

@@ -1,237 +1,237 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Catherine Silvestri,Calls - Alicia Gopal,Calls - Joe del Rosario,Calls - Nick Martino,Calls - Jenny Allison
-001Hr000028ZbdQ,"City Of Connell, WA",Washington,Municipality,Catherine Silvestri,4954,,Tier 3,0.75,46.6635,-118.8611,b74a109e-6505-4dc7-ba22-099325ec0a8b,,,,,,,,,,,,,,,
-001Hr000028ZbnM,"City Of Ocean Shores, WA",Washington,Municipality,Catherine Silvestri,7114,Nurture,Tier 3,0.75,47.0074,-124.1614,4f45f79d-f9ae-432c-9446-0f6faaca6584,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,,,,,,,
-001Hr000028ZbnU,"City Of Toppenish, WA",Washington,Municipality,Catherine Silvestri,8774,,Tier 3,0.75,46.3774,-120.3087,2544f692-9706-49e3-aa78-5406e3035628,,,,,,,,,1,2025-09-23,,,1,,
-001Hr000028Zboo,"City Of Des Moines, WA",Washington,Municipality,Catherine Silvestri,32689,Recent Competitor Purchase,Tier 1,1.5,47.4018,-122.3243,139dd05f-3d28-4db6-a1f2-5c26ee7774cd,Closed Lost,,,Alicia Gopal,,11/18/2025,,,6,2025-11-25,,6,,,
-001Hr000028Zbos,"City Of Snoqualmie, WA",Washington,Municipality,Catherine Silvestri,13810,,Tier 2,1.0,47.5287,-121.8254,0b1203c7-ead2-436e-be97-ffb812ffe7e6,,,,,,,,,2,2026-03-23,1,,1,,
-001Hr000028Zbow,"City Of Bainbridge Island, WA",Washington,Municipality,Catherine Silvestri,24546,Nurture,Tier 2,1.0,47.6249,-122.521,d13bdd85-44b6-44bb-b9e2-351525893ebe,Closed Lost,,,Catherine Silvestri,3/24/2026,3/11/2026,,,11,2026-03-23,4,,7,,
-001Hr000028Zbpb,"City Of Oak Harbor, WA",Washington,Municipality,Catherine Silvestri,24709,,Tier 2,1.0,48.2883,-122.6484,75d13c01-09db-4571-903a-3f5af6ec5f7c,,,,,,,,,5,2026-04-23,4,,1,,
-001Hr000028Zbpp,"City Of Sumner, WA",Washington,Municipality,Catherine Silvestri,10673,,Tier 2,1.0,47.2032,-122.2404,62efe8e2-6eb5-41a9-ab5b-c9e550fc538b,,,,,,,,,4,2026-05-15,4,,,,
-001Hr000028Zbpz,"City Of Kelso, WA",Washington,Municipality,Catherine Silvestri,12719,,Tier 2,1.0,46.1468,-122.9084,7af90f25-bdfe-46e6-bb3b-5a93db252b81,,,,,,,,,3,2026-03-25,3,,,,
-001Hr000028ZbqP,"City Of Sunnyside, WA",Washington,Municipality,Catherine Silvestri,16346,Nurture,Tier 2,1.0,46.3237,-120.0087,1f538e88-75b8-4da5-b291-18b0bb1ea5c2,Closed Lost,,,Catherine Silvestri,4/3/2026,4/2/2026,,,9,2026-04-10,9,,,,
-001Hr000028Zbqx,"City Of Normandy Park, WA",Washington,Municipality,Catherine Silvestri,6637,,Tier 3,0.75,47.4362,-122.3407,0ce28d32-fa8e-44ae-9a0a-f73a4fd98da7,,,,,,,,,3,2026-04-22,3,,,,
-001Hr000028Zbr7,"City Of Lake Forest Park, WA",Washington,Municipality,Catherine Silvestri,13358,Open Opportunity,Tier 2,1.0,47.7601,-122.284,87dc7c0c-145f-4150-979e-8051e5029464,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,5,2025-12-17,,4,1,,
-001Hr000028Zbr8,"City Of Longview, WA",Washington,Municipality,Catherine Silvestri,37824,,Tier 1,1.5,46.1382,-122.9382,269c3c47-1884-4257-8b2f-5c66b6a05691,,,,,,,,,1,2025-08-22,,,1,,
-001Hr000028ZbrD,"City Of Issaquah, WA",Washington,Municipality,Catherine Silvestri,39505,,Tier 1,1.5,47.5301,-122.0329,f6f08297-e22d-4d59-994d-7319c8d50e81,,,,,,,,,20,2026-04-06,8,,12,,
-001Hr000028Zbrg,"City Of Yelm, WA",Washington,Municipality,Catherine Silvestri,10707,,Tier 2,1.0,46.942,-122.606,95c2b450-f50b-43fa-9676-6790ce205481,,,,,,,,,1,2025-08-19,,,1,,
-001Hr000028Zbrh,"City Of Pullman, WA",Washington,Municipality,Catherine Silvestri,32827,,Tier 1,1.5,46.7298,-117.1817,c1289a14-9bfa-43f8-b361-a1049edcdcaa,,,,,,,,,3,2025-08-22,,,3,,
-001Hr000028Zbrq,"City Of Othello, WA",Washington,Municipality,Catherine Silvestri,8739,,Tier 3,0.75,46.826,-119.1753,3a02a670-3d6e-4aca-ab97-89d047776e7d,,,,,,,,,,,,,,,
-001Hr000028Zbrx,"City Of Airway Heights, WA",Washington,Municipality,Catherine Silvestri,10630,,Tier 2,1.0,47.6446,-117.5933,ec55b5e6-7e7c-4cb8-a534-d2ff6b2667fb,,,,,,,,,8,2026-01-13,,6,2,,
-001Hr000028Zbsa,"City Of Tumwater, WA",Washington,Municipality,Catherine Silvestri,25844,Nurture,Tier 1,1.5,47.0073,-122.9093,920b5ab4-9542-44d3-b147-6aa5cdc9bf28,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,3,2026-03-23,3,,,,
-001Hr000028Zbt3,"City Of Fircrest, WA",Washington,Municipality,Catherine Silvestri,7115,Open Opportunity,Tier 3,0.75,47.2395,-122.516,e9779f51-b6ae-42bc-9531-45529ce8a157,Open,Meeting Booked,Top of Funnel,Alicia Gopal,1/23/2026,1/21/2026,,,12,2026-02-18,,9,1,,2
-001Hr000028Zbt4,"City Of Mattawa, WA",Washington,Municipality,Catherine Silvestri,3627,,Tier 3,0.75,46.7379,-119.9028,9ae8f304-05f1-4827-871d-3fd341a96dfb,,,,,,,,,2,2026-02-24,2,,,,
-001Hr000028ZbtN,"City Of Fife, WA",Washington,Municipality,Catherine Silvestri,10985,,Tier 2,1.0,47.2393,-122.3571,28c381b9-7797-48a4-ae41-2085d52ad9b3,,,,,,,,,7,2026-01-23,,4,3,,
-001Hr000028ZbtO,"City Of Edmonds, WA",Washington,Municipality,Catherine Silvestri,42758,,Tier 1,1.5,47.8112,-122.3769,fee790b0-d887-4bc3-b444-f86086a12a6d,,,,,,,,,1,2025-08-21,,,1,,
-001Hr000028ZbtS,"City Of Washougal, WA",Washington,Municipality,Catherine Silvestri,16970,,Tier 2,1.0,45.5811,-122.3538,06cc5e6c-0307-44b6-83ae-c6d25c823d8b,,,,,,,,,5,2025-10-24,,,5,,
-001Hr000028Zbu6,"City Of Camas, WA",Washington,Municipality,Catherine Silvestri,27054,,Tier 1,1.5,45.5857,-122.4027,0aa24b8f-eff1-4827-9b1c-32f46484a82f,,,,,,,,,31,2026-03-20,16,,15,,
-001Hr000028Zbua,"City Of Covington, WA",Washington,Municipality,Catherine Silvestri,20787,,Tier 2,1.0,47.3596,-122.118,d23e437e-88ea-4509-b23f-ef97d9e48aad,,,,,,,,,10,2026-01-21,,10,,,
-001Hr000028Zbuq,"City Of Bonney Lake, WA",Washington,Municipality,Catherine Silvestri,22848,,Tier 2,1.0,47.1771,-122.1869,6fb756fb-7d1e-4757-b034-2f985a6be29f,,,,,,,,,9,2025-07-07,,,9,,
-001Hr000028Zbv6,"City Of Pacific, WA",Washington,Municipality,Catherine Silvestri,7105,,Tier 3,0.75,47.2645,-122.2501,0437a80c-3c30-4769-8baa-810740f26411,,,,,,,,,3,2025-11-20,,3,,,
-001Hr000028Zbvp,"Town Of College Place, WA",Washington,Municipality,Catherine Silvestri,9885,,Tier 3,0.75,46.0493,-118.3883,a1af1617-59e9-44f5-b89c-d46ff0957fa1,,,,,,,,,12,2025-12-09,,12,,,
-001Hr000028ZbwH,"City Of Port Orchard, WA",Washington,Municipality,Catherine Silvestri,15979,,Tier 2,1.0,47.5404,-122.6362,4b72a1b7-5dd9-4d17-a295-b59c0b59b2db,,,,,,,,,7,2026-03-26,7,,,,
-001Hr000028ZbxL,"City Of Port Townsend, WA",Washington,Municipality,Catherine Silvestri,10306,,Tier 2,1.0,48.117,-122.7604,c71a2700-0cff-42df-9cbd-a63081252acd,,,,,,,,,27,2026-01-26,,27,,,
-001Hr000028ZbxZ,"City Of Puyallup, WA",Washington,Municipality,Catherine Silvestri,42794,,Tier 1,1.5,47.1854,-122.2929,c465dd94-0aa6-4421-afb4-c81a2e1362f4,,,,,,,,,16,2025-11-19,,15,1,,
-001Hr000028Zbxl,"City Of Shelton, WA",Washington,Municipality,Catherine Silvestri,10763,Open Opportunity,Tier 2,1.0,47.2151,-123.1007,d5d2cca9-122e-4f02-9d36-090a44f8c146,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,5/11/2026,,,4,2026-05-11,4,,,,
-001Hr000028Zbxy,"City Of Mercer Island, WA",Washington,Municipality,Catherine Silvestri,25442,,Tier 1,1.5,47.5707,-122.2221,84675c37-e9ab-43df-9591-bf42235792eb,,,,,,,,,14,2026-03-26,4,,10,,
-001Hr000028Zby9,"City Of Brier, WA",Washington,Municipality,Catherine Silvestri,6497,,Tier 3,0.75,47.7845,-122.2743,b891075c-f95b-4f4e-a5a0-6912872401b4,,,,,,,,,2,2025-05-27,,,2,,
-001Hr000028Zbyd,"City Of Mill Creek, WA",Washington,Municipality,Catherine Silvestri,20902,,Tier 2,1.0,47.8601,-122.2043,1d894357-e540-4c27-81ca-87ccebd8239e,,,,,,,,,1,2026-05-15,1,,,,
-001Hr000028Zbyr,"City Of Newcastle, WA",Washington,Municipality,Catherine Silvestri,12969,Recent Competitor Purchase,Tier 2,1.0,47.5376,-122.162,75819afe-83b5-46be-a0b3-165940fcedfe,Closed Lost,,,Joe del Rosario,10/25/2024,1/5/2025,,,10,2025-08-12,,,10,,
-001Hr000028ZbzC,"City Of Gig Harbor, WA",Washington,Municipality,Catherine Silvestri,12181,Open Opportunity,Tier 2,1.0,47.3294,-122.5809,27f62c86-499b-49da-aa12-d94d3b032282,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,2,2026-03-26,2,,,,
-001Hr000028ZbzD,"City Of Sultan, WA",Washington,Municipality,Catherine Silvestri,5604,,Tier 3,0.75,47.8626,-121.8165,fcd33cf2-a602-4056-b693-531137ffb137,,,,,,,,,,,,,,,
-001Hr000028Zc0O,"City Of Bothell, WA",Washington,Municipality,Catherine Silvestri,47784,,Tier 1,1.5,47.7601,-122.2054,ec38ada9-9fe5-4923-a85d-a4f15cc3271f,,,,,,,,,3,2026-03-20,2,,1,,
-001Hr000028Zc0U,"City Of Prosser, WA",Washington,Municipality,Catherine Silvestri,6106,,Tier 3,0.75,46.2068,-119.7689,398d7b14-5fab-40c9-b641-2fd7105cac07,,,,,,,,,,,,,,,
-001Hr000028Zc0Z,"City Of Battle Ground, WA",Washington,Municipality,Catherine Silvestri,21119,,Tier 2,1.0,45.7798,-122.5392,1f72e9d2-6616-4b68-b03a-1304326c5be1,,,,,,,,,9,2026-05-15,6,,3,,
-001Hr000028Zc0c,"City Of Seatac, WA",Washington,Municipality,Catherine Silvestri,30759,,Tier 1,1.5,47.4436,-122.2961,c0d173c8-e4f8-41c9-b098-407f1e8912f6,,,,,,,,,8,2025-07-08,,,8,,
-001Hr000028Zc0j,"City Of Woodinville, WA",Washington,Municipality,Catherine Silvestri,13425,,Tier 2,1.0,47.7543,-122.1635,6ffb6077-95a7-439e-9ec7-248012d0425f,,,,,,,,,3,2025-09-02,,,3,,
-001Hr000028Zc0o,"City Of Union Gap, WA",Washington,Municipality,Catherine Silvestri,6530,All Modules Live,Tier 3,0.75,46.5573,-120.4751,4a2ed2df-e5dc-4617-8661-777abcc9dd52,Closed Won,,,Joe del Rosario,3/27/2025,2/4/2025,"$8,000",,,,,,,,
-001Hr000028Zc0z,"City Of Shoreline, WA",Washington,Municipality,Catherine Silvestri,57918,Open Opportunity,Tier S,2.0,47.756,-122.3457,eea829cc-1058-45a0-b227-36917b2b5425,Open,Initial Interest,Top of Funnel,Nick Martino,,11/26/2025,,,5,2025-12-16,,,,5,
-001Hr000028Zc1I,"City Of Monroe, WA",Washington,Municipality,Catherine Silvestri,20209,,Tier 2,1.0,47.8554,-121.971,8a3e56c6-1a25-4968-b18b-be7c6499c3ba,,,,,,,,,11,2025-08-21,,,11,,
-001Hr000028Zc25,"City Of Mount Vernon, WA",Washington,Municipality,Catherine Silvestri,35404,,Tier 1,1.5,48.4201,-122.3375,ef5d7d17-dabe-472d-a6ac-0faa1a7f140e,,,,,,,,,24,2026-04-22,16,,8,,
-001Hr000028Zc2B,"City Of Lynnwood, WA",Washington,Municipality,Catherine Silvestri,40592,,Tier 1,1.5,47.8209,-122.3151,b1bf5aba-644a-44f6-945f-b42a89fadeb7,,,,,,,,,7,2026-05-14,3,,4,,
-001Hr000028Zc2U,"City Of Poulsbo, WA",Washington,Municipality,Catherine Silvestri,11891,,Tier 2,1.0,47.7359,-122.6465,257db8a1-3807-44f9-bd90-98f112de6856,,,,,,,,,1,2025-09-02,,,1,,
-001Hr000028Zc2W,"City Of Liberty Lake, WA",Washington,Municipality,Catherine Silvestri,12534,,Tier 2,1.0,47.6743,-117.1124,05d3cc1f-aa22-40e4-b7c4-f6138849dff9,,,,,,,,,3,2026-03-25,3,,,,
-001Hr000028Zc2l,"City Of Walla Walla, WA",Washington,Municipality,Catherine Silvestri,33927,Open Opportunity,Tier 1,1.5,46.0646,-118.343,a4915d02-33fb-4c43-b842-8e30af83e853,Open,Initial Interest,Top of Funnel,Alicia Gopal,,11/20/2025,,,14,2026-05-05,6,8,,,
-001Hr000028Zc33,"City Of University Place, WA",Washington,Municipality,Catherine Silvestri,34900,Open Opportunity,Tier 1,1.5,47.2357,-122.5504,7157e507-05ae-479b-a739-cca57752af73,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,3/27/2026,,,18,2026-04-22,18,,,,
-001Hr000028Zc3N,"City Of Stanwood, WA",Washington,Municipality,Catherine Silvestri,8438,,Tier 3,0.75,48.2411,-122.3707,b72b95e3-73ba-46ae-af1c-9e6249717aaf,,,,,,,,,4,2025-11-25,,4,,,
-001Hr000028Zc3s,"City Of Cheney, WA",Washington,Municipality,Catherine Silvestri,13087,,Tier 2,1.0,47.4869,-117.5759,9812c5e1-bb0e-4643-9387-988846fb4ad8,,,,,,,,,,,,,,,
-001Hr000028Zc4U,"City Of Orting, WA",Washington,Municipality,Catherine Silvestri,8965,,Tier 3,0.75,47.0979,-122.2043,94dfdaf1-5b1c-400b-9fea-35776593e38b,,,,,,,,,4,2025-08-21,,,4,,
-001Hr000028Zc4Z,"City Of Milton, WA",Washington,Municipality,Catherine Silvestri,8907,,Tier 3,0.75,47.2482,-122.3129,c0165994-a476-4112-9b6b-6a5d02190767,,,,,,,,,1,2025-09-23,,,1,,
-001Hr000028Zc4e,"Town Of Steilacoom, WA",Washington,Municipality,Catherine Silvestri,6721,,Tier 3,0.75,47.1698,-122.6026,28406a82-b487-4b6b-ad67-fa7a01f25aac,,,,,,,,,11,2025-12-02,,11,,,
-001Hr000028Zc4j,"City Of Edgewood, WA",Washington,Municipality,Catherine Silvestri,12665,Nurture,Tier 2,1.0,47.2501,-122.2937,c746b388-2a4e-4d0c-b3bd-ab3c7b9dd282,Closed Lost,,,Joe del Rosario,1/7/2025,1/5/2025,,,4,2026-04-02,4,,,,
-001Hr000028Zc4o,"City Of Dupont, WA",Washington,Municipality,Catherine Silvestri,10112,,Tier 2,1.0,47.1003,-122.6448,51077fcd-fd44-4b5e-8d00-b2d12fea4a87,,,,,,,,,1,2025-10-14,,,1,,
-001Hr000028Zc5J,"City Of Chehalis, WA",Washington,Municipality,Catherine Silvestri,7679,,Tier 3,0.75,46.6652,-122.9698,1feb3d32-6020-4a3e-b6f3-546c7d862cdc,,,,,,,,,5,2025-08-21,,,5,,
-001Hr000028Zc5U,"City Of Mountlake Terrace, WA",Washington,Municipality,Catherine Silvestri,21428,,Tier 2,1.0,47.7882,-122.3087,73c0ddfb-2d5e-443c-a35a-4983742d9598,,,,,,,,,3,2026-05-15,3,,,,
-001Hr000028Zc6M,"City Of Woodland, WA",Washington,Municipality,Catherine Silvestri,6540,,Tier 3,0.75,45.9046,-122.744,c4d642ce-e1c3-44b2-9304-fe841900e3f1,,,,,,,,,,,,,,,
-001Hr000028Zc6R,"City Of Kenmore, WA",Washington,Municipality,Catherine Silvestri,23502,,Tier 2,1.0,47.7584,-122.2497,0b3916a2-418d-4dac-9d7d-e3dd6ea49645,,,,,,,,,1,2025-08-21,,,1,,
-001Hr000028Zc6b,"City Of Lynden, WA",Washington,Municipality,Catherine Silvestri,16048,,Tier 2,1.0,48.9428,-122.4529,f4b3798f-3ea0-4542-8ac9-78bc259a82ba,,,,,,,,,1,2025-10-09,,,1,,
-001Hr000028Zc6g,"City Of Mukilteo, WA",Washington,Municipality,Catherine Silvestri,21246,,Tier 2,1.0,47.9445,-122.3046,ef54141d-8309-4ca5-98ba-d5d5ff5525d6,,,,,,,,,3,2026-05-14,3,,,,
-001Hr000028Zc7o,"City Of Sequim, WA",Washington,Municipality,Catherine Silvestri,8241,Open Opportunity,Tier 3,0.75,48.0795,-123.1018,ae46ce27-2c83-46c4-a0e6-262f9720ead0,Open,Sales Qualified,Mid Funnel,Catherine Silvestri,5/11/2026,4/10/2026,,,3,2026-05-11,3,,,,
-001Hr000028Zc7x,"City Of Snohomish, WA",Washington,Municipality,Catherine Silvestri,10154,,Tier 2,1.0,47.9129,-122.0982,e914cf6b-fe76-4b0c-9499-29f33c78db7d,,,,,,,,,2,2026-05-15,2,,,,
-001Hr000028Zc82,"City Of Anacortes, WA",Washington,Municipality,Catherine Silvestri,17832,Nurture,Tier 2,1.0,48.5126,-122.6127,4e7f65df-874c-4ee3-9c25-8ab5caa3c485,Closed Lost,,,Joe del Rosario,10/8/2024,1/5/2025,,,16,2026-04-08,11,,5,,
-001Hr000028Zc87,"City Of Blaine, WA",Washington,Municipality,Catherine Silvestri,5976,Nurture,Tier 3,0.75,48.9937,-122.7471,717a9a81-9cb3-4616-ab41-908e1c3985f7,Closed Lost,,,Alicia Gopal,2/3/2026,10/29/2025,,,11,2025-11-12,,6,5,,
-001Hr000028Zc8C,"City Of Centralia, WA",Washington,Municipality,Catherine Silvestri,18629,,Tier 2,1.0,46.7162,-122.9543,1ee25310-0458-45df-be32-adacc3675122,,,,,,,,,1,2025-10-14,,,1,,
-001Hr000028Zc8H,"City Of Arlington, WA",Washington,Municipality,Catherine Silvestri,20075,,Tier 2,1.0,48.1987,-122.1251,91cfbe46-5aa1-4bc2-bbe0-534051224878,,,,,,,,,2,2025-08-06,,,2,,
-001Hr000028Zc8M,"City Of Port Angeles, WA",Washington,Municipality,Catherine Silvestri,20134,,Tier 2,1.0,48.1181,-123.4307,ed1fd656-74e5-4fab-9bc0-699f0a76f600,,,,,,,,,3,2026-04-03,3,,,,
-001Hr000028Zc8R,"City Of Bremerton, WA",Washington,Municipality,Catherine Silvestri,44122,,Tier 1,1.5,47.565,-122.627,69f7bd3a-cf55-4afd-8d16-06e7df6d1f1c,,,,,,,,,26,2025-12-08,,26,,,
-001Hr000028Zc8W,"City Of Aberdeen, WA",Washington,Municipality,Catherine Silvestri,17191,,Tier 2,1.0,46.9754,-123.8157,255691da-4c6a-4df7-a4c5-6b216c3d596f,,,,,,,,,3,2026-03-12,3,,,,
-001Hr000028Zc8b,"City Of Hoquiam, WA",Washington,Municipality,Catherine Silvestri,8860,,Tier 3,0.75,46.977,-123.8839,35adba93-68ae-4fe6-a457-60e79687d840,,,,,,,,,2,2025-08-20,,,2,,
-001Hr000028Zc8g,"City Of Ferndale, WA",Washington,Municipality,Catherine Silvestri,15476,Open Opportunity,Tier 2,1.0,48.8472,-122.5923,8c3436c8-60c9-4040-84d9-5fc08a4c2d5b,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,3/26/2026,3/12/2026,,,8,2026-03-27,8,,,,
-001Hr000028Zc8l,"City Of Enumclaw, WA",Washington,Municipality,Catherine Silvestri,12733,,Tier 2,1.0,47.2043,-121.9915,9902ff66-19e5-4f67-b615-2d04d169b090,,,,,,,,,3,2026-03-25,3,,,,
-001Hr000028Zc8q,"City Of Burlington, WA",Washington,Municipality,Catherine Silvestri,9702,,Tier 3,0.75,48.4757,-122.3254,be76eeb1-d548-49d9-8f64-470d8bce3b06,,,,,,,,,,,,,,,
-001Hr000028Zc90,"City Of Ridgefield, WA",Washington,Municipality,Catherine Silvestri,12514,Churned Customer,Tier 2,1.0,45.8157,-122.6908,9c56adb4-bc21-40ad-9340-78b7b8a004a5,Closed Won,,,Asher Rosenfeld,,1/5/2025,"$25,000",,,,,,,,
-001Hr000028Zc95,"City of Sedro-Woolley, WA",Washington,Municipality,Catherine Silvestri,12266,Open Opportunity,Tier 2,1.0,48.5039,-122.2361,e72ae226-8dc3-4ba9-b212-4df5bd43a9b4,Open,Initial Interest,Top of Funnel,Harrison Peacock,10/23/2024,1/5/2025,,,4,2025-07-16,,,4,,
-001Hr000028Zc9c,"City Of Wenatchee, WA",Washington,Municipality,Catherine Silvestri,35405,,Tier 1,1.5,47.4235,-120.3103,a78b3f7d-e1c3-413c-9d82-aad683c86064,,,,,,,,,3,2025-12-02,,3,,,
-001Hr000028ZcAA,"City Of North Bend, WA",Washington,Municipality,Catherine Silvestri,7695,,Tier 3,0.75,47.4957,-121.7868,9c7583b8-e9fc-4074-be64-09b86940c0c8,,,,,,,,,,,,,,,
-001Hr000028ZcAJ,"City Of Selah, WA",Washington,Municipality,Catherine Silvestri,8208,,Tier 3,0.75,46.654,-120.5301,0d61ca4c-f319-4900-b1cf-65826056d62c,,,,,,,,,,,,,,,
-001Hr000028ZcB3,"City Of Wapato, WA",Washington,Municipality,Catherine Silvestri,4551,,Tier 3,0.75,46.4476,-120.4203,22a73c0a-7fce-411f-96f8-ff073fcf5215,,,,,,,,,1,2026-02-24,1,,,,
-001Hr000028ZcBH,"City Of Lake Stevens, WA",Washington,Municipality,Catherine Silvestri,36288,,Tier 1,1.5,48.0155,-122.0635,b7c7d671-dee9-4096-889d-f6cd7981149e,,,,,,,,,9,2026-03-30,5,,4,,
-001Hr000028ZcCd,"City Of Maple Valley, WA",Washington,Municipality,Catherine Silvestri,28153,Open Opportunity,Tier 1,1.5,47.3903,-122.0454,67cc5ce5-9ddb-415e-8b6e-c189f7c87039,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,5/13/2026,,,5,2026-05-14,5,,,,
-001Hr000028ZcCi,"City Of Duvall, WA",Washington,Municipality,Catherine Silvestri,8410,,Tier 3,0.75,47.7423,-121.9857,9d8a2b57-efa5-4e51-a110-82a9f0b2b37b,,,,,,,,,4,2025-10-21,,,4,,
-001Hr000028ZcCs,"City Of Tukwila, WA",Washington,Municipality,Catherine Silvestri,21615,,Tier 2,1.0,47.4748,-122.2726,79b4ca9d-9328-4b65-bddc-a1771b023468,,,,,,,,,1,2026-05-15,1,,,,
-001Hr000028ZcF3,"City Of Ephrata, WA",Washington,Municipality,Catherine Silvestri,8477,Open Opportunity,Tier 3,0.75,47.3176,-119.5536,fe1c87b8-f080-4383-8ed1-def0665b8193,Open,Meeting Booked,Top of Funnel,Alicia Gopal,5/11/2026,11/24/2025,,Yes,5,2026-05-11,,5,,,
-001Hr000028ZcF8,"City Of Moses Lake, WA",Washington,Municipality,Catherine Silvestri,25583,Nurture,Tier 1,1.5,47.1301,-119.2781,c27733a2-0fb0-4648-a4aa-224e3ea530bd,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,2,2025-05-27,,,2,,
-001Hr000028ZcFD,"City Of Quincy, WA",Washington,Municipality,Catherine Silvestri,8053,,Tier 3,0.75,47.2343,-119.8525,cb3c0de9-f4ab-46bf-b5b6-39dfaabde628,,,,,,,,,2,2025-11-24,,2,,,
-001Hr000028ZcFI,"City Of Clarkston, WA",Washington,Municipality,Catherine Silvestri,7194,Nurture,Tier 3,0.75,46.4163,-117.0452,ec038938-cf1b-40a1-a8d8-d09615222e2c,Closed Lost,,,Shane Lieberman,6/20/2024,1/5/2025,"$9,000",,,,,,,,
-001Hr000028ZcFS,"City Of Ellensburg, WA",Washington,Municipality,Catherine Silvestri,19596,,Tier 2,1.0,46.9965,-120.5478,2753a9c2-365b-44aa-8df2-3407145a60cf,,,,,,,,,10,2025-07-14,,,10,,
-001Hr000028ZcFr,"City Of West Richland, WA",Washington,Municipality,Catherine Silvestri,16951,Open Opportunity,Tier 2,1.0,46.3043,-119.3614,66f21d1b-d355-4379-9470-bce4c45af364,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,4/8/2026,,,34,2026-04-08,13,21,,,
-001Hr000028ZcFw,"City Of Grandview, WA",Washington,Municipality,Catherine Silvestri,10891,Open Opportunity,Tier 2,1.0,46.251,-119.9017,4ba850d4-3727-4f95-946d-3b1199015bce,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,4/8/2026,3/24/2026,,,12,2026-04-30,12,,,,
-001Hr000028ZcG1,"City Of East Wenatchee, WA",Washington,Municipality,Catherine Silvestri,14236,,Tier 2,1.0,47.4157,-120.2931,f2ba23ff-f57d-4052-9dbe-b4934dd2c9db,,,,,,,,,1,2025-08-25,,,1,,
-001Hr000028Zceg,"City Of Bellingham, WA",Washington,Municipality,Catherine Silvestri,92289,Open Opportunity,Tier S,2.0,48.7519,-122.4787,e82757e0-15ec-4363-a7ea-5dad7dae2e45,Open,Initial Interest,Top of Funnel,Alicia Gopal,2/13/2026,2/2/2026,,,15,2026-02-18,,14,1,,
-001Hr000028Zcma,"City Of Yakima, WA",Washington,Municipality,Catherine Silvestri,96578,,Tier S,2.0,46.6022,-120.5061,ca6f57f8-8274-4e5a-9381-983f88031ec0,,,,,,,,,4,2026-05-18,4,,,,
-001Hr000028ZcqW,"City Of Kirkland, WA",Washington,Municipality,Catherine Silvestri,92107,Open Opportunity,Tier S,2.0,47.6769,-122.206,668d3698-5b86-4874-9ef1-04026d6db95c,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,6/8/2026,3/24/2026,,,4,2026-03-24,2,,2,,
-001Hr000028ZctM,"City Of Lakewood, WA",Washington,Municipality,Catherine Silvestri,63331,,Tier S,2.0,47.1718,-122.5185,bff55a6b-522f-418d-a000-e1ab2977d646,,,,,,,,,5,2026-03-26,5,,,,
-001Hr000028ZdMg,"City Of Auburn, WA",Washington,Municipality,Catherine Silvestri,85699,,Tier S,2.0,47.3073,-122.2285,065a6bc9-d120-458d-99a9-6aa44929c55b,,,,,,,,,6,2026-03-31,6,,,,
-001Hr000028ZdSf,"Sammamish, WA",Washington,Municipality,Catherine Silvestri,,,Tier 3,0.75,47.6163,-122.0356,19d5dbe8-3007-428d-8320-61e383d0cdd7,,,,,,,,,22,2025-12-05,,22,,,
-001Hr000028ZdVP,"City Of Richland, WA",Washington,Municipality,Catherine Silvestri,61929,,Tier S,2.0,46.2804,-119.2752,9cc04142-891b-4a52-88b6-c9c6ad388c5c,,,,,,,,,2,2026-05-15,2,,,,
-001Hr000028ZdWW,"Franklin County, WA",Washington,County,Catherine Silvestri,,,Tier 3,0.75,46.4937,-118.8672,4a8ae285-e54c-4765-8e78-ace562859156,,,,,,,,,,,,,,,
-001Hr000028ZdZZ,"Skagit County, WA",Washington,County,Catherine Silvestri,132736,,Tier S,2.0,48.4242,-121.7114,536de350-3285-4608-aba3-297ed3fb603a,,,,,,,,,4,2025-12-16,,4,,,
-001Hr000028ZdZk,"Chelan County, WA",Washington,County,Catherine Silvestri,81228,,Tier S,2.0,47.9445,-120.6749,601a490d-d635-499a-a77d-549400ee1035,,,,,,,,,1,2026-03-24,1,,,,
-001Hr000028ZdaE,"Walla Walla County, WA",Washington,County,Catherine Silvestri,62068,,Tier S,2.0,46.237,-118.5855,d07447db-af79-481e-a551-6e2e4a2867c8,,,,,,,,,5,2026-05-04,5,,,,
-001Hr000028Zdcw,"City Of Redmond, WA",Washington,Municipality,Catherine Silvestri,76354,,Tier S,2.0,47.674,-122.1215,38260554-9547-48d9-834f-fa3c0f5c177c,,,,,,,,,18,2025-07-07,,,18,,
-001Hr000028Zdd1,"City Of Pasco, WA",Washington,Municipality,Catherine Silvestri,78871,,Tier S,2.0,46.2305,-119.0922,f2765e42-e739-46d7-b000-7734414a5dde,,,,,,,,,8,2026-03-10,8,,,,
-001Hr000028ZddG,"Lacey, WA",Washington,Municipality,Catherine Silvestri,,,Tier 3,0.75,47.0359,-122.8233,7a224aa7-8d06-494b-b272-f9d590026888,,,,,,,,,,,,,,,
-001Hr000028ZddW,"Olympia, WA",Washington,Municipality,Catherine Silvestri,,,Tier 3,0.75,47.0452,-122.8954,de8c801f-a2ea-4fec-a4a5-d89f4419f14b,,,,,,,,,,,,,,,
-001Hr000028Zdda,"City Of Federal Way, WA",Washington,Municipality,Catherine Silvestri,99037,,Tier S,2.0,47.3224,-122.3134,ec1a2f01-6484-4aaf-908b-8caaf0f7f72c,,,,,,,,,3,2025-12-08,,3,,,
-001Hr000028Zddp,"Burien, WA",Washington,Municipality,Catherine Silvestri,,,Tier 3,0.75,47.4668,-122.3405,4df70baf-58da-44fd-b06b-bf9f6560da5b,,,,,,,,,,,,,,,
-001Hr000028ZdeL,"City Of Kennewick, WA",Washington,Municipality,Catherine Silvestri,84488,,Tier S,2.0,46.2087,-119.1199,54829655-e9ee-4c22-961e-2dfc178d8087,,,,,,,,,8,2026-05-18,8,,,,
-001Hr000028Zdfd,"City Of Marysville, WA",Washington,Municipality,Catherine Silvestri,71144,Open Opportunity,Tier S,2.0,48.0518,-122.1771,589175f2-129b-4175-9104-ba88284ae6c9,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,5/27/2026,5/14/2026,,,2,2026-05-14,2,,,,
-001Hr000028Zdfm,"Douglas County, WA",Washington,County,Catherine Silvestri,,,Tier 3,0.75,47.7791,-119.7475,3031ce79-c319-45a7-95ee-b6e36a020b4f,,,,,,,,,,,,,,,
-001Hr000028ZdjB,"Cowlitz County, WA",Washington,County,Catherine Silvestri,113982,,Tier S,2.0,46.1746,-122.7747,8c5465ae-5310-43ab-896e-ea336f40db80,,,,,,,,,6,2026-05-18,6,,,,
-001Hr000028Zdlo,"Lewis County, WA",Washington,County,Catherine Silvestri,,,Tier 3,0.75,46.6195,-122.4555,25892b4f-6788-428f-8709-f1e5c697f144,,,,,,,,,3,2025-09-29,,,3,,
-001Hr000028ZdmD,"Grant County, WA",Washington,County,Catherine Silvestri,104717,Open Opportunity,Tier S,2.0,47.1981,-119.3732,e4cddfd2-41ee-44c7-af52-88dd5a0b5253,Open,Initial Interest,Top of Funnel,Catherine Silvestri,4/16/2026,3/16/2026,,,6,2026-04-15,6,,,,
-001Hr000028ZdqU,"Whatcom County, WA",Washington,County,Catherine Silvestri,234954,,Tier S,2.0,48.8787,-121.9719,8d4f4a8b-a21a-4c5c-b8af-d2a49d478c88,,,,,,,,,6,2026-05-18,6,,,,
-001cv000006s0uN,"City of Ruston, WA",Washington,Municipality,Catherine Silvestri,1028,,Tier 3,0.75,47.2982,-122.5103,a0d86396-2acf-411f-ad99-299fda1ebfe7,,,,,,,,,,,,,,,
-001cv00000AuWOB,"City Of Brewster, WA",Washington,Municipality,Catherine Silvestri,2011,,Tier 3,0.75,48.096,-119.7806,44097741-c3d0-43f4-a381-4f34cdba9688,,,,,,,,,,,,,,,
-001cv00000AuWQ5,"City Of Mccleary, WA",Washington,Municipality,Catherine Silvestri,2039,,Tier 3,0.75,47.0532,-123.2654,06d5df1e-6b76-4f86-8416-dfe792546f85,,,,,,,,,,,,,,,
-001cv00000AuWbX,"City Of Newport, WA",Washington,Municipality,Catherine Silvestri,2132,,Tier 3,0.75,48.1796,-117.0433,9138bf26-cee3-4466-b06e-d3d74620094a,,,,,,,,,,,,,,,
-001cv00000AuWbm,"Town Of Bridgeport, WA",Washington,Municipality,Catherine Silvestri,2137,,Tier 3,0.75,48.0082,-119.6712,6f496afa-7a3b-4f5e-aee3-c5e510f63579,,,,,,,,,,,,,,,
-001cv00000AuWdU,"City Of Carnation, WA",Washington,Municipality,Catherine Silvestri,2167,,Tier 3,0.75,47.6479,-121.914,d7a9419c-b815-4799-8697-9996049624a1,,,,,,,,,6,2026-05-12,6,,,,
-001cv00000AuWp8,"City Of Cle Elum, WA",Washington,Municipality,Catherine Silvestri,2174,,Tier 3,0.75,47.1954,-120.9392,b91bb850-39e2-4edc-a4e0-6a3d3ee46d05,,,,,,,,,,,,,,,
-001cv00000AuX5i,"City Of Westport, WA",Washington,Municipality,Catherine Silvestri,2254,,Tier 3,0.75,46.8901,-124.1041,348f44e3-f1c0-4315-aeb1-2926185272a7,,,,,,,,,,,,,,,
-001cv00000AuXA4,"County Of Garfield, WA",Washington,County,Catherine Silvestri,2346,,Tier 3,0.75,46.5186,-117.5277,2c040bd7-3333-464e-b57b-ec6dfd0ce91f,,,,,,,,,,,,,,,
-001cv00000AuXB6,"City Of Okanogan, WA",Washington,Municipality,Catherine Silvestri,2373,,Tier 3,0.75,48.3613,-119.5834,dbc9369b-ae63-41f8-b1ed-c4bf64e5639c,,,,,,,,,,,,,,,
-001cv00000AuXOO,"City Of Rainier, WA",Washington,Municipality,Catherine Silvestri,2486,,Tier 3,0.75,46.8882,-122.6885,70419477-9830-4312-8cc8-c015265dff35,,,,,,,,,,,,,,,
-001cv00000AuXOi,"City Of Dayton, WA",Washington,Municipality,Catherine Silvestri,2493,,Tier 3,0.75,46.3238,-117.9724,a8ee8148-4b0c-43ad-860b-450ed360e414,,,,,,,,,,,,,,,
-001cv00000AuXPf,"City Of Chewelah, WA",Washington,Municipality,Catherine Silvestri,2519,,Tier 3,0.75,48.2763,-117.7155,3ac0aa75-936a-403b-8961-9d6cf09e8e90,,,,,,,,,,,,,,,
-001cv00000AuXTT,"City Of Warden, WA",Washington,Municipality,Catherine Silvestri,2527,,Tier 3,0.75,46.9676,-119.0397,fcc852e2-7301-49f7-90ee-4fcd54da3a73,,,,,,,,,,,,,,,
-001cv00000AuXWC,"City Of White Salmon, WA",Washington,Municipality,Catherine Silvestri,2601,,Tier 3,0.75,45.7278,-121.4867,ff8944c6-ac4a-4b34-8b42-ffbce920d595,,,,,,,,,,,,,,,
-001cv00000AuXgI,"Town Of Friday Harbor, WA",Washington,Municipality,Catherine Silvestri,2747,,Tier 3,0.75,48.5343,-123.0171,e31c2789-3b87-4027-9fe6-88abdcf90c45,,,,,,,,,,,,,,,
-001cv00000AuXh3,"City Of Colfax, WA",Washington,Municipality,Catherine Silvestri,2766,,Tier 3,0.75,46.8802,-117.3644,8f904c33-8423-466e-baa9-53148b1d6a9f,,,,,,,,,,,,,,,
-001cv00000AuXkW,"Town Of Eatonville, WA",Washington,Municipality,Catherine Silvestri,2854,,Tier 3,0.75,46.8673,-122.2665,183a9d53-edab-4b40-bca9-63b29429e3ec,,,,,,,,,,,,,,,
-001cv00000AuXlo,"City Of Medina, WA",Washington,Municipality,Catherine Silvestri,2886,,Tier 3,0.75,47.6248,-122.2361,f0d3a297-e0e4-4666-ae78-eb553271604c,,,,,,,,,2,2026-03-23,2,,,,
-001cv00000AuXo1,"Town Of Everson, WA",Washington,Municipality,Catherine Silvestri,2967,,Tier 3,0.75,48.9201,-122.3427,f09795ee-0997-4960-877c-ffe58df24850,,,,,,,,,,,,,,,
-001cv00000AuY7T,"City Of Goldendale, WA",Washington,Municipality,Catherine Silvestri,3524,,Tier 3,0.75,45.8222,-120.8226,d224e6b2-08e3-4c7c-9e07-b8684d0ca0b7,,,,,,,,,,,,,,,
-001cv00000AuYBr,"Town Of Clyde Hill, WA",Washington,Municipality,Catherine Silvestri,3108,,Tier 3,0.75,47.6318,-122.2179,8bcbc919-975a-4aed-8acb-11011f60cedf,,,,,,,,,1,2026-03-23,1,,,,
-001cv00000AuYCq,"City Of Raymond, WA",Washington,Municipality,Catherine Silvestri,3146,,Tier 3,0.75,46.6865,-123.7329,f3608af6-58e2-459c-8942-8e73ad2b762e,,,,,,,,,,,,,,,
-001cv00000AuYDC,"City Of Zillah, WA",Washington,Municipality,Catherine Silvestri,3157,,Tier 3,0.75,46.4024,-120.2606,01648976-a647-428f-bbcc-acb5194ad660,,,,,,,,,,,,,,,
-001cv00000AuYFH,"City Of Kalama, WA",Washington,Municipality,Catherine Silvestri,3013,,Tier 3,0.75,46.0084,-122.8446,9ce2f840-3730-4a8c-a303-b9cb193970ae,,,,,,,,,,,,,,,
-001cv00000AuYJv,"City Of Forks, WA",Washington,Municipality,Catherine Silvestri,3385,,Tier 3,0.75,47.9504,-124.3855,6109fc74-1436-43af-846a-9731b703abf9,,,,,,,,,,,,,,,
-001cv00000AuYMH,"City Of Elma, WA",Washington,Municipality,Catherine Silvestri,3477,,Tier 3,0.75,47.0034,-123.4088,b5b0ab65-42b8-4993-a2e5-f466ff0b3446,,,,,,,,,,,,,,,
-001cv00000AuYMY,"City Of Benton City, WA",Washington,Municipality,Catherine Silvestri,3488,,Tier 3,0.75,46.2632,-119.4878,1e41e7d3-4e46-4cf9-b66d-5409a16cb659,,,,,,,,,,,,,,,
-001cv00000AuYOF,"City Of Cashmere, WA",Washington,Municipality,Catherine Silvestri,3202,,Tier 3,0.75,47.5221,-120.4699,62037e54-bad4-4a9a-96ac-e0f597e4771c,,,,,,,,,,,,,,,
-001cv00000AuYP8,"City Of Algona, WA",Washington,Municipality,Catherine Silvestri,3241,,Tier 3,0.75,47.2791,-122.2499,8e0914ab-1943-4188-a04f-8845819a407b,,,,,,,,,,,,,,,
-001cv00000AuYdw,"City Of Granger, WA",Washington,Municipality,Catherine Silvestri,3668,,Tier 3,0.75,46.3421,-120.1873,f53bcaf0-330c-443f-916c-09c49a09de08,,,,,,,,,,,,,,,
-001cv00000AuYfb,"City Of La Center, WA",Washington,Municipality,Catherine Silvestri,3795,,Tier 3,0.75,45.8621,-122.6726,993c02d7-d910-483f-b597-f37cad6c4be3,,,,,,,,,,,,,,,
-001cv00000AuYmW,"County Of Columbia, WA",Washington,County,Catherine Silvestri,4042,,Tier 3,0.75,46.2775,-117.8143,d13cc65a-79d4-44a5-ab71-bedcfb9f029d,,,,,,,,,,,,,,,
-001cv00000AuYoy,"City Of Montesano, WA",Washington,Municipality,Catherine Silvestri,4167,,Tier 3,0.75,46.9795,-123.6008,58cb9c16-96c0-4fa6-9ad7-0b61e61ac16c,,,,,,,,,,,,,,,
-001cv00000AuYwJ,"City Of Chelan, WA",Washington,Municipality,Catherine Silvestri,4374,,Tier 3,0.75,47.8408,-120.0168,4e32f434-5d25-4608-96d1-d00917d6ce38,,,,,,,,,,,,,,,
-001cv00000AuYxX,"City Of Moxee, WA",Washington,Municipality,Catherine Silvestri,4405,,Tier 3,0.75,46.5537,-120.3832,f2b7d312-6194-4d00-bd4e-0dcb28f7c781,,,,,,,,,,,,,,,
-001cv00000AuZ7i,"City Of Buckley, WA",Washington,Municipality,Catherine Silvestri,5321,,Tier 3,0.75,47.1632,-122.0268,423ed54c-e31c-4c78-a56d-7948e03be552,,,,,,,,,1,2025-11-20,,1,,,
-001cv00000AuZAV,"Town Of Black Diamond, WA",Washington,Municipality,Catherine Silvestri,5839,,Tier 3,0.75,47.3087,-122.0032,ab4eaf2a-9cda-4eab-beb1-70ea88d17074,,,,,,,,,1,2025-11-19,,1,,,
-001cv00000AuZIG,"City Of Colville, WA",Washington,Municipality,Catherine Silvestri,4968,,Tier 3,0.75,48.545,-117.901,ad52e54c-2c8b-4d04-9062-4804c4db67a6,,,,,,,,,,,,,,,
-001cv00000AuZLu,"City Of Medical Lake, WA",Washington,Municipality,Catherine Silvestri,4806,,Tier 3,0.75,47.5729,-117.6827,2a6227b0-478a-4cf7-b0c0-008c3dd4ee0a,,,,,,,,,2,2025-08-25,,,2,,
-001cv00000AuZQm,"County Of Ferry, WA",Washington,County,Catherine Silvestri,7273,,Tier 3,0.75,48.4718,-118.4974,1889c1ae-eefd-436b-9f5c-1a1ba39bfa18,,,,,,,,,,,,,,,
-001cv00000AuZS1,"City Of Omak, WA",Washington,Municipality,Catherine Silvestri,4975,,Tier 3,0.75,48.4109,-119.5301,5a9f8ab9-e778-4e99-bfaf-6d5e0c88ab26,,,,,,,,,,,,,,,
-001cv00000AuZba,"County Of Skamania, WA",Washington,County,Catherine Silvestri,12170,,Tier 2,1.0,45.9429,-121.8962,c5f81f8e-6e90-4495-b140-1bf366adfa42,,,,,,,,,2,2025-09-24,,,2,,
-001cv00000AuZm4,"County Of Lincoln, WA",Washington,County,Catherine Silvestri,11232,,Tier 2,1.0,47.5321,-118.4701,b92fcdb7-64bc-422e-b123-e9029b3a1d47,,,,,,,,,,,,,,,
-001cv00000AuZnJ,"County Of Pend Oreille, WA",Washington,County,Catherine Silvestri,13886,Open Opportunity,Tier 2,1.0,48.4359,-117.3173,cca18ec4-3621-44e6-9846-4cd58b151107,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,5/5/2026,4/22/2026,,,19,2026-05-04,19,,,,
-001cv00000AuZsR,"County Of San Juan, WA",Washington,County,Catherine Silvestri,18557,,Tier 2,1.0,48.6118,-122.9603,d18c8ebf-5e08-469e-8ab8-47eaa6e925b5,,,,,,,,,3,2025-09-30,,,3,,
-001cv00000Aua3u,"County Of Adams, WA",Washington,County,Catherine Silvestri,20621,,Tier 2,1.0,46.9272,-118.511,1de10bbc-e851-40af-a815-e62959f575af,,,,,,,,,,,,,,,
-001cv00000Aua5i,"County Of Jefferson, WA",Washington,County,Catherine Silvestri,33605,,Tier 1,1.5,47.7425,-123.304,f058be12-2a6e-4007-9322-a0f70b807a4a,,,,,,,,,,,,,,,
-001cv00000Aua9m,"County Of Asotin, WA",Washington,County,Catherine Silvestri,22397,,Tier 2,1.0,46.146,-117.2085,1666800b-45d3-47c4-a29b-f56599fa2ec6,,,,,,,,,3,2025-09-23,,,3,,
-001cv00000AuaAE,"County Of Klickitat, WA",Washington,County,Catherine Silvestri,23118,,Tier 2,1.0,45.8888,-120.9711,26917a83-b750-49ab-ba4f-0a6a5e296f57,,,,,,,,,9,2025-10-22,,7,2,,
-001cv00000AuaAm,"County Of Pacific, WA",Washington,County,Catherine Silvestri,23948,,Tier 2,1.0,46.5181,-123.8265,8e205c1a-6e89-4070-abc6-38a6112abfe3,,,,,,,,,,,,,,,
-001cv00000AuaGU,"County Of Okanogan, WA",Washington,County,Catherine Silvestri,42634,,Tier 1,1.5,48.5897,-119.6522,93dc9f41-644d-40ea-a0bd-06635d4aa448,Closed Lost,,,Harrison Peacock,10/17/2024,1/5/2025,,,1,2026-05-14,1,,,,
-001cv00000AuaHZ,"County Of Kittitas, WA",Washington,County,Catherine Silvestri,45499,,Tier 1,1.5,47.175,-120.9319,36949994-f654-48dd-9a78-e8bf869d391e,,,,,,,,,,,,,,,
-001cv00000AuaK8,"County Of Stevens, WA",Washington,County,Catherine Silvestri,47426,,Tier 1,1.5,48.4558,-117.906,d043db94-8bb9-4d12-bbc1-e55ecaf5f6d4,,,,,,,,,,,,,,,
-001cv00000AuaKF,"County Of Whitman, WA",Washington,County,Catherine Silvestri,47873,,Tier 1,1.5,46.8363,-117.5887,5a558777-5624-4f90-b82b-8d608b69929c,,,,,,,,,1,2025-12-03,,1,,,
-001cv00000AuaL3,"City Of Burien, WA",Washington,Municipality,Catherine Silvestri,51073,,Tier S,2.0,47.4668,-122.3405,4df70baf-58da-44fd-b06b-bf9f6560da5b,,,,,,,,,,,,,,,
-001cv00000AuaN7,"City Of Lacey, WA",Washington,Municipality,Catherine Silvestri,54461,,Tier S,2.0,47.0359,-122.8233,7a224aa7-8d06-494b-b272-f9d590026888,,,,,,,,,14,2026-04-10,12,2,,,
-001cv00000AuaNT,"City Of Olympia, WA",Washington,Municipality,Catherine Silvestri,55919,,Tier S,2.0,47.0452,-122.8954,de8c801f-a2ea-4fec-a4a5-d89f4419f14b,,,,,,,,,3,2026-03-12,3,,,,
-001cv00000AuaPP,"City Of Sammamish, WA",Washington,Municipality,Catherine Silvestri,66630,,Tier S,2.0,47.6163,-122.0356,19d5dbe8-3007-428d-8320-61e383d0cdd7,,,,,,,,,,,,,,,
-001cv00000AuaQz,"County Of Island, WA",Washington,County,Catherine Silvestri,87432,Nurture,Tier S,2.0,48.1757,-122.6053,3cecc22e-e8a3-412e-b88f-8346f1418827,Closed Lost,,,Alicia Gopal,12/10/2025,12/8/2025,,,12,2026-01-20,,12,,,
-001cv00000AuaWg,"County Of Grays Harbor, WA",Washington,County,Catherine Silvestri,76841,,Tier S,2.0,46.9954,-123.7012,4d153870-5053-4a1f-b4a8-0d453d5d1ad7,,,,,,,,,,,,,,,
-001cv00000AuaWt,"County Of Clallam, WA",Washington,County,Catherine Silvestri,78209,Open Opportunity,Tier S,2.0,48.1134,-123.7986,499db7d1-b388-468c-a805-1d6e1583e791,Open,Meeting Booked,Top of Funnel,Alicia Gopal,8/5/2026,12/8/2025,,,5,2026-01-21,,5,,,
-001cv00000AuaXh,"County Of Mason, WA",Washington,County,Catherine Silvestri,67615,,Tier S,2.0,47.4251,-123.1951,d78488e1-500f-47c2-9cbc-0419c7780355,,,,,,,,,,,,,,,
-001cv00000B21pk,"City Of Leavenworth, WA",Washington,Municipality,Catherine Silvestri,2383,,Tier 3,0.75,47.5962,-120.6615,a0f5d980-23df-450b-9221-e01c5a48ba41,,,,,,,,,10,2026-05-15,10,,,,
-001cv00000B21qC,"City Of Gold Bar, WA",Washington,Municipality,Catherine Silvestri,2395,,Tier 3,0.75,47.8568,-121.6971,34f310b8-1163-4fc7-9f46-ed4997daa01f,,,,,,,,,,,,,,,
-001cv00000B21sL,"City Of Castle Rock, WA",Washington,Municipality,Catherine Silvestri,2446,,Tier 3,0.75,46.2751,-122.9076,32f5dd96-3a1d-4bcd-b160-365867cd80e9,,,,,,,,,,,,,,,
-001cv00000B21zD,"County Of Wahkiakum, WA",Washington,County,Catherine Silvestri,4582,,Tier 3,0.75,46.3259,-123.4946,2ddd86d9-b225-4e0d-96ac-d78b89048b18,,,,,,,,,,,,,,,
-001cv00000B221e,"City Of Deer Park, WA",Washington,Municipality,Catherine Silvestri,4685,,Tier 3,0.75,47.9543,-117.4769,345608e4-6816-47c0-a0f7-33571f23a407,,,,,,,,,,,,,,,
-001cv00000B221g,"City Of Granite Falls, WA",Washington,Municipality,Catherine Silvestri,4687,Recent Competitor Purchase,Tier 3,0.75,48.084,-121.9687,199741a2-0e66-4862-9ec3-e0611e6273c0,Closed Lost,,,Alicia Gopal,11/7/2025,11/4/2025,"$16,000",,10,2025-11-04,,4,6,,
-001cv00000bB8Ph,Town of Darrington,Washington,Municipality,Asher Rosenfeld,1500,,Tier 3,0.75,48.2554,-121.6015,1824cc67-9b8d-47c1-8de7-0b86558d3545,,,,,,,,,,,,,,,
-001cv00000bBVek,Town of Carbonado,Washington,Municipality,Asher Rosenfeld,737,,Tier 3,0.75,47.0798,-122.0515,0e983cb2-ebd0-4d38-bd9a-967af5fa3c03,,,,,,,,,,,,,,,
-001cv00000bBVfY,City of Tekoa,Washington,Municipality,Asher Rosenfeld,809,,Tier 3,0.75,47.2232,-117.0721,39fb389a-166e-4b85-ae81-bfacef1396d4,,,,,,,,,,,,,,,
-001cv00000bBVkv,City of Bingen,Washington,Municipality,Asher Rosenfeld,942,,Tier 3,0.75,45.7148,-121.4664,c9a29977-d4c0-4b1e-8c76-f052314d940e,,,,,,,,,,,,,,,
-001cv00000bBVlA,City of Electric City,Washington,Municipality,Asher Rosenfeld,957,,Tier 3,0.75,47.931,-119.0367,3a92121a-9e9c-4a96-a367-8d311fb2a561,,,,,,,,,,,,,,,
-001cv00000bBVlD,City of Grand Coulee,Washington,Municipality,Asher Rosenfeld,960,,Tier 3,0.75,47.9392,-119.0121,32ad5576-35d5-42ff-915d-705d74f665f7,,,,,,,,,,,,,,,
-001cv00000bBVlh,Town of La Conner,Washington,Municipality,Asher Rosenfeld,994,,Tier 3,0.75,48.3887,-122.4963,c2eeb4c3-a8fc-4979-9ca0-e8dc9d0cf883,,,,,,,,,,,,,,,
-001cv00000bBVm5,Town of Republic,Washington,Municipality,Asher Rosenfeld,1020,,Tier 3,0.75,48.6482,-118.7378,53e7040f-05ae-4bba-a650-f81f8ce3f721,,,,,,,,,,,,,,,
-001cv00000bBVmD,City of Palouse,Washington,Municipality,Asher Rosenfeld,1029,,Tier 3,0.75,46.9102,-117.0757,9bfbeb3b-2e38-428a-8cdb-c77ced53d511,,,,,,,,,,,,,,,
-001cv00000bBVoo,City of Morton,Washington,Municipality,Asher Rosenfeld,1089,,Tier 3,0.75,46.5584,-122.2751,a64817d1-e923-4da3-b620-0eb8ce9656c6,,,,,,,,,,,,,,,
-001cv00000bBVor,Town of Naches,Washington,Municipality,Asher Rosenfeld,1090,,Tier 3,0.75,46.731,-120.6995,2aa50e6b-6c7a-4393-9811-d8eb2e736b00,,,,,,,,,,,,,,,
-001cv00000bBVpB,City of Ilwaco,Washington,Municipality,Asher Rosenfeld,1112,,Tier 3,0.75,46.309,-124.0432,1410bc2b-a011-434c-99b4-1a0bf081336f,,,,,,,,,,,,,,,
-001cv00000bBVpC,Town of Twisp,Washington,Municipality,Asher Rosenfeld,1112,,Tier 3,0.75,48.3635,-120.1223,acb1cf86-b1a6-4ccd-ac43-c4bdd51a8e19,,,,,,,,,,,,,,,
-001cv00000bBVsS,City of Langley,Washington,Municipality,Asher Rosenfeld,1139,,Tier 3,0.75,48.0401,-122.4063,df3d2328-31ee-47dc-820d-8adad66db5a9,,,,,,,,,,,,,,,
-001cv00000bBWBr,City of Entiat,Washington,Municipality,Asher Rosenfeld,1561,,Tier 3,0.75,47.676,-120.2084,fb82fad2-217e-4fe6-aa8a-eaacf975cb6d,,,,,,,,,,,,,,,
-001cv00000bBWDM,City of Mabton,Washington,Municipality,Asher Rosenfeld,1960,,Tier 3,0.75,46.2149,-119.9967,2e12d2fc-e09e-46d6-987d-0faef7b56742,,,,,,,,,,,,,,,
-001cv00000bBWEp,City of Spokane Valley,Washington,Municipality,Asher Rosenfeld,108267,,Tier S,2.0,47.6732,-117.2394,c5e0de37-6d1d-449d-b2d3-c928a61a1ac5,,,,,,,,,,,,,,,
-001cv00000bBWF8,City of Everett,Washington,Municipality,Asher Rosenfeld,113011,,Tier S,2.0,47.9782,-122.2074,0163263c-f834-4669-b7db-05a49162b1fd,,,,,,,,,,,,,,,
-001cv00000bBWIz,City of Soap Lake,Washington,Municipality,Asher Rosenfeld,1780,,Tier 3,0.75,47.3894,-119.4832,4a3d5c6d-dbfa-49a5-b5c6-eafde83bf362,,,,,,,,,,,,,,,
-001cv00000bBWJG,City of Davenport,Washington,Municipality,Asher Rosenfeld,1805,,Tier 3,0.75,47.654,-118.15,12a762ca-4814-49f1-afbd-01c532abb340,,,,,,,,,,,,,,,
-001cv00000bBWJl,City of Millwood,Washington,Municipality,Asher Rosenfeld,1841,,Tier 3,0.75,47.6813,-117.2827,ea163222-5577-4433-a609-d800f5fef7e3,,,,,,,,,,,,,,,
-001cv00000bBWKg,City of Royal City,Washington,Municipality,Asher Rosenfeld,1907,,Tier 3,0.75,46.901,-119.6306,9b19aab9-9b9a-44d6-b45f-335051eb2c91,,,,,,,,,,,,,,,
-001cv00000bBWKk,City of Oroville,Washington,Municipality,Asher Rosenfeld,1911,,Tier 3,0.75,48.9393,-119.4353,2135dce5-be0d-4663-bbed-c5ac5ea82f8c,,,,,,,,,,,,,,,
-001cv00000bBWL1,Town of Coupeville,Washington,Municipality,Asher Rosenfeld,1935,,Tier 3,0.75,48.2198,-122.6863,f22a0947-694e-4d5c-a0f2-026d3b0944e7,,,,,,,,,,,,,,,
-001cv00000bBWN8,City of Renton,Washington,Municipality,Asher Rosenfeld,105543,,Tier S,2.0,47.4797,-122.2079,e3ce9abc-a9a8-4304-81ab-0c10eab90c40,,,,,,,,,,,,,,,
-001cv00000bBWNX,City of Stevenson,Washington,Municipality,Asher Rosenfeld,1598,,Tier 3,0.75,45.6957,-121.8845,b31e2aba-a16d-4a16-a052-a239c11a64b8,,,,,,,,,,,,,,,
-001cv00000bBWOL,City of Kettle Falls,Washington,Municipality,Asher Rosenfeld,1649,,Tier 3,0.75,48.6107,-118.0558,3ff9c9e8-edcd-4698-9686-3de17dd42e2b,,,,,,,,,,,,,,,
-001cv00000bBWOS,City of Cosmopolis,Washington,Municipality,Asher Rosenfeld,1663,,Tier 3,0.75,46.9554,-123.7738,6b1728c8-ddfb-432b-aecc-55e1a9658331,,,,,,,,,,,,,,,
-001cv00000bBWOj,City of Sumas,Washington,Municipality,Asher Rosenfeld,1683,,Tier 3,0.75,49.0001,-122.2649,3ddf246d-b6e2-45b5-83c5-269e7577b1d6,,,,,,,,,,,,,,,
-001cv00000bBWPE,City of Ritzville,Washington,Municipality,Asher Rosenfeld,1709,,Tier 3,0.75,47.1274,-118.38,9fa894bd-9e72-43db-a20b-0ebd5e11b5e9,,,,,,,,,,,,,,,
-001cv00000bBWRI,City of Napavine,Washington,Municipality,Asher Rosenfeld,2155,,Tier 3,0.75,46.5746,-122.9082,6bc8481d-08e6-48dc-8c1e-e9e3bbc28df8,,,,,,,,,,,,,,,
-001cv00000bBWRY,City of Winlock,Washington,Municipality,Asher Rosenfeld,2515,,Tier 3,0.75,46.4912,-122.9379,5787551f-811a-44e9-99c4-895a71407bb3,,,,,,,,,,,,,,,
-001cv00000bBWT1,City of Kent,Washington,Municipality,Asher Rosenfeld,136588,,Tier S,2.0,47.3815,-122.2374,906fa3a8-07d8-4530-9b61-bfac32b0eb9d,,,,,,,,,,,,,,,
-001cv00000bBWTV,City of Bellevue,Washington,Municipality,Asher Rosenfeld,154377,,Tier S,2.0,47.6101,-122.2015,0d6a9c16-a602-4240-ac7d-5ad4a94d176f,,,,,,,,,,,,,,,
-001cv00000bBWU9,City of Vancouver,Washington,Municipality,Asher Rosenfeld,198992,,Tier S,2.0,45.628,-122.6739,41331819-466f-409f-a9fd-0311a195d58a,,,,,,,,,,,,,,,
-001cv00000bBWXy,Spokane County,Washington,County,Asher Rosenfeld,555947,,Tier S,2.0,47.5909,-117.2777,31247884-30dd-44f8-84da-5f119b3a5fe9,,,,,,,,,,,,,,,
-001cv00000bBWYb,City of Seattle,Washington,Municipality,Asher Rosenfeld,780995,,Tier S,2.0,47.6061,-122.3328,f5f1a13f-48f3-4aba-909a-283595156f96,,,,,,,,,,,,,,,
-001cv00000bBWYm,Snohomish County,Washington,County,Asher Rosenfeld,864113,,Tier S,2.0,48.033,-121.8339,af02f841-29b8-4bc9-9b00-8d5b21cf8ec6,,,,,,,,,,,,,,,
-001cv00000bBWZf,King County,Washington,County,Asher Rosenfeld,2340211,,Tier S,2.0,47.548,-121.9836,979e7f7f-29ed-4912-b2d7-68b2b0a8a713,,,,,,,,,,,,,,,
-001cv00000bBWsd,City of Woodway,Washington,Municipality,Asher Rosenfeld,1323,,Tier 3,0.75,47.7962,-122.3829,0330449b-fe8d-46d7-882d-3f369acf45e4,,,,,,,,,,,,,,,
-001cv00000bBWuB,City of Kittitas,Washington,Municipality,Asher Rosenfeld,1445,,Tier 3,0.75,46.9832,-120.417,f5c4c3fa-96a3-4853-a3af-988bc2031ed2,,,,,,,,,,,,,,,
-001cv00000bBWyZ,Benton County,Washington,County,Asher Rosenfeld,218190,,Tier S,2.0,46.3166,-119.5022,ce533a5e-a5a7-49dc-bc23-63e25b246583,,,,,,,,,,,,,,,
-001cv00000bBWyg,City of Tacoma,Washington,Municipality,Asher Rosenfeld,228202,,Tier S,2.0,47.2551,-122.442,17d6ad6c-a2db-482e-8acb-09ea4dbd502c,,,,,,,,,,,,,,,
-001cv00000bBWyj,City of Spokane,Washington,Municipality,Asher Rosenfeld,230609,,Tier S,2.0,47.658,-117.4235,c223200b-d5b2-4e80-bd5f-3c3e9d496b4a,,,,,,,,,,,,,,,
-001cv00000bBWz1,Yakima County,Washington,County,Asher Rosenfeld,258523,,Tier S,2.0,46.5436,-120.7558,5d27b594-e0f2-4f1c-bad3-6531d2f794cd,,,,,,,,,5,2026-05-18,5,,,,
-001cv00000bBX0A,Thurston County,Washington,County,Asher Rosenfeld,302912,,Tier S,2.0,46.8646,-122.7696,e95d443d-c9c4-466e-813f-72a87cab2c5e,,,,,,,,,,,,,,,
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Catherine Silvestri,Calls - Alicia Gopal,Calls - Joe del Rosario,Calls - Nick Martino,Calls - Jenny Allison,Outreach ID
+001Hr000028ZbdQ,"City Of Connell, WA",Washington,Municipality,Catherine Silvestri,4954,,Tier 3,0.75,46.6635,-118.8611,b74a109e-6505-4dc7-ba22-099325ec0a8b,,,,,,,,,,,,,,,,1375
+001Hr000028ZbnM,"City Of Ocean Shores, WA",Washington,Municipality,Catherine Silvestri,7114,Nurture,Tier 3,0.75,47.0074,-124.1614,4f45f79d-f9ae-432c-9446-0f6faaca6584,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,,,,,,,,1155
+001Hr000028ZbnU,"City Of Toppenish, WA",Washington,Municipality,Catherine Silvestri,8774,,Tier 3,0.75,46.3774,-120.3087,2544f692-9706-49e3-aa78-5406e3035628,,,,,,,,,1,2025-09-23,,,1,,,1391
+001Hr000028Zboo,"City Of Des Moines, WA",Washington,Municipality,Catherine Silvestri,32689,Recent Competitor Purchase,Tier 1,1.5,47.4018,-122.3243,139dd05f-3d28-4db6-a1f2-5c26ee7774cd,Closed Lost,,,Alicia Gopal,,11/18/2025,,,6,2025-11-25,,6,,,,926
+001Hr000028Zbos,"City Of Snoqualmie, WA",Washington,Municipality,Catherine Silvestri,13810,,Tier 2,1.0,47.5287,-121.8254,0b1203c7-ead2-436e-be97-ffb812ffe7e6,,,,,,,,,2,2026-03-23,1,,1,,,1281
+001Hr000028Zbow,"City Of Bainbridge Island, WA",Washington,Municipality,Catherine Silvestri,24546,Nurture,Tier 2,1.0,47.6249,-122.521,d13bdd85-44b6-44bb-b9e2-351525893ebe,Closed Lost,,,Catherine Silvestri,3/24/2026,3/11/2026,,,11,2026-03-23,4,,7,,,925
+001Hr000028Zbpb,"City Of Oak Harbor, WA",Washington,Municipality,Catherine Silvestri,24709,,Tier 2,1.0,48.2883,-122.6484,75d13c01-09db-4571-903a-3f5af6ec5f7c,,,,,,,,,5,2026-04-23,4,,1,,,1122
+001Hr000028Zbpp,"City Of Sumner, WA",Washington,Municipality,Catherine Silvestri,10673,,Tier 2,1.0,47.2032,-122.2404,62efe8e2-6eb5-41a9-ab5b-c9e550fc538b,,,,,,,,,4,2026-05-15,4,,,,,1008
+001Hr000028Zbpz,"City Of Kelso, WA",Washington,Municipality,Catherine Silvestri,12719,,Tier 2,1.0,46.1468,-122.9084,7af90f25-bdfe-46e6-bb3b-5a93db252b81,,,,,,,,,3,2026-03-25,3,,,,,1135
+001Hr000028ZbqP,"City Of Sunnyside, WA",Washington,Municipality,Catherine Silvestri,16346,Nurture,Tier 2,1.0,46.3237,-120.0087,1f538e88-75b8-4da5-b291-18b0bb1ea5c2,Closed Lost,,,Catherine Silvestri,4/3/2026,4/2/2026,,,9,2026-04-10,9,,,,,1389
+001Hr000028Zbqx,"City Of Normandy Park, WA",Washington,Municipality,Catherine Silvestri,6637,,Tier 3,0.75,47.4362,-122.3407,0ce28d32-fa8e-44ae-9a0a-f73a4fd98da7,,,,,,,,,3,2026-04-22,3,,,,,923
+001Hr000028Zbr7,"City Of Lake Forest Park, WA",Washington,Municipality,Catherine Silvestri,13358,Open Opportunity,Tier 2,1.0,47.7601,-122.284,87dc7c0c-145f-4150-979e-8051e5029464,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,5,2025-12-17,,4,1,,,927
+001Hr000028Zbr8,"City Of Longview, WA",Washington,Municipality,Catherine Silvestri,37824,,Tier 1,1.5,46.1382,-122.9382,269c3c47-1884-4257-8b2f-5c66b6a05691,,,,,,,,,1,2025-08-22,,,1,,,1137
+001Hr000028ZbrD,"City Of Issaquah, WA",Washington,Municipality,Catherine Silvestri,39505,,Tier 1,1.5,47.5301,-122.0329,f6f08297-e22d-4d59-994d-7319c8d50e81,,,,,,,,,20,2026-04-06,8,,12,,,1279
+001Hr000028Zbrg,"City Of Yelm, WA",Washington,Municipality,Catherine Silvestri,10707,,Tier 2,1.0,46.942,-122.606,95c2b450-f50b-43fa-9676-6790ce205481,,,,,,,,,1,2025-08-19,,,1,,,1139
+001Hr000028Zbrh,"City Of Pullman, WA",Washington,Municipality,Catherine Silvestri,32827,,Tier 1,1.5,46.7298,-117.1817,c1289a14-9bfa-43f8-b361-a1049edcdcaa,,,,,,,,,3,2025-08-22,,,3,,,1377
+001Hr000028Zbrq,"City Of Othello, WA",Washington,Municipality,Catherine Silvestri,8739,,Tier 3,0.75,46.826,-119.1753,3a02a670-3d6e-4aca-ab97-89d047776e7d,,,,,,,,,,,,,,,,1378
+001Hr000028Zbrx,"City Of Airway Heights, WA",Washington,Municipality,Catherine Silvestri,10630,,Tier 2,1.0,47.6446,-117.5933,ec55b5e6-7e7c-4cb8-a534-d2ff6b2667fb,,,,,,,,,8,2026-01-13,,6,2,,,1376
+001Hr000028Zbsa,"City Of Tumwater, WA",Washington,Municipality,Catherine Silvestri,25844,Nurture,Tier 1,1.5,47.0073,-122.9093,920b5ab4-9542-44d3-b147-6aa5cdc9bf28,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,3,2026-03-23,3,,,,,1146
+001Hr000028Zbt3,"City Of Fircrest, WA",Washington,Municipality,Catherine Silvestri,7115,Open Opportunity,Tier 3,0.75,47.2395,-122.516,e9779f51-b6ae-42bc-9531-45529ce8a157,Open,Meeting Booked,Top of Funnel,Alicia Gopal,1/23/2026,1/21/2026,,,12,2026-02-18,,9,1,,2,1006
+001Hr000028Zbt4,"City Of Mattawa, WA",Washington,Municipality,Catherine Silvestri,3627,,Tier 3,0.75,46.7379,-119.9028,9ae8f304-05f1-4827-871d-3fd341a96dfb,,,,,,,,,2,2026-02-24,2,,,,,1396
+001Hr000028ZbtN,"City Of Fife, WA",Washington,Municipality,Catherine Silvestri,10985,,Tier 2,1.0,47.2393,-122.3571,28c381b9-7797-48a4-ae41-2085d52ad9b3,,,,,,,,,7,2026-01-23,,4,3,,,1018
+001Hr000028ZbtO,"City Of Edmonds, WA",Washington,Municipality,Catherine Silvestri,42758,,Tier 1,1.5,47.8112,-122.3769,fee790b0-d887-4bc3-b444-f86086a12a6d,,,,,,,,,1,2025-08-21,,,1,,,1276
+001Hr000028ZbtS,"City Of Washougal, WA",Washington,Municipality,Catherine Silvestri,16970,,Tier 2,1.0,45.5811,-122.3538,06cc5e6c-0307-44b6-83ae-c6d25c823d8b,,,,,,,,,5,2025-10-24,,,5,,,1149
+001Hr000028Zbu6,"City Of Camas, WA",Washington,Municipality,Catherine Silvestri,27054,,Tier 1,1.5,45.5857,-122.4027,0aa24b8f-eff1-4827-9b1c-32f46484a82f,,,,,,,,,31,2026-03-20,16,,15,,,1148
+001Hr000028Zbua,"City Of Covington, WA",Washington,Municipality,Catherine Silvestri,20787,,Tier 2,1.0,47.3596,-122.118,d23e437e-88ea-4509-b23f-ef97d9e48aad,,,,,,,,,10,2026-01-21,,10,,,,1010
+001Hr000028Zbuq,"City Of Bonney Lake, WA",Washington,Municipality,Catherine Silvestri,22848,,Tier 2,1.0,47.1771,-122.1869,6fb756fb-7d1e-4757-b034-2f985a6be29f,,,,,,,,,9,2025-07-07,,,9,,,1013
+001Hr000028Zbv6,"City Of Pacific, WA",Washington,Municipality,Catherine Silvestri,7105,,Tier 3,0.75,47.2645,-122.2501,0437a80c-3c30-4769-8baa-810740f26411,,,,,,,,,3,2025-11-20,,3,,,,1019
+001Hr000028Zbvp,"Town Of College Place, WA",Washington,Municipality,Catherine Silvestri,9885,,Tier 3,0.75,46.0493,-118.3883,a1af1617-59e9-44f5-b89c-d46ff0957fa1,,,,,,,,,12,2025-12-09,,12,,,,1379
+001Hr000028ZbwH,"City Of Port Orchard, WA",Washington,Municipality,Catherine Silvestri,15979,,Tier 2,1.0,47.5404,-122.6362,4b72a1b7-5dd9-4d17-a295-b59c0b59b2db,,,,,,,,,7,2026-03-26,7,,,,,1153
+001Hr000028ZbxL,"City Of Port Townsend, WA",Washington,Municipality,Catherine Silvestri,10306,,Tier 2,1.0,48.117,-122.7604,c71a2700-0cff-42df-9cbd-a63081252acd,,,,,,,,,27,2026-01-26,,27,,,,1131
+001Hr000028ZbxZ,"City Of Puyallup, WA",Washington,Municipality,Catherine Silvestri,42794,,Tier 1,1.5,47.1854,-122.2929,c465dd94-0aa6-4421-afb4-c81a2e1362f4,,,,,,,,,16,2025-11-19,,15,1,,,1015
+001Hr000028Zbxl,"City Of Shelton, WA",Washington,Municipality,Catherine Silvestri,10763,Open Opportunity,Tier 2,1.0,47.2151,-123.1007,d5d2cca9-122e-4f02-9d36-090a44f8c146,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,5/11/2026,,,4,2026-05-11,4,,,,,1136
+001Hr000028Zbxy,"City Of Mercer Island, WA",Washington,Municipality,Catherine Silvestri,25442,,Tier 1,1.5,47.5707,-122.2221,84675c37-e9ab-43df-9591-bf42235792eb,,,,,,,,,14,2026-03-26,4,,10,,,924
+001Hr000028Zby9,"City Of Brier, WA",Washington,Municipality,Catherine Silvestri,6497,,Tier 3,0.75,47.7845,-122.2743,b891075c-f95b-4f4e-a5a0-6912872401b4,,,,,,,,,2,2025-05-27,,,2,,,1277
+001Hr000028Zbyd,"City Of Mill Creek, WA",Washington,Municipality,Catherine Silvestri,20902,,Tier 2,1.0,47.8601,-122.2043,1d894357-e540-4c27-81ca-87ccebd8239e,,,,,,,,,1,2026-05-15,1,,,,,1283
+001Hr000028Zbyr,"City Of Newcastle, WA",Washington,Municipality,Catherine Silvestri,12969,Recent Competitor Purchase,Tier 2,1.0,47.5376,-122.162,75819afe-83b5-46be-a0b3-165940fcedfe,Closed Lost,,,Joe del Rosario,10/25/2024,1/5/2025,,,10,2025-08-12,,,10,,,1268
+001Hr000028ZbzC,"City Of Gig Harbor, WA",Washington,Municipality,Catherine Silvestri,12181,Open Opportunity,Tier 2,1.0,47.3294,-122.5809,27f62c86-499b-49da-aa12-d94d3b032282,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,2,2026-03-26,2,,,,,1016
+001Hr000028ZbzD,"City Of Sultan, WA",Washington,Municipality,Catherine Silvestri,5604,,Tier 3,0.75,47.8626,-121.8165,fcd33cf2-a602-4056-b693-531137ffb137,,,,,,,,,,,,,,,,1272
+001Hr000028Zc0O,"City Of Bothell, WA",Washington,Municipality,Catherine Silvestri,47784,,Tier 1,1.5,47.7601,-122.2054,ec38ada9-9fe5-4923-a85d-a4f15cc3271f,,,,,,,,,3,2026-03-20,2,,1,,,1271
+001Hr000028Zc0U,"City Of Prosser, WA",Washington,Municipality,Catherine Silvestri,6106,,Tier 3,0.75,46.2068,-119.7689,398d7b14-5fab-40c9-b641-2fd7105cac07,,,,,,,,,,,,,,,,1387
+001Hr000028Zc0Z,"City Of Battle Ground, WA",Washington,Municipality,Catherine Silvestri,21119,,Tier 2,1.0,45.7798,-122.5392,1f72e9d2-6616-4b68-b03a-1304326c5be1,,,,,,,,,9,2026-05-15,6,,3,,,1128
+001Hr000028Zc0c,"City Of Seatac, WA",Washington,Municipality,Catherine Silvestri,30759,,Tier 1,1.5,47.4436,-122.2961,c0d173c8-e4f8-41c9-b098-407f1e8912f6,,,,,,,,,8,2025-07-08,,,8,,,928
+001Hr000028Zc0j,"City Of Woodinville, WA",Washington,Municipality,Catherine Silvestri,13425,,Tier 2,1.0,47.7543,-122.1635,6ffb6077-95a7-439e-9ec7-248012d0425f,,,,,,,,,3,2025-09-02,,,3,,,1280
+001Hr000028Zc0o,"City Of Union Gap, WA",Washington,Municipality,Catherine Silvestri,6530,All Modules Live,Tier 3,0.75,46.5573,-120.4751,4a2ed2df-e5dc-4617-8661-777abcc9dd52,Closed Won,,,Joe del Rosario,3/27/2025,2/4/2025,"$8,000",,,,,,,,,1374
+001Hr000028Zc0z,"City Of Shoreline, WA",Washington,Municipality,Catherine Silvestri,57918,Open Opportunity,Tier S,2.0,47.756,-122.3457,eea829cc-1058-45a0-b227-36917b2b5425,Open,Initial Interest,Top of Funnel,Nick Martino,,11/26/2025,,,5,2025-12-16,,,,5,,11379
+001Hr000028Zc1I,"City Of Monroe, WA",Washington,Municipality,Catherine Silvestri,20209,,Tier 2,1.0,47.8554,-121.971,8a3e56c6-1a25-4968-b18b-be7c6499c3ba,,,,,,,,,11,2025-08-21,,,11,,,1152
+001Hr000028Zc25,"City Of Mount Vernon, WA",Washington,Municipality,Catherine Silvestri,35404,,Tier 1,1.5,48.4201,-122.3375,ef5d7d17-dabe-472d-a6ac-0faa1a7f140e,,,,,,,,,24,2026-04-22,16,,8,,,1127
+001Hr000028Zc2B,"City Of Lynnwood, WA",Washington,Municipality,Catherine Silvestri,40592,,Tier 1,1.5,47.8209,-122.3151,b1bf5aba-644a-44f6-945f-b42a89fadeb7,,,,,,,,,7,2026-05-14,3,,4,,,1274
+001Hr000028Zc2U,"City Of Poulsbo, WA",Washington,Municipality,Catherine Silvestri,11891,,Tier 2,1.0,47.7359,-122.6465,257db8a1-3807-44f9-bd90-98f112de6856,,,,,,,,,1,2025-09-02,,,1,,,1132
+001Hr000028Zc2W,"City Of Liberty Lake, WA",Washington,Municipality,Catherine Silvestri,12534,,Tier 2,1.0,47.6743,-117.1124,05d3cc1f-aa22-40e4-b7c4-f6138849dff9,,,,,,,,,3,2026-03-25,3,,,,,1384
+001Hr000028Zc2l,"City Of Walla Walla, WA",Washington,Municipality,Catherine Silvestri,33927,Open Opportunity,Tier 1,1.5,46.0646,-118.343,a4915d02-33fb-4c43-b842-8e30af83e853,Open,Initial Interest,Top of Funnel,Alicia Gopal,,11/20/2025,,,14,2026-05-05,6,8,,,,1381
+001Hr000028Zc33,"City Of University Place, WA",Washington,Municipality,Catherine Silvestri,34900,Open Opportunity,Tier 1,1.5,47.2357,-122.5504,7157e507-05ae-479b-a739-cca57752af73,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,3/27/2026,,,18,2026-04-22,18,,,,,1009
+001Hr000028Zc3N,"City Of Stanwood, WA",Washington,Municipality,Catherine Silvestri,8438,,Tier 3,0.75,48.2411,-122.3707,b72b95e3-73ba-46ae-af1c-9e6249717aaf,,,,,,,,,4,2025-11-25,,4,,,,1138
+001Hr000028Zc3s,"City Of Cheney, WA",Washington,Municipality,Catherine Silvestri,13087,,Tier 2,1.0,47.4869,-117.5759,9812c5e1-bb0e-4643-9387-988846fb4ad8,,,,,,,,,,,,,,,,1380
+001Hr000028Zc4U,"City Of Orting, WA",Washington,Municipality,Catherine Silvestri,8965,,Tier 3,0.75,47.0979,-122.2043,94dfdaf1-5b1c-400b-9fea-35776593e38b,,,,,,,,,4,2025-08-21,,,4,,,1007
+001Hr000028Zc4Z,"City Of Milton, WA",Washington,Municipality,Catherine Silvestri,8907,,Tier 3,0.75,47.2482,-122.3129,c0165994-a476-4112-9b6b-6a5d02190767,,,,,,,,,1,2025-09-23,,,1,,,1011
+001Hr000028Zc4e,"Town Of Steilacoom, WA",Washington,Municipality,Catherine Silvestri,6721,,Tier 3,0.75,47.1698,-122.6026,28406a82-b487-4b6b-ad67-fa7a01f25aac,,,,,,,,,11,2025-12-02,,11,,,,1012
+001Hr000028Zc4j,"City Of Edgewood, WA",Washington,Municipality,Catherine Silvestri,12665,Nurture,Tier 2,1.0,47.2501,-122.2937,c746b388-2a4e-4d0c-b3bd-ab3c7b9dd282,Closed Lost,,,Joe del Rosario,1/7/2025,1/5/2025,,,4,2026-04-02,4,,,,,1014
+001Hr000028Zc4o,"City Of Dupont, WA",Washington,Municipality,Catherine Silvestri,10112,,Tier 2,1.0,47.1003,-122.6448,51077fcd-fd44-4b5e-8d00-b2d12fea4a87,,,,,,,,,1,2025-10-14,,,1,,,1017
+001Hr000028Zc5J,"City Of Chehalis, WA",Washington,Municipality,Catherine Silvestri,7679,,Tier 3,0.75,46.6652,-122.9698,1feb3d32-6020-4a3e-b6f3-546c7d862cdc,,,,,,,,,5,2025-08-21,,,5,,,1129
+001Hr000028Zc5U,"City Of Mountlake Terrace, WA",Washington,Municipality,Catherine Silvestri,21428,,Tier 2,1.0,47.7882,-122.3087,73c0ddfb-2d5e-443c-a35a-4983742d9598,,,,,,,,,3,2026-05-15,3,,,,,1275
+001Hr000028Zc6M,"City Of Woodland, WA",Washington,Municipality,Catherine Silvestri,6540,,Tier 3,0.75,45.9046,-122.744,c4d642ce-e1c3-44b2-9304-fe841900e3f1,,,,,,,,,,,,,,,,1121
+001Hr000028Zc6R,"City Of Kenmore, WA",Washington,Municipality,Catherine Silvestri,23502,,Tier 2,1.0,47.7584,-122.2497,0b3916a2-418d-4dac-9d7d-e3dd6ea49645,,,,,,,,,1,2025-08-21,,,1,,,1269
+001Hr000028Zc6b,"City Of Lynden, WA",Washington,Municipality,Catherine Silvestri,16048,,Tier 2,1.0,48.9428,-122.4529,f4b3798f-3ea0-4542-8ac9-78bc259a82ba,,,,,,,,,1,2025-10-09,,,1,,,1130
+001Hr000028Zc6g,"City Of Mukilteo, WA",Washington,Municipality,Catherine Silvestri,21246,,Tier 2,1.0,47.9445,-122.3046,ef54141d-8309-4ca5-98ba-d5d5ff5525d6,,,,,,,,,3,2026-05-14,3,,,,,1267
+001Hr000028Zc7o,"City Of Sequim, WA",Washington,Municipality,Catherine Silvestri,8241,Open Opportunity,Tier 3,0.75,48.0795,-123.1018,ae46ce27-2c83-46c4-a0e6-262f9720ead0,Open,Sales Qualified,Mid Funnel,Catherine Silvestri,5/11/2026,4/10/2026,,,3,2026-05-11,3,,,,,1144
+001Hr000028Zc7x,"City Of Snohomish, WA",Washington,Municipality,Catherine Silvestri,10154,,Tier 2,1.0,47.9129,-122.0982,e914cf6b-fe76-4b0c-9499-29f33c78db7d,,,,,,,,,2,2026-05-15,2,,,,,1123
+001Hr000028Zc82,"City Of Anacortes, WA",Washington,Municipality,Catherine Silvestri,17832,Nurture,Tier 2,1.0,48.5126,-122.6127,4e7f65df-874c-4ee3-9c25-8ab5caa3c485,Closed Lost,,,Joe del Rosario,10/8/2024,1/5/2025,,,16,2026-04-08,11,,5,,,1124
+001Hr000028Zc87,"City Of Blaine, WA",Washington,Municipality,Catherine Silvestri,5976,Nurture,Tier 3,0.75,48.9937,-122.7471,717a9a81-9cb3-4616-ab41-908e1c3985f7,Closed Lost,,,Alicia Gopal,2/3/2026,10/29/2025,,,11,2025-11-12,,6,5,,,1126
+001Hr000028Zc8C,"City Of Centralia, WA",Washington,Municipality,Catherine Silvestri,18629,,Tier 2,1.0,46.7162,-122.9543,1ee25310-0458-45df-be32-adacc3675122,,,,,,,,,1,2025-10-14,,,1,,,1125
+001Hr000028Zc8H,"City Of Arlington, WA",Washington,Municipality,Catherine Silvestri,20075,,Tier 2,1.0,48.1987,-122.1251,91cfbe46-5aa1-4bc2-bbe0-534051224878,,,,,,,,,2,2025-08-06,,,2,,,1133
+001Hr000028Zc8M,"City Of Port Angeles, WA",Washington,Municipality,Catherine Silvestri,20134,,Tier 2,1.0,48.1181,-123.4307,ed1fd656-74e5-4fab-9bc0-699f0a76f600,,,,,,,,,3,2026-04-03,3,,,,,1134
+001Hr000028Zc8R,"City Of Bremerton, WA",Washington,Municipality,Catherine Silvestri,44122,,Tier 1,1.5,47.565,-122.627,69f7bd3a-cf55-4afd-8d16-06e7df6d1f1c,,,,,,,,,26,2025-12-08,,26,,,,1140
+001Hr000028Zc8W,"City Of Aberdeen, WA",Washington,Municipality,Catherine Silvestri,17191,,Tier 2,1.0,46.9754,-123.8157,255691da-4c6a-4df7-a4c5-6b216c3d596f,,,,,,,,,3,2026-03-12,3,,,,,1141
+001Hr000028Zc8b,"City Of Hoquiam, WA",Washington,Municipality,Catherine Silvestri,8860,,Tier 3,0.75,46.977,-123.8839,35adba93-68ae-4fe6-a457-60e79687d840,,,,,,,,,2,2025-08-20,,,2,,,1142
+001Hr000028Zc8g,"City Of Ferndale, WA",Washington,Municipality,Catherine Silvestri,15476,Open Opportunity,Tier 2,1.0,48.8472,-122.5923,8c3436c8-60c9-4040-84d9-5fc08a4c2d5b,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,3/26/2026,3/12/2026,,,8,2026-03-27,8,,,,,1145
+001Hr000028Zc8l,"City Of Enumclaw, WA",Washington,Municipality,Catherine Silvestri,12733,,Tier 2,1.0,47.2043,-121.9915,9902ff66-19e5-4f67-b615-2d04d169b090,,,,,,,,,3,2026-03-25,3,,,,,1143
+001Hr000028Zc8q,"City Of Burlington, WA",Washington,Municipality,Catherine Silvestri,9702,,Tier 3,0.75,48.4757,-122.3254,be76eeb1-d548-49d9-8f64-470d8bce3b06,,,,,,,,,,,,,,,,1147
+001Hr000028Zc90,"City Of Ridgefield, WA",Washington,Municipality,Catherine Silvestri,12514,Churned Customer,Tier 2,1.0,45.8157,-122.6908,9c56adb4-bc21-40ad-9340-78b7b8a004a5,Closed Won,,,Asher Rosenfeld,,1/5/2025,"$25,000",,,,,,,,,1151
+001Hr000028Zc95,"City of Sedro-Woolley, WA",Washington,Municipality,Catherine Silvestri,12266,Open Opportunity,Tier 2,1.0,48.5039,-122.2361,e72ae226-8dc3-4ba9-b212-4df5bd43a9b4,Open,Initial Interest,Top of Funnel,Harrison Peacock,10/23/2024,1/5/2025,,,4,2025-07-16,,,4,,,1150
+001Hr000028Zc9c,"City Of Wenatchee, WA",Washington,Municipality,Catherine Silvestri,35405,,Tier 1,1.5,47.4235,-120.3103,a78b3f7d-e1c3-413c-9d82-aad683c86064,,,,,,,,,3,2025-12-02,,3,,,,1394
+001Hr000028ZcAA,"City Of North Bend, WA",Washington,Municipality,Catherine Silvestri,7695,,Tier 3,0.75,47.4957,-121.7868,9c7583b8-e9fc-4074-be64-09b86940c0c8,,,,,,,,,,,,,,,,1282
+001Hr000028ZcAJ,"City Of Selah, WA",Washington,Municipality,Catherine Silvestri,8208,,Tier 3,0.75,46.654,-120.5301,0d61ca4c-f319-4900-b1cf-65826056d62c,,,,,,,,,,,,,,,,1382
+001Hr000028ZcB3,"City Of Wapato, WA",Washington,Municipality,Catherine Silvestri,4551,,Tier 3,0.75,46.4476,-120.4203,22a73c0a-7fce-411f-96f8-ff073fcf5215,,,,,,,,,1,2026-02-24,1,,,,,1390
+001Hr000028ZcBH,"City Of Lake Stevens, WA",Washington,Municipality,Catherine Silvestri,36288,,Tier 1,1.5,48.0155,-122.0635,b7c7d671-dee9-4096-889d-f6cd7981149e,,,,,,,,,9,2026-03-30,5,,4,,,1273
+001Hr000028ZcCd,"City Of Maple Valley, WA",Washington,Municipality,Catherine Silvestri,28153,Open Opportunity,Tier 1,1.5,47.3903,-122.0454,67cc5ce5-9ddb-415e-8b6e-c189f7c87039,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,5/13/2026,,,5,2026-05-14,5,,,,,1270
+001Hr000028ZcCi,"City Of Duvall, WA",Washington,Municipality,Catherine Silvestri,8410,,Tier 3,0.75,47.7423,-121.9857,9d8a2b57-efa5-4e51-a110-82a9f0b2b37b,,,,,,,,,4,2025-10-21,,,4,,,1278
+001Hr000028ZcCs,"City Of Tukwila, WA",Washington,Municipality,Catherine Silvestri,21615,,Tier 2,1.0,47.4748,-122.2726,79b4ca9d-9328-4b65-bddc-a1771b023468,,,,,,,,,1,2026-05-15,1,,,,,1294
+001Hr000028ZcF3,"City Of Ephrata, WA",Washington,Municipality,Catherine Silvestri,8477,Open Opportunity,Tier 3,0.75,47.3176,-119.5536,fe1c87b8-f080-4383-8ed1-def0665b8193,Open,Meeting Booked,Top of Funnel,Alicia Gopal,5/11/2026,11/24/2025,,Yes,5,2026-05-11,,5,,,,1383
+001Hr000028ZcF8,"City Of Moses Lake, WA",Washington,Municipality,Catherine Silvestri,25583,Nurture,Tier 1,1.5,47.1301,-119.2781,c27733a2-0fb0-4648-a4aa-224e3ea530bd,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,2,2025-05-27,,,2,,,1386
+001Hr000028ZcFD,"City Of Quincy, WA",Washington,Municipality,Catherine Silvestri,8053,,Tier 3,0.75,47.2343,-119.8525,cb3c0de9-f4ab-46bf-b5b6-39dfaabde628,,,,,,,,,2,2025-11-24,,2,,,,1388
+001Hr000028ZcFI,"City Of Clarkston, WA",Washington,Municipality,Catherine Silvestri,7194,Nurture,Tier 3,0.75,46.4163,-117.0452,ec038938-cf1b-40a1-a8d8-d09615222e2c,Closed Lost,,,Shane Lieberman,6/20/2024,1/5/2025,"$9,000",,,,,,,,,1385
+001Hr000028ZcFS,"City Of Ellensburg, WA",Washington,Municipality,Catherine Silvestri,19596,,Tier 2,1.0,46.9965,-120.5478,2753a9c2-365b-44aa-8df2-3407145a60cf,,,,,,,,,10,2025-07-14,,,10,,,1395
+001Hr000028ZcFr,"City Of West Richland, WA",Washington,Municipality,Catherine Silvestri,16951,Open Opportunity,Tier 2,1.0,46.3043,-119.3614,66f21d1b-d355-4379-9470-bce4c45af364,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,4/8/2026,,,34,2026-04-08,13,21,,,,1397
+001Hr000028ZcFw,"City Of Grandview, WA",Washington,Municipality,Catherine Silvestri,10891,Open Opportunity,Tier 2,1.0,46.251,-119.9017,4ba850d4-3727-4f95-946d-3b1199015bce,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,4/8/2026,3/24/2026,,,12,2026-04-30,12,,,,,1392
+001Hr000028ZcG1,"City Of East Wenatchee, WA",Washington,Municipality,Catherine Silvestri,14236,,Tier 2,1.0,47.4157,-120.2931,f2ba23ff-f57d-4052-9dbe-b4934dd2c9db,,,,,,,,,1,2025-08-25,,,1,,,1393
+001Hr000028Zceg,"City Of Bellingham, WA",Washington,Municipality,Catherine Silvestri,92289,Open Opportunity,Tier S,2.0,48.7519,-122.4787,e82757e0-15ec-4363-a7ea-5dad7dae2e45,Open,Initial Interest,Top of Funnel,Alicia Gopal,2/13/2026,2/2/2026,,,15,2026-02-18,,14,1,,,11377
+001Hr000028Zcma,"City Of Yakima, WA",Washington,Municipality,Catherine Silvestri,96578,,Tier S,2.0,46.6022,-120.5061,ca6f57f8-8274-4e5a-9381-983f88031ec0,,,,,,,,,4,2026-05-18,4,,,,,11385
+001Hr000028ZcqW,"City Of Kirkland, WA",Washington,Municipality,Catherine Silvestri,92107,Open Opportunity,Tier S,2.0,47.6769,-122.206,668d3698-5b86-4874-9ef1-04026d6db95c,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,6/8/2026,3/24/2026,,,4,2026-03-24,2,,2,,,11375
+001Hr000028ZctM,"City Of Lakewood, WA",Washington,Municipality,Catherine Silvestri,63331,,Tier S,2.0,47.1718,-122.5185,bff55a6b-522f-418d-a000-e1ab2977d646,,,,,,,,,5,2026-03-26,5,,,,,11381
+001Hr000028ZdMg,"City Of Auburn, WA",Washington,Municipality,Catherine Silvestri,85699,,Tier S,2.0,47.3073,-122.2285,065a6bc9-d120-458d-99a9-6aa44929c55b,,,,,,,,,6,2026-03-31,6,,,,,11373
+001Hr000028ZdSf,"Sammamish, WA",Washington,Municipality,Catherine Silvestri,,,Tier 3,0.75,47.6163,-122.0356,19d5dbe8-3007-428d-8320-61e383d0cdd7,,,,,,,,,22,2025-12-05,,22,,,,11374
+001Hr000028ZdVP,"City Of Richland, WA",Washington,Municipality,Catherine Silvestri,61929,,Tier S,2.0,46.2804,-119.2752,9cc04142-891b-4a52-88b6-c9c6ad388c5c,,,,,,,,,2,2026-05-15,2,,,,,11641
+001Hr000028ZdWW,"Franklin County, WA",Washington,County,Catherine Silvestri,,,Tier 3,0.75,46.4937,-118.8672,4a8ae285-e54c-4765-8e78-ace562859156,,,,,,,,,,,,,,,,11892
+001Hr000028ZdZZ,"Skagit County, WA",Washington,County,Catherine Silvestri,132736,,Tier S,2.0,48.4242,-121.7114,536de350-3285-4608-aba3-297ed3fb603a,,,,,,,,,4,2025-12-16,,4,,,,11998
+001Hr000028ZdZk,"Chelan County, WA",Washington,County,Catherine Silvestri,81228,,Tier S,2.0,47.9445,-120.6749,601a490d-d635-499a-a77d-549400ee1035,,,,,,,,,1,2026-03-24,1,,,,,11895
+001Hr000028ZdaE,"Walla Walla County, WA",Washington,County,Catherine Silvestri,62068,,Tier S,2.0,46.237,-118.5855,d07447db-af79-481e-a551-6e2e4a2867c8,,,,,,,,,5,2026-05-04,5,,,,,11889
+001Hr000028Zdcw,"City Of Redmond, WA",Washington,Municipality,Catherine Silvestri,76354,,Tier S,2.0,47.674,-122.1215,38260554-9547-48d9-834f-fa3c0f5c177c,,,,,,,,,18,2025-07-07,,,18,,,11380
+001Hr000028Zdd1,"City Of Pasco, WA",Washington,Municipality,Catherine Silvestri,78871,,Tier S,2.0,46.2305,-119.0922,f2765e42-e739-46d7-b000-7734414a5dde,,,,,,,,,8,2026-03-10,8,,,,,11384
+001Hr000028ZddG,"Lacey, WA",Washington,Municipality,Catherine Silvestri,,,Tier 3,0.75,47.0359,-122.8233,7a224aa7-8d06-494b-b272-f9d590026888,,,,,,,,,,,,,,,,11368
+001Hr000028ZddW,"Olympia, WA",Washington,Municipality,Catherine Silvestri,,,Tier 3,0.75,47.0452,-122.8954,de8c801f-a2ea-4fec-a4a5-d89f4419f14b,,,,,,,,,,,,,,,,11363
+001Hr000028Zdda,"City Of Federal Way, WA",Washington,Municipality,Catherine Silvestri,99037,,Tier S,2.0,47.3224,-122.3134,ec1a2f01-6484-4aaf-908b-8caaf0f7f72c,,,,,,,,,3,2025-12-08,,3,,,,11376
+001Hr000028Zddp,"Burien, WA",Washington,Municipality,Catherine Silvestri,,,Tier 3,0.75,47.4668,-122.3405,4df70baf-58da-44fd-b06b-bf9f6560da5b,,,,,,,,,,,,,,,,11369
+001Hr000028ZdeL,"City Of Kennewick, WA",Washington,Municipality,Catherine Silvestri,84488,,Tier S,2.0,46.2087,-119.1199,54829655-e9ee-4c22-961e-2dfc178d8087,,,,,,,,,8,2026-05-18,8,,,,,11639
+001Hr000028Zdfd,"City Of Marysville, WA",Washington,Municipality,Catherine Silvestri,71144,Open Opportunity,Tier S,2.0,48.0518,-122.1771,589175f2-129b-4175-9104-ba88284ae6c9,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,5/27/2026,5/14/2026,,,2,2026-05-14,2,,,,,11643
+001Hr000028Zdfm,"Douglas County, WA",Washington,County,Catherine Silvestri,,,Tier 3,0.75,47.7791,-119.7475,3031ce79-c319-45a7-95ee-b6e36a020b4f,,,,,,,,,,,,,,,,11896
+001Hr000028ZdjB,"Cowlitz County, WA",Washington,County,Catherine Silvestri,113982,,Tier S,2.0,46.1746,-122.7747,8c5465ae-5310-43ab-896e-ea336f40db80,,,,,,,,,6,2026-05-18,6,,,,,11995
+001Hr000028Zdlo,"Lewis County, WA",Washington,County,Catherine Silvestri,,,Tier 3,0.75,46.6195,-122.4555,25892b4f-6788-428f-8709-f1e5c697f144,,,,,,,,,3,2025-09-29,,,3,,,11893
+001Hr000028ZdmD,"Grant County, WA",Washington,County,Catherine Silvestri,104717,Open Opportunity,Tier S,2.0,47.1981,-119.3732,e4cddfd2-41ee-44c7-af52-88dd5a0b5253,Open,Initial Interest,Top of Funnel,Catherine Silvestri,4/16/2026,3/16/2026,,,6,2026-04-15,6,,,,,11885
+001Hr000028ZdqU,"Whatcom County, WA",Washington,County,Catherine Silvestri,234954,,Tier S,2.0,48.8787,-121.9719,8d4f4a8b-a21a-4c5c-b8af-d2a49d478c88,,,,,,,,,6,2026-05-18,6,,,,,12177
+001cv000006s0uN,"City of Ruston, WA",Washington,Municipality,Catherine Silvestri,1028,,Tier 3,0.75,47.2982,-122.5103,a0d86396-2acf-411f-ad99-299fda1ebfe7,,,,,,,,,,,,,,,,12698
+001cv00000AuWOB,"City Of Brewster, WA",Washington,Municipality,Catherine Silvestri,2011,,Tier 3,0.75,48.096,-119.7806,44097741-c3d0-43f4-a381-4f34cdba9688,,,,,,,,,,,,,,,,12905
+001cv00000AuWQ5,"City Of Mccleary, WA",Washington,Municipality,Catherine Silvestri,2039,,Tier 3,0.75,47.0532,-123.2654,06d5df1e-6b76-4f86-8416-dfe792546f85,,,,,,,,,,,,,,,,13117
+001cv00000AuWbX,"City Of Newport, WA",Washington,Municipality,Catherine Silvestri,2132,,Tier 3,0.75,48.1796,-117.0433,9138bf26-cee3-4466-b06e-d3d74620094a,,,,,,,,,,,,,,,,13057
+001cv00000AuWbm,"Town Of Bridgeport, WA",Washington,Municipality,Catherine Silvestri,2137,,Tier 3,0.75,48.0082,-119.6712,6f496afa-7a3b-4f5e-aee3-c5e510f63579,,,,,,,,,,,,,,,,13143
+001cv00000AuWdU,"City Of Carnation, WA",Washington,Municipality,Catherine Silvestri,2167,,Tier 3,0.75,47.6479,-121.914,d7a9419c-b815-4799-8697-9996049624a1,,,,,,,,,6,2026-05-12,6,,,,,13180
+001cv00000AuWp8,"City Of Cle Elum, WA",Washington,Municipality,Catherine Silvestri,2174,,Tier 3,0.75,47.1954,-120.9392,b91bb850-39e2-4edc-a4e0-6a3d3ee46d05,,,,,,,,,,,,,,,,13396
+001cv00000AuX5i,"City Of Westport, WA",Washington,Municipality,Catherine Silvestri,2254,,Tier 3,0.75,46.8901,-124.1041,348f44e3-f1c0-4315-aeb1-2926185272a7,,,,,,,,,,,,,,,,13594
+001cv00000AuXA4,"County Of Garfield, WA",Washington,County,Catherine Silvestri,2346,,Tier 3,0.75,46.5186,-117.5277,2c040bd7-3333-464e-b57b-ec6dfd0ce91f,,,,,,,,,,,,,,,,13866
+001cv00000AuXB6,"City Of Okanogan, WA",Washington,Municipality,Catherine Silvestri,2373,,Tier 3,0.75,48.3613,-119.5834,dbc9369b-ae63-41f8-b1ed-c4bf64e5639c,,,,,,,,,,,,,,,,14029
+001cv00000AuXOO,"City Of Rainier, WA",Washington,Municipality,Catherine Silvestri,2486,,Tier 3,0.75,46.8882,-122.6885,70419477-9830-4312-8cc8-c015265dff35,,,,,,,,,,,,,,,,14130
+001cv00000AuXOi,"City Of Dayton, WA",Washington,Municipality,Catherine Silvestri,2493,,Tier 3,0.75,46.3238,-117.9724,a8ee8148-4b0c-43ad-860b-450ed360e414,,,,,,,,,,,,,,,,14157
+001cv00000AuXPf,"City Of Chewelah, WA",Washington,Municipality,Catherine Silvestri,2519,,Tier 3,0.75,48.2763,-117.7155,3ac0aa75-936a-403b-8961-9d6cf09e8e90,,,,,,,,,,,,,,,,14207
+001cv00000AuXTT,"City Of Warden, WA",Washington,Municipality,Catherine Silvestri,2527,,Tier 3,0.75,46.9676,-119.0397,fcc852e2-7301-49f7-90ee-4fcd54da3a73,,,,,,,,,,,,,,,,14136
+001cv00000AuXWC,"City Of White Salmon, WA",Washington,Municipality,Catherine Silvestri,2601,,Tier 3,0.75,45.7278,-121.4867,ff8944c6-ac4a-4b34-8b42-ffbce920d595,,,,,,,,,,,,,,,,14410
+001cv00000AuXgI,"Town Of Friday Harbor, WA",Washington,Municipality,Catherine Silvestri,2747,,Tier 3,0.75,48.5343,-123.0171,e31c2789-3b87-4027-9fe6-88abdcf90c45,,,,,,,,,,,,,,,,14432
+001cv00000AuXh3,"City Of Colfax, WA",Washington,Municipality,Catherine Silvestri,2766,,Tier 3,0.75,46.8802,-117.3644,8f904c33-8423-466e-baa9-53148b1d6a9f,,,,,,,,,,,,,,,,14561
+001cv00000AuXkW,"Town Of Eatonville, WA",Washington,Municipality,Catherine Silvestri,2854,,Tier 3,0.75,46.8673,-122.2665,183a9d53-edab-4b40-bca9-63b29429e3ec,,,,,,,,,,,,,,,,14829
+001cv00000AuXlo,"City Of Medina, WA",Washington,Municipality,Catherine Silvestri,2886,,Tier 3,0.75,47.6248,-122.2361,f0d3a297-e0e4-4666-ae78-eb553271604c,,,,,,,,,2,2026-03-23,2,,,,,14787
+001cv00000AuXo1,"Town Of Everson, WA",Washington,Municipality,Catherine Silvestri,2967,,Tier 3,0.75,48.9201,-122.3427,f09795ee-0997-4960-877c-ffe58df24850,,,,,,,,,,,,,,,,15042
+001cv00000AuY7T,"City Of Goldendale, WA",Washington,Municipality,Catherine Silvestri,3524,,Tier 3,0.75,45.8222,-120.8226,d224e6b2-08e3-4c7c-9e07-b8684d0ca0b7,,,,,,,,,,,,,,,,15634
+001cv00000AuYBr,"Town Of Clyde Hill, WA",Washington,Municipality,Catherine Silvestri,3108,,Tier 3,0.75,47.6318,-122.2179,8bcbc919-975a-4aed-8acb-11011f60cedf,,,,,,,,,1,2026-03-23,1,,,,,15316
+001cv00000AuYCq,"City Of Raymond, WA",Washington,Municipality,Catherine Silvestri,3146,,Tier 3,0.75,46.6865,-123.7329,f3608af6-58e2-459c-8942-8e73ad2b762e,,,,,,,,,,,,,,,,15218
+001cv00000AuYDC,"City Of Zillah, WA",Washington,Municipality,Catherine Silvestri,3157,,Tier 3,0.75,46.4024,-120.2606,01648976-a647-428f-bbcc-acb5194ad660,,,,,,,,,,,,,,,,15282
+001cv00000AuYFH,"City Of Kalama, WA",Washington,Municipality,Catherine Silvestri,3013,,Tier 3,0.75,46.0084,-122.8446,9ce2f840-3730-4a8c-a303-b9cb193970ae,,,,,,,,,,,,,,,,14916
+001cv00000AuYJv,"City Of Forks, WA",Washington,Municipality,Catherine Silvestri,3385,,Tier 3,0.75,47.9504,-124.3855,6109fc74-1436-43af-846a-9731b703abf9,,,,,,,,,,,,,,,,15804
+001cv00000AuYMH,"City Of Elma, WA",Washington,Municipality,Catherine Silvestri,3477,,Tier 3,0.75,47.0034,-123.4088,b5b0ab65-42b8-4993-a2e5-f466ff0b3446,,,,,,,,,,,,,,,,16023
+001cv00000AuYMY,"City Of Benton City, WA",Washington,Municipality,Catherine Silvestri,3488,,Tier 3,0.75,46.2632,-119.4878,1e41e7d3-4e46-4cf9-b66d-5409a16cb659,,,,,,,,,,,,,,,,15270
+001cv00000AuYOF,"City Of Cashmere, WA",Washington,Municipality,Catherine Silvestri,3202,,Tier 3,0.75,47.5221,-120.4699,62037e54-bad4-4a9a-96ac-e0f597e4771c,,,,,,,,,,,,,,,,15377
+001cv00000AuYP8,"City Of Algona, WA",Washington,Municipality,Catherine Silvestri,3241,,Tier 3,0.75,47.2791,-122.2499,8e0914ab-1943-4188-a04f-8845819a407b,,,,,,,,,,,,,,,,15489
+001cv00000AuYdw,"City Of Granger, WA",Washington,Municipality,Catherine Silvestri,3668,,Tier 3,0.75,46.3421,-120.1873,f53bcaf0-330c-443f-916c-09c49a09de08,,,,,,,,,,,,,,,,16354
+001cv00000AuYfb,"City Of La Center, WA",Washington,Municipality,Catherine Silvestri,3795,,Tier 3,0.75,45.8621,-122.6726,993c02d7-d910-483f-b597-f37cad6c4be3,,,,,,,,,,,,,,,,16095
+001cv00000AuYmW,"County Of Columbia, WA",Washington,County,Catherine Silvestri,4042,,Tier 3,0.75,46.2775,-117.8143,d13cc65a-79d4-44a5-ab71-bedcfb9f029d,,,,,,,,,,,,,,,,16609
+001cv00000AuYoy,"City Of Montesano, WA",Washington,Municipality,Catherine Silvestri,4167,,Tier 3,0.75,46.9795,-123.6008,58cb9c16-96c0-4fa6-9ad7-0b61e61ac16c,,,,,,,,,,,,,,,,16699
+001cv00000AuYwJ,"City Of Chelan, WA",Washington,Municipality,Catherine Silvestri,4374,,Tier 3,0.75,47.8408,-120.0168,4e32f434-5d25-4608-96d1-d00917d6ce38,,,,,,,,,,,,,,,,16940
+001cv00000AuYxX,"City Of Moxee, WA",Washington,Municipality,Catherine Silvestri,4405,,Tier 3,0.75,46.5537,-120.3832,f2b7d312-6194-4d00-bd4e-0dcb28f7c781,,,,,,,,,,,,,,,,20077
+001cv00000AuZ7i,"City Of Buckley, WA",Washington,Municipality,Catherine Silvestri,5321,,Tier 3,0.75,47.1632,-122.0268,423ed54c-e31c-4c78-a56d-7948e03be552,,,,,,,,,1,2025-11-20,,1,,,,17067
+001cv00000AuZAV,"Town Of Black Diamond, WA",Washington,Municipality,Catherine Silvestri,5839,,Tier 3,0.75,47.3087,-122.0032,ab4eaf2a-9cda-4eab-beb1-70ea88d17074,,,,,,,,,1,2025-11-19,,1,,,,17167
+001cv00000AuZIG,"City Of Colville, WA",Washington,Municipality,Catherine Silvestri,4968,,Tier 3,0.75,48.545,-117.901,ad52e54c-2c8b-4d04-9062-4804c4db67a6,,,,,,,,,,,,,,,,17521
+001cv00000AuZLu,"City Of Medical Lake, WA",Washington,Municipality,Catherine Silvestri,4806,,Tier 3,0.75,47.5729,-117.6827,2a6227b0-478a-4cf7-b0c0-008c3dd4ee0a,,,,,,,,,2,2025-08-25,,,2,,,17259
+001cv00000AuZQm,"County Of Ferry, WA",Washington,County,Catherine Silvestri,7273,,Tier 3,0.75,48.4718,-118.4974,1889c1ae-eefd-436b-9f5c-1a1ba39bfa18,,,,,,,,,,,,,,,,17616
+001cv00000AuZS1,"City Of Omak, WA",Washington,Municipality,Catherine Silvestri,4975,,Tier 3,0.75,48.4109,-119.5301,5a9f8ab9-e778-4e99-bfaf-6d5e0c88ab26,,,,,,,,,,,,,,,,17686
+001cv00000AuZba,"County Of Skamania, WA",Washington,County,Catherine Silvestri,12170,,Tier 2,1.0,45.9429,-121.8962,c5f81f8e-6e90-4495-b140-1bf366adfa42,,,,,,,,,2,2025-09-24,,,2,,,18357
+001cv00000AuZm4,"County Of Lincoln, WA",Washington,County,Catherine Silvestri,11232,,Tier 2,1.0,47.5321,-118.4701,b92fcdb7-64bc-422e-b123-e9029b3a1d47,,,,,,,,,,,,,,,,17963
+001cv00000AuZnJ,"County Of Pend Oreille, WA",Washington,County,Catherine Silvestri,13886,Open Opportunity,Tier 2,1.0,48.4359,-117.3173,cca18ec4-3621-44e6-9846-4cd58b151107,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,5/5/2026,4/22/2026,,,19,2026-05-04,19,,,,,17895
+001cv00000AuZsR,"County Of San Juan, WA",Washington,County,Catherine Silvestri,18557,,Tier 2,1.0,48.6118,-122.9603,d18c8ebf-5e08-469e-8ab8-47eaa6e925b5,,,,,,,,,3,2025-09-30,,,3,,,18701
+001cv00000Aua3u,"County Of Adams, WA",Washington,County,Catherine Silvestri,20621,,Tier 2,1.0,46.9272,-118.511,1de10bbc-e851-40af-a815-e62959f575af,,,,,,,,,,,,,,,,18551
+001cv00000Aua5i,"County Of Jefferson, WA",Washington,County,Catherine Silvestri,33605,,Tier 1,1.5,47.7425,-123.304,f058be12-2a6e-4007-9322-a0f70b807a4a,,,,,,,,,,,,,,,,19245
+001cv00000Aua9m,"County Of Asotin, WA",Washington,County,Catherine Silvestri,22397,,Tier 2,1.0,46.146,-117.2085,1666800b-45d3-47c4-a29b-f56599fa2ec6,,,,,,,,,3,2025-09-23,,,3,,,18933
+001cv00000AuaAE,"County Of Klickitat, WA",Washington,County,Catherine Silvestri,23118,,Tier 2,1.0,45.8888,-120.9711,26917a83-b750-49ab-ba4f-0a6a5e296f57,,,,,,,,,9,2025-10-22,,7,2,,,18925
+001cv00000AuaAm,"County Of Pacific, WA",Washington,County,Catherine Silvestri,23948,,Tier 2,1.0,46.5181,-123.8265,8e205c1a-6e89-4070-abc6-38a6112abfe3,,,,,,,,,,,,,,,,18743
+001cv00000AuaGU,"County Of Okanogan, WA",Washington,County,Catherine Silvestri,42634,,Tier 1,1.5,48.5897,-119.6522,93dc9f41-644d-40ea-a0bd-06635d4aa448,Closed Lost,,,Harrison Peacock,10/17/2024,1/5/2025,,,1,2026-05-14,1,,,,,19129
+001cv00000AuaHZ,"County Of Kittitas, WA",Washington,County,Catherine Silvestri,45499,,Tier 1,1.5,47.175,-120.9319,36949994-f654-48dd-9a78-e8bf869d391e,,,,,,,,,,,,,,,,19585
+001cv00000AuaK8,"County Of Stevens, WA",Washington,County,Catherine Silvestri,47426,,Tier 1,1.5,48.4558,-117.906,d043db94-8bb9-4d12-bbc1-e55ecaf5f6d4,,,,,,,,,,,,,,,,19507
+001cv00000AuaKF,"County Of Whitman, WA",Washington,County,Catherine Silvestri,47873,,Tier 1,1.5,46.8363,-117.5887,5a558777-5624-4f90-b82b-8d608b69929c,,,,,,,,,1,2025-12-03,,1,,,,19543
+001cv00000AuaL3,"City Of Burien, WA",Washington,Municipality,Catherine Silvestri,51073,,Tier S,2.0,47.4668,-122.3405,4df70baf-58da-44fd-b06b-bf9f6560da5b,,,,,,,,,,,,,,,,19452
+001cv00000AuaN7,"City Of Lacey, WA",Washington,Municipality,Catherine Silvestri,54461,,Tier S,2.0,47.0359,-122.8233,7a224aa7-8d06-494b-b272-f9d590026888,,,,,,,,,14,2026-04-10,12,2,,,,19689
+001cv00000AuaNT,"City Of Olympia, WA",Washington,Municipality,Catherine Silvestri,55919,,Tier S,2.0,47.0452,-122.8954,de8c801f-a2ea-4fec-a4a5-d89f4419f14b,,,,,,,,,3,2026-03-12,3,,,,,19562
+001cv00000AuaPP,"City Of Sammamish, WA",Washington,Municipality,Catherine Silvestri,66630,,Tier S,2.0,47.6163,-122.0356,19d5dbe8-3007-428d-8320-61e383d0cdd7,,,,,,,,,,,,,,,,19717
+001cv00000AuaQz,"County Of Island, WA",Washington,County,Catherine Silvestri,87432,Nurture,Tier S,2.0,48.1757,-122.6053,3cecc22e-e8a3-412e-b88f-8346f1418827,Closed Lost,,,Alicia Gopal,12/10/2025,12/8/2025,,,12,2026-01-20,,12,,,,19740
+001cv00000AuaWg,"County Of Grays Harbor, WA",Washington,County,Catherine Silvestri,76841,,Tier S,2.0,46.9954,-123.7012,4d153870-5053-4a1f-b4a8-0d453d5d1ad7,,,,,,,,,,,,,,,,19744
+001cv00000AuaWt,"County Of Clallam, WA",Washington,County,Catherine Silvestri,78209,Open Opportunity,Tier S,2.0,48.1134,-123.7986,499db7d1-b388-468c-a805-1d6e1583e791,Open,Meeting Booked,Top of Funnel,Alicia Gopal,8/5/2026,12/8/2025,,,5,2026-01-21,,5,,,,19745
+001cv00000AuaXh,"County Of Mason, WA",Washington,County,Catherine Silvestri,67615,,Tier S,2.0,47.4251,-123.1951,d78488e1-500f-47c2-9cbc-0419c7780355,,,,,,,,,,,,,,,,19836
+001cv00000B21pk,"City Of Leavenworth, WA",Washington,Municipality,Catherine Silvestri,2383,,Tier 3,0.75,47.5962,-120.6615,a0f5d980-23df-450b-9221-e01c5a48ba41,,,,,,,,,10,2026-05-15,10,,,,,20161
+001cv00000B21qC,"City Of Gold Bar, WA",Washington,Municipality,Catherine Silvestri,2395,,Tier 3,0.75,47.8568,-121.6971,34f310b8-1163-4fc7-9f46-ed4997daa01f,,,,,,,,,,,,,,,,20144
+001cv00000B21sL,"City Of Castle Rock, WA",Washington,Municipality,Catherine Silvestri,2446,,Tier 3,0.75,46.2751,-122.9076,32f5dd96-3a1d-4bcd-b160-365867cd80e9,,,,,,,,,,,,,,,,20361
+001cv00000B21zD,"County Of Wahkiakum, WA",Washington,County,Catherine Silvestri,4582,,Tier 3,0.75,46.3259,-123.4946,2ddd86d9-b225-4e0d-96ac-d78b89048b18,,,,,,,,,,,,,,,,20401
+001cv00000B221e,"City Of Deer Park, WA",Washington,Municipality,Catherine Silvestri,4685,,Tier 3,0.75,47.9543,-117.4769,345608e4-6816-47c0-a0f7-33571f23a407,,,,,,,,,,,,,,,,20512
+001cv00000B221g,"City Of Granite Falls, WA",Washington,Municipality,Catherine Silvestri,4687,Recent Competitor Purchase,Tier 3,0.75,48.084,-121.9687,199741a2-0e66-4862-9ec3-e0611e6273c0,Closed Lost,,,Alicia Gopal,11/7/2025,11/4/2025,"$16,000",,10,2025-11-04,,4,6,,,20458
+001cv00000bB8Ph,Town of Darrington,Washington,Municipality,Asher Rosenfeld,1500,,Tier 3,0.75,48.2554,-121.6015,1824cc67-9b8d-47c1-8de7-0b86558d3545,,,,,,,,,,,,,,,,22689
+001cv00000bBVek,Town of Carbonado,Washington,Municipality,Asher Rosenfeld,737,,Tier 3,0.75,47.0798,-122.0515,0e983cb2-ebd0-4d38-bd9a-967af5fa3c03,,,,,,,,,,,,,,,,21203
+001cv00000bBVfY,City of Tekoa,Washington,Municipality,Asher Rosenfeld,809,,Tier 3,0.75,47.2232,-117.0721,39fb389a-166e-4b85-ae81-bfacef1396d4,,,,,,,,,,,,,,,,21383
+001cv00000bBVkv,City of Bingen,Washington,Municipality,Asher Rosenfeld,942,,Tier 3,0.75,45.7148,-121.4664,c9a29977-d4c0-4b1e-8c76-f052314d940e,,,,,,,,,,,,,,,,21344
+001cv00000bBVlA,City of Electric City,Washington,Municipality,Asher Rosenfeld,957,,Tier 3,0.75,47.931,-119.0367,3a92121a-9e9c-4a96-a367-8d311fb2a561,,,,,,,,,,,,,,,,21345
+001cv00000bBVlD,City of Grand Coulee,Washington,Municipality,Asher Rosenfeld,960,,Tier 3,0.75,47.9392,-119.0121,32ad5576-35d5-42ff-915d-705d74f665f7,,,,,,,,,,,,,,,,21348
+001cv00000bBVlh,Town of La Conner,Washington,Municipality,Asher Rosenfeld,994,,Tier 3,0.75,48.3887,-122.4963,c2eeb4c3-a8fc-4979-9ca0-e8dc9d0cf883,,,,,,,,,,,,,,,,21389
+001cv00000bBVm5,Town of Republic,Washington,Municipality,Asher Rosenfeld,1020,,Tier 3,0.75,48.6482,-118.7378,53e7040f-05ae-4bba-a650-f81f8ce3f721,,,,,,,,,,,,,,,,21420
+001cv00000bBVmD,City of Palouse,Washington,Municipality,Asher Rosenfeld,1029,,Tier 3,0.75,46.9102,-117.0757,9bfbeb3b-2e38-428a-8cdb-c77ced53d511,,,,,,,,,,,,,,,,21440
+001cv00000bBVoo,City of Morton,Washington,Municipality,Asher Rosenfeld,1089,,Tier 3,0.75,46.5584,-122.2751,a64817d1-e923-4da3-b620-0eb8ce9656c6,,,,,,,,,,,,,,,,21481
+001cv00000bBVor,Town of Naches,Washington,Municipality,Asher Rosenfeld,1090,,Tier 3,0.75,46.731,-120.6995,2aa50e6b-6c7a-4393-9811-d8eb2e736b00,,,,,,,,,,,,,,,,21477
+001cv00000bBVpB,City of Ilwaco,Washington,Municipality,Asher Rosenfeld,1112,,Tier 3,0.75,46.309,-124.0432,1410bc2b-a011-434c-99b4-1a0bf081336f,,,,,,,,,,,,,,,,21498
+001cv00000bBVpC,Town of Twisp,Washington,Municipality,Asher Rosenfeld,1112,,Tier 3,0.75,48.3635,-120.1223,acb1cf86-b1a6-4ccd-ac43-c4bdd51a8e19,,,,,,,,,,,,,,,,21540
+001cv00000bBVsS,City of Langley,Washington,Municipality,Asher Rosenfeld,1139,,Tier 3,0.75,48.0401,-122.4063,df3d2328-31ee-47dc-820d-8adad66db5a9,,,,,,,,,,,,,,,,21525
+001cv00000bBWBr,City of Entiat,Washington,Municipality,Asher Rosenfeld,1561,,Tier 3,0.75,47.676,-120.2084,fb82fad2-217e-4fe6-aa8a-eaacf975cb6d,,,,,,,,,,,,,,,,21976
+001cv00000bBWDM,City of Mabton,Washington,Municipality,Asher Rosenfeld,1960,,Tier 3,0.75,46.2149,-119.9967,2e12d2fc-e09e-46d6-987d-0faef7b56742,,,,,,,,,,,,,,,,22046
+001cv00000bBWEp,City of Spokane Valley,Washington,Municipality,Asher Rosenfeld,108267,,Tier S,2.0,47.6732,-117.2394,c5e0de37-6d1d-449d-b2d3-c928a61a1ac5,,,,,,,,,,,,,,,,22285
+001cv00000bBWF8,City of Everett,Washington,Municipality,Asher Rosenfeld,113011,,Tier S,2.0,47.9782,-122.2074,0163263c-f834-4669-b7db-05a49162b1fd,,,,,,,,,,,,,,,,22307
+001cv00000bBWIz,City of Soap Lake,Washington,Municipality,Asher Rosenfeld,1780,,Tier 3,0.75,47.3894,-119.4832,4a3d5c6d-dbfa-49a5-b5c6-eafde83bf362,,,,,,,,,,,,,,,,21758
+001cv00000bBWJG,City of Davenport,Washington,Municipality,Asher Rosenfeld,1805,,Tier 3,0.75,47.654,-118.15,12a762ca-4814-49f1-afbd-01c532abb340,,,,,,,,,,,,,,,,21788
+001cv00000bBWJl,City of Millwood,Washington,Municipality,Asher Rosenfeld,1841,,Tier 3,0.75,47.6813,-117.2827,ea163222-5577-4433-a609-d800f5fef7e3,,,,,,,,,,,,,,,,21808
+001cv00000bBWKg,City of Royal City,Washington,Municipality,Asher Rosenfeld,1907,,Tier 3,0.75,46.901,-119.6306,9b19aab9-9b9a-44d6-b45f-335051eb2c91,,,,,,,,,,,,,,,,21852
+001cv00000bBWKk,City of Oroville,Washington,Municipality,Asher Rosenfeld,1911,,Tier 3,0.75,48.9393,-119.4353,2135dce5-be0d-4663-bbed-c5ac5ea82f8c,,,,,,,,,,,,,,,,21868
+001cv00000bBWL1,Town of Coupeville,Washington,Municipality,Asher Rosenfeld,1935,,Tier 3,0.75,48.2198,-122.6863,f22a0947-694e-4d5c-a0f2-026d3b0944e7,,,,,,,,,,,,,,,,21890
+001cv00000bBWN8,City of Renton,Washington,Municipality,Asher Rosenfeld,105543,,Tier S,2.0,47.4797,-122.2079,e3ce9abc-a9a8-4304-81ab-0c10eab90c40,,,,,,,,,,,,,,,,21998
+001cv00000bBWNX,City of Stevenson,Washington,Municipality,Asher Rosenfeld,1598,,Tier 3,0.75,45.6957,-121.8845,b31e2aba-a16d-4a16-a052-a239c11a64b8,,,,,,,,,,,,,,,,22107
+001cv00000bBWOL,City of Kettle Falls,Washington,Municipality,Asher Rosenfeld,1649,,Tier 3,0.75,48.6107,-118.0558,3ff9c9e8-edcd-4698-9686-3de17dd42e2b,,,,,,,,,,,,,,,,22089
+001cv00000bBWOS,City of Cosmopolis,Washington,Municipality,Asher Rosenfeld,1663,,Tier 3,0.75,46.9554,-123.7738,6b1728c8-ddfb-432b-aecc-55e1a9658331,,,,,,,,,,,,,,,,22137
+001cv00000bBWOj,City of Sumas,Washington,Municipality,Asher Rosenfeld,1683,,Tier 3,0.75,49.0001,-122.2649,3ddf246d-b6e2-45b5-83c5-269e7577b1d6,,,,,,,,,,,,,,,,22116
+001cv00000bBWPE,City of Ritzville,Washington,Municipality,Asher Rosenfeld,1709,,Tier 3,0.75,47.1274,-118.38,9fa894bd-9e72-43db-a20b-0ebd5e11b5e9,,,,,,,,,,,,,,,,22168
+001cv00000bBWRI,City of Napavine,Washington,Municipality,Asher Rosenfeld,2155,,Tier 3,0.75,46.5746,-122.9082,6bc8481d-08e6-48dc-8c1e-e9e3bbc28df8,,,,,,,,,,,,,,,,22204
+001cv00000bBWRY,City of Winlock,Washington,Municipality,Asher Rosenfeld,2515,,Tier 3,0.75,46.4912,-122.9379,5787551f-811a-44e9-99c4-895a71407bb3,,,,,,,,,,,,,,,,22258
+001cv00000bBWT1,City of Kent,Washington,Municipality,Asher Rosenfeld,136588,,Tier S,2.0,47.3815,-122.2374,906fa3a8-07d8-4530-9b61-bfac32b0eb9d,,,,,,,,,,,,,,,,22369
+001cv00000bBWTV,City of Bellevue,Washington,Municipality,Asher Rosenfeld,154377,,Tier S,2.0,47.6101,-122.2015,0d6a9c16-a602-4240-ac7d-5ad4a94d176f,,,,,,,,,,,,,,,,22389
+001cv00000bBWU9,City of Vancouver,Washington,Municipality,Asher Rosenfeld,198992,,Tier S,2.0,45.628,-122.6739,41331819-466f-409f-a9fd-0311a195d58a,,,,,,,,,,,,,,,,22422
+001cv00000bBWXy,Spokane County,Washington,County,Asher Rosenfeld,555947,,Tier S,2.0,47.5909,-117.2777,31247884-30dd-44f8-84da-5f119b3a5fe9,,,,,,,,,,,,,,,,22446
+001cv00000bBWYb,City of Seattle,Washington,Municipality,Asher Rosenfeld,780995,,Tier S,2.0,47.6061,-122.3328,f5f1a13f-48f3-4aba-909a-283595156f96,,,,,,,,,,,,,,,,22484
+001cv00000bBWYm,Snohomish County,Washington,County,Asher Rosenfeld,864113,,Tier S,2.0,48.033,-121.8339,af02f841-29b8-4bc9-9b00-8d5b21cf8ec6,,,,,,,,,,,,,,,,22481
+001cv00000bBWZf,King County,Washington,County,Asher Rosenfeld,2340211,,Tier S,2.0,47.548,-121.9836,979e7f7f-29ed-4912-b2d7-68b2b0a8a713,,,,,,,,,,,,,,,,22557
+001cv00000bBWsd,City of Woodway,Washington,Municipality,Asher Rosenfeld,1323,,Tier 3,0.75,47.7962,-122.3829,0330449b-fe8d-46d7-882d-3f369acf45e4,,,,,,,,,,,,,,,,22586
+001cv00000bBWuB,City of Kittitas,Washington,Municipality,Asher Rosenfeld,1445,,Tier 3,0.75,46.9832,-120.417,f5c4c3fa-96a3-4853-a3af-988bc2031ed2,,,,,,,,,,,,,,,,22666
+001cv00000bBWyZ,Benton County,Washington,County,Asher Rosenfeld,218190,,Tier S,2.0,46.3166,-119.5022,ce533a5e-a5a7-49dc-bc23-63e25b246583,,,,,,,,,,,,,,,,22732
+001cv00000bBWyg,City of Tacoma,Washington,Municipality,Asher Rosenfeld,228202,,Tier S,2.0,47.2551,-122.442,17d6ad6c-a2db-482e-8acb-09ea4dbd502c,,,,,,,,,,,,,,,,22741
+001cv00000bBWyj,City of Spokane,Washington,Municipality,Asher Rosenfeld,230609,,Tier S,2.0,47.658,-117.4235,c223200b-d5b2-4e80-bd5f-3c3e9d496b4a,,,,,,,,,,,,,,,,22745
+001cv00000bBWz1,Yakima County,Washington,County,Asher Rosenfeld,258523,,Tier S,2.0,46.5436,-120.7558,5d27b594-e0f2-4f1c-bad3-6531d2f794cd,,,,,,,,,5,2026-05-18,5,,,,,22760
+001cv00000bBX0A,Thurston County,Washington,County,Asher Rosenfeld,302912,,Tier S,2.0,46.8646,-122.7696,e95d443d-c9c4-466e-813f-72a87cab2c5e,,,,,,,,,,,,,,,,22784

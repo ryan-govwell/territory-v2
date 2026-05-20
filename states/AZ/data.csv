@@ -1,100 +1,100 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ali Cohen,Calls - Quinzel Perry,Calls - Joe del Rosario,Calls - Alicia Gopal,Calls - Ryan Minter
-001Hr000028ZbbC,"City Of Holbrook, AZ",Arizona,Municipality,Ali Cohen,4842,,Tier 3,0.75,34.9022,-110.1582,ad4dff80-9900-44ed-a042-dc68364c1721,,,,,,,,,7,2025-10-09,,7,,,
-001Hr000028Zbnv,"City Of Globe, AZ",Arizona,Municipality,Ali Cohen,7162,,Tier 3,0.75,33.3942,-110.7865,1d580773-d71b-46f2-addd-763d6df55382,,,,,,,,,10,2025-07-17,,,10,,
-001Hr000028Zbo0,"Town Of Queen Creek, AZ",Arizona,Municipality,Ali Cohen,66346,,Tier S,2.0,33.2486,-111.6377,653cc592-a0fe-4964-a7a8-a8f514890f32,,,,,,,,,,,,,,,
-001Hr000028ZboB,"City Of Safford, AZ",Arizona,Municipality,Ali Cohen,10269,Recent Competitor Purchase,Tier 2,1.0,32.834,-109.7076,081b1da7-aa3a-438e-a596-4989ce05d432,,,,,,,,,7,2025-10-21,7,,,,
-001Hr000028ZboN,"Town Of Florence, AZ",Arizona,Municipality,Ali Cohen,26205,Nurture,Tier 1,1.5,33.0315,-111.3873,84c600d7-daea-4813-a0c9-8ee1ea747619,Closed Lost,,,Ali Cohen,11/24/2025,11/19/2025,,,10,2026-01-07,6,4,,,
-001Hr000028ZbpS,"City Of Apache Junction, AZ",Arizona,Municipality,Ali Cohen,39981,Open Opportunity,Tier 1,1.5,33.4149,-111.5501,1f8b5236-de3a-4522-8ae2-8186ec31fbed,Open,Initial Interest,Top of Funnel,Ali Cohen,,11/6/2025,,,36,2026-04-28,36,,,,
-001Hr000028ZbqR,"City Of Eloy, AZ",Arizona,Municipality,Ali Cohen,15450,,Tier 2,1.0,32.7559,-111.5548,39764541-292f-4e07-bbee-350576fed12a,,,,,,,,,4,2025-10-15,4,,,,
-001Hr000028Zbqj,"Town Of Oro Valley, AZ",Arizona,Municipality,Ali Cohen,47879,,Tier 1,1.5,32.3909,-110.9665,6ceb7ff9-546a-4c3e-95d7-3c831f1e32a1,,,,,,,,,6,2026-04-29,1,5,,,
-001Hr000028Zbsm,"Town Of Guadalupe, AZ",Arizona,Municipality,Ali Cohen,5307,,Tier 3,0.75,33.3637,-111.9631,2abe9b72-4b70-4ff8-8d59-33ffd5250335,,,,,,,,,1,2026-02-25,1,,,,
-001Hr000028Zbtn,"Town Of Sahuarita, AZ",Arizona,Municipality,Ali Cohen,35337,,Tier 1,1.5,31.9576,-110.9556,bf136f14-d894-456c-adcc-89f56cd9a18c,,,,,,,,,5,2025-10-09,,5,,,
-001Hr000028ZbyV,"City Of El Mirage, AZ",Arizona,Municipality,Ali Cohen,36016,,Tier 1,1.5,33.6131,-112.3246,b3bb8f8a-f95a-4558-b90e-538544bd1e38,,,,,,,,,11,2026-01-21,11,,,,
-001Hr000028Zc4O,"Town Of Snowflake, AZ",Arizona,Municipality,Ali Cohen,6364,Open Opportunity,Tier 3,0.75,34.5134,-110.0784,63fdb298-868d-432b-9e61-eef0b2e5b3b8,Open,Meeting Booked,Top of Funnel,Ali Cohen,1/6/2026,11/3/2025,,,25,2026-04-29,25,,,,
-001Hr000028Zc4W,"Town Of Marana, AZ",Arizona,Municipality,Ali Cohen,54895,,Tier S,2.0,32.4364,-111.2224,ba2448fe-1262-4e7c-bb9a-77707f6af458,,,,,,,,,12,2026-04-29,4,8,,,
-001Hr000028Zc55,Town of Cave Creek,Arizona,Municipality,Ali Cohen,4933,Recent Competitor Purchase,Tier 3,0.75,33.8321,-111.9475,4ea695dc-59e4-42f8-b2b8-dbbbc529210a,,,,,,,,,,,,,,,
-001Hr000028Zc5Z,"City Of Douglas, AZ",Arizona,Municipality,Ali Cohen,16513,Open Opportunity,Tier 2,1.0,31.3445,-109.5453,71c954f5-b211-4b36-b90d-73599ea0e688,Open,Initial Interest,Top of Funnel,Ali Cohen,,10/8/2025,,,41,2025-11-06,41,,,,
-001Hr000028Zc6S,"Town Of Thatcher, AZ",Arizona,Municipality,Ali Cohen,5310,,Tier 3,0.75,32.8492,-109.7592,506d8733-5878-49ab-9301-970bb0ec9375,,,,,,,,,21,2026-04-22,21,,,,
-001Hr000028Zc6m,City of Bisbee,Arizona,Municipality,Ali Cohen,4957,Recent Competitor Purchase,Tier 3,0.75,31.4482,-109.9284,b4592c34-b794-428c-b376-81c69f009246,,,,,,,,,17,2026-01-14,15,2,,,
-001Hr000028Zc7I,"City Of Kingman, AZ",Arizona,Municipality,Ali Cohen,33822,,Tier 1,1.5,35.1913,-114.0523,624a06c9-365e-405e-8c52-ac0654ffed5d,,,,,,,,,7,2025-10-07,7,,,,
-001Hr000028Zc8Y,"City Of Sierra Vista, AZ",Arizona,Municipality,Ali Cohen,45479,Recent Competitor Purchase,Tier 1,1.5,31.566,-110.2744,94343de0-ff24-4f40-936d-547805b1554d,,,,,,,,,6,2025-10-15,6,,,,
-001Hr000028Zc8f,"City Of Benson, AZ",Arizona,Municipality,Ali Cohen,5355,,Tier 3,0.75,31.9679,-110.2945,6a2fa11d-3389-4549-813f-2dfedd0a6927,,,,,,,,,2,2025-11-10,1,,1,,
-001Hr000028Zc8j,"Town Of Chino Valley, AZ",Arizona,Municipality,Ali Cohen,13492,,Tier 2,1.0,34.7575,-112.4538,50e50b94-be3c-491d-bd5f-dd5ec9ed278c,,,,,,,,,10,2025-11-10,10,,,,
-001Hr000028Zc9w,"City Of Coolidge, AZ",Arizona,Municipality,Ali Cohen,14709,,Tier 2,1.0,32.9778,-111.5176,8aa0b6e2-9107-4a46-b95a-a66c72bfee61,,,,,,,,,5,2025-10-09,,5,,,
-001Hr000028ZcAl,"City Of Bullhead City, AZ",Arizona,Municipality,Ali Cohen,42232,Open Opportunity,Tier 1,1.5,35.1359,-114.5286,ccdb78e3-e600-47f2-823d-1cb759d032d2,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,10,2026-04-17,10,,,,
-001Hr000028ZcCP,"City Of San Luis, AZ",Arizona,Municipality,Ali Cohen,37333,Open Opportunity,Tier 1,1.5,32.487,-114.7822,902cadd4-a155-4294-90e6-052657f0f38e,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,30,2026-02-10,30,,,,
-001Hr000028ZcDI,"Town Of Paradise Valley, AZ",Arizona,Municipality,Ali Cohen,12682,,Tier 2,1.0,33.5312,-111.9426,c5786270-0dce-4a38-86a2-a1529a3d3c51,,,,,,,,,8,2025-10-09,,8,,,
-001Hr000028ZcEA,"Town Of Fountain Hills, AZ",Arizona,Municipality,Ali Cohen,23819,,Tier 2,1.0,33.6042,-111.7257,98f7dd72-a515-4bea-9617-17460bf5b360,,,,,,,,,6,2025-10-28,6,,,,
-001Hr000028ZcEJ,"City Of Winslow, AZ",Arizona,Municipality,Ali Cohen,8943,Nurture,Tier 3,0.75,35.0242,-110.6974,172dfe4b-22fa-466d-ba1a-fd06bf2070de,Closed Lost,,,Ali Cohen,2/27/2026,2/26/2026,"$12,000",,5,2026-02-26,4,1,,,
-001Hr000028ZcGz,"City Of Nogales, AZ",Arizona,Municipality,Ali Cohen,19766,,Tier 2,1.0,31.3404,-110.9343,c3fbaf60-1316-4c71-9b99-2310cdcae705,,,,,,,,,11,2025-10-21,11,,,,
-001Hr000028ZcH4,"City Of South Tucson, AZ",Arizona,Municipality,Ali Cohen,4585,,Tier 3,0.75,32.1955,-110.9684,7e0dbd2d-8fb8-4620-aaf0-3a06fc9126fc,,,,,,,,,9,2026-04-20,9,,,,
-001Hr000028ZcK0,"City Of Cottonwood, AZ",Arizona,Municipality,Ali Cohen,12440,Nurture,Tier 2,1.0,34.7392,-112.0099,df15baf6-67a5-4246-9681-5a4de3e5da3c,Closed Lost,,,Shane Lieberman,8/6/2024,1/5/2025,"$25,000",,1,2026-02-25,1,,,,
-001Hr000028ZcLi,"City Of Show Low, AZ",Arizona,Municipality,Ali Cohen,11967,,Tier 2,1.0,34.2542,-110.0298,c6d2e63a-3534-4677-ade1-a2c0160804c0,,,,,,,,,11,2025-10-21,11,,,,
-001Hr000028ZcMY,"Town Of Youngtown, AZ",Arizona,Municipality,Ali Cohen,7012,,Tier 3,0.75,33.5939,-112.3029,8ca23f12-3046-446e-9c0d-ff1c7a8e12a8,,,,,,,,,6,2025-10-28,6,,,,
-001Hr000028ZcMi,"City Of Litchfield Park, AZ",Arizona,Municipality,Ali Cohen,6942,Implementation,Tier 3,0.75,33.4934,-112.3579,9510cd08-46c7-4201-bc60-6d0e9dd07832,Closed Won,,,Ali Cohen,3/4/2026,2/25/2026,"$35,000",,6,2026-02-25,3,3,,,
-001Hr000028ZcN0,"City Of Somerton, AZ",Arizona,Municipality,Ali Cohen,14311,Nurture,Tier 2,1.0,32.5964,-114.7097,39974d26-0e09-4e69-a0c6-36048db5a8f5,Closed Lost,,,Ali Cohen,10/27/2025,10/21/2025,,,28,2026-02-24,28,,,,
-001Hr000028ZcN2,"City Of Tolleson, AZ",Arizona,Municipality,Ali Cohen,7295,,Tier 3,0.75,33.45,-112.2593,7d474ee5-c186-4f19-8301-f1ed5812ab45,,,,,,,,,3,2025-10-14,3,,,,
-001Hr000028ZcQl,"Town Of Camp Verde, AZ",Arizona,Municipality,Ali Cohen,12244,1+ Module Live,Tier 2,1.0,34.5636,-111.8543,58832996-674b-477e-adcb-4dd46a1ba091,Closed Won,,,Asher Rosenfeld,,1/5/2025,"$16,800",,,,,,,,
-001Hr000028ZcSm,"Town Of Payson, AZ",Arizona,Municipality,Ali Cohen,16516,,Tier 2,1.0,34.2309,-111.3251,5a0d8e06-dfa3-4060-87f2-f5b8d8af9068,,,,,,,,,11,2025-10-21,11,,,,
-001Hr000028ZcU5,"City Of Sedona, AZ",Arizona,Municipality,Ali Cohen,9763,,Tier 3,0.75,34.8626,-111.8137,e2513a72-434e-4307-aa6e-777e3aa4cc57,,,,,,,,,34,2026-02-17,30,,4,,
-001Hr000028ZcUQ,"City Of Prescott, AZ",Arizona,Municipality,Ali Cohen,46833,Open Opportunity,Tier 1,1.5,34.5394,-112.4682,49bb7815-5fd7-4d98-bf5f-b813e64b0635,Open,Initial Interest,Top of Funnel,Ali Cohen,,10/22/2025,,,39,2026-02-05,39,,,,
-001Hr000028ZcVU,"City of Buckeye, AZ",Arizona,Municipality,Ali Cohen,91500,,Tier S,2.0,33.3703,-112.5838,1f41d56d-286c-409b-80d5-6d4870c28f60,,,,,,,,,1,2025-09-08,,1,,,
-001Hr000028ZcXD,"Town Of Prescott Valley, AZ",Arizona,Municipality,Ali Cohen,48188,Open Opportunity,Tier 1,1.5,34.6097,-112.3153,cbd8d68b-4707-4bc6-aaa2-7bca9163b4aa,Open,Initial Interest,Top of Funnel,Ali Cohen,,11/13/2025,,,16,2025-12-17,16,,,,
-001Hr000028ZcXw,"Town Of Wickenburg, AZ",Arizona,Municipality,Ali Cohen,7695,,Tier 3,0.75,33.9698,-112.7302,6c12b78c-2573-4e82-b156-54fc31220465,,,,,,,,,,,,,,,
-001Hr000028ZcYU,"City Of Page, AZ",Arizona,Municipality,Ali Cohen,7375,,Tier 3,0.75,36.9147,-111.4558,ec1d0bdc-f700-44f6-b89c-2735c85aee4c,,,,,,,,,32,2025-12-11,32,,,,
-001Hr000028ZdE4,"Cochise County, AZ",Arizona,County,Ali Cohen,125773,,Tier S,2.0,31.8285,-109.9497,e5bc3146-6c6a-4f0d-83d1-3126ce337e44,,,,,,,,,9,2025-07-02,,9,,,
-001Hr000028ZdIL,"City Of Yuma, AZ",Arizona,Municipality,Ali Cohen,97093,Nurture,Tier S,2.0,32.6927,-114.6277,dac0a093-888a-41f5-a038-b2df99794743,Closed Lost,,,Ali Cohen,2/19/2026,2/12/2026,,,13,2026-02-19,13,,,,
-001Hr000028ZdMC,"City Of Avondale, AZ",Arizona,Municipality,Ali Cohen,90564,,Tier S,2.0,33.4356,-112.3496,af2e60e5-db90-4f66-bbb6-1b758192d29f,,,,,,,,,10,2025-12-01,9,,1,,
-001Hr000028ZdQG,"Santa Cruz County, AZ",Arizona,County,Ali Cohen,50508,,Tier S,2.0,31.5986,-110.8076,cfd23deb-1bb2-431b-b2e2-ed1f3040d23f,,,,,,,,,13,2025-10-08,,12,,,1
-001Hr000028ZdU3,"City Of Flagstaff, AZ",Arizona,Municipality,Ali Cohen,76989,Open Opportunity,Tier S,2.0,35.1983,-111.6513,2ab8a1b6-c636-40c5-bfde-6077752dc414,Open,Meeting Booked,Top of Funnel,Ali Cohen,7/22/2026,4/30/2026,,,25,2026-04-29,14,,11,,
-001Hr000028ZdaI,"City Of Maricopa, AZ",Arizona,Municipality,Ali Cohen,76654,Implementation,Tier S,2.0,33.0581,-112.0476,71ef12d7-952f-4d21-8106-df0a3ace311d,Closed Won,,,Ali Cohen,,10/17/2025,"$87,500",,,,,,,,
-001Hr000028ZdcH,"County of Yavapai, AZ",Arizona,County,Ali Cohen,252013,Recent Competitor Purchase,Tier S,2.0,34.6464,-112.4291,fce69747-12ae-42b4-98ab-8974a7e607b2,Closed Lost,,,Ali Cohen,10/23/2025,10/21/2025,"$95,000",,7,2025-10-21,7,,,,
-001Hr000028ZdcR,"Graham County, AZ",Arizona,County,Ali Cohen,40242,Nurture,Tier 1,1.5,33.0768,-109.7592,0877bc2b-02e8-429d-bf63-4ea4317ea732,Closed Lost,,,Ali Cohen,2/19/2026,11/20/2025,,,4,2026-02-18,4,,,,
-001Hr000028ZdeJ,"City Of Lake Havasu City, AZ",Arizona,Municipality,Ali Cohen,58284,,Tier S,2.0,34.477,-114.3192,daca85ab-eb08-4c3e-b54b-870d30d21b94,,,,,,,,,8,2025-12-11,8,,,,
-001Hr000028ZdeO,"City Of Casa Grande, AZ",Arizona,Municipality,Ali Cohen,70156,Open Opportunity,Tier S,2.0,32.911,-111.7734,16df084b-a7e5-49d6-a858-b05486817db6,Open,Verbal,Mid Funnel,Ali Cohen,10/10/2025,10/7/2025,"$127,500",,2,2025-10-06,2,,,,
-001Hr000028ZdhP,"Coconino County, AZ",Arizona,County,Ali Cohen,145161,Open Opportunity,Tier S,2.0,35.6648,-111.4753,a60eb5ab-b06e-4ef2-842a-d74b2ce1e2a3,Open,Meeting Booked,Top of Funnel,Ali Cohen,5/27/2026,4/30/2026,,,28,2026-04-29,6,22,,,
-001Hr000028Zdok,"Navajo County, AZ",Arizona,County,Ali Cohen,109516,,Tier S,2.0,35.402,-110.1403,980d8e08-3638-4462-997f-eec72d77569c,,,,,,,,,14,2026-04-13,1,13,,,
-001cv00000AuXAV,"Town Of Quartzsite, AZ",Arizona,Municipality,Ali Cohen,2358,,Tier 3,0.75,33.6639,-114.2299,6f497ad1-9ff5-4704-b45d-e5129e46dc09,,,,,,,,,2,2025-08-04,,2,,,
-001cv00000AuXO1,"Town Of Superior, AZ",Arizona,Municipality,Ali Cohen,2479,Nurture,Tier 3,0.75,33.2939,-111.0962,88737320-1777-4686-ba52-6d7b5fca5d54,Closed Lost,,,Ali Cohen,,10/3/2025,,,3,2025-10-02,3,,,,
-001cv00000AuXPg,"Town Of Colorado City, AZ",Arizona,Municipality,Ali Cohen,2520,Nurture,Tier 3,0.75,36.9903,-112.9758,03e9d42e-de8c-4d9e-9aa4-352d9d46d814,Closed Lost,,,Ali Cohen,10/30/2025,10/3/2025,"$17,000",,9,2025-10-28,9,,,,
-001cv00000AuXTb,"Town Of Star Valley, AZ",Arizona,Municipality,Ali Cohen,2532,,Tier 3,0.75,34.2533,-111.2579,c184881a-0734-4858-91a5-115829a1e422,,,,,,,,,3,2025-10-06,3,,,,
-001cv00000AuXmK,"Town Of Pima, AZ",Arizona,Municipality,Ali Cohen,2905,,Tier 3,0.75,32.8962,-109.8276,5df627b1-b7ab-4776-ad23-be17511cd74f,,,,,,,,,9,2025-10-08,9,,,,
-001cv00000AuYIn,"Town Of Parker, AZ",Arizona,Municipality,Ali Cohen,3338,,Tier 3,0.75,34.15,-114.2891,872754f7-c0d4-41a5-8a69-8efb8d92ae7b,,,,,,,,,4,2026-04-06,4,,,,
-001cv00000AuYK1,"City Of St Johns, AZ",Arizona,Municipality,Ali Cohen,3388,,Tier 3,0.75,34.5059,-109.3609,3b7395ce-2937-4ab6-871a-178c39140e03,,,,,,,,,,,,,,,
-001cv00000AuYOK,"City Of Willcox, AZ",Arizona,Municipality,Ali Cohen,3205,Nurture,Tier 3,0.75,32.2529,-109.832,395da42a-2e68-4655-a5ae-d1a09a849ca8,Closed Lost,,,Jenny Allison,11/25/2025,11/6/2025,,,12,2025-12-10,,,,12,
-001cv00000AuYPh,"City Of Williams, AZ",Arizona,Municipality,Ali Cohen,3267,,Tier 3,0.75,35.2495,-112.191,8a77dc90-744d-49da-9062-309597018092,,,,,,,,,32,2025-10-16,32,,,,
-001cv00000AuYgd,"Town Of Clifton, AZ",Arizona,Municipality,Ali Cohen,3847,,Tier 3,0.75,33.0509,-109.2962,2bb4169a-dc72-4a92-b7d5-47ada50b75cc,,,,,,,,,,,,,,,
-001cv00000AuYnp,"Town Of Pinetop Lakeside, AZ",Arizona,Municipality,Ali Cohen,4102,,Tier 3,0.75,34.1425,-109.9604,f36edbb5-1769-4e51-96cb-d477c0d11158,,,,,,,,,2,2026-04-29,2,,,,
-001cv00000AuYoA,"Town Of Taylor, AZ",Arizona,Municipality,Ali Cohen,4119,,Tier 3,0.75,34.465,-110.0912,e1a5d69e-e774-4f8a-9bcc-1d1789cbc8e3,,,,,,,,,,,,,,,
-001cv00000AuYrA,"Town Of Carefree, AZ",Arizona,Municipality,Ali Cohen,3685,,Tier 3,0.75,33.8223,-111.9182,e39bd4f6-a982-4b96-bd00-8afb65581976,,,,,,,,,4,2026-04-28,4,,,,
-001cv00000AuYyE,"Town Of Eagar, AZ",Arizona,Municipality,Ali Cohen,4439,,Tier 3,0.75,34.1112,-109.2915,c10b910f-66cb-4ce3-bb8b-36c5e5c2d0b4,,,,,,,,,9,2025-08-05,,9,,,
-001cv00000AuYyU,"Town Of Dewey Humboldt, AZ",Arizona,Municipality,Ali Cohen,4455,,Tier 3,0.75,34.5032,-112.2425,bc5c65f4-bd65-4375-845d-f52ba0a9cf3d,,,,,,,,,,,,,,,
-001cv00000AuZZg,"County Of Greenlee, AZ",Arizona,County,Ali Cohen,9404,,Tier 3,0.75,33.2406,-109.2832,66f14b3a-cae3-48e8-a67e-8b8fb3377d36,,,,,,,,,6,2025-09-19,,6,,,
-001cv00000AuZqs,"County Of La Paz, AZ",Arizona,County,Ali Cohen,16408,Open Opportunity,Tier 2,1.0,34.0061,-113.9536,e05df0e6-d8ff-4f36-a654-bccb23a78a16,Open,Sales Qualified,Mid Funnel,Ali Cohen,11/12/2025,10/21/2025,,,10,2025-11-19,9,1,,,
-001cv00000AuaLe,"County Of Gila, AZ",Arizona,County,Ali Cohen,53589,,Tier S,2.0,33.6371,-110.5215,9b7a29a1-ab88-404e-a212-a3c2a704831d,,,,,,,,,12,2025-11-07,12,,,,
-001cv00000AuaPD,"County Of Apache, AZ",Arizona,County,Ali Cohen,65623,Open Opportunity,Tier S,2.0,35.5313,-109.3783,171d6cdb-1498-43f4-8600-f8c0ca422598,Open,Sales Qualified,Mid Funnel,Ali Cohen,4/30/2026,4/28/2026,,,22,2026-04-30,6,16,,,
-001cv00000B21sM,"Town Of Wellton, AZ",Arizona,Municipality,Ali Cohen,2447,,Tier 3,0.75,32.6728,-114.1469,b92c3da1-b045-48ee-96fc-07ae62be6055,,,,,,,,,1,2025-07-23,,1,,,
-001cv00000B220x,"Town Of Clarkdale, AZ",Arizona,Municipality,Ali Cohen,4635,,Tier 3,0.75,34.7711,-112.0579,8b272917-eb50-4219-990e-bcccc2302e82,,,,,,,,,8,2025-09-19,,8,,,
-001cv00000bBVwL,Town of Mammoth,Arizona,Municipality,Asher Rosenfeld,1181,,Tier 3,0.75,32.7226,-110.6407,103efde8-cab0-4005-a38e-4a7c164b98d0,,,,,,,,,,,,,,,
-001cv00000bBVy2,Town of Fredonia,Arizona,Municipality,Asher Rosenfeld,1290,,Tier 3,0.75,36.9455,-112.5266,020521f6-8f5d-4ce1-a40f-4622c777ed88,,,,,,,,,,,,,,,
-001cv00000bBWJu,Town of Gila Bend,Arizona,Municipality,Asher Rosenfeld,1847,,Tier 3,0.75,32.9478,-112.7168,a1131d59-fcf0-444e-a95f-64a5926ecded,,,,,,,,,,,,,,,
-001cv00000bBWKZ,Town of Kearny,Arizona,Municipality,Asher Rosenfeld,1898,,Tier 3,0.75,33.0613,-110.9067,8ea60ce1-deff-4b6e-b15f-ea185eb4f992,,,,,,,,,,,,,,,
-001cv00000bBWNd,Town of Huachuca City,Arizona,Municipality,Asher Rosenfeld,1604,,Tier 3,0.75,31.6274,-110.3355,b2393f31-483d-4aab-9631-5fbace070908,,,,,,,,,,,,,,,
-001cv00000bBWPX,Town of Springerville,Arizona,Municipality,Asher Rosenfeld,1723,,Tier 3,0.75,34.1334,-109.2859,3bb5e2c5-dedf-40ac-9294-44cc4fe15e9e,,,,,,,,,,,,,,,
-001cv00000bBWSJ,City of Goodyear,Arizona,Municipality,Asher Rosenfeld,118186,,Tier S,2.0,33.4353,-112.3577,f93b31ac-2cf7-4a26-92c4-db8fc1d6d2f1,,,,,,,,,,,,,,,
-001cv00000bBWTh,City of Surprise,Arizona,Municipality,Asher Rosenfeld,167564,,Tier S,2.0,33.6292,-112.3679,aad139af-3519-413b-8103-a6ef98d68982,,,,,,,,,,,,,,,
-001cv00000bBWTz,City of Tempe,Arizona,Municipality,Asher Rosenfeld,190114,,Tier S,2.0,33.4255,-111.94,5ef2ad2e-fa54-48c8-b063-ef435b12331d,,,,,,,,,,,,,,,
-001cv00000bBWXj,City of Mesa,Arizona,Municipality,Asher Rosenfeld,517151,,Tier S,2.0,33.4152,-111.8315,a8bf3ecc-3224-43c1-b514-6dcc287a5bef,,,,,,,,,,,,,,,
-001cv00000bBWXx,City of Tucson,Arizona,Municipality,Asher Rosenfeld,554013,,Tier S,2.0,32.254,-110.9742,bba7230d-98f7-45f0-84ab-2481fa058e6e,,,,,,,,,,,,,,,
-001cv00000bBWZD,Pima County,Arizona,County,Asher Rosenfeld,1080149,,Tier S,2.0,32.0575,-111.6661,3caf140b-11b9-4028-9ded-38d754b50ac7,,,,,,,,,,,,,,,
-001cv00000bBWZa,City of Phoenix,Arizona,Municipality,Asher Rosenfeld,1673164,,Tier S,2.0,33.4483,-112.0725,e9047eaa-c0b9-4200-a99a-ffabaab183a8,,,,,,,,,,,,,,,
-001cv00000bBWZn,Maricopa County,Arizona,County,Asher Rosenfeld,4673096,,Tier S,2.0,33.2918,-112.4291,00ac3119-64ca-48c1-a9cc-88e9a288722c,,,,,,,,,,,,,,,
-001cv00000bBWtR,City of Tombstone,Arizona,Municipality,Asher Rosenfeld,1382,,Tier 3,0.75,31.7129,-110.0676,66a727b0-d413-43ae-95f6-336761dd43f0,,,,,,,,,,,,,,,
-001cv00000bBWwy,Town of Miami,Arizona,Municipality,Asher Rosenfeld,1531,,Tier 3,0.75,33.3992,-110.8687,cf8c1c92-93c2-4fa8-a145-7a778f0ce3a6,,,,,,,,,,,,,,,
-001cv00000bBWyc,Yuma County,Arizona,County,Asher Rosenfeld,220310,,Tier S,2.0,32.6528,-113.9536,933ef9cc-a666-4794-a86a-137c4cf67282,,,,,,,,,,,,,,,
-001cv00000bBWyf,Mohave County,Arizona,County,Asher Rosenfeld,226479,,Tier S,2.0,35.2143,-113.7633,08935d74-1290-413a-916d-d9066da8ccfe,,,,,,,,,,,,,,,
-001cv00000bBWys,City of Scottsdale,Arizona,Municipality,Asher Rosenfeld,246170,,Tier S,2.0,33.4949,-111.9217,f88dc101-4a8f-4718-8567-a4beafe875ee,,,,,,,,,,,,,,,
-001cv00000bBWz0,City of Glendale,Arizona,Municipality,Asher Rosenfeld,258143,,Tier S,2.0,33.5387,-112.186,b65fbb6b-cb36-4bca-af67-91f4b633ad68,,,,,,,,,,,,,,,
-001cv00000bBWzK,City of Chandler,Arizona,Municipality,Asher Rosenfeld,281231,,Tier S,2.0,33.3062,-111.8413,518bfcbd-6cd6-4a9c-a9c2-9f1d927f4b82,,,,,,,,,,,,,,,
-001cv00000bBWzN,Town of Gilbert,Arizona,Municipality,Asher Rosenfeld,288790,,Tier S,2.0,33.3528,-111.789,91463e30-5c66-42ab-8211-e0c88b05108f,,,,,,,,,,,,,,,
-001cv00000bBX1S,Pinal County,Arizona,County,Asher Rosenfeld,513862,,Tier S,2.0,32.8162,-111.2845,ec707fb0-c5f4-4f7f-a61d-7f99bd0a0b72,,,,,,,,,,,,,,,
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ali Cohen,Calls - Quinzel Perry,Calls - Joe del Rosario,Calls - Alicia Gopal,Calls - Ryan Minter,Outreach ID
+001Hr000028ZbbC,"City Of Holbrook, AZ",Arizona,Municipality,Ali Cohen,4842,,Tier 3,0.75,34.9022,-110.1582,ad4dff80-9900-44ed-a042-dc68364c1721,,,,,,,,,7,2025-10-09,,7,,,,2431
+001Hr000028Zbnv,"City Of Globe, AZ",Arizona,Municipality,Ali Cohen,7162,,Tier 3,0.75,33.3942,-110.7865,1d580773-d71b-46f2-addd-763d6df55382,,,,,,,,,10,2025-07-17,,,10,,,2443
+001Hr000028Zbo0,"Town Of Queen Creek, AZ",Arizona,Municipality,Ali Cohen,66346,,Tier S,2.0,33.2486,-111.6377,653cc592-a0fe-4964-a7a8-a8f514890f32,,,,,,,,,,,,,,,,11441
+001Hr000028ZboB,"City Of Safford, AZ",Arizona,Municipality,Ali Cohen,10269,Recent Competitor Purchase,Tier 2,1.0,32.834,-109.7076,081b1da7-aa3a-438e-a596-4989ce05d432,,,,,,,,,7,2025-10-21,7,,,,,2429
+001Hr000028ZboN,"Town Of Florence, AZ",Arizona,Municipality,Ali Cohen,26205,Nurture,Tier 1,1.5,33.0315,-111.3873,84c600d7-daea-4813-a0c9-8ee1ea747619,Closed Lost,,,Ali Cohen,11/24/2025,11/19/2025,,,10,2026-01-07,6,4,,,,1465
+001Hr000028ZbpS,"City Of Apache Junction, AZ",Arizona,Municipality,Ali Cohen,39981,Open Opportunity,Tier 1,1.5,33.4149,-111.5501,1f8b5236-de3a-4522-8ae2-8186ec31fbed,Open,Initial Interest,Top of Funnel,Ali Cohen,,11/6/2025,,,36,2026-04-28,36,,,,,1338
+001Hr000028ZbqR,"City Of Eloy, AZ",Arizona,Municipality,Ali Cohen,15450,,Tier 2,1.0,32.7559,-111.5548,39764541-292f-4e07-bbee-350576fed12a,,,,,,,,,4,2025-10-15,4,,,,,1462
+001Hr000028Zbqj,"Town Of Oro Valley, AZ",Arizona,Municipality,Ali Cohen,47879,,Tier 1,1.5,32.3909,-110.9665,6ceb7ff9-546a-4c3e-95d7-3c831f1e32a1,,,,,,,,,6,2026-04-29,1,5,,,,1455
+001Hr000028Zbsm,"Town Of Guadalupe, AZ",Arizona,Municipality,Ali Cohen,5307,,Tier 3,0.75,33.3637,-111.9631,2abe9b72-4b70-4ff8-8d59-33ffd5250335,,,,,,,,,1,2026-02-25,1,,,,,1340
+001Hr000028Zbtn,"Town Of Sahuarita, AZ",Arizona,Municipality,Ali Cohen,35337,,Tier 1,1.5,31.9576,-110.9556,bf136f14-d894-456c-adcc-89f56cd9a18c,,,,,,,,,5,2025-10-09,,5,,,,1464
+001Hr000028ZbyV,"City Of El Mirage, AZ",Arizona,Municipality,Ali Cohen,36016,,Tier 1,1.5,33.6131,-112.3246,b3bb8f8a-f95a-4558-b90e-538544bd1e38,,,,,,,,,11,2026-01-21,11,,,,,1739
+001Hr000028Zc4O,"Town Of Snowflake, AZ",Arizona,Municipality,Ali Cohen,6364,Open Opportunity,Tier 3,0.75,34.5134,-110.0784,63fdb298-868d-432b-9e61-eef0b2e5b3b8,Open,Meeting Booked,Top of Funnel,Ali Cohen,1/6/2026,11/3/2025,,,25,2026-04-29,25,,,,,2433
+001Hr000028Zc4W,"Town Of Marana, AZ",Arizona,Municipality,Ali Cohen,54895,,Tier S,2.0,32.4364,-111.2224,ba2448fe-1262-4e7c-bb9a-77707f6af458,,,,,,,,,12,2026-04-29,4,8,,,,1457
+001Hr000028Zc55,Town of Cave Creek,Arizona,Municipality,Ali Cohen,4933,Recent Competitor Purchase,Tier 3,0.75,33.8321,-111.9475,4ea695dc-59e4-42f8-b2b8-dbbbc529210a,,,,,,,,,,,,,,,,1339
+001Hr000028Zc5Z,"City Of Douglas, AZ",Arizona,Municipality,Ali Cohen,16513,Open Opportunity,Tier 2,1.0,31.3445,-109.5453,71c954f5-b211-4b36-b90d-73599ea0e688,Open,Initial Interest,Top of Funnel,Ali Cohen,,10/8/2025,,,41,2025-11-06,41,,,,,1458
+001Hr000028Zc6S,"Town Of Thatcher, AZ",Arizona,Municipality,Ali Cohen,5310,,Tier 3,0.75,32.8492,-109.7592,506d8733-5878-49ab-9301-970bb0ec9375,,,,,,,,,21,2026-04-22,21,,,,,2428
+001Hr000028Zc6m,City of Bisbee,Arizona,Municipality,Ali Cohen,4957,Recent Competitor Purchase,Tier 3,0.75,31.4482,-109.9284,b4592c34-b794-428c-b376-81c69f009246,,,,,,,,,17,2026-01-14,15,2,,,,1459
+001Hr000028Zc7I,"City Of Kingman, AZ",Arizona,Municipality,Ali Cohen,33822,,Tier 1,1.5,35.1913,-114.0523,624a06c9-365e-405e-8c52-ac0654ffed5d,,,,,,,,,7,2025-10-07,7,,,,,2440
+001Hr000028Zc8Y,"City Of Sierra Vista, AZ",Arizona,Municipality,Ali Cohen,45479,Recent Competitor Purchase,Tier 1,1.5,31.566,-110.2744,94343de0-ff24-4f40-936d-547805b1554d,,,,,,,,,6,2025-10-15,6,,,,,1460
+001Hr000028Zc8f,"City Of Benson, AZ",Arizona,Municipality,Ali Cohen,5355,,Tier 3,0.75,31.9679,-110.2945,6a2fa11d-3389-4549-813f-2dfedd0a6927,,,,,,,,,2,2025-11-10,1,,1,,,3523
+001Hr000028Zc8j,"Town Of Chino Valley, AZ",Arizona,Municipality,Ali Cohen,13492,,Tier 2,1.0,34.7575,-112.4538,50e50b94-be3c-491d-bd5f-dd5ec9ed278c,,,,,,,,,10,2025-11-10,10,,,,,2436
+001Hr000028Zc9w,"City Of Coolidge, AZ",Arizona,Municipality,Ali Cohen,14709,,Tier 2,1.0,32.9778,-111.5176,8aa0b6e2-9107-4a46-b95a-a66c72bfee61,,,,,,,,,5,2025-10-09,,5,,,,1461
+001Hr000028ZcAl,"City Of Bullhead City, AZ",Arizona,Municipality,Ali Cohen,42232,Open Opportunity,Tier 1,1.5,35.1359,-114.5286,ccdb78e3-e600-47f2-823d-1cb759d032d2,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,10,2026-04-17,10,,,,,2449
+001Hr000028ZcCP,"City Of San Luis, AZ",Arizona,Municipality,Ali Cohen,37333,Open Opportunity,Tier 1,1.5,32.487,-114.7822,902cadd4-a155-4294-90e6-052657f0f38e,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,30,2026-02-10,30,,,,,2427
+001Hr000028ZcDI,"Town Of Paradise Valley, AZ",Arizona,Municipality,Ali Cohen,12682,,Tier 2,1.0,33.5312,-111.9426,c5786270-0dce-4a38-86a2-a1529a3d3c51,,,,,,,,,8,2025-10-09,,8,,,,1337
+001Hr000028ZcEA,"Town Of Fountain Hills, AZ",Arizona,Municipality,Ali Cohen,23819,,Tier 2,1.0,33.6042,-111.7257,98f7dd72-a515-4bea-9617-17460bf5b360,,,,,,,,,6,2025-10-28,6,,,,,1341
+001Hr000028ZcEJ,"City Of Winslow, AZ",Arizona,Municipality,Ali Cohen,8943,Nurture,Tier 3,0.75,35.0242,-110.6974,172dfe4b-22fa-466d-ba1a-fd06bf2070de,Closed Lost,,,Ali Cohen,2/27/2026,2/26/2026,"$12,000",,5,2026-02-26,4,1,,,,2426
+001Hr000028ZcGz,"City Of Nogales, AZ",Arizona,Municipality,Ali Cohen,19766,,Tier 2,1.0,31.3404,-110.9343,c3fbaf60-1316-4c71-9b99-2310cdcae705,,,,,,,,,11,2025-10-21,11,,,,,1456
+001Hr000028ZcH4,"City Of South Tucson, AZ",Arizona,Municipality,Ali Cohen,4585,,Tier 3,0.75,32.1955,-110.9684,7e0dbd2d-8fb8-4620-aaf0-3a06fc9126fc,,,,,,,,,9,2026-04-20,9,,,,,1463
+001Hr000028ZcK0,"City Of Cottonwood, AZ",Arizona,Municipality,Ali Cohen,12440,Nurture,Tier 2,1.0,34.7392,-112.0099,df15baf6-67a5-4246-9681-5a4de3e5da3c,Closed Lost,,,Shane Lieberman,8/6/2024,1/5/2025,"$25,000",,1,2026-02-25,1,,,,,2435
+001Hr000028ZcLi,"City Of Show Low, AZ",Arizona,Municipality,Ali Cohen,11967,,Tier 2,1.0,34.2542,-110.0298,c6d2e63a-3534-4677-ade1-a2c0160804c0,,,,,,,,,11,2025-10-21,11,,,,,2432
+001Hr000028ZcMY,"Town Of Youngtown, AZ",Arizona,Municipality,Ali Cohen,7012,,Tier 3,0.75,33.5939,-112.3029,8ca23f12-3046-446e-9c0d-ff1c7a8e12a8,,,,,,,,,6,2025-10-28,6,,,,,1744
+001Hr000028ZcMi,"City Of Litchfield Park, AZ",Arizona,Municipality,Ali Cohen,6942,Implementation,Tier 3,0.75,33.4934,-112.3579,9510cd08-46c7-4201-bc60-6d0e9dd07832,Closed Won,,,Ali Cohen,3/4/2026,2/25/2026,"$35,000",,6,2026-02-25,3,3,,,,1740
+001Hr000028ZcN0,"City Of Somerton, AZ",Arizona,Municipality,Ali Cohen,14311,Nurture,Tier 2,1.0,32.5964,-114.7097,39974d26-0e09-4e69-a0c6-36048db5a8f5,Closed Lost,,,Ali Cohen,10/27/2025,10/21/2025,,,28,2026-02-24,28,,,,,2439
+001Hr000028ZcN2,"City Of Tolleson, AZ",Arizona,Municipality,Ali Cohen,7295,,Tier 3,0.75,33.45,-112.2593,7d474ee5-c186-4f19-8301-f1ed5812ab45,,,,,,,,,3,2025-10-14,3,,,,,1745
+001Hr000028ZcQl,"Town Of Camp Verde, AZ",Arizona,Municipality,Ali Cohen,12244,1+ Module Live,Tier 2,1.0,34.5636,-111.8543,58832996-674b-477e-adcb-4dd46a1ba091,Closed Won,,,Asher Rosenfeld,,1/5/2025,"$16,800",,,,,,,,,2434
+001Hr000028ZcSm,"Town Of Payson, AZ",Arizona,Municipality,Ali Cohen,16516,,Tier 2,1.0,34.2309,-111.3251,5a0d8e06-dfa3-4060-87f2-f5b8d8af9068,,,,,,,,,11,2025-10-21,11,,,,,2430
+001Hr000028ZcU5,"City Of Sedona, AZ",Arizona,Municipality,Ali Cohen,9763,,Tier 3,0.75,34.8626,-111.8137,e2513a72-434e-4307-aa6e-777e3aa4cc57,,,,,,,,,34,2026-02-17,30,,4,,,2425
+001Hr000028ZcUQ,"City Of Prescott, AZ",Arizona,Municipality,Ali Cohen,46833,Open Opportunity,Tier 1,1.5,34.5394,-112.4682,49bb7815-5fd7-4d98-bf5f-b813e64b0635,Open,Initial Interest,Top of Funnel,Ali Cohen,,10/22/2025,,,39,2026-02-05,39,,,,,2442
+001Hr000028ZcVU,"City of Buckeye, AZ",Arizona,Municipality,Ali Cohen,91500,,Tier S,2.0,33.3703,-112.5838,1f41d56d-286c-409b-80d5-6d4870c28f60,,,,,,,,,1,2025-09-08,,1,,,,11440
+001Hr000028ZcXD,"Town Of Prescott Valley, AZ",Arizona,Municipality,Ali Cohen,48188,Open Opportunity,Tier 1,1.5,34.6097,-112.3153,cbd8d68b-4707-4bc6-aaa2-7bca9163b4aa,Open,Initial Interest,Top of Funnel,Ali Cohen,,11/13/2025,,,16,2025-12-17,16,,,,,2441
+001Hr000028ZcXw,"Town Of Wickenburg, AZ",Arizona,Municipality,Ali Cohen,7695,,Tier 3,0.75,33.9698,-112.7302,6c12b78c-2573-4e82-b156-54fc31220465,,,,,,,,,,,,,,,,2438
+001Hr000028ZcYU,"City Of Page, AZ",Arizona,Municipality,Ali Cohen,7375,,Tier 3,0.75,36.9147,-111.4558,ec1d0bdc-f700-44f6-b89c-2735c85aee4c,,,,,,,,,32,2025-12-11,32,,,,,2437
+001Hr000028ZdE4,"Cochise County, AZ",Arizona,County,Ali Cohen,125773,,Tier S,2.0,31.8285,-109.9497,e5bc3146-6c6a-4f0d-83d1-3126ce337e44,,,,,,,,,9,2025-07-02,,9,,,,12141
+001Hr000028ZdIL,"City Of Yuma, AZ",Arizona,Municipality,Ali Cohen,97093,Nurture,Tier S,2.0,32.6927,-114.6277,dac0a093-888a-41f5-a038-b2df99794743,Closed Lost,,,Ali Cohen,2/19/2026,2/12/2026,,,13,2026-02-19,13,,,,,11443
+001Hr000028ZdMC,"City Of Avondale, AZ",Arizona,Municipality,Ali Cohen,90564,,Tier S,2.0,33.4356,-112.3496,af2e60e5-db90-4f66-bbb6-1b758192d29f,,,,,,,,,10,2025-12-01,9,,1,,,11436
+001Hr000028ZdQG,"Santa Cruz County, AZ",Arizona,County,Ali Cohen,50508,,Tier S,2.0,31.5986,-110.8076,cfd23deb-1bb2-431b-b2e2-ed1f3040d23f,,,,,,,,,13,2025-10-08,,12,,,1,12016
+001Hr000028ZdU3,"City Of Flagstaff, AZ",Arizona,Municipality,Ali Cohen,76989,Open Opportunity,Tier S,2.0,35.1983,-111.6513,2ab8a1b6-c636-40c5-bfde-6077752dc414,Open,Meeting Booked,Top of Funnel,Ali Cohen,7/22/2026,4/30/2026,,,25,2026-04-29,14,,11,,,11442
+001Hr000028ZdaI,"City Of Maricopa, AZ",Arizona,Municipality,Ali Cohen,76654,Implementation,Tier S,2.0,33.0581,-112.0476,71ef12d7-952f-4d21-8106-df0a3ace311d,Closed Won,,,Ali Cohen,,10/17/2025,"$87,500",,,,,,,,,11437
+001Hr000028ZdcH,"County of Yavapai, AZ",Arizona,County,Ali Cohen,252013,Recent Competitor Purchase,Tier S,2.0,34.6464,-112.4291,fce69747-12ae-42b4-98ab-8974a7e607b2,Closed Lost,,,Ali Cohen,10/23/2025,10/21/2025,"$95,000",,7,2025-10-21,7,,,,,12194
+001Hr000028ZdcR,"Graham County, AZ",Arizona,County,Ali Cohen,40242,Nurture,Tier 1,1.5,33.0768,-109.7592,0877bc2b-02e8-429d-bf63-4ea4317ea732,Closed Lost,,,Ali Cohen,2/19/2026,11/20/2025,,,4,2026-02-18,4,,,,,12018
+001Hr000028ZdeJ,"City Of Lake Havasu City, AZ",Arizona,Municipality,Ali Cohen,58284,,Tier S,2.0,34.477,-114.3192,daca85ab-eb08-4c3e-b54b-870d30d21b94,,,,,,,,,8,2025-12-11,8,,,,,11431
+001Hr000028ZdeO,"City Of Casa Grande, AZ",Arizona,Municipality,Ali Cohen,70156,Open Opportunity,Tier S,2.0,32.911,-111.7734,16df084b-a7e5-49d6-a858-b05486817db6,Open,Verbal,Mid Funnel,Ali Cohen,10/10/2025,10/7/2025,"$127,500",,2,2025-10-06,2,,,,,11435
+001Hr000028ZdhP,"Coconino County, AZ",Arizona,County,Ali Cohen,145161,Open Opportunity,Tier S,2.0,35.6648,-111.4753,a60eb5ab-b06e-4ef2-842a-d74b2ce1e2a3,Open,Meeting Booked,Top of Funnel,Ali Cohen,5/27/2026,4/30/2026,,,28,2026-04-29,6,22,,,,12140
+001Hr000028Zdok,"Navajo County, AZ",Arizona,County,Ali Cohen,109516,,Tier S,2.0,35.402,-110.1403,980d8e08-3638-4462-997f-eec72d77569c,,,,,,,,,14,2026-04-13,1,13,,,,12142
+001cv00000AuXAV,"Town Of Quartzsite, AZ",Arizona,Municipality,Ali Cohen,2358,,Tier 3,0.75,33.6639,-114.2299,6f497ad1-9ff5-4704-b45d-e5129e46dc09,,,,,,,,,2,2025-08-04,,2,,,,14040
+001cv00000AuXO1,"Town Of Superior, AZ",Arizona,Municipality,Ali Cohen,2479,Nurture,Tier 3,0.75,33.2939,-111.0962,88737320-1777-4686-ba52-6d7b5fca5d54,Closed Lost,,,Ali Cohen,,10/3/2025,,,3,2025-10-02,3,,,,,14147
+001cv00000AuXPg,"Town Of Colorado City, AZ",Arizona,Municipality,Ali Cohen,2520,Nurture,Tier 3,0.75,36.9903,-112.9758,03e9d42e-de8c-4d9e-9aa4-352d9d46d814,Closed Lost,,,Ali Cohen,10/30/2025,10/3/2025,"$17,000",,9,2025-10-28,9,,,,,14254
+001cv00000AuXTb,"Town Of Star Valley, AZ",Arizona,Municipality,Ali Cohen,2532,,Tier 3,0.75,34.2533,-111.2579,c184881a-0734-4858-91a5-115829a1e422,,,,,,,,,3,2025-10-06,3,,,,,14313
+001cv00000AuXmK,"Town Of Pima, AZ",Arizona,Municipality,Ali Cohen,2905,,Tier 3,0.75,32.8962,-109.8276,5df627b1-b7ab-4776-ad23-be17511cd74f,,,,,,,,,9,2025-10-08,9,,,,,14842
+001cv00000AuYIn,"Town Of Parker, AZ",Arizona,Municipality,Ali Cohen,3338,,Tier 3,0.75,34.15,-114.2891,872754f7-c0d4-41a5-8a69-8efb8d92ae7b,,,,,,,,,4,2026-04-06,4,,,,,15721
+001cv00000AuYK1,"City Of St Johns, AZ",Arizona,Municipality,Ali Cohen,3388,,Tier 3,0.75,34.5059,-109.3609,3b7395ce-2937-4ab6-871a-178c39140e03,,,,,,,,,,,,,,,,15846
+001cv00000AuYOK,"City Of Willcox, AZ",Arizona,Municipality,Ali Cohen,3205,Nurture,Tier 3,0.75,32.2529,-109.832,395da42a-2e68-4655-a5ae-d1a09a849ca8,Closed Lost,,,Jenny Allison,11/25/2025,11/6/2025,,,12,2025-12-10,,,,12,,15493
+001cv00000AuYPh,"City Of Williams, AZ",Arizona,Municipality,Ali Cohen,3267,,Tier 3,0.75,35.2495,-112.191,8a77dc90-744d-49da-9062-309597018092,,,,,,,,,32,2025-10-16,32,,,,,15414
+001cv00000AuYgd,"Town Of Clifton, AZ",Arizona,Municipality,Ali Cohen,3847,,Tier 3,0.75,33.0509,-109.2962,2bb4169a-dc72-4a92-b7d5-47ada50b75cc,,,,,,,,,,,,,,,,16172
+001cv00000AuYnp,"Town Of Pinetop Lakeside, AZ",Arizona,Municipality,Ali Cohen,4102,,Tier 3,0.75,34.1425,-109.9604,f36edbb5-1769-4e51-96cb-d477c0d11158,,,,,,,,,2,2026-04-29,2,,,,,16656
+001cv00000AuYoA,"Town Of Taylor, AZ",Arizona,Municipality,Ali Cohen,4119,,Tier 3,0.75,34.465,-110.0912,e1a5d69e-e774-4f8a-9bcc-1d1789cbc8e3,,,,,,,,,,,,,,,,16715
+001cv00000AuYrA,"Town Of Carefree, AZ",Arizona,Municipality,Ali Cohen,3685,,Tier 3,0.75,33.8223,-111.9182,e39bd4f6-a982-4b96-bd00-8afb65581976,,,,,,,,,4,2026-04-28,4,,,,,16432
+001cv00000AuYyE,"Town Of Eagar, AZ",Arizona,Municipality,Ali Cohen,4439,,Tier 3,0.75,34.1112,-109.2915,c10b910f-66cb-4ce3-bb8b-36c5e5c2d0b4,,,,,,,,,9,2025-08-05,,9,,,,19957
+001cv00000AuYyU,"Town Of Dewey Humboldt, AZ",Arizona,Municipality,Ali Cohen,4455,,Tier 3,0.75,34.5032,-112.2425,bc5c65f4-bd65-4375-845d-f52ba0a9cf3d,,,,,,,,,,,,,,,,20019
+001cv00000AuZZg,"County Of Greenlee, AZ",Arizona,County,Ali Cohen,9404,,Tier 3,0.75,33.2406,-109.2832,66f14b3a-cae3-48e8-a67e-8b8fb3377d36,,,,,,,,,6,2025-09-19,,6,,,,18568
+001cv00000AuZqs,"County Of La Paz, AZ",Arizona,County,Ali Cohen,16408,Open Opportunity,Tier 2,1.0,34.0061,-113.9536,e05df0e6-d8ff-4f36-a654-bccb23a78a16,Open,Sales Qualified,Mid Funnel,Ali Cohen,11/12/2025,10/21/2025,,,10,2025-11-19,9,1,,,,18415
+001cv00000AuaLe,"County Of Gila, AZ",Arizona,County,Ali Cohen,53589,,Tier S,2.0,33.6371,-110.5215,9b7a29a1-ab88-404e-a212-a3c2a704831d,,,,,,,,,12,2025-11-07,12,,,,,19433
+001cv00000AuaPD,"County Of Apache, AZ",Arizona,County,Ali Cohen,65623,Open Opportunity,Tier S,2.0,35.5313,-109.3783,171d6cdb-1498-43f4-8600-f8c0ca422598,Open,Sales Qualified,Mid Funnel,Ali Cohen,4/30/2026,4/28/2026,,,22,2026-04-30,6,16,,,,19731
+001cv00000B21sM,"Town Of Wellton, AZ",Arizona,Municipality,Ali Cohen,2447,,Tier 3,0.75,32.6728,-114.1469,b92c3da1-b045-48ee-96fc-07ae62be6055,,,,,,,,,1,2025-07-23,,1,,,,20208
+001cv00000B220x,"Town Of Clarkdale, AZ",Arizona,Municipality,Ali Cohen,4635,,Tier 3,0.75,34.7711,-112.0579,8b272917-eb50-4219-990e-bcccc2302e82,,,,,,,,,8,2025-09-19,,8,,,,20551
+001cv00000bBVwL,Town of Mammoth,Arizona,Municipality,Asher Rosenfeld,1181,,Tier 3,0.75,32.7226,-110.6407,103efde8-cab0-4005-a38e-4a7c164b98d0,,,,,,,,,,,,,,,,21665
+001cv00000bBVy2,Town of Fredonia,Arizona,Municipality,Asher Rosenfeld,1290,,Tier 3,0.75,36.9455,-112.5266,020521f6-8f5d-4ce1-a40f-4622c777ed88,,,,,,,,,,,,,,,,21685
+001cv00000bBWJu,Town of Gila Bend,Arizona,Municipality,Asher Rosenfeld,1847,,Tier 3,0.75,32.9478,-112.7168,a1131d59-fcf0-444e-a95f-64a5926ecded,,,,,,,,,,,,,,,,21803
+001cv00000bBWKZ,Town of Kearny,Arizona,Municipality,Asher Rosenfeld,1898,,Tier 3,0.75,33.0613,-110.9067,8ea60ce1-deff-4b6e-b15f-ea185eb4f992,,,,,,,,,,,,,,,,21844
+001cv00000bBWNd,Town of Huachuca City,Arizona,Municipality,Asher Rosenfeld,1604,,Tier 3,0.75,31.6274,-110.3355,b2393f31-483d-4aab-9631-5fbace070908,,,,,,,,,,,,,,,,22055
+001cv00000bBWPX,Town of Springerville,Arizona,Municipality,Asher Rosenfeld,1723,,Tier 3,0.75,34.1334,-109.2859,3bb5e2c5-dedf-40ac-9294-44cc4fe15e9e,,,,,,,,,,,,,,,,22170
+001cv00000bBWSJ,City of Goodyear,Arizona,Municipality,Asher Rosenfeld,118186,,Tier S,2.0,33.4353,-112.3577,f93b31ac-2cf7-4a26-92c4-db8fc1d6d2f1,,,,,,,,,,,,,,,,22322
+001cv00000bBWTh,City of Surprise,Arizona,Municipality,Asher Rosenfeld,167564,,Tier S,2.0,33.6292,-112.3679,aad139af-3519-413b-8103-a6ef98d68982,,,,,,,,,,,,,,,,22414
+001cv00000bBWTz,City of Tempe,Arizona,Municipality,Asher Rosenfeld,190114,,Tier S,2.0,33.4255,-111.94,5ef2ad2e-fa54-48c8-b063-ef435b12331d,,,,,,,,,,,,,,,,22418
+001cv00000bBWXj,City of Mesa,Arizona,Municipality,Asher Rosenfeld,517151,,Tier S,2.0,33.4152,-111.8315,a8bf3ecc-3224-43c1-b514-6dcc287a5bef,,,,,,,,,,,,,,,,22463
+001cv00000bBWXx,City of Tucson,Arizona,Municipality,Asher Rosenfeld,554013,,Tier S,2.0,32.254,-110.9742,bba7230d-98f7-45f0-84ab-2481fa058e6e,,,,,,,,,,,,,,,,22445
+001cv00000bBWZD,Pima County,Arizona,County,Asher Rosenfeld,1080149,,Tier S,2.0,32.0575,-111.6661,3caf140b-11b9-4028-9ded-38d754b50ac7,,,,,,,,,,,,,,,,22526
+001cv00000bBWZa,City of Phoenix,Arizona,Municipality,Asher Rosenfeld,1673164,,Tier S,2.0,33.4483,-112.0725,e9047eaa-c0b9-4200-a99a-ffabaab183a8,,,,,,,,,,,,,,,,22548
+001cv00000bBWZn,Maricopa County,Arizona,County,Asher Rosenfeld,4673096,,Tier S,2.0,33.2918,-112.4291,00ac3119-64ca-48c1-a9cc-88e9a288722c,,,,,,,,,,,,,,,,22562
+001cv00000bBWtR,City of Tombstone,Arizona,Municipality,Asher Rosenfeld,1382,,Tier 3,0.75,31.7129,-110.0676,66a727b0-d413-43ae-95f6-336761dd43f0,,,,,,,,,,,,,,,,22627
+001cv00000bBWwy,Town of Miami,Arizona,Municipality,Asher Rosenfeld,1531,,Tier 3,0.75,33.3992,-110.8687,cf8c1c92-93c2-4fa8-a145-7a778f0ce3a6,,,,,,,,,,,,,,,,22711
+001cv00000bBWyc,Yuma County,Arizona,County,Asher Rosenfeld,220310,,Tier S,2.0,32.6528,-113.9536,933ef9cc-a666-4794-a86a-137c4cf67282,,,,,,,,,,,,,,,,22749
+001cv00000bBWyf,Mohave County,Arizona,County,Asher Rosenfeld,226479,,Tier S,2.0,35.2143,-113.7633,08935d74-1290-413a-916d-d9066da8ccfe,,,,,,,,,,,,,,,,22724
+001cv00000bBWys,City of Scottsdale,Arizona,Municipality,Asher Rosenfeld,246170,,Tier S,2.0,33.4949,-111.9217,f88dc101-4a8f-4718-8567-a4beafe875ee,,,,,,,,,,,,,,,,22726
+001cv00000bBWz0,City of Glendale,Arizona,Municipality,Asher Rosenfeld,258143,,Tier S,2.0,33.5387,-112.186,b65fbb6b-cb36-4bca-af67-91f4b633ad68,,,,,,,,,,,,,,,,22764
+001cv00000bBWzK,City of Chandler,Arizona,Municipality,Asher Rosenfeld,281231,,Tier S,2.0,33.3062,-111.8413,518bfcbd-6cd6-4a9c-a9c2-9f1d927f4b82,,,,,,,,,,,,,,,,22794
+001cv00000bBWzN,Town of Gilbert,Arizona,Municipality,Asher Rosenfeld,288790,,Tier S,2.0,33.3528,-111.789,91463e30-5c66-42ab-8211-e0c88b05108f,,,,,,,,,,,,,,,,22791
+001cv00000bBX1S,Pinal County,Arizona,County,Asher Rosenfeld,513862,,Tier S,2.0,32.8162,-111.2845,ec707fb0-c5f4-4f7f-a61d-7f99bd0a0b72,,,,,,,,,,,,,,,,22867

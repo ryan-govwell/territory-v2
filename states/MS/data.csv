@@ -1,188 +1,188 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ryan Minter,Calls - Sydney Ireland,Calls - Leila Assil,Calls - Nick Martino,Calls - Quinzel Perry,Calls - Ben Laddis,Calls - Jenny Allison
-001Hr000028Zc1e,"City Of Louisville, MS",Mississippi,Municipality,Sydney Ireland,6008,Nurture,Tier 3,0.75,33.1237,-89.0551,b08af4f1-fcbf-4357-9d1a-12308608cd75,Closed Lost,,,Liam Shaw,7/10/2024,1/5/2025,,,9,2026-01-27,9,,,,,,
-001Hr000028Zc3T,"City Of Diamondhead, MS",Mississippi,Municipality,Sydney Ireland,9442,Open Opportunity,Tier 3,0.75,30.3946,-89.3639,4173ff7b-b2c3-4db2-be3d-ac3ee6b143ee,Open,Initial Interest,Top of Funnel,Ryan Minter,8/4/2025,7/24/2025,,,19,2026-04-29,18,1,,,,,
-001Hr000028Zc8z,"Town Of Leakesville, MS",Mississippi,Municipality,Sydney Ireland,3603,Nurture,Tier 3,0.75,31.1557,-88.5578,71fb4a16-1bba-4d49-b72c-8672ee5bf8b6,Closed Lost,,,Liam Shaw,7/1/2024,1/5/2025,"$16,000",,,,,,,,,,
-001Hr000028Zc9J,"City Of Ripley, MS",Mississippi,Municipality,Sydney Ireland,5362,All Modules Live,Tier 3,0.75,34.7298,-88.9506,c17ddb3c-545a-42d4-858b-cbcbe50ba259,Closed Won,,,Liam Shaw,6/28/2024,1/5/2025,"$9,000",,,,,,,,,,
-001Hr000028ZcBK,"City Of Amory, MS",Mississippi,Municipality,Sydney Ireland,6513,,Tier 3,0.75,33.9843,-88.4881,c636167a-ec9a-47ed-8f60-6c437f8b2072,,,,,,,,,3,2026-05-08,,3,,,,,
-001Hr000028ZcBY,"City Of Booneville, MS",Mississippi,Municipality,Sydney Ireland,9081,Nurture,Tier 3,0.75,34.6582,-88.5667,ac057539-b5f4-4510-8af5-1e5942e12531,Closed Lost,,,Liam Shaw,7/10/2024,1/5/2025,,,11,2026-04-30,1,3,7,,,,
-001Hr000028ZcDn,"City Of Philadelphia, MS",Mississippi,Municipality,Sydney Ireland,6995,,Tier 3,0.75,32.7715,-89.1167,87199ebe-a2be-4ec9-8301-2e6d1a62d19f,,,,,,,,,,,,,,,,,
-001Hr000028ZcGT,"City Of West Point, MS",Mississippi,Municipality,Sydney Ireland,9983,,Tier 3,0.75,33.6076,-88.6503,350ee120-6c10-4979-b7e3-2b35e411f2a0,,,,,,,,,2,2026-04-29,1,1,,,,,
-001Hr000028ZcPH,"Town Of Saltillo, MS",Mississippi,Municipality,Sydney Ireland,4910,Nurture,Tier 3,0.75,34.3765,-88.6817,a4824877-bf0d-436d-9003-64b96f506d56,Closed Lost,,,Joe del Rosario,3/19/2025,2/25/2025,,,,,,,,,,,
-001Hr000028ZcQn,"City Of Kosciusko, MS",Mississippi,Municipality,Sydney Ireland,7022,,Tier 3,0.75,33.0576,-89.5876,0e9ab6c2-cb1e-4fb8-9a90-c841b4bfea3f,,,,,,,,,9,2026-05-06,8,1,,,,,
-001Hr000028ZcSo,"City Of Holly Springs, MS",Mississippi,Municipality,Sydney Ireland,6565,,Tier 3,0.75,34.7676,-89.4487,de35d4c3-878e-4ff4-9d28-c00d93b7f839,,,,,,,,,14,2026-02-04,14,,,,,,
-001Hr000028ZcTE,"City Of Starkville, MS",Mississippi,Municipality,Sydney Ireland,24657,,Tier 2,1.0,33.4504,-88.8184,4b8b4da3-67eb-4df7-952b-795c7dd98be7,,,,,,,,,9,2026-04-29,4,5,,,,,
-001Hr000028ZcXa,"City Of D'Iberville, MS",Mississippi,Municipality,Sydney Ireland,13236,,Tier 2,1.0,30.4263,-88.8909,de8b9e74-b414-4811-b7d8-d2b89aedfd4c,,,,,,,,,1,2026-04-09,,1,,,,,
-001Hr000028Zcab,"City Of Aberdeen, MS",Mississippi,Municipality,Sydney Ireland,4856,Nurture,Tier 3,0.75,33.8251,-88.5437,866bc82c-4163-467d-aafd-a2fed12c664e,Closed Lost,,,Liam Shaw,7/15/2024,1/5/2025,,,1,2026-01-27,1,,,,,,
-001Hr000028ZcbH,"City Of Batesville, MS",Mississippi,Municipality,Sydney Ireland,7326,,Tier 3,0.75,34.3115,-89.9443,b53cf1bc-e47e-4814-a588-45c5778e29a1,,,,,,,,,1,2025-08-13,1,,,,,,
-001Hr000028ZccB,"City Of Cleveland, MS",Mississippi,Municipality,Sydney Ireland,10909,Open Opportunity,Tier 2,1.0,33.744,-90.7248,7b39aea4-017a-4169-90d9-185ae28c5bd4,Open,Meeting Booked,Top of Funnel,Sydney Ireland,4/20/2026,4/13/2026,,,16,2026-05-08,6,10,,,,,
-001Hr000028ZcdH,"City Of Senatobia, MS",Mississippi,Municipality,Sydney Ireland,8099,,Tier 3,0.75,34.6176,-89.9687,1a705e90-86f5-4aa3-a35c-2cf8b57b25d3,,,,,,,,,4,2026-04-30,2,2,,,,,
-001Hr000028Zcda,"City Of Pontotoc, MS",Mississippi,Municipality,Sydney Ireland,5684,Open Opportunity,Tier 3,0.75,34.2479,-88.9987,d77a4c44-4c6c-49e2-b0fb-eb58cc351df6,Open,Sales Qualified,Mid Funnel,Sydney Ireland,5/1/2026,8/12/2025,,Yes,7,2026-05-01,2,5,,,,,
-001Hr000028Zcef,"City Of Columbus, MS",Mississippi,Municipality,Sydney Ireland,23319,Cold,Tier 2,1.0,33.4957,-88.4273,576be1c3-1d3e-4ab2-9c6f-0452bb3305af,Closed Lost,,,Liam Shaw,7/11/2024,1/5/2025,,,13,2026-05-08,2,6,5,,,,
-001Hr000028Zcg1,"City Of Corinth, MS",Mississippi,Municipality,Sydney Ireland,14382,,Tier 2,1.0,34.9343,-88.5223,fe01ade5-ae6a-4c13-9a41-0f3e5bd7462a,,,,,,,,,6,2026-04-15,2,,4,,,,
-001Hr000028Zcg2,"City Of Pearl, MS",Mississippi,Municipality,Sydney Ireland,27258,Nurture,Tier 1,1.5,32.2663,-90.1343,5241e765-a228-4d45-9242-c70f0dd880c0,Closed Lost,,,Liam Shaw,7/2/2024,1/5/2025,,,11,2026-02-20,11,,,,,,
-001Hr000028Zcgx,"City Of Forest, MS",Mississippi,Municipality,Sydney Ireland,5339,,Tier 3,0.75,32.3646,-89.4742,87e63e97-fb3c-4aed-b7b3-7d456925cb4b,,,,,,,,,12,2026-05-08,9,3,,,,,
-001Hr000028ZchS,"City Of Pass Christian, MS",Mississippi,Municipality,Sydney Ireland,5882,Open Opportunity,Tier 3,0.75,30.3158,-89.2475,65a48ba7-2e1b-41c3-ad4c-f4cc746172fc,Open,Sales Qualified,Mid Funnel,Ryan Minter,4/30/2026,4/15/2026,,,5,2026-04-27,5,,,,,,
-001Hr000028Zcj0,"City Of New Albany, MS",Mississippi,Municipality,Sydney Ireland,7618,Nurture,Tier 3,0.75,34.4943,-89.0078,22f97a64-d1f8-4010-ae6e-08f1f21dd025,Closed Lost,,,Liam Shaw,7/17/2024,1/5/2025,"$7,200",,4,2026-02-23,4,,,,,,
-001Hr000028Zclp,"City Of Richland, MS",Mississippi,Municipality,Sydney Ireland,7180,,Tier 3,0.75,32.2392,-90.1654,d55a193d-bfde-4f8d-8c55-05443ee91bdd,,,,,,,,,2,2026-04-15,2,,,,,,
-001Hr000028Zcn0,"City Of Waveland, MS",Mississippi,Municipality,Sydney Ireland,7038,,Tier 3,0.75,30.2869,-89.3762,eb627eb3-647e-47a0-987f-9ece184c744c,,,,,,,,,5,2026-04-15,5,,,,,,
-001Hr000028Zcn3,"City Of Hernando, MS",Mississippi,Municipality,Sydney Ireland,17345,,Tier 2,1.0,34.824,-89.9937,9068d533-110c-414f-820b-ff95305b4a17,,,,,,,,,1,2026-04-10,,1,,,,,
-001Hr000028ZcqA,"City Of Bay St Louis, MS",Mississippi,Municipality,Sydney Ireland,10009,,Tier 2,1.0,30.3088,-89.33,2f19b0fd-87d4-461a-8fc4-921eb5990f8a,,,,,,,,,1,2026-02-19,1,,,,,,
-001Hr000028ZcrG,"City Of Moss Point, MS",Mississippi,Municipality,Sydney Ireland,12039,,Tier 2,1.0,30.4116,-88.5345,a5393bff-3059-45d6-9e65-9546a3cc00ba,,,,,,,,,17,2026-04-10,16,1,,,,,
-001Hr000028ZctW,"County Of Grenada, MS",Mississippi,County,Sydney Ireland,21365,,Tier 2,1.0,33.769,-89.8084,8453354f-4d04-462a-9fc7-94ad8c0d0778,,,,,,,,,,,,,,,,,
-001Hr000028ZcuX,"City Of Vicksburg, MS",Mississippi,Municipality,Sydney Ireland,20904,,Tier 2,1.0,32.3526,-90.8779,a3671857-1f55-4bb2-bb8f-ade71da62d2c,,,,,,,,,6,2026-04-10,5,1,,,,,
-001Hr000028Zcuq,"City Of Indianola, MS",Mississippi,Municipality,Sydney Ireland,9342,Open Opportunity,Tier 3,0.75,33.451,-90.6551,93d54675-21b6-4b14-8c22-e7fb7775cd8c,Open,Initial Interest,Top of Funnel,Ryan Minter,,2/4/2026,,,18,2026-02-12,18,,,,,,
-001Hr000028Zcvk,"City Of Flowood, MS",Mississippi,Municipality,Sydney Ireland,10373,,Tier 2,1.0,32.3381,-90.0928,fc2f8af3-1bac-41c3-a3db-be18f04b4886,,,,,,,,,4,2026-04-10,,4,,,,,
-001Hr000028Zcwe,"City Of Canton, MS",Mississippi,Municipality,Sydney Ireland,10688,Nurture,Tier 2,1.0,32.6126,-90.0368,2d529ad9-4cc9-4db8-b416-ddd992b153f4,Closed Lost,,,Liam Shaw,7/26/2024,1/5/2025,,,10,2026-04-30,1,1,,8,,,
-001Hr000028Zcx1,"City Of Picayune, MS",Mississippi,Municipality,Sydney Ireland,11784,Open Opportunity,Tier 2,1.0,30.5293,-89.6855,7471489e-9880-4866-9fc6-97ac9ed5c901,Open,Meeting Booked,Top of Funnel,Ryan Minter,2/4/2026,1/29/2026,,,24,2026-02-12,24,,,,,,
-001Hr000028ZcxZ,"City Of Yazoo City, MS",Mississippi,Municipality,Sydney Ireland,10163,,Tier 2,1.0,32.8551,-90.4056,465128d7-f940-4346-9b65-24b7668d821d,,,,,,,,,16,2026-05-08,13,3,,,,,
-001Hr000028Zcxg,"City Of Clarksdale, MS",Mississippi,Municipality,Sydney Ireland,14410,,Tier 2,1.0,34.2001,-90.5709,e50e2899-371a-45b7-b437-de08490b817b,,,,,,,,,16,2026-04-24,11,5,,,,,
-001Hr000028ZcyE,"City Of Petal, MS",Mississippi,Municipality,Sydney Ireland,11505,,Tier 2,1.0,31.3466,-89.2601,ce4ea325-3497-4004-8175-d6ff9102d13d,,,,,,,,,2,2026-04-10,,2,,,,,
-001Hr000028Zcyj,"Tate County, MS",Mississippi,County,Sydney Ireland,28261,Open Opportunity,Tier 1,1.5,34.6414,-89.9627,e8f029be-e09c-402a-9024-874fed195944,Open,Initial Interest,Top of Funnel,Ryan Minter,7/23/2025,7/16/2025,,,9,2026-04-30,8,1,,,,,
-001Hr000028Zczl,"City Of Natchez, MS",Mississippi,Municipality,Sydney Ireland,13824,Nurture,Tier 2,1.0,31.5604,-91.4032,3b9e7d0d-69de-42b1-8996-d7f324cb7b17,Closed Lost,,,Ryan Minter,8/5/2025,7/29/2025,,,14,2026-03-03,14,,,,,,
-001Hr000028Zd0J,"City Of Brookhaven, MS",Mississippi,Municipality,Sydney Ireland,11812,,Tier 2,1.0,31.5791,-90.4407,5a8bd387-8835-467e-bc8f-5e8b37bbad7c,,,,,,,,,17,2026-04-09,16,1,,,,,
-001Hr000028Zd1S,"City Of Long Beach, MS",Mississippi,Municipality,Sydney Ireland,16856,,Tier 2,1.0,30.3505,-89.1528,6b41f4db-e823-446c-8669-445b8631fd25,,,,,,,,,2,2026-04-10,1,1,,,,,
-001Hr000028Zd1b,"City Of Mccomb, MS",Mississippi,Municipality,Sydney Ireland,12217,Open Opportunity,Tier 2,1.0,31.2438,-90.4532,447569c7-b062-4f5a-9a7e-dfde081e0dd1,Open,Meeting Booked,Top of Funnel,Sydney Ireland,4/14/2026,4/10/2026,,,15,2026-04-15,13,2,,,,,
-001Hr000028Zd25,"City Of Byram, MS",Mississippi,Municipality,Sydney Ireland,12456,Nurture,Tier 2,1.0,32.1793,-90.2454,fdae499e-9852-4627-8068-7bd9b70a8ea9,Closed Lost,,,Liam Shaw,7/18/2024,1/5/2025,,,24,2026-01-27,24,,,,,,
-001Hr000028Zd3o,"City Of Greenwood, MS",Mississippi,Municipality,Sydney Ireland,14037,Open Opportunity,Tier 2,1.0,33.5162,-90.1795,753cf25b-ee05-4426-9a7f-c30e2bf6c2a7,Open,Proposal,Mid Funnel,Ryan Minter,9/23/2025,8/6/2025,"$22,000",,9,2025-09-23,9,,,,,,
-001Hr000028Zd3q,"City Of Ocean Springs, MS",Mississippi,Municipality,Sydney Ireland,18387,,Tier 2,1.0,30.4113,-88.8278,327556da-6858-442b-9651-43c3d635471e,,,,,,,,,13,2026-04-17,10,3,,,,,
-001Hr000028Zd3z,"City Of Clinton, MS",Mississippi,Municipality,Sydney Ireland,27451,Open Opportunity,Tier 1,1.5,32.3415,-90.3218,7e18c781-3a3b-4255-b461-a36a79b40c32,Open,Proposal,Mid Funnel,Ryan Minter,8/8/2025,8/6/2025,"$28,000",Yes,10,2025-08-13,10,,,,,,
-001Hr000028Zd6L,"City Of Greenville, MS",Mississippi,Municipality,Sydney Ireland,28777,,Tier 1,1.5,33.3997,-91.0377,639be9fc-2c29-4b14-baeb-dcba4031d5a5,,,,,,,,,11,2026-02-23,11,,,,,,
-001Hr000028Zd7k,"City Of Gautier, MS",Mississippi,Municipality,Sydney Ireland,18996,,Tier 2,1.0,30.3858,-88.6117,87164334-0716-4f4c-ae82-1ebfb4498722,,,,,,,,,5,2026-04-29,,5,,,,,
-001Hr000028Zd8S,"City Of Laurel, MS",Mississippi,Municipality,Sydney Ireland,17106,Open Opportunity,Tier 2,1.0,31.6941,-89.1306,4afc6fe8-340a-4aad-8996-81cdc2313504,Closed Lost,,,Liam Shaw,8/6/2024,1/5/2025,"$25,000",,1,2026-02-23,1,,,,,,
-001Hr000028Zd9b,"City Of Oxford, MS",Mississippi,Municipality,Sydney Ireland,26430,,Tier 1,1.5,34.366,-89.5188,45113913-ca98-43aa-a270-51effdbdf51b,,,,,,,,,13,2026-02-19,11,,2,,,,
-001Hr000028ZdBg,"City Of Pascagoula, MS",Mississippi,Municipality,Sydney Ireland,21849,,Tier 2,1.0,30.3658,-88.5561,1c4f1d95-a8d4-43fe-a6b0-817b852b9739,,,,,,,,,16,2026-04-24,12,4,,,,,
-001Hr000028ZdBj,"Town Of Brandon, MS",Mississippi,Municipality,Sydney Ireland,25373,Open Opportunity,Tier 1,1.5,32.2789,-90.0014,de5d9496-8a65-4f61-9068-8cfd45355f84,Open,Sales Qualified,Mid Funnel,Sydney Ireland,5/7/2026,4/30/2026,,,9,2026-05-06,7,2,,,,,
-001Hr000028ZdCG,"City Of Ridgeland, MS",Mississippi,Municipality,Sydney Ireland,24058,Open Opportunity,Tier 2,1.0,32.4285,-90.1323,fbdc9412-67eb-4caf-ba0b-b6e06cb3ab9a,Open,Initial Interest,Top of Funnel,Ryan Minter,1/23/2026,7/23/2025,,,24,2026-04-28,24,,,,,,
-001Hr000028ZdDE,"City Of Horn Lake, MS",Mississippi,Municipality,Sydney Ireland,26737,,Tier 1,1.5,34.9554,-90.0348,669a5688-1a6f-459f-a8ee-6e963bb9d968,,,,,,,,,12,2026-02-23,12,,,,,,
-001Hr000028ZdFT,"City Of Madison, MS",Mississippi,Municipality,Sydney Ireland,27719,,Tier 1,1.5,32.4618,-90.1154,50a843b1-188e-489f-8cf2-e2347ee64970,,,,,,,,,8,2026-04-21,8,,,,,,
-001Hr000028ZdJ1,"City Of Meridian, MS",Mississippi,Municipality,Sydney Ireland,34424,,Tier 1,1.5,32.3643,-88.7037,7c58e262-f777-41ef-8998-063e714ab7fa,,,,,,,,,10,2026-02-24,10,,,,,,
-001Hr000028ZdJa,"City Of Tupelo, MS",Mississippi,Municipality,Sydney Ireland,37667,Nurture,Tier 1,1.5,34.2576,-88.7034,5930dd65-ddf5-4247-9365-ca107497f6d7,Closed Lost,,,Liam Shaw,7/3/2024,1/5/2025,,,21,2026-04-17,17,4,,,,,
-001Hr000028ZdKO,"City Of Olive Branch, MS",Mississippi,Municipality,Sydney Ireland,40276,,Tier 1,1.5,34.9618,-89.8295,3d35c6a7-9011-470b-b6d1-d639984592d5,,,,,,,,,9,2026-04-10,4,5,,,,,
-001Hr000028ZdLN,"City Of Hattiesburg, MS",Mississippi,Municipality,Sydney Ireland,47068,,Tier 1,1.5,31.3271,-89.2903,6789ce54-7da7-411a-9cd9-da2e28a3f205,,,,,,,,,3,2026-04-10,,3,,,,,
-001Hr000028ZdM5,"City Of Biloxi, MS",Mississippi,Municipality,Sydney Ireland,49241,Open Opportunity,Tier 1,1.5,30.3954,-88.887,baab129d-0b69-418c-8d5d-275cad345c35,Closed Lost,,,Ryan Minter,7/28/2025,7/24/2025,,,11,2026-04-10,10,1,,,,,
-001Hr000028ZddM,"Lafayette County, MS",Mississippi,County,Sydney Ireland,58467,All Modules Live,Tier S,2.0,34.4187,-89.4742,e332d9e9-6b62-4060-833b-a01bf8da610c,Closed Won,,,Ryan Minter,8/6/2025,7/22/2025,"$30,000",,14,2025-08-06,14,,,,,,
-001Hr000028ZdfE,"Madison County, MS",Mississippi,County,Sydney Ireland,114247,,Tier S,2.0,32.6729,-90.0373,a40f450c-c7e2-4829-ba29-f89a3357b9e6,,,,,,,,,2,2026-04-23,2,,,,,,
-001Hr000028Zdg0,"City Of Southaven, MS",Mississippi,Municipality,Sydney Ireland,55429,Open Opportunity,Tier S,2.0,34.9919,-90.0023,f86483dc-f5be-452a-8c6d-2b077bb234b0,Open,Initial Interest,Top of Funnel,Ryan Minter,2/17/2026,2/4/2026,,,9,2026-02-12,9,,,,,,
-001Hr000028ZdgU,"City Of Gulfport, MS",Mississippi,Municipality,Sydney Ireland,72105,,Tier S,2.0,30.3674,-89.0928,92a3552a-7fd9-4b1d-973c-c21ef73eae93,,,,,,,,,11,2026-05-08,5,6,,,,,
-001Hr000028ZdhQ,"Marshall County, MS",Mississippi,County,Sydney Ireland,34374,,Tier 1,1.5,34.7729,-89.4742,7b28f46c-2255-42cb-8773-b0927b1d7a3a,,,,,,,,,3,2026-02-19,3,,,,,,
-001Hr000028Zdi4,"Rankin County, MS",Mississippi,County,Sydney Ireland,160000,,Tier S,2.0,32.2654,-89.9253,58ab21da-7168-42f9-a35f-400a6a0188e9,,,,,,,,,9,2026-04-23,9,,,,,,
-001Hr000028ZdqL,"Washington County, MS",Mississippi,County,Sydney Ireland,44922,Open Opportunity,Tier 1,1.5,33.3001,-90.9438,fe27c87b-0657-4b58-b5e6-c5669a693be6,Open,Initial Interest,Top of Funnel,Ryan Minter,7/25/2025,7/17/2025,,,23,2026-04-24,17,6,,,,,
-001Hr000028Zdrt,"Harrison County, MS",Mississippi,County,Sydney Ireland,213730,,Tier S,2.0,30.4321,-89.0179,e6b1e83c-db1c-4dd4-94ed-7a867c1cf82b,,,,,,,,,7,2026-04-06,2,,5,,,,
-001Hr000028Zdtt,"DeSoto County, MS",Mississippi,County,Sydney Ireland,193247,Open Opportunity,Tier S,2.0,34.9065,-89.9627,475023b6-4702-4ed8-a1d9-83eb282ad839,Open,Initial Interest,Top of Funnel,Ryan Minter,1/7/2026,12/2/2025,,,6,2026-04-29,4,2,,,,,
-001Hr000028ZduH,"Jackson County, MS",Mississippi,County,Sydney Ireland,146389,,Tier S,2.0,30.4278,-88.5565,01a57288-6146-4458-bc40-a5552816cb8f,,,,,,,,,11,2026-04-30,2,3,6,,,,
-001cv00000AuWPN,"Town Of Farmington, MS",Mississippi,Municipality,Sydney Ireland,2031,,Tier 3,0.75,34.9306,-88.4583,26f31191-392c-4489-bdac-616a512861fa,,,,,,,,,,,,,,,,,
-001cv00000AuWcH,"City Of Durant, MS",Mississippi,Municipality,Sydney Ireland,2145,,Tier 3,0.75,33.0751,-89.8545,41974502-6c71-45f8-8142-7a00e72ac500,,,,,,,,,,,,,,,,,
-001cv00000AuWpQ,"City Of Mendenhall, MS",Mississippi,Municipality,Sydney Ireland,2181,,Tier 3,0.75,31.9618,-89.8701,6ce6dbc2-247e-427c-8b67-c9d6f837a256,,,,,,,,,3,2025-07-16,3,,,,,,
-001cv00000AuWvK,"City Of Collins, MS",Mississippi,Municipality,Sydney Ireland,2242,,Tier 3,0.75,31.6454,-89.5553,9115cf81-4019-481b-8f7b-9a926d8e0536,,,,,,,,,,,,,,,,,
-001cv00000AuX6w,"City Of Hollandale, MS",Mississippi,Municipality,Sydney Ireland,2277,,Tier 3,0.75,33.169,-90.854,c8bc237e-4819-4d3e-b115-67ab6637b629,,,,,,,,,,,,,,,,,
-001cv00000AuXI0,"City Of Macon, MS",Mississippi,Municipality,Sydney Ireland,2523,,Tier 3,0.75,33.1054,-88.5609,0b70eef2-d6ec-40a7-8e70-4b00d54aada8,,,,,,,,,,,,,,,,,
-001cv00000AuXOR,"City Of Okolona, MS",Mississippi,Municipality,Sydney Ireland,2487,,Tier 3,0.75,34.0018,-88.7553,5bdd92d1-969c-483e-bd94-a4ac12e5728d,,,,,,,,,,,,,,,,,
-001cv00000AuXUz,"City Of Ruleville, MS",Mississippi,Municipality,Sydney Ireland,2572,,Tier 3,0.75,33.7259,-90.5515,cbaef84f-54a1-4dec-bd09-d69a70513484,,,,,,,,,,,,,,,,,
-001cv00000AuXhJ,"City Of Verona, MS",Mississippi,Municipality,Sydney Ireland,2773,,Tier 3,0.75,34.1943,-88.7198,503746b7-89ca-42e6-a39d-705fd5df78c2,,,,,,,,,,,,,,,,,
-001cv00000AuXjR,"City Of Poplarville, MS",Mississippi,Municipality,Sydney Ireland,2822,,Tier 3,0.75,30.8402,-89.5342,ee869ba3-630d-4f92-87cd-f01aefdf7767,,,,,,,,,,,,,,,,,
-001cv00000AuXm8,"Town Of Tutwiler, MS",Mississippi,Municipality,Sydney Ireland,2900,,Tier 3,0.75,34.0148,-90.4318,8ddb9b12-2a42-46c6-82ce-e1ee21b65c6b,,,,,,,,,,,,,,,,,
-001cv00000AuXn5,"City Of Lucedale, MS",Mississippi,Municipality,Sydney Ireland,2934,,Tier 3,0.75,30.9252,-88.59,d8ce4dd8-c04f-40d2-b7d9-864e330214cc,,,,,,,,,,,,,,,,,
-001cv00000AuYC5,"City Of Baldwyn, MS",Mississippi,Municipality,Sydney Ireland,3118,,Tier 3,0.75,34.5095,-88.6353,322556bc-3e27-43b7-bf69-4b4011abc2e2,,,,,,,,,,,,,,,,,
-001cv00000AuYCc,"City Of Newton, MS",Mississippi,Municipality,Sydney Ireland,3137,,Tier 3,0.75,32.3213,-89.1634,637a6c76-71c9-4550-88a3-ed463fa4331d,,,,,,,,,,,,,,,,,
-001cv00000AuYGs,"City Of Iuka, MS",Mississippi,Municipality,Sydney Ireland,3066,Open Opportunity,Tier 3,0.75,34.8118,-88.19,f9fe2798-c18c-481e-9834-b35c09f223f6,Open,Meeting Booked,Top of Funnel,Ryan Minter,2/2/2026,1/22/2026,,,2,2026-02-02,2,,,,,,
-001cv00000AuYHm,"City Of Water Valley, MS",Mississippi,Municipality,Sydney Ireland,3301,,Tier 3,0.75,34.1515,-89.6315,9381bd33-5202-471a-add9-dddead4c5acd,,,,,,,,,,,,,,,,,
-001cv00000AuYRS,"City Of Hazlehurst, MS",Mississippi,Municipality,Sydney Ireland,3552,,Tier 3,0.75,31.8604,-90.3959,11b3bc9b-90ef-4dcd-b201-edb3142aed08,,,,,,,,,,,,,,,,,
-001cv00000AuYSe,"City Of Morton, MS",Mississippi,Municipality,Sydney Ireland,3615,,Tier 3,0.75,32.3538,-89.6545,e3619a65-383d-4e79-bc52-0beaf1491ddc,,,,,,,,,,,,,,,,,
-001cv00000AuYdl,"County Of Sharkey, MS",Mississippi,County,Sydney Ireland,3663,,Tier 3,0.75,32.9861,-90.8294,366ae8c4-38e9-4087-b3f1-d347f9845447,,,,,,,,,,,,,,,,,
-001cv00000AuYhR,"City Of Magee, MS",Mississippi,Municipality,Sydney Ireland,3888,,Tier 3,0.75,31.8738,-89.7337,2be40aff-3c32-4233-913b-6dcf01d5b987,,,,,,,,,,,,,,,,,
-001cv00000AuYhS,"City Of Leland, MS",Mississippi,Municipality,Sydney Ireland,3888,,Tier 3,0.75,33.4054,-90.8976,5a3f5cb7-da42-442a-9234-d30da0520205,,,,,,,,,,,,,,,,,
-001cv00000AuYm9,"City Of Fulton, MS",Mississippi,Municipality,Sydney Ireland,4022,,Tier 3,0.75,34.274,-88.4092,f92275eb-5ca5-4dba-a058-fc8985c2bea7,,,,,,,,,,,,,,,,,
-001cv00000AuYt4,"City Of Houston, MS",Mississippi,Municipality,Sydney Ireland,3772,,Tier 3,0.75,33.8984,-88.9992,bddeb2fa-3c39-4eb0-afd9-14d00e4ceba7,,,,,,,,,,,,,,,,,
-001cv00000AuYut,"City Of Wiggins, MS",Mississippi,Municipality,Sydney Ireland,4289,,Tier 3,0.75,30.8582,-89.1353,0194b975-9b9c-49a7-b2e7-acc02256e9a1,,,,,,,,,,,,,,,,,
-001cv00000AuYvn,"City Of Winona, MS",Mississippi,Municipality,Sydney Ireland,4339,,Tier 3,0.75,33.4821,-89.7281,42517d75-2a21-49c8-8a89-821ac6d4b2ab,,,,,,,,,,,,,,,,,
-001cv00000AuYzH,"City Of Ellisville, MS",Mississippi,Municipality,Sydney Ireland,4510,,Tier 3,0.75,31.6041,-89.1956,b37988ed-926a-440c-bdca-4a317e08ed3f,,,,,,,,,,,,,,,,,
-001cv00000AuYzn,"City Of Waynesboro, MS",Mississippi,Municipality,Sydney Ireland,4541,,Tier 3,0.75,31.6749,-88.6461,98dfb567-a676-4176-a9a6-2f3d5407ece1,,,,,,,,,,,,,,,,,
-001cv00000AuZA1,"City Of Crystal Springs, MS",Mississippi,Municipality,Sydney Ireland,4768,,Tier 3,0.75,31.9874,-90.357,1fececc3-e093-4171-9459-b4aeed909333,,,,,,,,,,,,,,,,,
-001cv00000AuZAk,"City Of Columbia, MS",Mississippi,Municipality,Sydney Ireland,5914,,Tier 3,0.75,31.2525,-89.8354,0c933538-9817-4197-b9dd-14b6768608bc,,,,,,,,,,,,,,,,,
-001cv00000AuZAt,"County Of Quitman, MS",Mississippi,County,Sydney Ireland,5935,,Tier 3,0.75,32.0401,-88.7281,23756703-33ce-4308-b1ef-86db8902d617,,,,,,,,,,,,,,,,,
-001cv00000AuZKH,"City Of Carthage, MS",Mississippi,Municipality,Sydney Ireland,5707,,Tier 3,0.75,32.7326,-89.5362,9d8f940c-f93b-43ca-a6bc-1005bae85461,,,,,,,,,1,2025-09-02,1,,,,,,
-001cv00000AuZOr,"County Of Jefferson, MS",Mississippi,County,Sydney Ireland,7205,,Tier 3,0.75,31.7158,-90.9821,cba7e30b-9e54-4255-bbf4-bec56cabd34c,,,,,,,,,,,,,,,,,
-001cv00000AuZRQ,"County Of Humphreys, MS",Mississippi,County,Sydney Ireland,7551,,Tier 3,0.75,33.1678,-90.5258,791bf0ed-5f80-469e-aa15-5f20e5fd84de,,,,,,,,,,,,,,,,,
-001cv00000AuZRe,"County Of Benton, MS",Mississippi,County,Sydney Ireland,7646,,Tier 3,0.75,34.7713,-89.1706,f3134bc7-bacd-458e-838f-c635d1587dad,,,,,,,,,,,,,,,,,
-001cv00000AuZRj,"County Of Franklin, MS",Mississippi,County,Sydney Ireland,7676,,Tier 3,0.75,31.4884,-90.8675,1f5479a9-dd63-49d0-91b5-f9fd7e0ea842,,,,,,,,,,,,,,,,,
-001cv00000AuZVj,"County Of Choctaw, MS",Mississippi,County,Sydney Ireland,8106,,Tier 3,0.75,33.3914,-89.2847,32bac49b-9430-4e9e-8a8c-3b073a392ed1,,,,,,,,,,,,,,,,,
-001cv00000AuZXb,"County Of Wilkinson, MS",Mississippi,County,Sydney Ireland,8315,,Tier 3,0.75,31.2224,-91.239,ef64fc02-7774-4e09-a718-beecb0d36d04,,,,,,,,,,,,,,,,,
-001cv00000AuZam,"County Of Perry, MS",Mississippi,County,Sydney Ireland,11571,,Tier 2,1.0,31.1673,-89.0179,edd2600f-5123-4f63-8f7d-beff84c883c7,,,,,,,,,,,,,,,,,
-001cv00000AuZb3,"County Of Lawrence, MS",Mississippi,County,Sydney Ireland,11812,,Tier 2,1.0,32.3251,-89.2328,b664189f-6f94-4b32-8aaf-b494de218381,,,,,,,,,,,,,,,,,
-001cv00000AuZcI,"County Of Webster, MS",Mississippi,County,Sydney Ireland,9983,,Tier 3,0.75,33.5707,-89.2847,96c92589-fa62-408e-8b50-24dfbe3cf925,,,,,,,,,,,,,,,,,
-001cv00000AuZcU,"County Of Noxubee, MS",Mississippi,County,Sydney Ireland,10123,,Tier 2,1.0,33.1606,-88.5565,04ffd558-90c9-4fff-b21e-eca221f54069,,,,,,,,,,,,,,,,,
-001cv00000AuZdb,"County Of Kemper, MS",Mississippi,County,Sydney Ireland,8829,,Tier 3,0.75,32.8018,-88.7109,ce136db9-2195-4cba-af06-9ac0a6b9087f,,,,,,,,,,,,,,,,,
-001cv00000AuZdl,"County Of Claiborne, MS",Mississippi,County,Sydney Ireland,8908,Open Opportunity,Tier 3,0.75,31.9438,-90.9438,03fab32a-abef-4f78-9247-1a246ab72217,Open,Initial Interest,Top of Funnel,Ryan Minter,,9/8/2025,,,5,2025-09-17,5,,,,,,
-001cv00000AuZfq,"County Of Calhoun, MS",Mississippi,County,Sydney Ireland,13018,,Tier 2,1.0,33.8839,-89.3227,aba48d09-3415-4f58-8fb2-b99f89d9a2f7,,,,,,,,,,,,,,,,,
-001cv00000AuZgS,"County Of Greene, MS",Mississippi,County,Sydney Ireland,13630,,Tier 2,1.0,31.1646,-88.7109,3071d162-b3a9-408b-a024-356915c4a091,,,,,,,,,,,,,,,,,
-001cv00000AuZi2,"County Of Clarke, MS",Mississippi,County,Sydney Ireland,15421,,Tier 2,1.0,32.0772,-88.7109,1ec6f862-0692-49c3-aa80-f0028eb070d2,,,,,,,,,,,,,,,,,
-001cv00000AuZiP,"County Of Tallahatchie, MS",Mississippi,County,Sydney Ireland,12366,,Tier 2,1.0,33.9303,-90.187,054230b4-ed05-4b59-b266-54096944d063,,,,,,,,,,,,,,,,,
-001cv00000AuZiU,"County Of Yalobusha, MS",Mississippi,County,Sydney Ireland,12415,,Tier 2,1.0,34.0639,-89.7755,11c26e19-01c9-46c4-a56a-8ed3095123ad,,,,,,,,,,,,,,,,,
-001cv00000AuZik,"County Of Amite, MS",Mississippi,County,Sydney Ireland,12637,,Tier 2,1.0,31.1684,-90.8294,41b2dac8-2176-4b42-8198-d4017a604b0c,,,,,,,,,,,,,,,,,
-001cv00000AuZjv,"County Of Tunica, MS",Mississippi,County,Sydney Ireland,9696,Nurture,Tier 3,0.75,34.6845,-90.3829,e6289394-90e5-4592-9488-0e7094e158cb,Closed Lost,,,Ryan Minter,1/13/2026,12/17/2025,,,4,2026-01-13,4,,,,,,
-001cv00000AuZjz,"County Of Montgomery, MS",Mississippi,County,Sydney Ireland,9729,,Tier 3,0.75,33.5274,-89.6252,bf13285c-ea83-4b67-b553-c885179e7030,,,,,,,,,,,,,,,,,
-001cv00000AuZkH,"County Of Carroll, MS",Mississippi,County,Sydney Ireland,9879,,Tier 3,0.75,33.528,-89.9253,56a455e3-e0a2-46e2-8609-0542c926c476,,,,,,,,,1,2025-10-27,,,,,1,,
-001cv00000AuZlu,"County Of Jefferson Davis, MS",Mississippi,County,Sydney Ireland,11134,,Tier 2,1.0,31.5825,-89.813,7488cf4c-086a-4ffe-9272-fa9dd0fdb134,,,,,,,,,,,,,,,,,
-001cv00000AuZnH,"County Of Walthall, MS",Mississippi,County,Sydney Ireland,13836,,Tier 2,1.0,31.1252,-90.1121,1e2df7f7-5ee0-47f6-a801-16caef7ac3ff,,,,,,,,,,,,,,,,,
-001cv00000AuZnn,"County Of Smith, MS",Mississippi,County,Sydney Ireland,14191,,Tier 2,1.0,32.0827,-89.4742,34c8ac6f-7421-4750-b659-c0132b968484,,,,,,,,,,,,,,,,,
-001cv00000AuZpP,"County Of Jasper, MS",Mississippi,County,Sydney Ireland,16291,,Tier 2,1.0,32.081,-89.1706,d311cc00-0cb2-4976-b086-2deccb6f6a57,,,,,,,,,,,,,,,,,
-001cv00000AuZqy,"County Of Holmes, MS",Mississippi,County,Sydney Ireland,16496,,Tier 2,1.0,33.1689,-90.0747,b3772c6c-d57e-42df-bd67-5a5936c84156,,,,,,,,,,,,,,,,,
-001cv00000AuZrX,"County Of Chickasaw, MS",Mississippi,County,Sydney Ireland,17011,,Tier 2,1.0,33.8819,-89.0179,afffa5dc-a260-4f14-8c44-81352d933342,,,,,,,,,,,,,,,,,
-001cv00000AuZsQ,"County Of Clay, MS",Mississippi,County,Sydney Ireland,18535,,Tier 2,1.0,33.6568,-88.8263,0a786c54-d257-41ca-b2ab-a79403ddb3ce,,,,,,,,,,,,,,,,,
-001cv00000AuZsY,"County Of Stone, MS",Mississippi,County,Sydney Ireland,18644,,Tier 2,1.0,30.8013,-89.1706,c1c239c1-9e6c-4f72-9ac0-000e026350b5,,,,,,,,,,,,,,,,,
-001cv00000AuZsb,"County Of Tishomingo, MS",Mississippi,County,Sydney Ireland,18750,,Tier 2,1.0,34.6368,-88.2317,f5cb09a1-548d-4c24-8eb7-8e5a024c1d04,,,,,,,,,,,,,,,,,
-001cv00000AuZtl,"County Of Winston, MS",Mississippi,County,Sydney Ireland,17596,,Tier 2,1.0,33.165,-89.0179,9c09a76c-30e3-4507-942f-5f3cc0b6fd9d,,,,,,,,,,,,,,,,,
-001cv00000AuZtv,"County Of Attala, MS",Mississippi,County,Sydney Ireland,17742,,Tier 2,1.0,33.1683,-89.6252,eafe124a-e261-47b0-8162-0fcb72078c63,,,,,,,,,,,,,,,,,
-001cv00000AuZuN,"County Of Covington, MS",Mississippi,County,Sydney Ireland,18279,,Tier 2,1.0,31.6733,-89.5875,3891b4f0-70a7-4954-9a88-f3817f9bf64c,,,,,,,,,,,,,,,,,
-001cv00000AuZxU,"County Of Newton, MS",Mississippi,County,Sydney Ireland,21056,,Tier 2,1.0,32.3213,-89.1634,44be5636-b0cc-494b-ae46-9c3a6d01847b,,,,,,,,,,,,,,,,,
-001cv00000AuZxa,"County Of Leake, MS",Mississippi,County,Sydney Ireland,21196,,Tier 2,1.0,32.8074,-89.4742,c74ccb5f-dac1-4d3c-b9b0-595839cc3e3f,,,,,,,,,,,,,,,,,
-001cv00000AuZy0,"County Of Tippah, MS",Mississippi,County,Sydney Ireland,21635,,Tier 2,1.0,34.7688,-88.8647,a3a69e09-6b70-4fb3-9ac8-6e1e50ac96a7,,,,,,,,,,,,,,,,,
-001cv00000Aua0E,"County Of Copiah, MS",Mississippi,County,Sydney Ireland,27995,,Tier 1,1.5,31.9012,-90.3748,de3a3dab-ca0e-4100-8b88-b21c46d36adb,,,,,,,,,4,2025-08-11,4,,,,,,
-001cv00000Aua0h,"County Of Adams, MS",Mississippi,County,Sydney Ireland,28742,,Tier 1,1.5,31.5305,-91.2891,c32be6b4-d95d-498b-9363-01bbe3f65868,,,,,,,,,5,2025-12-15,5,,,,,,
-001cv00000Aua0q,"County Of Neshoba, MS",Mississippi,County,Sydney Ireland,28993,,Tier 1,1.5,32.8057,-89.1706,dcb5ccac-7617-4b3c-b061-e3e0ef5f1c23,,,,,,,,,4,2026-04-29,1,3,,,,,
-001cv00000Aua1L,"County Of Bolivar, MS",Mississippi,County,Sydney Ireland,30308,,Tier 1,1.5,33.883,-90.8294,2c73cefd-f92d-4a08-9a68-9926d3de0522,,,,,,,,,10,2025-08-26,10,,,,,,
-001cv00000Aua2E,"County Of George, MS",Mississippi,County,Sydney Ireland,24762,,Tier 2,1.0,30.8431,-88.6724,94f27175-0443-4206-a7ef-0d3d17810da2,,,,,,,,,4,2025-12-12,4,,,,,,
-001cv00000Aua2P,"County Of Prentiss, MS",Mississippi,County,Sydney Ireland,24996,,Tier 2,1.0,31.5985,-89.867,83b2eedb-56dc-48c0-b2cc-0d0819e3d582,,,,,,,,,,,,,,,,,
-001cv00000Aua2k,"County Of Sunflower, MS",Mississippi,County,Sydney Ireland,25402,Nurture,Tier 1,1.5,33.5429,-90.537,9a4cf96a-0edd-49a7-805b-7b572e549038,Closed Lost,,,Ryan Minter,11/24/2025,11/20/2025,,,4,2026-05-11,2,2,,,,,
-001cv00000Aua2y,"County Of Simpson, MS",Mississippi,County,Sydney Ireland,25750,,Tier 1,1.5,31.9018,-89.9253,0d0e3fca-079b-424e-8779-f090fc53a22f,,,,,,,,,,,,,,,,,
-001cv00000Aua4B,"County Of Coahoma, MS",Mississippi,County,Sydney Ireland,20810,Nurture,Tier 2,1.0,34.3668,-90.5232,6245ef35-4c1d-4f23-9a9d-05296b1ec853,Closed Lost,,,Ryan Minter,10/31/2025,10/8/2025,,,8,2026-04-24,4,4,,,,,
-001cv00000Aua5s,"County Of Monroe, MS",Mississippi,County,Sydney Ireland,33883,,Tier 1,1.5,33.8774,-88.5565,c2679e31-aa43-4c0d-b4b7-364c9f6e181c,,,,,,,,,,,,,,,,,
-001cv00000Aua68,"County Of Alcorn, MS",Mississippi,County,Sydney Ireland,34349,,Tier 1,1.5,34.8985,-88.5952,a9998837-7ad5-42cf-9ad5-eacbd6fd2c63,,,,,,,,,,,,,,,,,
-001cv00000Aua7d,"County Of Pike, MS",Mississippi,County,Sydney Ireland,39973,,Tier 1,1.5,31.1705,-90.3748,8ce4092e-8a14-4cc9-bbfe-1fa01bfc4a65,,,,,,,,,,,,,,,,,
-001cv00000Aua8M,"County Of Pontotoc, MS",Mississippi,County,Sydney Ireland,31445,,Tier 1,1.5,34.2479,-88.9987,e2461ecd-8f45-44ed-a786-f304f3181873,,,,,,,,,,,,,,,,,
-001cv00000Aua8k,"County Of Panola, MS",Mississippi,County,Sydney Ireland,32851,Nurture,Tier 1,1.5,34.4198,-89.9253,0afd405c-038f-4314-90e5-27397f0292b5,Closed Lost,,,Ryan Minter,4/30/2026,4/15/2026,,,5,2026-04-28,4,,,,,,1
-001cv00000AuaAg,"County Of Itawamba, MS",Mississippi,County,Sydney Ireland,23838,,Tier 2,1.0,34.2318,-88.4016,14682051-25d6-434e-95be-9fe3cba15ce7,,,,,,,,,,,,,,,,,
-001cv00000AuaAv,"County Of Marion, MS",Mississippi,County,Sydney Ireland,24378,,Tier 2,1.0,32.4193,-88.6518,bd5fcd53-892b-458f-96dc-647643156aea,,,,,,,,,,,,,,,,,
-001cv00000AuaBO,"County Of Yazoo, MS",Mississippi,County,Sydney Ireland,26373,,Tier 1,1.5,32.8079,-90.3748,76ba7696-baec-417b-847f-8e11f5d8e084,,,,,,,,,,,,,,,,,
-001cv00000AuaC0,"County Of Leflore, MS",Mississippi,County,Sydney Ireland,27557,,Tier 1,1.5,33.5274,-90.3748,a79ab30c-7564-4602-8ff1-13bf9b42a8c0,,,,,,,,,,,,,,,,,
-001cv00000AuaC1,"County Of Scott, MS",Mississippi,County,Sydney Ireland,27598,,Tier 1,1.5,33.5931,-91.076,1ea47585-a717-4bfe-88ed-97e206926aa0,,,,,,,,,,,,,,,,,
-001cv00000AuaCI,"County Of Union, MS",Mississippi,County,Sydney Ireland,27953,,Tier 1,1.5,34.4599,-88.9797,e6b94040-9b70-427d-8f42-04bef5ae45af,,,,,,,,,,,,,,,,,
-001cv00000AuaCq,"County Of Lincoln, MS",Mississippi,County,Sydney Ireland,34943,,Tier 1,1.5,31.5359,-90.5258,84ba5846-44bd-427b-8fc8-91a5aecc3383,,,,,,,,,,,,,,,,,
-001cv00000AuaGv,"County Of Warren, MS",Mississippi,County,Sydney Ireland,43579,,Tier 1,1.5,32.3989,-90.7913,e4ec6912-8f5f-455b-9780-b7747cef3d63,,,,,,,,,,,,,,,,,
-001cv00000AuaJj,"County Of Hancock, MS",Mississippi,County,Sydney Ireland,46055,,Tier 1,1.5,30.3888,-89.512,4651cb34-40bb-4252-861f-02fe1c8ea683,,,,,,,,,7,2026-04-24,3,4,,,,,
-001cv00000AuaLH,"County Of Oktibbeha, MS",Mississippi,County,Sydney Ireland,51842,,Tier S,2.0,33.3887,-88.9031,0cdc28d9-34a2-49bb-8fab-72bb996683ec,,,,,,,,,,,,,,,,,
-001cv00000AuaNa,"County Of Pearl River, MS",Mississippi,County,Sydney Ireland,56503,,Tier S,2.0,32.7835,-89.2278,31931eb7-d090-4a00-98b9-28e171d0cfc3,,,,,,,,,7,2026-04-29,5,2,,,,,
-001cv00000AuaNc,"County Of Lafayette, MS",Mississippi,County,Sydney Ireland,56884,,Tier S,2.0,34.4187,-89.4742,e332d9e9-6b62-4060-833b-a01bf8da610c,,,,,,,,,,,,,,,,,
-001cv00000AuaNs,"County Of Lowndes, MS",Mississippi,County,Sydney Ireland,58150,Open Opportunity,Tier S,2.0,33.4734,-88.4404,023c08e7-ec4c-406a-abd0-bc466e0126da,Open,Initial Interest,Top of Funnel,Ryan Minter,,8/11/2025,,,20,2026-04-09,17,3,,,,,
-001cv00000AuaP6,"County Of Lamar, MS",Mississippi,County,Sydney Ireland,65353,Nurture,Tier S,2.0,31.17,-89.4742,88dd6d76-96f3-4946-a7b3-12f4e3f6c070,Closed Lost,,,Ryan Minter,12/12/2025,12/5/2025,,,4,2026-04-29,3,1,,,,,
-001cv00000AuaPS,"County Of Jones, MS",Mississippi,County,Sydney Ireland,66744,,Tier S,2.0,31.5343,-89.1706,e6e83541-e527-4ea1-a1e7-1ede615c286d,,,,,,,,,,,,,,,,,
-001cv00000AuaQZ,"County Of Lee, MS",Mississippi,County,Sydney Ireland,82883,,Tier S,2.0,34.2354,-88.7109,26dcc695-da28-4e67-a83a-ecbccdf3ddf3,,,,,,,,,,,,,,,,,
-001cv00000AuaWE,"County Of Lauderdale, MS",Mississippi,County,Sydney Ireland,72088,,Tier S,2.0,32.5208,-88.5117,6e67338c-f97d-4f32-bb2e-99a6be682a1b,,,,,,,,,5,2026-04-17,3,2,,,,,
-001cv00000AuaWr,"County Of Forrest, MS",Mississippi,County,Sydney Ireland,77875,Open Opportunity,Tier S,2.0,31.2149,-89.2847,94230925-5ca6-4f62-8269-db0b2e5eb134,Open,Initial Interest,Top of Funnel,Ryan Minter,12/9/2025,12/5/2025,,,11,2026-04-29,10,1,,,,,
-001cv00000B21qt,"Town Of Guntown, MS",Mississippi,Municipality,Sydney Ireland,2415,,Tier 3,0.75,34.4402,-88.6579,ad8939fb-1b30-4303-b06a-544de51ac037,,,,,,,,,,,,,,,,,
-001cv00000B220j,"City Of Florence, MS",Mississippi,Municipality,Sydney Ireland,4623,,Tier 3,0.75,32.1544,-90.1239,c72976f8-745b-42a9-9f32-5431bfb2d4bc,,,,,,,,,,,,,,,,,
-001cv00000CLwws,"City Of Grenada, MS",Mississippi,Municipality,Sydney Ireland,12471,,Tier 2,1.0,33.769,-89.8084,27e65847-ff05-46ea-b9c6-00613ed24da5,,,,,,,,,2,2026-04-23,1,,,,,1,
-001cv00000bAeBk,Hinds County,Mississippi,County,Sydney Ireland,211975,,Tier S,2.0,32.2648,-90.3748,4e7c8e59-ddb6-4827-9169-858a86b3097b,,,,,,,,,1,2026-04-09,,1,,,,,
-001cv00000bB8Pd,City of Bay Springs,Mississippi,Municipality,Sydney Ireland,1488,,Tier 3,0.75,31.979,-89.2873,9b1db453-8db2-4c2d-a3c4-4b9346f54229,,,,,,,,,,,,,,,,,
-001cv00000bBVhx,Town of Tunica,Mississippi,Municipality,Sydney Ireland,865,,Tier 3,0.75,34.6845,-90.3829,27819266-ec9c-4fcc-926e-47ed185723f4,,,,,,,,,,,,,,,,,
-001cv00000bBWDD,City of Quitman,Mississippi,Municipality,Sydney Ireland,1948,,Tier 3,0.75,32.04,-88.72,b594fa5e-07b7-4c3d-9532-57d747e30c4f,,,,,,,,,,,,,,,,,
-001cv00000bBWDK,City of Purvis,Mississippi,Municipality,Sydney Ireland,1955,,Tier 3,0.75,31.1432,-89.4098,fac9275d-1f65-4f0b-852b-36a632ac466f,,,,,,,,,,,,,,,,,
-001cv00000bBWIu,Town of Wesson,Mississippi,Municipality,Sydney Ireland,1779,,Tier 3,0.75,31.7013,-90.3976,1251d39e-e17e-4605-95cc-58b45cb1d0cc,,,,,,,,,,,,,,,,,
-001cv00000bBWJQ,Town of Belmont,Mississippi,Municipality,Sydney Ireland,1817,,Tier 3,0.75,34.5098,-88.2092,762e264a-6482-4293-9e50-d1e2f914c823,,,,,,,,,,,,,,,,,
-001cv00000bBWKx,Town of Nettleton,Mississippi,Municipality,Sydney Ireland,1928,,Tier 3,0.75,34.089,-88.6223,b12c3184-cfad-4294-b8c4-31bbb40ceb8d,,,,,,,,,,,,,,,,,
-001cv00000bBWMW,Wayne County,Mississippi,County,Sydney Ireland,19749,,Tier 2,1.0,31.65,-88.67,a2daa401-3a10-4ed3-a1cd-ba514f93a9a4,,,,,,,,,,,,,,,,,
-001cv00000bBWOH,City of Lumberton,Mississippi,Municipality,Sydney Ireland,1647,,Tier 3,0.75,31.0013,-89.4523,48d45e8f-2271-41cc-b46e-c6b814e763e5,,,,,,,,,,,,,,,,,
-001cv00000bBWRE,City of Eupora,Mississippi,Municipality,Sydney Ireland,2097,,Tier 3,0.75,33.5407,-89.267,89da8d34-89b8-409f-b9db-cd99d499a747,,,,,,,,,,,,,,,,,
-001cv00000bBWTB,"City of Jackson, MS",Mississippi,Municipality,Sydney Ireland,141449,Open Opportunity,Tier S,2.0,32.2981,-90.1806,6cd6b720-b420-4854-b413-16802da6c744,Open,Demo,Mid Funnel,Sydney Ireland,4/28/2026,4/13/2026,,,17,2026-04-28,,17,,,,,
-001cv00000bBWsg,Town of Coldwater,Mississippi,Municipality,Sydney Ireland,1326,,Tier 3,0.75,34.6918,-89.9773,5e0a8a59-2bdd-43cd-b379-23ac5a7542a9,,,,,,,,,,,,,,,,,
-001cv00000bBWtX,City of Raymond,Mississippi,Municipality,Sydney Ireland,1387,,Tier 3,0.75,32.2593,-90.4226,29c3a4d0-81ff-4690-95f6-bf8fff85cbba,,,,,,,,,,,,,,,,,
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ryan Minter,Calls - Sydney Ireland,Calls - Leila Assil,Calls - Nick Martino,Calls - Quinzel Perry,Calls - Ben Laddis,Calls - Jenny Allison,Outreach ID
+001Hr000028Zc1e,"City Of Louisville, MS",Mississippi,Municipality,Sydney Ireland,6008,Nurture,Tier 3,0.75,33.1237,-89.0551,b08af4f1-fcbf-4357-9d1a-12308608cd75,Closed Lost,,,Liam Shaw,7/10/2024,1/5/2025,,,9,2026-01-27,9,,,,,,,3770
+001Hr000028Zc3T,"City Of Diamondhead, MS",Mississippi,Municipality,Sydney Ireland,9442,Open Opportunity,Tier 3,0.75,30.3946,-89.3639,4173ff7b-b2c3-4db2-be3d-ac3ee6b143ee,Open,Initial Interest,Top of Funnel,Ryan Minter,8/4/2025,7/24/2025,,,19,2026-04-29,18,1,,,,,,4479
+001Hr000028Zc8z,"Town Of Leakesville, MS",Mississippi,Municipality,Sydney Ireland,3603,Nurture,Tier 3,0.75,31.1557,-88.5578,71fb4a16-1bba-4d49-b72c-8672ee5bf8b6,Closed Lost,,,Liam Shaw,7/1/2024,1/5/2025,"$16,000",,,,,,,,,,,3584
+001Hr000028Zc9J,"City Of Ripley, MS",Mississippi,Municipality,Sydney Ireland,5362,All Modules Live,Tier 3,0.75,34.7298,-88.9506,c17ddb3c-545a-42d4-858b-cbcbe50ba259,Closed Won,,,Liam Shaw,6/28/2024,1/5/2025,"$9,000",,,,,,,,,,,3529
+001Hr000028ZcBK,"City Of Amory, MS",Mississippi,Municipality,Sydney Ireland,6513,,Tier 3,0.75,33.9843,-88.4881,c636167a-ec9a-47ed-8f60-6c437f8b2072,,,,,,,,,3,2026-05-08,,3,,,,,,3951
+001Hr000028ZcBY,"City Of Booneville, MS",Mississippi,Municipality,Sydney Ireland,9081,Nurture,Tier 3,0.75,34.6582,-88.5667,ac057539-b5f4-4510-8af5-1e5942e12531,Closed Lost,,,Liam Shaw,7/10/2024,1/5/2025,,,11,2026-04-30,1,3,7,,,,,4342
+001Hr000028ZcDn,"City Of Philadelphia, MS",Mississippi,Municipality,Sydney Ireland,6995,,Tier 3,0.75,32.7715,-89.1167,87199ebe-a2be-4ec9-8301-2e6d1a62d19f,,,,,,,,,,,,,,,,,,3993
+001Hr000028ZcGT,"City Of West Point, MS",Mississippi,Municipality,Sydney Ireland,9983,,Tier 3,0.75,33.6076,-88.6503,350ee120-6c10-4979-b7e3-2b35e411f2a0,,,,,,,,,2,2026-04-29,1,1,,,,,,4590
+001Hr000028ZcPH,"Town Of Saltillo, MS",Mississippi,Municipality,Sydney Ireland,4910,Nurture,Tier 3,0.75,34.3765,-88.6817,a4824877-bf0d-436d-9003-64b96f506d56,Closed Lost,,,Joe del Rosario,3/19/2025,2/25/2025,,,,,,,,,,,,3449
+001Hr000028ZcQn,"City Of Kosciusko, MS",Mississippi,Municipality,Sydney Ireland,7022,,Tier 3,0.75,33.0576,-89.5876,0e9ab6c2-cb1e-4fb8-9a90-c841b4bfea3f,,,,,,,,,9,2026-05-06,8,1,,,,,,3997
+001Hr000028ZcSo,"City Of Holly Springs, MS",Mississippi,Municipality,Sydney Ireland,6565,,Tier 3,0.75,34.7676,-89.4487,de35d4c3-878e-4ff4-9d28-c00d93b7f839,,,,,,,,,14,2026-02-04,14,,,,,,,4140
+001Hr000028ZcTE,"City Of Starkville, MS",Mississippi,Municipality,Sydney Ireland,24657,,Tier 2,1.0,33.4504,-88.8184,4b8b4da3-67eb-4df7-952b-795c7dd98be7,,,,,,,,,9,2026-04-29,4,5,,,,,,5632
+001Hr000028ZcXa,"City Of D'Iberville, MS",Mississippi,Municipality,Sydney Ireland,13236,,Tier 2,1.0,30.4263,-88.8909,de8b9e74-b414-4811-b7d8-d2b89aedfd4c,,,,,,,,,1,2026-04-09,,1,,,,,,4897
+001Hr000028Zcab,"City Of Aberdeen, MS",Mississippi,Municipality,Sydney Ireland,4856,Nurture,Tier 3,0.75,33.8251,-88.5437,866bc82c-4163-467d-aafd-a2fed12c664e,Closed Lost,,,Liam Shaw,7/15/2024,1/5/2025,,,1,2026-01-27,1,,,,,,,3544
+001Hr000028ZcbH,"City Of Batesville, MS",Mississippi,Municipality,Sydney Ireland,7326,,Tier 3,0.75,34.3115,-89.9443,b53cf1bc-e47e-4814-a588-45c5778e29a1,,,,,,,,,1,2025-08-13,1,,,,,,,4067
+001Hr000028ZccB,"City Of Cleveland, MS",Mississippi,Municipality,Sydney Ireland,10909,Open Opportunity,Tier 2,1.0,33.744,-90.7248,7b39aea4-017a-4169-90d9-185ae28c5bd4,Open,Meeting Booked,Top of Funnel,Sydney Ireland,4/20/2026,4/13/2026,,,16,2026-05-08,6,10,,,,,,4736
+001Hr000028ZcdH,"City Of Senatobia, MS",Mississippi,Municipality,Sydney Ireland,8099,,Tier 3,0.75,34.6176,-89.9687,1a705e90-86f5-4aa3-a35c-2cf8b57b25d3,,,,,,,,,4,2026-04-30,2,2,,,,,,4217
+001Hr000028Zcda,"City Of Pontotoc, MS",Mississippi,Municipality,Sydney Ireland,5684,Open Opportunity,Tier 3,0.75,34.2479,-88.9987,d77a4c44-4c6c-49e2-b0fb-eb58cc351df6,Open,Sales Qualified,Mid Funnel,Sydney Ireland,5/1/2026,8/12/2025,,Yes,7,2026-05-01,2,5,,,,,,3772
+001Hr000028Zcef,"City Of Columbus, MS",Mississippi,Municipality,Sydney Ireland,23319,Cold,Tier 2,1.0,33.4957,-88.4273,576be1c3-1d3e-4ab2-9c6f-0452bb3305af,Closed Lost,,,Liam Shaw,7/11/2024,1/5/2025,,,13,2026-05-08,2,6,5,,,,,5600
+001Hr000028Zcg1,"City Of Corinth, MS",Mississippi,Municipality,Sydney Ireland,14382,,Tier 2,1.0,34.9343,-88.5223,fe01ade5-ae6a-4c13-9a41-0f3e5bd7462a,,,,,,,,,6,2026-04-15,2,,4,,,,,5055
+001Hr000028Zcg2,"City Of Pearl, MS",Mississippi,Municipality,Sydney Ireland,27258,Nurture,Tier 1,1.5,32.2663,-90.1343,5241e765-a228-4d45-9242-c70f0dd880c0,Closed Lost,,,Liam Shaw,7/2/2024,1/5/2025,,,11,2026-02-20,11,,,,,,,5735
+001Hr000028Zcgx,"City Of Forest, MS",Mississippi,Municipality,Sydney Ireland,5339,,Tier 3,0.75,32.3646,-89.4742,87e63e97-fb3c-4aed-b7b3-7d456925cb4b,,,,,,,,,12,2026-05-08,9,3,,,,,,3617
+001Hr000028ZchS,"City Of Pass Christian, MS",Mississippi,Municipality,Sydney Ireland,5882,Open Opportunity,Tier 3,0.75,30.3158,-89.2475,65a48ba7-2e1b-41c3-ad4c-f4cc746172fc,Open,Sales Qualified,Mid Funnel,Ryan Minter,4/30/2026,4/15/2026,,,5,2026-04-27,5,,,,,,,3774
+001Hr000028Zcj0,"City Of New Albany, MS",Mississippi,Municipality,Sydney Ireland,7618,Nurture,Tier 3,0.75,34.4943,-89.0078,22f97a64-d1f8-4010-ae6e-08f1f21dd025,Closed Lost,,,Liam Shaw,7/17/2024,1/5/2025,"$7,200",,4,2026-02-23,4,,,,,,,4128
+001Hr000028Zclp,"City Of Richland, MS",Mississippi,Municipality,Sydney Ireland,7180,,Tier 3,0.75,32.2392,-90.1654,d55a193d-bfde-4f8d-8c55-05443ee91bdd,,,,,,,,,2,2026-04-15,2,,,,,,,3996
+001Hr000028Zcn0,"City Of Waveland, MS",Mississippi,Municipality,Sydney Ireland,7038,,Tier 3,0.75,30.2869,-89.3762,eb627eb3-647e-47a0-987f-9ece184c744c,,,,,,,,,5,2026-04-15,5,,,,,,,3979
+001Hr000028Zcn3,"City Of Hernando, MS",Mississippi,Municipality,Sydney Ireland,17345,,Tier 2,1.0,34.824,-89.9937,9068d533-110c-414f-820b-ff95305b4a17,,,,,,,,,1,2026-04-10,,1,,,,,,5224
+001Hr000028ZcqA,"City Of Bay St Louis, MS",Mississippi,Municipality,Sydney Ireland,10009,,Tier 2,1.0,30.3088,-89.33,2f19b0fd-87d4-461a-8fc4-921eb5990f8a,,,,,,,,,1,2026-02-19,1,,,,,,,4504
+001Hr000028ZcrG,"City Of Moss Point, MS",Mississippi,Municipality,Sydney Ireland,12039,,Tier 2,1.0,30.4116,-88.5345,a5393bff-3059-45d6-9e65-9546a3cc00ba,,,,,,,,,17,2026-04-10,16,1,,,,,,4841
+001Hr000028ZctW,"County Of Grenada, MS",Mississippi,County,Sydney Ireland,21365,,Tier 2,1.0,33.769,-89.8084,8453354f-4d04-462a-9fc7-94ad8c0d0778,,,,,,,,,,,,,,,,,,4891
+001Hr000028ZcuX,"City Of Vicksburg, MS",Mississippi,Municipality,Sydney Ireland,20904,,Tier 2,1.0,32.3526,-90.8779,a3671857-1f55-4bb2-bb8f-ade71da62d2c,,,,,,,,,6,2026-04-10,5,1,,,,,,5509
+001Hr000028Zcuq,"City Of Indianola, MS",Mississippi,Municipality,Sydney Ireland,9342,Open Opportunity,Tier 3,0.75,33.451,-90.6551,93d54675-21b6-4b14-8c22-e7fb7775cd8c,Open,Initial Interest,Top of Funnel,Ryan Minter,,2/4/2026,,,18,2026-02-12,18,,,,,,,4518
+001Hr000028Zcvk,"City Of Flowood, MS",Mississippi,Municipality,Sydney Ireland,10373,,Tier 2,1.0,32.3381,-90.0928,fc2f8af3-1bac-41c3-a3db-be18f04b4886,,,,,,,,,4,2026-04-10,,4,,,,,,4567
+001Hr000028Zcwe,"City Of Canton, MS",Mississippi,Municipality,Sydney Ireland,10688,Nurture,Tier 2,1.0,32.6126,-90.0368,2d529ad9-4cc9-4db8-b416-ddd992b153f4,Closed Lost,,,Liam Shaw,7/26/2024,1/5/2025,,,10,2026-04-30,1,1,,8,,,,4691
+001Hr000028Zcx1,"City Of Picayune, MS",Mississippi,Municipality,Sydney Ireland,11784,Open Opportunity,Tier 2,1.0,30.5293,-89.6855,7471489e-9880-4866-9fc6-97ac9ed5c901,Open,Meeting Booked,Top of Funnel,Ryan Minter,2/4/2026,1/29/2026,,,24,2026-02-12,24,,,,,,,4791
+001Hr000028ZcxZ,"City Of Yazoo City, MS",Mississippi,Municipality,Sydney Ireland,10163,,Tier 2,1.0,32.8551,-90.4056,465128d7-f940-4346-9b65-24b7668d821d,,,,,,,,,16,2026-05-08,13,3,,,,,,4677
+001Hr000028Zcxg,"City Of Clarksdale, MS",Mississippi,Municipality,Sydney Ireland,14410,,Tier 2,1.0,34.2001,-90.5709,e50e2899-371a-45b7-b437-de08490b817b,,,,,,,,,16,2026-04-24,11,5,,,,,,5102
+001Hr000028ZcyE,"City Of Petal, MS",Mississippi,Municipality,Sydney Ireland,11505,,Tier 2,1.0,31.3466,-89.2601,ce4ea325-3497-4004-8175-d6ff9102d13d,,,,,,,,,2,2026-04-10,,2,,,,,,4741
+001Hr000028Zcyj,"Tate County, MS",Mississippi,County,Sydney Ireland,28261,Open Opportunity,Tier 1,1.5,34.6414,-89.9627,e8f029be-e09c-402a-9024-874fed195944,Open,Initial Interest,Top of Funnel,Ryan Minter,7/23/2025,7/16/2025,,,9,2026-04-30,8,1,,,,,,12327
+001Hr000028Zczl,"City Of Natchez, MS",Mississippi,Municipality,Sydney Ireland,13824,Nurture,Tier 2,1.0,31.5604,-91.4032,3b9e7d0d-69de-42b1-8996-d7f324cb7b17,Closed Lost,,,Ryan Minter,8/5/2025,7/29/2025,,,14,2026-03-03,14,,,,,,,5046
+001Hr000028Zd0J,"City Of Brookhaven, MS",Mississippi,Municipality,Sydney Ireland,11812,,Tier 2,1.0,31.5791,-90.4407,5a8bd387-8835-467e-bc8f-5e8b37bbad7c,,,,,,,,,17,2026-04-09,16,1,,,,,,4807
+001Hr000028Zd1S,"City Of Long Beach, MS",Mississippi,Municipality,Sydney Ireland,16856,,Tier 2,1.0,30.3505,-89.1528,6b41f4db-e823-446c-8669-445b8631fd25,,,,,,,,,2,2026-04-10,1,1,,,,,,5218
+001Hr000028Zd1b,"City Of Mccomb, MS",Mississippi,Municipality,Sydney Ireland,12217,Open Opportunity,Tier 2,1.0,31.2438,-90.4532,447569c7-b062-4f5a-9a7e-dfde081e0dd1,Open,Meeting Booked,Top of Funnel,Sydney Ireland,4/14/2026,4/10/2026,,,15,2026-04-15,13,2,,,,,,4854
+001Hr000028Zd25,"City Of Byram, MS",Mississippi,Municipality,Sydney Ireland,12456,Nurture,Tier 2,1.0,32.1793,-90.2454,fdae499e-9852-4627-8068-7bd9b70a8ea9,Closed Lost,,,Liam Shaw,7/18/2024,1/5/2025,,,24,2026-01-27,24,,,,,,,4880
+001Hr000028Zd3o,"City Of Greenwood, MS",Mississippi,Municipality,Sydney Ireland,14037,Open Opportunity,Tier 2,1.0,33.5162,-90.1795,753cf25b-ee05-4426-9a7f-c30e2bf6c2a7,Open,Proposal,Mid Funnel,Ryan Minter,9/23/2025,8/6/2025,"$22,000",,9,2025-09-23,9,,,,,,,5053
+001Hr000028Zd3q,"City Of Ocean Springs, MS",Mississippi,Municipality,Sydney Ireland,18387,,Tier 2,1.0,30.4113,-88.8278,327556da-6858-442b-9651-43c3d635471e,,,,,,,,,13,2026-04-17,10,3,,,,,,5316
+001Hr000028Zd3z,"City Of Clinton, MS",Mississippi,Municipality,Sydney Ireland,27451,Open Opportunity,Tier 1,1.5,32.3415,-90.3218,7e18c781-3a3b-4255-b461-a36a79b40c32,Open,Proposal,Mid Funnel,Ryan Minter,8/8/2025,8/6/2025,"$28,000",Yes,10,2025-08-13,10,,,,,,,5766
+001Hr000028Zd6L,"City Of Greenville, MS",Mississippi,Municipality,Sydney Ireland,28777,,Tier 1,1.5,33.3997,-91.0377,639be9fc-2c29-4b14-baeb-dcba4031d5a5,,,,,,,,,11,2026-02-23,11,,,,,,,5850
+001Hr000028Zd7k,"City Of Gautier, MS",Mississippi,Municipality,Sydney Ireland,18996,,Tier 2,1.0,30.3858,-88.6117,87164334-0716-4f4c-ae82-1ebfb4498722,,,,,,,,,5,2026-04-29,,5,,,,,,5360
+001Hr000028Zd8S,"City Of Laurel, MS",Mississippi,Municipality,Sydney Ireland,17106,Open Opportunity,Tier 2,1.0,31.6941,-89.1306,4afc6fe8-340a-4aad-8996-81cdc2313504,Closed Lost,,,Liam Shaw,8/6/2024,1/5/2025,"$25,000",,1,2026-02-23,1,,,,,,,5268
+001Hr000028Zd9b,"City Of Oxford, MS",Mississippi,Municipality,Sydney Ireland,26430,,Tier 1,1.5,34.366,-89.5188,45113913-ca98-43aa-a270-51effdbdf51b,,,,,,,,,13,2026-02-19,11,,2,,,,,5690
+001Hr000028ZdBg,"City Of Pascagoula, MS",Mississippi,Municipality,Sydney Ireland,21849,,Tier 2,1.0,30.3658,-88.5561,1c4f1d95-a8d4-43fe-a6b0-817b852b9739,,,,,,,,,16,2026-04-24,12,4,,,,,,5518
+001Hr000028ZdBj,"Town Of Brandon, MS",Mississippi,Municipality,Sydney Ireland,25373,Open Opportunity,Tier 1,1.5,32.2789,-90.0014,de5d9496-8a65-4f61-9068-8cfd45355f84,Open,Sales Qualified,Mid Funnel,Sydney Ireland,5/7/2026,4/30/2026,,,9,2026-05-06,7,2,,,,,,5645
+001Hr000028ZdCG,"City Of Ridgeland, MS",Mississippi,Municipality,Sydney Ireland,24058,Open Opportunity,Tier 2,1.0,32.4285,-90.1323,fbdc9412-67eb-4caf-ba0b-b6e06cb3ab9a,Open,Initial Interest,Top of Funnel,Ryan Minter,1/23/2026,7/23/2025,,,24,2026-04-28,24,,,,,,,5623
+001Hr000028ZdDE,"City Of Horn Lake, MS",Mississippi,Municipality,Sydney Ireland,26737,,Tier 1,1.5,34.9554,-90.0348,669a5688-1a6f-459f-a8ee-6e963bb9d968,,,,,,,,,12,2026-02-23,12,,,,,,,5722
+001Hr000028ZdFT,"City Of Madison, MS",Mississippi,Municipality,Sydney Ireland,27719,,Tier 1,1.5,32.4618,-90.1154,50a843b1-188e-489f-8cf2-e2347ee64970,,,,,,,,,8,2026-04-21,8,,,,,,,5755
+001Hr000028ZdJ1,"City Of Meridian, MS",Mississippi,Municipality,Sydney Ireland,34424,,Tier 1,1.5,32.3643,-88.7037,7c58e262-f777-41ef-8998-063e714ab7fa,,,,,,,,,10,2026-02-24,10,,,,,,,5969
+001Hr000028ZdJa,"City Of Tupelo, MS",Mississippi,Municipality,Sydney Ireland,37667,Nurture,Tier 1,1.5,34.2576,-88.7034,5930dd65-ddf5-4247-9365-ca107497f6d7,Closed Lost,,,Liam Shaw,7/3/2024,1/5/2025,,,21,2026-04-17,17,4,,,,,,6002
+001Hr000028ZdKO,"City Of Olive Branch, MS",Mississippi,Municipality,Sydney Ireland,40276,,Tier 1,1.5,34.9618,-89.8295,3d35c6a7-9011-470b-b6d1-d639984592d5,,,,,,,,,9,2026-04-10,4,5,,,,,,6026
+001Hr000028ZdLN,"City Of Hattiesburg, MS",Mississippi,Municipality,Sydney Ireland,47068,,Tier 1,1.5,31.3271,-89.2903,6789ce54-7da7-411a-9cd9-da2e28a3f205,,,,,,,,,3,2026-04-10,,3,,,,,,6128
+001Hr000028ZdM5,"City Of Biloxi, MS",Mississippi,Municipality,Sydney Ireland,49241,Open Opportunity,Tier 1,1.5,30.3954,-88.887,baab129d-0b69-418c-8d5d-275cad345c35,Closed Lost,,,Ryan Minter,7/28/2025,7/24/2025,,,11,2026-04-10,10,1,,,,,,6149
+001Hr000028ZddM,"Lafayette County, MS",Mississippi,County,Sydney Ireland,58467,All Modules Live,Tier S,2.0,34.4187,-89.4742,e332d9e9-6b62-4060-833b-a01bf8da610c,Closed Won,,,Ryan Minter,8/6/2025,7/22/2025,"$30,000",,14,2025-08-06,14,,,,,,,12326
+001Hr000028ZdfE,"Madison County, MS",Mississippi,County,Sydney Ireland,114247,,Tier S,2.0,32.6729,-90.0373,a40f450c-c7e2-4829-ba29-f89a3357b9e6,,,,,,,,,2,2026-04-23,2,,,,,,,12437
+001Hr000028Zdg0,"City Of Southaven, MS",Mississippi,Municipality,Sydney Ireland,55429,Open Opportunity,Tier S,2.0,34.9919,-90.0023,f86483dc-f5be-452a-8c6d-2b077bb234b0,Open,Initial Interest,Top of Funnel,Ryan Minter,2/17/2026,2/4/2026,,,9,2026-02-12,9,,,,,,,11567
+001Hr000028ZdgU,"City Of Gulfport, MS",Mississippi,Municipality,Sydney Ireland,72105,,Tier S,2.0,30.3674,-89.0928,92a3552a-7fd9-4b1d-973c-c21ef73eae93,,,,,,,,,11,2026-05-08,5,6,,,,,,11563
+001Hr000028ZdhQ,"Marshall County, MS",Mississippi,County,Sydney Ireland,34374,,Tier 1,1.5,34.7729,-89.4742,7b28f46c-2255-42cb-8773-b0927b1d7a3a,,,,,,,,,3,2026-02-19,3,,,,,,,12370
+001Hr000028Zdi4,"Rankin County, MS",Mississippi,County,Sydney Ireland,160000,,Tier S,2.0,32.2654,-89.9253,58ab21da-7168-42f9-a35f-400a6a0188e9,,,,,,,,,9,2026-04-23,9,,,,,,,12460
+001Hr000028ZdqL,"Washington County, MS",Mississippi,County,Sydney Ireland,44922,Open Opportunity,Tier 1,1.5,33.3001,-90.9438,fe27c87b-0657-4b58-b5e6-c5669a693be6,Open,Initial Interest,Top of Funnel,Ryan Minter,7/25/2025,7/17/2025,,,23,2026-04-24,17,6,,,,,,12303
+001Hr000028Zdrt,"Harrison County, MS",Mississippi,County,Sydney Ireland,213730,,Tier S,2.0,30.4321,-89.0179,e6b1e83c-db1c-4dd4-94ed-7a867c1cf82b,,,,,,,,,7,2026-04-06,2,,5,,,,,12472
+001Hr000028Zdtt,"DeSoto County, MS",Mississippi,County,Sydney Ireland,193247,Open Opportunity,Tier S,2.0,34.9065,-89.9627,475023b6-4702-4ed8-a1d9-83eb282ad839,Open,Initial Interest,Top of Funnel,Ryan Minter,1/7/2026,12/2/2025,,,6,2026-04-29,4,2,,,,,,12442
+001Hr000028ZduH,"Jackson County, MS",Mississippi,County,Sydney Ireland,146389,,Tier S,2.0,30.4278,-88.5565,01a57288-6146-4458-bc40-a5552816cb8f,,,,,,,,,11,2026-04-30,2,3,6,,,,,12451
+001cv00000AuWPN,"Town Of Farmington, MS",Mississippi,Municipality,Sydney Ireland,2031,,Tier 3,0.75,34.9306,-88.4583,26f31191-392c-4489-bdac-616a512861fa,,,,,,,,,,,,,,,,,,12964
+001cv00000AuWcH,"City Of Durant, MS",Mississippi,Municipality,Sydney Ireland,2145,,Tier 3,0.75,33.0751,-89.8545,41974502-6c71-45f8-8142-7a00e72ac500,,,,,,,,,,,,,,,,,,13227
+001cv00000AuWpQ,"City Of Mendenhall, MS",Mississippi,Municipality,Sydney Ireland,2181,,Tier 3,0.75,31.9618,-89.8701,6ce6dbc2-247e-427c-8b67-c9d6f837a256,,,,,,,,,3,2025-07-16,3,,,,,,,13503
+001cv00000AuWvK,"City Of Collins, MS",Mississippi,Municipality,Sydney Ireland,2242,,Tier 3,0.75,31.6454,-89.5553,9115cf81-4019-481b-8f7b-9a926d8e0536,,,,,,,,,,,,,,,,,,13712
+001cv00000AuX6w,"City Of Hollandale, MS",Mississippi,Municipality,Sydney Ireland,2277,,Tier 3,0.75,33.169,-90.854,c8bc237e-4819-4d3e-b115-67ab6637b629,,,,,,,,,,,,,,,,,,13728
+001cv00000AuXI0,"City Of Macon, MS",Mississippi,Municipality,Sydney Ireland,2523,,Tier 3,0.75,33.1054,-88.5609,0b70eef2-d6ec-40a7-8e70-4b00d54aada8,,,,,,,,,,,,,,,,,,13965
+001cv00000AuXOR,"City Of Okolona, MS",Mississippi,Municipality,Sydney Ireland,2487,,Tier 3,0.75,34.0018,-88.7553,5bdd92d1-969c-483e-bd94-a4ac12e5728d,,,,,,,,,,,,,,,,,,14058
+001cv00000AuXUz,"City Of Ruleville, MS",Mississippi,Municipality,Sydney Ireland,2572,,Tier 3,0.75,33.7259,-90.5515,cbaef84f-54a1-4dec-bd09-d69a70513484,,,,,,,,,,,,,,,,,,14305
+001cv00000AuXhJ,"City Of Verona, MS",Mississippi,Municipality,Sydney Ireland,2773,,Tier 3,0.75,34.1943,-88.7198,503746b7-89ca-42e6-a39d-705fd5df78c2,,,,,,,,,,,,,,,,,,14563
+001cv00000AuXjR,"City Of Poplarville, MS",Mississippi,Municipality,Sydney Ireland,2822,,Tier 3,0.75,30.8402,-89.5342,ee869ba3-630d-4f92-87cd-f01aefdf7767,,,,,,,,,,,,,,,,,,14676
+001cv00000AuXm8,"Town Of Tutwiler, MS",Mississippi,Municipality,Sydney Ireland,2900,,Tier 3,0.75,34.0148,-90.4318,8ddb9b12-2a42-46c6-82ce-e1ee21b65c6b,,,,,,,,,,,,,,,,,,14819
+001cv00000AuXn5,"City Of Lucedale, MS",Mississippi,Municipality,Sydney Ireland,2934,,Tier 3,0.75,30.9252,-88.59,d8ce4dd8-c04f-40d2-b7d9-864e330214cc,,,,,,,,,,,,,,,,,,14870
+001cv00000AuYC5,"City Of Baldwyn, MS",Mississippi,Municipality,Sydney Ireland,3118,,Tier 3,0.75,34.5095,-88.6353,322556bc-3e27-43b7-bf69-4b4011abc2e2,,,,,,,,,,,,,,,,,,15253
+001cv00000AuYCc,"City Of Newton, MS",Mississippi,Municipality,Sydney Ireland,3137,,Tier 3,0.75,32.3213,-89.1634,637a6c76-71c9-4550-88a3-ed463fa4331d,,,,,,,,,,,,,,,,,,15142
+001cv00000AuYGs,"City Of Iuka, MS",Mississippi,Municipality,Sydney Ireland,3066,Open Opportunity,Tier 3,0.75,34.8118,-88.19,f9fe2798-c18c-481e-9834-b35c09f223f6,Open,Meeting Booked,Top of Funnel,Ryan Minter,2/2/2026,1/22/2026,,,2,2026-02-02,2,,,,,,,15198
+001cv00000AuYHm,"City Of Water Valley, MS",Mississippi,Municipality,Sydney Ireland,3301,,Tier 3,0.75,34.1515,-89.6315,9381bd33-5202-471a-add9-dddead4c5acd,,,,,,,,,,,,,,,,,,15762
+001cv00000AuYRS,"City Of Hazlehurst, MS",Mississippi,Municipality,Sydney Ireland,3552,,Tier 3,0.75,31.8604,-90.3959,11b3bc9b-90ef-4dcd-b201-edb3142aed08,,,,,,,,,,,,,,,,,,15700
+001cv00000AuYSe,"City Of Morton, MS",Mississippi,Municipality,Sydney Ireland,3615,,Tier 3,0.75,32.3538,-89.6545,e3619a65-383d-4e79-bc52-0beaf1491ddc,,,,,,,,,,,,,,,,,,15945
+001cv00000AuYdl,"County Of Sharkey, MS",Mississippi,County,Sydney Ireland,3663,,Tier 3,0.75,32.9861,-90.8294,366ae8c4-38e9-4087-b3f1-d347f9845447,,,,,,,,,,,,,,,,,,16296
+001cv00000AuYhR,"City Of Magee, MS",Mississippi,Municipality,Sydney Ireland,3888,,Tier 3,0.75,31.8738,-89.7337,2be40aff-3c32-4233-913b-6dcf01d5b987,,,,,,,,,,,,,,,,,,16232
+001cv00000AuYhS,"City Of Leland, MS",Mississippi,Municipality,Sydney Ireland,3888,,Tier 3,0.75,33.4054,-90.8976,5a3f5cb7-da42-442a-9234-d30da0520205,,,,,,,,,,,,,,,,,,16201
+001cv00000AuYm9,"City Of Fulton, MS",Mississippi,Municipality,Sydney Ireland,4022,,Tier 3,0.75,34.274,-88.4092,f92275eb-5ca5-4dba-a058-fc8985c2bea7,,,,,,,,,,,,,,,,,,16600
+001cv00000AuYt4,"City Of Houston, MS",Mississippi,Municipality,Sydney Ireland,3772,,Tier 3,0.75,33.8984,-88.9992,bddeb2fa-3c39-4eb0-afd9-14d00e4ceba7,,,,,,,,,,,,,,,,,,16510
+001cv00000AuYut,"City Of Wiggins, MS",Mississippi,Municipality,Sydney Ireland,4289,,Tier 3,0.75,30.8582,-89.1353,0194b975-9b9c-49a7-b2e7-acc02256e9a1,,,,,,,,,,,,,,,,,,16809
+001cv00000AuYvn,"City Of Winona, MS",Mississippi,Municipality,Sydney Ireland,4339,,Tier 3,0.75,33.4821,-89.7281,42517d75-2a21-49c8-8a89-821ac6d4b2ab,,,,,,,,,,,,,,,,,,16945
+001cv00000AuYzH,"City Of Ellisville, MS",Mississippi,Municipality,Sydney Ireland,4510,,Tier 3,0.75,31.6041,-89.1956,b37988ed-926a-440c-bdca-4a317e08ed3f,,,,,,,,,,,,,,,,,,20108
+001cv00000AuYzn,"City Of Waynesboro, MS",Mississippi,Municipality,Sydney Ireland,4541,,Tier 3,0.75,31.6749,-88.6461,98dfb567-a676-4176-a9a6-2f3d5407ece1,,,,,,,,,,,,,,,,,,19971
+001cv00000AuZA1,"City Of Crystal Springs, MS",Mississippi,Municipality,Sydney Ireland,4768,,Tier 3,0.75,31.9874,-90.357,1fececc3-e093-4171-9459-b4aeed909333,,,,,,,,,,,,,,,,,,17154
+001cv00000AuZAk,"City Of Columbia, MS",Mississippi,Municipality,Sydney Ireland,5914,,Tier 3,0.75,31.2525,-89.8354,0c933538-9817-4197-b9dd-14b6768608bc,,,,,,,,,,,,,,,,,,17214
+001cv00000AuZAt,"County Of Quitman, MS",Mississippi,County,Sydney Ireland,5935,,Tier 3,0.75,32.0401,-88.7281,23756703-33ce-4308-b1ef-86db8902d617,,,,,,,,,,,,,,,,,,17041
+001cv00000AuZKH,"City Of Carthage, MS",Mississippi,Municipality,Sydney Ireland,5707,,Tier 3,0.75,32.7326,-89.5362,9d8f940c-f93b-43ca-a6bc-1005bae85461,,,,,,,,,1,2025-09-02,1,,,,,,,17330
+001cv00000AuZOr,"County Of Jefferson, MS",Mississippi,County,Sydney Ireland,7205,,Tier 3,0.75,31.7158,-90.9821,cba7e30b-9e54-4255-bbf4-bec56cabd34c,,,,,,,,,,,,,,,,,,17538
+001cv00000AuZRQ,"County Of Humphreys, MS",Mississippi,County,Sydney Ireland,7551,,Tier 3,0.75,33.1678,-90.5258,791bf0ed-5f80-469e-aa15-5f20e5fd84de,,,,,,,,,,,,,,,,,,17639
+001cv00000AuZRe,"County Of Benton, MS",Mississippi,County,Sydney Ireland,7646,,Tier 3,0.75,34.7713,-89.1706,f3134bc7-bacd-458e-838f-c635d1587dad,,,,,,,,,,,,,,,,,,17709
+001cv00000AuZRj,"County Of Franklin, MS",Mississippi,County,Sydney Ireland,7676,,Tier 3,0.75,31.4884,-90.8675,1f5479a9-dd63-49d0-91b5-f9fd7e0ea842,,,,,,,,,,,,,,,,,,17672
+001cv00000AuZVj,"County Of Choctaw, MS",Mississippi,County,Sydney Ireland,8106,,Tier 3,0.75,33.3914,-89.2847,32bac49b-9430-4e9e-8a8c-3b073a392ed1,,,,,,,,,,,,,,,,,,17727
+001cv00000AuZXb,"County Of Wilkinson, MS",Mississippi,County,Sydney Ireland,8315,,Tier 3,0.75,31.2224,-91.239,ef64fc02-7774-4e09-a718-beecb0d36d04,,,,,,,,,,,,,,,,,,17803
+001cv00000AuZam,"County Of Perry, MS",Mississippi,County,Sydney Ireland,11571,,Tier 2,1.0,31.1673,-89.0179,edd2600f-5123-4f63-8f7d-beff84c883c7,,,,,,,,,,,,,,,,,,18359
+001cv00000AuZb3,"County Of Lawrence, MS",Mississippi,County,Sydney Ireland,11812,,Tier 2,1.0,32.3251,-89.2328,b664189f-6f94-4b32-8aaf-b494de218381,,,,,,,,,,,,,,,,,,18317
+001cv00000AuZcI,"County Of Webster, MS",Mississippi,County,Sydney Ireland,9983,,Tier 3,0.75,33.5707,-89.2847,96c92589-fa62-408e-8b50-24dfbe3cf925,,,,,,,,,,,,,,,,,,18298
+001cv00000AuZcU,"County Of Noxubee, MS",Mississippi,County,Sydney Ireland,10123,,Tier 2,1.0,33.1606,-88.5565,04ffd558-90c9-4fff-b21e-eca221f54069,,,,,,,,,,,,,,,,,,18318
+001cv00000AuZdb,"County Of Kemper, MS",Mississippi,County,Sydney Ireland,8829,,Tier 3,0.75,32.8018,-88.7109,ce136db9-2195-4cba-af06-9ac0a6b9087f,,,,,,,,,,,,,,,,,,17761
+001cv00000AuZdl,"County Of Claiborne, MS",Mississippi,County,Sydney Ireland,8908,Open Opportunity,Tier 3,0.75,31.9438,-90.9438,03fab32a-abef-4f78-9247-1a246ab72217,Open,Initial Interest,Top of Funnel,Ryan Minter,,9/8/2025,,,5,2025-09-17,5,,,,,,,17810
+001cv00000AuZfq,"County Of Calhoun, MS",Mississippi,County,Sydney Ireland,13018,,Tier 2,1.0,33.8839,-89.3227,aba48d09-3415-4f58-8fb2-b99f89d9a2f7,,,,,,,,,,,,,,,,,,18272
+001cv00000AuZgS,"County Of Greene, MS",Mississippi,County,Sydney Ireland,13630,,Tier 2,1.0,31.1646,-88.7109,3071d162-b3a9-408b-a024-356915c4a091,,,,,,,,,,,,,,,,,,18232
+001cv00000AuZi2,"County Of Clarke, MS",Mississippi,County,Sydney Ireland,15421,,Tier 2,1.0,32.0772,-88.7109,1ec6f862-0692-49c3-aa80-f0028eb070d2,,,,,,,,,,,,,,,,,,18137
+001cv00000AuZiP,"County Of Tallahatchie, MS",Mississippi,County,Sydney Ireland,12366,,Tier 2,1.0,33.9303,-90.187,054230b4-ed05-4b59-b266-54096944d063,,,,,,,,,,,,,,,,,,18097
+001cv00000AuZiU,"County Of Yalobusha, MS",Mississippi,County,Sydney Ireland,12415,,Tier 2,1.0,34.0639,-89.7755,11c26e19-01c9-46c4-a56a-8ed3095123ad,,,,,,,,,,,,,,,,,,18119
+001cv00000AuZik,"County Of Amite, MS",Mississippi,County,Sydney Ireland,12637,,Tier 2,1.0,31.1684,-90.8294,41b2dac8-2176-4b42-8198-d4017a604b0c,,,,,,,,,,,,,,,,,,18078
+001cv00000AuZjv,"County Of Tunica, MS",Mississippi,County,Sydney Ireland,9696,Nurture,Tier 3,0.75,34.6845,-90.3829,e6289394-90e5-4592-9488-0e7094e158cb,Closed Lost,,,Ryan Minter,1/13/2026,12/17/2025,,,4,2026-01-13,4,,,,,,,18019
+001cv00000AuZjz,"County Of Montgomery, MS",Mississippi,County,Sydney Ireland,9729,,Tier 3,0.75,33.5274,-89.6252,bf13285c-ea83-4b67-b553-c885179e7030,,,,,,,,,,,,,,,,,,18053
+001cv00000AuZkH,"County Of Carroll, MS",Mississippi,County,Sydney Ireland,9879,,Tier 3,0.75,33.528,-89.9253,56a455e3-e0a2-46e2-8609-0542c926c476,,,,,,,,,1,2025-10-27,,,,,1,,,17980
+001cv00000AuZlu,"County Of Jefferson Davis, MS",Mississippi,County,Sydney Ireland,11134,,Tier 2,1.0,31.5825,-89.813,7488cf4c-086a-4ffe-9272-fa9dd0fdb134,,,,,,,,,,,,,,,,,,18099
+001cv00000AuZnH,"County Of Walthall, MS",Mississippi,County,Sydney Ireland,13836,,Tier 2,1.0,31.1252,-90.1121,1e2df7f7-5ee0-47f6-a801-16caef7ac3ff,,,,,,,,,,,,,,,,,,17896
+001cv00000AuZnn,"County Of Smith, MS",Mississippi,County,Sydney Ireland,14191,,Tier 2,1.0,32.0827,-89.4742,34c8ac6f-7421-4750-b659-c0132b968484,,,,,,,,,,,,,,,,,,17912
+001cv00000AuZpP,"County Of Jasper, MS",Mississippi,County,Sydney Ireland,16291,,Tier 2,1.0,32.081,-89.1706,d311cc00-0cb2-4976-b086-2deccb6f6a57,,,,,,,,,,,,,,,,,,17872
+001cv00000AuZqy,"County Of Holmes, MS",Mississippi,County,Sydney Ireland,16496,,Tier 2,1.0,33.1689,-90.0747,b3772c6c-d57e-42df-bd67-5a5936c84156,,,,,,,,,,,,,,,,,,18708
+001cv00000AuZrX,"County Of Chickasaw, MS",Mississippi,County,Sydney Ireland,17011,,Tier 2,1.0,33.8819,-89.0179,afffa5dc-a260-4f14-8c44-81352d933342,,,,,,,,,,,,,,,,,,18445
+001cv00000AuZsQ,"County Of Clay, MS",Mississippi,County,Sydney Ireland,18535,,Tier 2,1.0,33.6568,-88.8263,0a786c54-d257-41ca-b2ab-a79403ddb3ce,,,,,,,,,,,,,,,,,,18608
+001cv00000AuZsY,"County Of Stone, MS",Mississippi,County,Sydney Ireland,18644,,Tier 2,1.0,30.8013,-89.1706,c1c239c1-9e6c-4f72-9ac0-000e026350b5,,,,,,,,,,,,,,,,,,18557
+001cv00000AuZsb,"County Of Tishomingo, MS",Mississippi,County,Sydney Ireland,18750,,Tier 2,1.0,34.6368,-88.2317,f5cb09a1-548d-4c24-8eb7-8e5a024c1d04,,,,,,,,,,,,,,,,,,18615
+001cv00000AuZtl,"County Of Winston, MS",Mississippi,County,Sydney Ireland,17596,,Tier 2,1.0,33.165,-89.0179,9c09a76c-30e3-4507-942f-5f3cc0b6fd9d,,,,,,,,,,,,,,,,,,18492
+001cv00000AuZtv,"County Of Attala, MS",Mississippi,County,Sydney Ireland,17742,,Tier 2,1.0,33.1683,-89.6252,eafe124a-e261-47b0-8162-0fcb72078c63,,,,,,,,,,,,,,,,,,18416
+001cv00000AuZuN,"County Of Covington, MS",Mississippi,County,Sydney Ireland,18279,,Tier 2,1.0,31.6733,-89.5875,3891b4f0-70a7-4954-9a88-f3817f9bf64c,,,,,,,,,,,,,,,,,,18538
+001cv00000AuZxU,"County Of Newton, MS",Mississippi,County,Sydney Ireland,21056,,Tier 2,1.0,32.3213,-89.1634,44be5636-b0cc-494b-ae46-9c3a6d01847b,,,,,,,,,,,,,,,,,,18963
+001cv00000AuZxa,"County Of Leake, MS",Mississippi,County,Sydney Ireland,21196,,Tier 2,1.0,32.8074,-89.4742,c74ccb5f-dac1-4d3c-b9b0-595839cc3e3f,,,,,,,,,,,,,,,,,,18995
+001cv00000AuZy0,"County Of Tippah, MS",Mississippi,County,Sydney Ireland,21635,,Tier 2,1.0,34.7688,-88.8647,a3a69e09-6b70-4fb3-9ac8-6e1e50ac96a7,,,,,,,,,,,,,,,,,,18999
+001cv00000Aua0E,"County Of Copiah, MS",Mississippi,County,Sydney Ireland,27995,,Tier 1,1.5,31.9012,-90.3748,de3a3dab-ca0e-4100-8b88-b21c46d36adb,,,,,,,,,4,2025-08-11,4,,,,,,,18889
+001cv00000Aua0h,"County Of Adams, MS",Mississippi,County,Sydney Ireland,28742,,Tier 1,1.5,31.5305,-91.2891,c32be6b4-d95d-498b-9363-01bbe3f65868,,,,,,,,,5,2025-12-15,5,,,,,,,18769
+001cv00000Aua0q,"County Of Neshoba, MS",Mississippi,County,Sydney Ireland,28993,,Tier 1,1.5,32.8057,-89.1706,dcb5ccac-7617-4b3c-b061-e3e0ef5f1c23,,,,,,,,,4,2026-04-29,1,3,,,,,,18868
+001cv00000Aua1L,"County Of Bolivar, MS",Mississippi,County,Sydney Ireland,30308,,Tier 1,1.5,33.883,-90.8294,2c73cefd-f92d-4a08-9a68-9926d3de0522,,,,,,,,,10,2025-08-26,10,,,,,,,18657
+001cv00000Aua2E,"County Of George, MS",Mississippi,County,Sydney Ireland,24762,,Tier 2,1.0,30.8431,-88.6724,94f27175-0443-4206-a7ef-0d3d17810da2,,,,,,,,,4,2025-12-12,4,,,,,,,19264
+001cv00000Aua2P,"County Of Prentiss, MS",Mississippi,County,Sydney Ireland,24996,,Tier 2,1.0,31.5985,-89.867,83b2eedb-56dc-48c0-b2cc-0d0819e3d582,,,,,,,,,,,,,,,,,,19391
+001cv00000Aua2k,"County Of Sunflower, MS",Mississippi,County,Sydney Ireland,25402,Nurture,Tier 1,1.5,33.5429,-90.537,9a4cf96a-0edd-49a7-805b-7b572e549038,Closed Lost,,,Ryan Minter,11/24/2025,11/20/2025,,,4,2026-05-11,2,2,,,,,,19410
+001cv00000Aua2y,"County Of Simpson, MS",Mississippi,County,Sydney Ireland,25750,,Tier 1,1.5,31.9018,-89.9253,0d0e3fca-079b-424e-8779-f090fc53a22f,,,,,,,,,,,,,,,,,,19443
+001cv00000Aua4B,"County Of Coahoma, MS",Mississippi,County,Sydney Ireland,20810,Nurture,Tier 2,1.0,34.3668,-90.5232,6245ef35-4c1d-4f23-9a9d-05296b1ec853,Closed Lost,,,Ryan Minter,10/31/2025,10/8/2025,,,8,2026-04-24,4,4,,,,,,18618
+001cv00000Aua5s,"County Of Monroe, MS",Mississippi,County,Sydney Ireland,33883,,Tier 1,1.5,33.8774,-88.5565,c2679e31-aa43-4c0d-b4b7-364c9f6e181c,,,,,,,,,,,,,,,,,,19535
+001cv00000Aua68,"County Of Alcorn, MS",Mississippi,County,Sydney Ireland,34349,,Tier 1,1.5,34.8985,-88.5952,a9998837-7ad5-42cf-9ad5-eacbd6fd2c63,,,,,,,,,,,,,,,,,,19352
+001cv00000Aua7d,"County Of Pike, MS",Mississippi,County,Sydney Ireland,39973,,Tier 1,1.5,31.1705,-90.3748,8ce4092e-8a14-4cc9-bbfe-1fa01bfc4a65,,,,,,,,,,,,,,,,,,19076
+001cv00000Aua8M,"County Of Pontotoc, MS",Mississippi,County,Sydney Ireland,31445,,Tier 1,1.5,34.2479,-88.9987,e2461ecd-8f45-44ed-a786-f304f3181873,,,,,,,,,,,,,,,,,,18804
+001cv00000Aua8k,"County Of Panola, MS",Mississippi,County,Sydney Ireland,32851,Nurture,Tier 1,1.5,34.4198,-89.9253,0afd405c-038f-4314-90e5-27397f0292b5,Closed Lost,,,Ryan Minter,4/30/2026,4/15/2026,,,5,2026-04-28,4,,,,,,1,18813
+001cv00000AuaAg,"County Of Itawamba, MS",Mississippi,County,Sydney Ireland,23838,,Tier 2,1.0,34.2318,-88.4016,14682051-25d6-434e-95be-9fe3cba15ce7,,,,,,,,,,,,,,,,,,18805
+001cv00000AuaAv,"County Of Marion, MS",Mississippi,County,Sydney Ireland,24378,,Tier 2,1.0,32.4193,-88.6518,bd5fcd53-892b-458f-96dc-647643156aea,,,,,,,,,,,,,,,,,,18844
+001cv00000AuaBO,"County Of Yazoo, MS",Mississippi,County,Sydney Ireland,26373,,Tier 1,1.5,32.8079,-90.3748,76ba7696-baec-417b-847f-8e11f5d8e084,,,,,,,,,,,,,,,,,,19199
+001cv00000AuaC0,"County Of Leflore, MS",Mississippi,County,Sydney Ireland,27557,,Tier 1,1.5,33.5274,-90.3748,a79ab30c-7564-4602-8ff1-13bf9b42a8c0,,,,,,,,,,,,,,,,,,19247
+001cv00000AuaC1,"County Of Scott, MS",Mississippi,County,Sydney Ireland,27598,,Tier 1,1.5,33.5931,-91.076,1ea47585-a717-4bfe-88ed-97e206926aa0,,,,,,,,,,,,,,,,,,19263
+001cv00000AuaCI,"County Of Union, MS",Mississippi,County,Sydney Ireland,27953,,Tier 1,1.5,34.4599,-88.9797,e6b94040-9b70-427d-8f42-04bef5ae45af,,,,,,,,,,,,,,,,,,18983
+001cv00000AuaCq,"County Of Lincoln, MS",Mississippi,County,Sydney Ireland,34943,,Tier 1,1.5,31.5359,-90.5258,84ba5846-44bd-427b-8fc8-91a5aecc3383,,,,,,,,,,,,,,,,,,19183
+001cv00000AuaGv,"County Of Warren, MS",Mississippi,County,Sydney Ireland,43579,,Tier 1,1.5,32.3989,-90.7913,e4ec6912-8f5f-455b-9780-b7747cef3d63,,,,,,,,,,,,,,,,,,19003
+001cv00000AuaJj,"County Of Hancock, MS",Mississippi,County,Sydney Ireland,46055,,Tier 1,1.5,30.3888,-89.512,4651cb34-40bb-4252-861f-02fe1c8ea683,,,,,,,,,7,2026-04-24,3,4,,,,,,19453
+001cv00000AuaLH,"County Of Oktibbeha, MS",Mississippi,County,Sydney Ireland,51842,,Tier S,2.0,33.3887,-88.9031,0cdc28d9-34a2-49bb-8fab-72bb996683ec,,,,,,,,,,,,,,,,,,19676
+001cv00000AuaNa,"County Of Pearl River, MS",Mississippi,County,Sydney Ireland,56503,,Tier S,2.0,32.7835,-89.2278,31931eb7-d090-4a00-98b9-28e171d0cfc3,,,,,,,,,7,2026-04-29,5,2,,,,,,19613
+001cv00000AuaNc,"County Of Lafayette, MS",Mississippi,County,Sydney Ireland,56884,,Tier S,2.0,34.4187,-89.4742,e332d9e9-6b62-4060-833b-a01bf8da610c,,,,,,,,,,,,,,,,,,19698
+001cv00000AuaNs,"County Of Lowndes, MS",Mississippi,County,Sydney Ireland,58150,Open Opportunity,Tier S,2.0,33.4734,-88.4404,023c08e7-ec4c-406a-abd0-bc466e0126da,Open,Initial Interest,Top of Funnel,Ryan Minter,,8/11/2025,,,20,2026-04-09,17,3,,,,,,19522
+001cv00000AuaP6,"County Of Lamar, MS",Mississippi,County,Sydney Ireland,65353,Nurture,Tier S,2.0,31.17,-89.4742,88dd6d76-96f3-4946-a7b3-12f4e3f6c070,Closed Lost,,,Ryan Minter,12/12/2025,12/5/2025,,,4,2026-04-29,3,1,,,,,,19751
+001cv00000AuaPS,"County Of Jones, MS",Mississippi,County,Sydney Ireland,66744,,Tier S,2.0,31.5343,-89.1706,e6e83541-e527-4ea1-a1e7-1ede615c286d,,,,,,,,,,,,,,,,,,19783
+001cv00000AuaQZ,"County Of Lee, MS",Mississippi,County,Sydney Ireland,82883,,Tier S,2.0,34.2354,-88.7109,26dcc695-da28-4e67-a83a-ecbccdf3ddf3,,,,,,,,,,,,,,,,,,19651
+001cv00000AuaWE,"County Of Lauderdale, MS",Mississippi,County,Sydney Ireland,72088,,Tier S,2.0,32.5208,-88.5117,6e67338c-f97d-4f32-bb2e-99a6be682a1b,,,,,,,,,5,2026-04-17,3,2,,,,,,19834
+001cv00000AuaWr,"County Of Forrest, MS",Mississippi,County,Sydney Ireland,77875,Open Opportunity,Tier S,2.0,31.2149,-89.2847,94230925-5ca6-4f62-8269-db0b2e5eb134,Open,Initial Interest,Top of Funnel,Ryan Minter,12/9/2025,12/5/2025,,,11,2026-04-29,10,1,,,,,,19723
+001cv00000B21qt,"Town Of Guntown, MS",Mississippi,Municipality,Sydney Ireland,2415,,Tier 3,0.75,34.4402,-88.6579,ad8939fb-1b30-4303-b06a-544de51ac037,,,,,,,,,,,,,,,,,,20194
+001cv00000B220j,"City Of Florence, MS",Mississippi,Municipality,Sydney Ireland,4623,,Tier 3,0.75,32.1544,-90.1239,c72976f8-745b-42a9-9f32-5431bfb2d4bc,,,,,,,,,,,,,,,,,,20638
+001cv00000CLwws,"City Of Grenada, MS",Mississippi,Municipality,Sydney Ireland,12471,,Tier 2,1.0,33.769,-89.8084,27e65847-ff05-46ea-b9c6-00613ed24da5,,,,,,,,,2,2026-04-23,1,,,,,1,,20688
+001cv00000bAeBk,Hinds County,Mississippi,County,Sydney Ireland,211975,,Tier S,2.0,32.2648,-90.3748,4e7c8e59-ddb6-4827-9169-858a86b3097b,,,,,,,,,1,2026-04-09,,1,,,,,,22737
+001cv00000bB8Pd,City of Bay Springs,Mississippi,Municipality,Sydney Ireland,1488,,Tier 3,0.75,31.979,-89.2873,9b1db453-8db2-4c2d-a3c4-4b9346f54229,,,,,,,,,,,,,,,,,,22684
+001cv00000bBVhx,Town of Tunica,Mississippi,Municipality,Sydney Ireland,865,,Tier 3,0.75,34.6845,-90.3829,27819266-ec9c-4fcc-926e-47ed185723f4,,,,,,,,,,,,,,,,,,21270
+001cv00000bBWDD,City of Quitman,Mississippi,Municipality,Sydney Ireland,1948,,Tier 3,0.75,32.04,-88.72,b594fa5e-07b7-4c3d-9532-57d747e30c4f,,,,,,,,,,,,,,,,,,22019
+001cv00000bBWDK,City of Purvis,Mississippi,Municipality,Sydney Ireland,1955,,Tier 3,0.75,31.1432,-89.4098,fac9275d-1f65-4f0b-852b-36a632ac466f,,,,,,,,,,,,,,,,,,22029
+001cv00000bBWIu,Town of Wesson,Mississippi,Municipality,Sydney Ireland,1779,,Tier 3,0.75,31.7013,-90.3976,1251d39e-e17e-4605-95cc-58b45cb1d0cc,,,,,,,,,,,,,,,,,,21748
+001cv00000bBWJQ,Town of Belmont,Mississippi,Municipality,Sydney Ireland,1817,,Tier 3,0.75,34.5098,-88.2092,762e264a-6482-4293-9e50-d1e2f914c823,,,,,,,,,,,,,,,,,,21772
+001cv00000bBWKx,Town of Nettleton,Mississippi,Municipality,Sydney Ireland,1928,,Tier 3,0.75,34.089,-88.6223,b12c3184-cfad-4294-b8c4-31bbb40ceb8d,,,,,,,,,,,,,,,,,,21876
+001cv00000bBWMW,Wayne County,Mississippi,County,Sydney Ireland,19749,,Tier 2,1.0,31.65,-88.67,a2daa401-3a10-4ed3-a1cd-ba514f93a9a4,,,,,,,,,,,,,,,,,,21932
+001cv00000bBWOH,City of Lumberton,Mississippi,Municipality,Sydney Ireland,1647,,Tier 3,0.75,31.0013,-89.4523,48d45e8f-2271-41cc-b46e-c6b814e763e5,,,,,,,,,,,,,,,,,,22112
+001cv00000bBWRE,City of Eupora,Mississippi,Municipality,Sydney Ireland,2097,,Tier 3,0.75,33.5407,-89.267,89da8d34-89b8-409f-b9db-cd99d499a747,,,,,,,,,,,,,,,,,,22188
+001cv00000bBWTB,"City of Jackson, MS",Mississippi,Municipality,Sydney Ireland,141449,Open Opportunity,Tier S,2.0,32.2981,-90.1806,6cd6b720-b420-4854-b413-16802da6c744,Open,Demo,Mid Funnel,Sydney Ireland,4/28/2026,4/13/2026,,,17,2026-04-28,,17,,,,,,22355
+001cv00000bBWsg,Town of Coldwater,Mississippi,Municipality,Sydney Ireland,1326,,Tier 3,0.75,34.6918,-89.9773,5e0a8a59-2bdd-43cd-b379-23ac5a7542a9,,,,,,,,,,,,,,,,,,22574
+001cv00000bBWtX,City of Raymond,Mississippi,Municipality,Sydney Ireland,1387,,Tier 3,0.75,32.2593,-90.4226,29c3a4d0-81ff-4690-95f6-bf8fff85cbba,,,,,,,,,,,,,,,,,,22614

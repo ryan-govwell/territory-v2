@@ -1,119 +1,119 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Emily Murnane,Calls - Leila Assil,Calls - Mihir Shah,Calls - Joe del Rosario,Calls - Ryan Minter,Calls - Jenny Allison
-001Hr000028ZcSU,"City Of Buckhannon, WV",West Virginia,Municipality,Mihir Shah,5265,,Tier 3,0.75,38.994,-80.232,5b630986-cc32-4804-a86e-0652f72fc75e,,,,,,,,,25,2026-05-19,12,,3,10,,
-001Hr000028Zcoy,"City Of Grafton, WV",West Virginia,Municipality,Mihir Shah,4651,,Tier 3,0.75,39.3409,-80.019,1626d206-570f-4883-a1fc-1dd17b1833b8,,,,,,,,,9,2026-02-12,9,,,,,
-001Hr000028Zcqt,"City Of Moundsville, WV",West Virginia,Municipality,Mihir Shah,7981,Open Opportunity,Tier 3,0.75,39.9204,-80.7431,de6f7666-7d29-487a-ac7c-88f376ec5d77,Open,Proposal,Mid Funnel,Emily Murnane,1/14/2026,1/8/2026,"$12,000",Yes,3,2026-01-08,3,,,,,
-001Hr000028Zd1J,"City Of Princeton, WV",West Virginia,Municipality,Mihir Shah,5798,Nurture,Tier 3,0.75,37.3662,-81.1026,37cea9bb-6531-4b1d-90f1-c473ebada3e8,Closed Lost,,,Harrison Peacock,12/10/2025,12/3/2025,,,4,2025-09-25,,2,,2,,
-001Hr000028Zd1f,"City Of Fairmont, WV",West Virginia,Municipality,Mihir Shah,18209,Nurture,Tier 2,1.0,39.4851,-80.1426,0e175f78-2c2b-4ef2-b9c7-b801c03cefd7,Closed Lost,,,Liam Shaw,10/14/2024,1/5/2025,"$20,000",,4,2026-01-06,4,,,,,
-001Hr000028Zd1k,"City Of Bluefield, WV",West Virginia,Municipality,Mihir Shah,9499,,Tier 3,0.75,37.2698,-81.2223,3c378a68-4a3d-4996-a3e3-0c4f875a0c68,,,,,,,,,14,2026-01-09,4,,,10,,
-001Hr000028Zd5r,"City Of Nitro, WV",West Virginia,Municipality,Mihir Shah,6518,Nurture,Tier 3,0.75,38.4148,-81.844,0358abd0-b1c5-4c37-98c9-d839c9d5b74d,Closed Lost,,,Liam Shaw,10/28/2024,1/5/2025,,,1,2026-01-13,1,,,,,
-001Hr000028ZdAS,"City Of Charles Town, WV",West Virginia,Municipality,Mihir Shah,6523,,Tier 3,0.75,39.289,-77.8597,78f9659f-d680-400e-81cd-d8170c5f673f,,,,,,,,,6,2026-01-06,3,,,3,,
-001Hr000028ZdHp,"City Of New Martinsville, WV",West Virginia,Municipality,Mihir Shah,5174,,Tier 3,0.75,39.6445,-80.8576,85c7be1a-aa7e-4f4f-bf60-ff7e6cf53eeb,,,,,,,,,2,2025-11-03,2,,,,,
-001Hr000028ZdND,"City of Ranson, WV",West Virginia,Municipality,Mihir Shah,5726,,Tier 3,0.75,39.2951,-77.8606,2ea02783-06df-426e-84e1-7e3598e8d841,,,,,,,,,1,2026-02-05,1,,,,,
-001Hr000028ZdOq,"City Of Hurricane, WV",West Virginia,Municipality,Mihir Shah,6919,,Tier 3,0.75,38.4326,-82.0201,f54e98d9-a299-4f65-a624-b2091a8356b8,,,,,,,,,9,2026-05-19,6,,3,,,
-001Hr000028ZdQO,"City Of South Charleston, WV",West Virginia,Municipality,Mihir Shah,13352,,Tier 2,1.0,38.3686,-81.6999,1b2cb9d2-d9e6-4963-8826-8c5c9f91f251,,,,,,,,,10,2026-05-14,9,,1,,,
-001Hr000028ZdQi,"City Of Clarksburg, WV",West Virginia,Municipality,Mihir Shah,15784,Open Opportunity,Tier 2,1.0,39.2806,-80.3445,861ae830-04ba-4038-b75f-33f400863ef9,Open,Initial Interest,Top of Funnel,Leila Assil,,6/24/2025,,,11,2026-02-19,3,8,,,,
-001Hr000028ZdQv,"City Of Elkins, WV",West Virginia,Municipality,Mihir Shah,6895,,Tier 3,0.75,38.9259,-79.8467,4f62eda8-dc90-4ba0-aa28-5aa53d524250,,,,,,,,,6,2026-04-01,6,,,,,
-001Hr000028ZdR1,"City Of Oak Hill, WV",West Virginia,Municipality,Mihir Shah,8040,Nurture,Tier 3,0.75,37.9723,-81.1487,860b4c3f-a469-4618-b082-a955d77c657d,Closed Lost,,,Liam Shaw,9/12/2024,1/5/2025,"$9,000",,8,2026-05-14,4,,4,,,
-001Hr000028ZdRM,"City Of Beckley, WV",West Virginia,Municipality,Mihir Shah,17024,,Tier 2,1.0,37.7766,-81.1851,fc652adf-6caf-4b9d-913a-706734eae054,,,,,,,,,5,2026-05-14,4,,1,,,
-001Hr000028ZdRX,"City Of Wheeling, WV",West Virginia,Municipality,Mihir Shah,26568,,Tier 1,1.5,40.0645,-80.7204,d4e5d1fb-6757-4022-b36a-fbe43fbaca83,,,,,,,,,15,2026-02-05,3,12,,,,
-001Hr000028ZdSI,"City Of Dunbar, WV",West Virginia,Municipality,Mihir Shah,7330,,Tier 3,0.75,38.3607,-81.7373,dcd3ed3f-349e-4225-a7c4-83df0180bf96,,,,,,,,,2,2026-01-09,1,,,1,,
-001Hr000028ZdSi,"City Of Bridgeport, WV",West Virginia,Municipality,Mihir Shah,9257,,Tier 3,0.75,39.2865,-80.2562,b2374350-3742-4664-9cec-e3c7f3b46b5d,,,,,,,,,5,2026-05-19,3,,2,,,
-001Hr000028ZdUK,"City Of St Albans, WV",West Virginia,Municipality,Mihir Shah,10635,,Tier 2,1.0,38.3794,-81.8192,0d94714c-c602-4e4a-8ab9-a4c7f0691d84,,,,,,,,,2,2026-01-07,1,1,,,,
-001Hr000028ZdUN,"Jefferson County, WV",West Virginia,County,Mihir Shah,58979,,Tier S,2.0,39.306,-77.8825,f72e4a1d-d037-4138-afbb-27ab6529e868,,,,,,,,,5,2026-02-04,2,3,,,,
-001Hr000028ZdVF,"City Of Huntington, WV",West Virginia,Municipality,Mihir Shah,46025,Open Opportunity,Tier 1,1.5,38.4191,-82.4452,4e1c114b-0a71-4901-bac4-c4b680923126,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,18,2026-05-19,14,,4,,,
-001Hr000028ZdVW,"City Of Vienna, WV",West Virginia,Municipality,Mihir Shah,10576,,Tier 2,1.0,39.327,-81.5485,1a8519a7-bed4-4003-8e92-a5b74651d3ed,,,,,,,,,7,2026-02-18,7,,,,,
-001Hr000028ZdYM,"City Of Martinsburg, WV",West Virginia,Municipality,Mihir Shah,18835,,Tier 2,1.0,39.4562,-77.9639,67d553fa-6640-4bcf-a711-8459baaee3bb,,,,,,,,,10,2026-05-19,4,1,5,,,
-001Hr000028ZdZC,"Mineral County, WV",West Virginia,County,Mihir Shah,26957,Nurture,Tier 1,1.5,39.4069,-78.8836,e87cdc32-9773-4b03-a80a-cef6c6b387d5,Closed Lost,,,Leila Assil,11/25/2024,1/5/2025,,,,,,,,,,
-001Hr000028ZdZn,"City Of Weirton, WV",West Virginia,Municipality,Mihir Shah,18813,Open Opportunity,Tier 2,1.0,40.419,-80.5895,139fa47b-0cc7-42a6-b63a-705cf796991e,Open,Initial Interest,Top of Funnel,Leila Assil,,9/23/2025,,,9,2026-05-19,1,2,6,,,
-001Hr000028Zdb9,"Monongalia County, WV",West Virginia,County,Mihir Shah,108697,,Tier S,2.0,39.6696,-79.964,a47db39f-c68a-4d46-8ffd-200cdb6a6e53,,,,,,,,,1,2026-03-13,1,,,,,
-001Hr000028ZdbZ,"City Of Parkersburg, WV",West Virginia,Municipality,Mihir Shah,29403,,Tier 1,1.5,39.2642,-81.5607,30a5e1fd-7ded-49e5-95f4-06752fbe0688,,,,,,,,,4,2026-04-10,4,,,,,
-001Hr000028Zdbj,"City Of Morgantown, WV",West Virginia,Municipality,Mihir Shah,29219,,Tier 1,1.5,39.6304,-79.9545,70bd3140-2988-446a-a611-5f7c3d73741e,,,,,,,,,12,2026-04-21,12,,,,,
-001Hr000028Zddz,"City Of Charleston, WV",West Virginia,Municipality,Mihir Shah,48018,,Tier 1,1.5,38.3498,-81.6326,7d98aa7c-608f-485f-83ef-ca623304781d,,,,,,,,,5,2026-03-04,5,,,,,
-001Hr000028ZdeD,"Mercer County, WV",West Virginia,County,Mihir Shah,58057,,Tier S,2.0,37.4323,-81.1196,fd5752c9-ceac-47b2-bb27-f40705637124,,,,,,,,,,,,,,,,
-001Hr000028Zdmn,"Berkeley County, WV",West Virginia,County,Mihir Shah,132440,,Tier S,2.0,39.4886,-78.0652,4c42c769-6d86-487b-ab8c-791b3de1b10a,,,,,,,,,13,2026-01-13,3,10,,,,
-001Hr000028Zdmw,"Greenbrier County, WV",West Virginia,County,Mihir Shah,,,Tier 3,0.75,38.0198,-80.5438,44226825-8de2-4a87-8684-456e368cefc9,,,,,,,,,,,,,,,,
-001Hr000028Zdnu,"Kanawha County, WV",West Virginia,County,Mihir Shah,173906,,Tier S,2.0,38.2557,-81.4279,29313d00-6674-4d5e-a0cd-98941a5a14b1,,,,,,,,,6,2026-04-06,6,,,,,
-001cv00000AuWQ0,"City Of Spencer, WV",West Virginia,Municipality,Mihir Shah,2038,,Tier 3,0.75,38.802,-81.351,029be4c2-ff8b-497c-8da4-373f4516f8d6,,,,,,,,,20,2026-02-20,2,18,,,,
-001cv00000AuWp5,"City Of Chester, WV",West Virginia,Municipality,Mihir Shah,2173,,Tier 3,0.75,40.6131,-80.5628,427ff583-394c-452b-afb0-aa0218a19359,,,,,,,,,,,,,,,,
-001cv00000AuWqQ,"City Of White Sulphur Springs, WV",West Virginia,Municipality,Mihir Shah,2198,,Tier 3,0.75,37.7965,-80.2976,d696274f-23f2-41c1-bc88-8e3ba7f9858d,,,,,,,,,4,2026-01-12,4,,,,,
-001cv00000AuWvQ,"City Of Hinton, WV",West Virginia,Municipality,Mihir Shah,2243,Nurture,Tier 3,0.75,37.674,-80.8893,07ad6650-dcaa-4f31-b32b-35b86b237fd6,Closed Lost,,,Emily Murnane,1/22/2026,1/12/2026,,,2,2026-01-12,2,,,,,
-001cv00000AuX5e,"City Of Petersburg, WV",West Virginia,Municipality,Mihir Shah,2253,,Tier 3,0.75,38.9926,-79.1239,6b4d26ba-1715-49ee-b21c-9c2a37ad7001,,,,,,,,,,,,,,,,
-001cv00000AuX8S,"City Of Shinnston, WV",West Virginia,Municipality,Mihir Shah,2306,,Tier 3,0.75,39.3956,-80.3001,62754598-b639-4c7b-8856-240d8a6fa552,,,,,,,,,8,2026-04-13,8,,,,,
-001cv00000AuXO0,"City Of Paden City, WV",West Virginia,Municipality,Mihir Shah,2478,,Tier 3,0.75,39.6029,-80.9368,437ab29f-6095-4c28-a101-19232f3bd7bd,,,,,,,,,,,,,,,,
-001cv00000AuXOT,"Town Of Moorefield, WV",West Virginia,Municipality,Mihir Shah,2487,Nurture,Tier 3,0.75,39.0623,-78.9695,d77dd9ea-1abd-4a39-a25f-ccb5840152c8,Closed Lost,,,Leila Assil,9/30/2025,9/9/2025,,,3,2025-09-09,,3,,,,
-001cv00000AuXUV,"Village Of Bethlehem, WV",West Virginia,Municipality,Mihir Shah,2558,,Tier 3,0.75,40.044,-80.6906,fb07c552-e0d8-41d7-80d4-144bc549f40d,,,,,,,,,,,,,,,,
-001cv00000AuXij,"City Of Follansbee, WV",West Virginia,Municipality,Mihir Shah,2799,,Tier 3,0.75,40.3276,-80.5959,1b129b93-b83e-4830-8071-4d6024607406,,,,,,,,,,,,,,,,
-001cv00000AuXj1,"Town Of Milton, WV",West Virginia,Municipality,Mihir Shah,2809,,Tier 3,0.75,38.4345,-82.1324,8f625a91-13be-40fc-907d-5849d868a4d8,,,,,,,,,10,2026-04-14,7,3,,,,
-001cv00000AuXjs,"City Of Madison, WV",West Virginia,Municipality,Mihir Shah,2838,Nurture,Tier 3,0.75,38.067,-81.8193,035cec18-272d-4dcd-ac4e-6a0cb753d870,Closed Lost,,,Emily Murnane,1/21/2026,1/21/2026,,,1,2026-01-07,1,,,,,
-001cv00000AuXk7,"Town Of Fayetteville, WV",West Virginia,Municipality,Mihir Shah,2844,,Tier 3,0.75,38.0529,-81.104,ab3773c2-a3d4-4f12-a399-8158037b5e65,,,,,,,,,6,2026-02-12,6,,,,,
-001cv00000AuXmu,"City Of Philippi, WV",West Virginia,Municipality,Mihir Shah,2922,,Tier 3,0.75,39.1523,-80.0404,01f67cb6-9e76-4d31-bb69-069f7a11421a,,,,,,,,,,,,,,,,
-001cv00000AuXo2,"City Of Williamson, WV",West Virginia,Municipality,Mihir Shah,2968,,Tier 3,0.75,37.6743,-82.2774,da7afcba-6046-4819-9f84-ef1c0c890cb2,,,,,,,,,,,,,,,,
-001cv00000AuYBD,"City Of Kingwood, WV",West Virginia,Municipality,Mihir Shah,3090,,Tier 3,0.75,39.472,-79.6873,3c815679-e5dc-400a-b668-f403636c131b,,,,,,,,,3,2026-01-29,3,,,,,
-001cv00000AuYEB,"City Of Kenova, WV",West Virginia,Municipality,Mihir Shah,2978,,Tier 3,0.75,38.399,-82.5782,6b38887c-7d91-4442-9138-4619b9e8f6de,,,,,,,,,,,,,,,,
-001cv00000AuYEG,"City Of Williamstown, WV",West Virginia,Municipality,Mihir Shah,2982,,Tier 3,0.75,39.4006,-81.4482,9f639322-3905-405a-a01e-8c9bccb3dcee,,,,,,,,,,,,,,,,
-001cv00000AuYGq,"City Of Ripley, WV",West Virginia,Municipality,Mihir Shah,3064,,Tier 3,0.75,38.8187,-81.7107,f9cb706f-7f81-470a-8edc-f2e749754bd4,,,,,,,,,2,2026-03-05,2,,,,,
-001cv00000AuYKj,"City Of Summersville, WV",West Virginia,Municipality,Mihir Shah,3408,,Tier 3,0.75,38.2812,-80.8526,94edc641-819b-4f49-8f38-8787465c2ab1,,,,,,,,,1,2026-01-07,1,,,,,
-001cv00000AuYMd,"Town Of Pleasant Valley, WV",West Virginia,Municipality,Mihir Shah,3492,,Tier 3,0.75,39.4554,-80.1417,34707cf3-2dbb-4c2d-8da1-a727fdd1ddb7,,,,,,,,,3,2026-04-14,3,,,,,
-001cv00000AuYaT,"City Of Westover, WV",West Virginia,Municipality,Mihir Shah,4075,,Tier 3,0.75,39.6345,-79.9698,2627bcc3-4749-4914-8c56-92b56cf78f71,,,,,,,,,2,2026-01-08,2,,,,,
-001cv00000AuYgf,"City Of Ravenswood, WV",West Virginia,Municipality,Mihir Shah,3847,,Tier 3,0.75,38.9481,-81.761,93cb136a-3710-45bd-bf09-e1c9af26b916,,,,,,,,,4,2026-02-17,4,,,,,
-001cv00000AuYh2,"City Of Lewisburg, WV",West Virginia,Municipality,Mihir Shah,3868,Implementation,Tier 3,0.75,37.8018,-80.4456,000996b5-cb7f-4158-bfd3-42106af7e50d,Closed Won,,,Emily Murnane,1/20/2026,1/8/2026,"$18,000",,5,2026-03-06,5,,,,,
-001cv00000AuYhV,"City Of Weston, WV",West Virginia,Municipality,Mihir Shah,3890,,Tier 3,0.75,39.0384,-80.4673,2edf65e4-741c-4f47-9722-7e5df8779ae6,,,,,,,,,1,2026-02-05,1,,,,,
-001cv00000AuYmK,"City Of Point Pleasant, WV",West Virginia,Municipality,Mihir Shah,4031,,Tier 3,0.75,38.8445,-82.1371,57595766-149a-4465-8f3a-09c9cba725d3,,,,,,,,,,,,,,,,
-001cv00000AuYux,"Village Of Barboursville, WV",West Virginia,Municipality,Mihir Shah,4291,,Tier 3,0.75,38.4095,-82.2946,6fb5f4f6-69e8-40e3-aeb2-9950c860bff1,,,,,,,,,6,2026-03-05,3,3,,,,
-001cv00000AuZBO,"County Of Pendleton, WV",West Virginia,County,Mihir Shah,6142,,Tier 3,0.75,38.7452,-79.2902,c6442d45-429f-4e73-818a-ffdbe9e71ce1,,,,,,,,,,,,,,,,
-001cv00000AuZBW,"County Of Calhoun, WV",West Virginia,County,Mihir Shah,6176,,Tier 3,0.75,38.858,-81.1196,32b8434b-8fef-46be-8cac-0e3ab8b0b2a6,,,,,,,,,,,,,,,,
-001cv00000AuZCP,"County Of Tucker, WV",West Virginia,County,Mihir Shah,6672,,Tier 3,0.75,39.1084,-79.6502,3b38d898-a399-46f5-ae20-f68ce9e5ba29,,,,,,,,,,,,,,,,
-001cv00000AuZMn,"City Of Keyser, WV",West Virginia,Municipality,Mihir Shah,4860,,Tier 3,0.75,39.4409,-78.9739,d84455f5-cc60-47ab-87e0-10c14bff6a01,,,,,,,,,1,2026-03-05,1,,,,,
-001cv00000AuZQz,"County Of Gilmer, WV",West Virginia,County,Mihir Shah,7377,,Tier 3,0.75,38.9203,-80.8544,d604bbc3-cf93-434b-afff-1c3e4286bb2f,,,,,,,,,,,,,,,,
-001cv00000AuZRY,"County Of Pleasants, WV",West Virginia,County,Mihir Shah,7601,,Tier 3,0.75,39.3762,-81.1417,66546819-1b0e-436e-9cc7-0f7b961a1846,,,,,,,,,2,2026-04-14,2,,,,,
-001cv00000AuZRu,"County Of Doddridge, WV",West Virginia,County,Mihir Shah,7735,,Tier 3,0.75,39.2368,-80.6771,4323107f-5f6b-45e7-bd84-111dd00994f8,,,,,,,,,,,,,,,,
-001cv00000AuZSl,"County Of Wirt, WV",West Virginia,County,Mihir Shah,5063,,Tier 3,0.75,39.0436,-81.3839,4096d8db-e962-48bd-9f72-84f61ef5df77,,,,,,,,,,,,,,,,
-001cv00000AuZVK,"County Of Pocahontas, WV",West Virginia,County,Mihir Shah,7841,,Tier 3,0.75,38.3102,-80.0088,cdc8a72f-5466-4a2b-a7f5-fc0245ff794f,,,,,,,,,,,,,,,,
-001cv00000AuZVR,"County Of Clay, WV",West Virginia,County,Mihir Shah,7892,,Tier 3,0.75,38.4604,-81.0851,0332f1c4-7782-4938-b89a-75eb3cc8392e,,,,,,,,,,,,,,,,
-001cv00000AuZXL,"County Of Tyler, WV",West Virginia,County,Mihir Shah,8155,,Tier 3,0.75,39.4977,-80.8544,a674191f-8975-4cad-998e-f0dcb87731b0,,,,,,,,,,,,,,,,
-001cv00000AuZXU,"County Of Webster, WV",West Virginia,County,Mihir Shah,8249,,Tier 3,0.75,38.507,-80.3659,c22c387a-ac49-4bba-92d8-d623d0aa6a8f,,,,,,,,,,,,,,,,
-001cv00000AuZXl,"County Of Ritchie, WV",West Virginia,County,Mihir Shah,8383,,Tier 3,0.75,39.1822,-81.0313,284b3ac5-8cbc-4420-9b73-ad3c4d021f10,,,,,,,,,,,,,,,,
-001cv00000AuZbA,"County Of Summers, WV",West Virginia,County,Mihir Shah,11908,,Tier 2,1.0,37.5812,-80.8544,f4a9380b-0960-409d-aa45-51ed4b241dc7,,,,,,,,,,,,,,,,
-001cv00000AuZi4,"County Of Barbour, WV",West Virginia,County,Mihir Shah,15468,,Tier 2,1.0,39.1399,-80.0088,49f21e57-de64-442a-b1f6-c6145ffac798,,,,,,,,,,,,,,,,
-001cv00000AuZi8,"County Of Braxton, WV",West Virginia,County,Mihir Shah,12247,,Tier 2,1.0,38.7023,-80.7214,91b21626-253c-4b97-83a5-d2b1154583d3,,,,,,,,,,,,,,,,
-001cv00000AuZiJ,"County Of Monroe, WV",West Virginia,County,Mihir Shah,12332,,Tier 2,1.0,37.5602,-80.5883,8942b162-c0aa-4072-a2e4-b085ccda8315,,,,,,,,,,,,,,,,
-001cv00000AuZlj,"County Of Grant, WV",West Virginia,County,Mihir Shah,10983,,Tier 2,1.0,39.1042,-79.1549,7bc0603f-f0cd-491a-b2fe-820f6e8882c6,,,,,,,,,,,,,,,,
-001cv00000AuZnK,"County Of Roane, WV",West Virginia,County,Mihir Shah,13898,Nurture,Tier 2,1.0,38.7565,-81.4279,b0f98545-780f-4791-a2b7-f458bfb9ec2a,Closed Lost,,,Mihir Shah,5/8/2026,5/6/2026,,,2,2026-05-08,,,1,,,1
-001cv00000AuZnh,"County Of Hardy, WV",West Virginia,County,Mihir Shah,14160,,Tier 2,1.0,39.0416,-78.9288,c8c3b632-81e4-43fa-87fd-7b15e08d76d5,,,,,,,,,,,,,,,,
-001cv00000AuZnj,"County Of Wetzel, WV",West Virginia,County,Mihir Shah,14170,,Tier 2,1.0,39.5656,-80.6771,01e6b116-d424-4562-a765-f9b784a30874,,,,,,,,,,,,,,,,
-001cv00000AuZqx,"County Of Taylor, WV",West Virginia,County,Mihir Shah,16492,,Tier 2,1.0,39.3418,-79.964,d79b1e85-2f01-4ef2-b930-ec93ccfab934,,,,,,,,,,,,,,,,
-001cv00000AuZrL,"County Of Lewis, WV",West Virginia,County,Mihir Shah,16892,,Tier 2,1.0,39.0196,-80.5438,4353e76b-a261-4bbd-88c4-3c023e3c6161,,,,,,,,,,,,,,,,
-001cv00000AuZtR,"County Of Morgan, WV",West Virginia,County,Mihir Shah,17221,,Tier 2,1.0,39.5073,-78.2476,cbf0f3e3-8c7e-4d7d-b7e3-3c2e551c2b85,,,,,,,,,,,,,,,,
-001cv00000AuZuS,"County Of Mcdowell, WV",West Virginia,County,Mihir Shah,18363,,Tier 2,1.0,37.386,-81.6473,f3f9db53-f23b-40af-b8cd-0ba4f7d69cfb,,,,,,,,,,,,,,,,
-001cv00000AuZxT,"County Of Wyoming, WV",West Virginia,County,Mihir Shah,21051,,Tier 2,1.0,37.6339,-81.5596,d5526f52-d0d2-4ed8-b333-c2759093f1bc,,,,,,,,,,,,,,,,
-001cv00000AuZxi,"County Of Boone, WV",West Virginia,County,Mihir Shah,21312,,Tier 2,1.0,37.9839,-81.7349,cd4e5bc9-c908-4ff8-925c-ab8576b248af,,,,,,,,,,,,,,,,
-001cv00000Aua0a,"County Of Hancock, WV",West Virginia,County,Mihir Shah,28656,,Tier 1,1.5,40.5124,-80.5661,b8bc905c-7b47-4f26-aaa9-6667db253a4c,,,,,,,,,6,2025-09-25,,6,,,,
-001cv00000Aua1C,"County Of Marshall, WV",West Virginia,County,Mihir Shah,30115,,Tier 1,1.5,39.8927,-80.6771,dd5caeb3-0e37-4fa2-9a31-efdf19bfd738,,,,,,,,,,,,,,,,
-001cv00000Aua2b,"County Of Mason, WV",West Virginia,County,Mihir Shah,25157,,Tier 1,1.5,39.0217,-82.029,1e2af35a-ab22-4f2c-9891-82649480807f,,,,,,,,,,,,,,,,
-001cv00000Aua3U,"County Of Lincoln, WV",West Virginia,County,Mihir Shah,20126,,Tier 2,1.0,38.1761,-82.0843,6654cbc8-cc14-474d-aef7-9e2a9c846842,,,,,,,,,,,,,,,,
-001cv00000Aua69,"County Of Preston, WV",West Virginia,County,Mihir Shah,34358,,Tier 1,1.5,39.4372,-79.6502,985ce368-12f6-47d1-8e69-20ae1376a169,,,,,,,,,,,,,,,,
-001cv00000Aua7a,"County Of Fayette, WV",West Virginia,County,Mihir Shah,39927,,Tier 1,1.5,38.0616,-81.0755,845d2c6a-91e1-4f07-b51d-7a4cc4fe01a5,,,,,,,,,,,,,,,,
-001cv00000Aua8T,"County Of Logan, WV",West Virginia,County,Mihir Shah,31909,,Tier 1,1.5,37.8487,-81.9935,90442c51-a4da-4d02-9348-223b8b492a75,,,,,,,,,14,2026-03-02,5,9,,,,
-001cv00000Aua9f,"County Of Brooke, WV",West Virginia,County,Mihir Shah,22140,,Tier 2,1.0,40.2698,-80.5661,f7418979-a7a8-4330-abd9-a8b5db9f4059,,,,,,,,,,,,,,,,
-001cv00000AuaAA,"County Of Mingo, WV",West Virginia,County,Mihir Shah,23005,,Tier 2,1.0,37.7608,-82.1714,ed374b21-cb86-4bfa-ab39-ba91cbd7af68,,,,,,,,,,,,,,,,
-001cv00000AuaAJ,"County Of Hampshire, WV",West Virginia,County,Mihir Shah,23302,,Tier 2,1.0,39.3349,-78.5661,7f557c2e-ccdf-4b9e-ad44-d27463f89eb2,,,,,,,,,,,,,,,,
-001cv00000AuaAd,"County Of Upshur, WV",West Virginia,County,Mihir Shah,23791,,Tier 2,1.0,38.8697,-80.2321,4f7d5b56-ee0b-45c5-a053-842cced4f2d0,,,,,,,,,4,2025-10-30,3,,,,1,
-001cv00000AuaAs,"County Of Nicholas, WV",West Virginia,County,Mihir Shah,24300,,Tier 2,1.0,38.3308,-80.7658,948ff2a5-36b4-421d-ad4b-f237d24c0300,,,,,,,,,,,,,,,,
-001cv00000AuaC7,"County Of Jackson, WV",West Virginia,County,Mihir Shah,27738,,Tier 1,1.5,38.814,-81.6473,7953674a-04dd-495b-810e-11b86d5a6dba,,,,,,,,,,,,,,,,
-001cv00000AuaCC,"County Of Randolph, WV",West Virginia,County,Mihir Shah,27806,,Tier 1,1.5,38.8093,-80.0088,fd929761-7854-42be-b2cb-86b085cc75f1,,,,,,,,,,,,,,,,
-001cv00000AuaEQ,"County Of Wayne, WV",West Virginia,County,Mihir Shah,38498,Open Opportunity,Tier 1,1.5,38.1598,-82.4753,359e4f03-78c2-48db-b1ee-c1ec3f2f353d,Closed Lost,,,Harrison Peacock,7/22/2025,7/16/2025,,,,,,,,,,
-001cv00000AuaGF,"County Of Ohio, WV",West Virginia,County,Mihir Shah,41776,,Tier 1,1.5,40.1111,-80.6105,0ac0e6e3-b65a-4436-a603-b6e31217f4dc,,,,,,,,,,,,,,,,
-001cv00000AuaNU,"County Of Marion, WV",West Virginia,County,Mihir Shah,56001,,Tier S,2.0,39.5289,-80.2321,28e505da-0280-4077-8a69-70e21af0c6d5,,,,,,,,,,,,,,,,
-001cv00000AuaNf,"County Of Putnam, WV",West Virginia,County,Mihir Shah,57260,,Tier S,2.0,38.4992,-81.9098,babe2c3a-91c0-403f-ae80-5005c15db2f6,,,,,,,,,,,,,,,,
-001cv00000AuaP4,"County Of Harrison, WV",West Virginia,County,Mihir Shah,65158,All Modules Live,Tier S,2.0,39.3348,-80.3659,904860ec-0f5f-461f-b63f-2561d5469c17,Closed Won,,,Shane Lieberman,10/17/2024,1/5/2025,"$48,000",,,,,,,,,
-001cv00000AuaQf,"County Of Wood, WV",West Virginia,County,Mihir Shah,83624,,Tier S,2.0,39.2154,-81.4718,9e5de775-e341-4a40-9cb9-d5007b336297,,,,,,,,,,,,,,,,
-001cv00000AuaT1,"County Of Mercer, WV",West Virginia,County,Mihir Shah,59097,,Tier S,2.0,37.4323,-81.1196,fd5752c9-ceac-47b2-bb27-f40705637124,,,,,,,,,,,,,,,,
-001cv00000AuaUj,"County Of Cabell, WV",West Virginia,County,Mihir Shah,93418,All Modules Live,Tier S,2.0,38.4392,-82.2583,d14656bb-2f94-49a0-80b0-dfe35c8fdc89,,,,,,,,,,,,,,,,
-001cv00000AuaWS,"County Of Raleigh, WV",West Virginia,County,Mihir Shah,73771,,Tier S,2.0,37.7382,-81.2519,237d77c5-2f32-4c68-a5e8-7e5c68b906ab,,,,,,,,,,,,,,,,
-001cv00000B21q2,"Town Of Winfield, WV",West Virginia,Municipality,Mihir Shah,2390,,Tier 3,0.75,38.5331,-81.8935,90549167-13de-4c66-8afa-77a6f49634fb,,,,,,,,,,,,,,,,
-001cv00000B21qO,"City Of Wellsburg, WV",West Virginia,Municipality,Mihir Shah,2401,,Tier 3,0.75,40.272,-80.6095,c366e4d4-56aa-4f9e-99e5-767de35982ca,,,,,,,,,,,,,,,,
-001cv00000Xmyro,"Town of Nutter Fort, WV",West Virginia,Municipality,Mihir Shah,1450,,Tier 3,0.75,39.2634,-80.3198,,,,,,,,,,,,,,,,,
-001cv00000bBVeI,Town of White Hall,West Virginia,Municipality,Mihir Shah,704,,Tier 3,0.75,39.4212,-80.1826,0b37a053-f087-403d-afa9-3d5fb2dc2188,,,,,,,,,,,,,,,,
-001cv00000bBVlw,City of Pennsboro,West Virginia,Municipality,Mihir Shah,1009,,Tier 3,0.75,39.2851,-80.9684,6fe036ec-a72b-4068-a5b6-cd1e849f0e26,,,,,,,,,,,,,,,,
-001cv00000bBVyR,City of Logan,West Virginia,Municipality,Mihir Shah,1319,,Tier 3,0.75,37.8487,-81.9935,383104d5-bfa9-43ab-b684-b21e936fa1ae,,,,,,,,,,,,,,,,
-001cv00000bBWtp,City of Glen Dale,West Virginia,Municipality,Mihir Shah,1413,,Tier 3,0.75,39.9479,-80.7542,c44bf3b3-c16c-4552-a139-e29358b6b1fd,,,,,,,,,,,,,,,,
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Emily Murnane,Calls - Leila Assil,Calls - Mihir Shah,Calls - Joe del Rosario,Calls - Ryan Minter,Calls - Jenny Allison,Outreach ID
+001Hr000028ZcSU,"City Of Buckhannon, WV",West Virginia,Municipality,Mihir Shah,5265,,Tier 3,0.75,38.994,-80.232,5b630986-cc32-4804-a86e-0652f72fc75e,,,,,,,,,25,2026-05-19,12,,3,10,,,6237
+001Hr000028Zcoy,"City Of Grafton, WV",West Virginia,Municipality,Mihir Shah,4651,,Tier 3,0.75,39.3409,-80.019,1626d206-570f-4883-a1fc-1dd17b1833b8,,,,,,,,,9,2026-02-12,9,,,,,,6167
+001Hr000028Zcqt,"City Of Moundsville, WV",West Virginia,Municipality,Mihir Shah,7981,Open Opportunity,Tier 3,0.75,39.9204,-80.7431,de6f7666-7d29-487a-ac7c-88f376ec5d77,Open,Proposal,Mid Funnel,Emily Murnane,1/14/2026,1/8/2026,"$12,000",Yes,3,2026-01-08,3,,,,,,6522
+001Hr000028Zd1J,"City Of Princeton, WV",West Virginia,Municipality,Mihir Shah,5798,Nurture,Tier 3,0.75,37.3662,-81.1026,37cea9bb-6531-4b1d-90f1-c473ebada3e8,Closed Lost,,,Harrison Peacock,12/10/2025,12/3/2025,,,4,2025-09-25,,2,,2,,,6279
+001Hr000028Zd1f,"City Of Fairmont, WV",West Virginia,Municipality,Mihir Shah,18209,Nurture,Tier 2,1.0,39.4851,-80.1426,0e175f78-2c2b-4ef2-b9c7-b801c03cefd7,Closed Lost,,,Liam Shaw,10/14/2024,1/5/2025,"$20,000",,4,2026-01-06,4,,,,,,6952
+001Hr000028Zd1k,"City Of Bluefield, WV",West Virginia,Municipality,Mihir Shah,9499,,Tier 3,0.75,37.2698,-81.2223,3c378a68-4a3d-4996-a3e3-0c4f875a0c68,,,,,,,,,14,2026-01-09,4,,,10,,,6623
+001Hr000028Zd5r,"City Of Nitro, WV",West Virginia,Municipality,Mihir Shah,6518,Nurture,Tier 3,0.75,38.4148,-81.844,0358abd0-b1c5-4c37-98c9-d839c9d5b74d,Closed Lost,,,Liam Shaw,10/28/2024,1/5/2025,,,1,2026-01-13,1,,,,,,6374
+001Hr000028ZdAS,"City Of Charles Town, WV",West Virginia,Municipality,Mihir Shah,6523,,Tier 3,0.75,39.289,-77.8597,78f9659f-d680-400e-81cd-d8170c5f673f,,,,,,,,,6,2026-01-06,3,,,3,,,6316
+001Hr000028ZdHp,"City Of New Martinsville, WV",West Virginia,Municipality,Mihir Shah,5174,,Tier 3,0.75,39.6445,-80.8576,85c7be1a-aa7e-4f4f-bf60-ff7e6cf53eeb,,,,,,,,,2,2025-11-03,2,,,,,,6182
+001Hr000028ZdND,"City of Ranson, WV",West Virginia,Municipality,Mihir Shah,5726,,Tier 3,0.75,39.2951,-77.8606,2ea02783-06df-426e-84e1-7e3598e8d841,,,,,,,,,1,2026-02-05,1,,,,,,6196
+001Hr000028ZdOq,"City Of Hurricane, WV",West Virginia,Municipality,Mihir Shah,6919,,Tier 3,0.75,38.4326,-82.0201,f54e98d9-a299-4f65-a624-b2091a8356b8,,,,,,,,,9,2026-05-19,6,,3,,,,6349
+001Hr000028ZdQO,"City Of South Charleston, WV",West Virginia,Municipality,Mihir Shah,13352,,Tier 2,1.0,38.3686,-81.6999,1b2cb9d2-d9e6-4963-8826-8c5c9f91f251,,,,,,,,,10,2026-05-14,9,,1,,,,6818
+001Hr000028ZdQi,"City Of Clarksburg, WV",West Virginia,Municipality,Mihir Shah,15784,Open Opportunity,Tier 2,1.0,39.2806,-80.3445,861ae830-04ba-4038-b75f-33f400863ef9,Open,Initial Interest,Top of Funnel,Leila Assil,,6/24/2025,,,11,2026-02-19,3,8,,,,,6894
+001Hr000028ZdQv,"City Of Elkins, WV",West Virginia,Municipality,Mihir Shah,6895,,Tier 3,0.75,38.9259,-79.8467,4f62eda8-dc90-4ba0-aa28-5aa53d524250,,,,,,,,,6,2026-04-01,6,,,,,,6432
+001Hr000028ZdR1,"City Of Oak Hill, WV",West Virginia,Municipality,Mihir Shah,8040,Nurture,Tier 3,0.75,37.9723,-81.1487,860b4c3f-a469-4618-b082-a955d77c657d,Closed Lost,,,Liam Shaw,9/12/2024,1/5/2025,"$9,000",,8,2026-05-14,4,,4,,,,6528
+001Hr000028ZdRM,"City Of Beckley, WV",West Virginia,Municipality,Mihir Shah,17024,,Tier 2,1.0,37.7766,-81.1851,fc652adf-6caf-4b9d-913a-706734eae054,,,,,,,,,5,2026-05-14,4,,1,,,,6922
+001Hr000028ZdRX,"City Of Wheeling, WV",West Virginia,Municipality,Mihir Shah,26568,,Tier 1,1.5,40.0645,-80.7204,d4e5d1fb-6757-4022-b36a-fbe43fbaca83,,,,,,,,,15,2026-02-05,3,12,,,,,7085
+001Hr000028ZdSI,"City Of Dunbar, WV",West Virginia,Municipality,Mihir Shah,7330,,Tier 3,0.75,38.3607,-81.7373,dcd3ed3f-349e-4225-a7c4-83df0180bf96,,,,,,,,,2,2026-01-09,1,,,1,,,6466
+001Hr000028ZdSi,"City Of Bridgeport, WV",West Virginia,Municipality,Mihir Shah,9257,,Tier 3,0.75,39.2865,-80.2562,b2374350-3742-4664-9cec-e3c7f3b46b5d,,,,,,,,,5,2026-05-19,3,,2,,,,6594
+001Hr000028ZdUK,"City Of St Albans, WV",West Virginia,Municipality,Mihir Shah,10635,,Tier 2,1.0,38.3794,-81.8192,0d94714c-c602-4e4a-8ab9-a4c7f0691d84,,,,,,,,,2,2026-01-07,1,1,,,,,6692
+001Hr000028ZdUN,"Jefferson County, WV",West Virginia,County,Mihir Shah,58979,,Tier S,2.0,39.306,-77.8825,f72e4a1d-d037-4138-afbb-27ab6529e868,,,,,,,,,5,2026-02-04,2,3,,,,,11909
+001Hr000028ZdVF,"City Of Huntington, WV",West Virginia,Municipality,Mihir Shah,46025,Open Opportunity,Tier 1,1.5,38.4191,-82.4452,4e1c114b-0a71-4901-bac4-c4b680923126,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,18,2026-05-19,14,,4,,,,7218
+001Hr000028ZdVW,"City Of Vienna, WV",West Virginia,Municipality,Mihir Shah,10576,,Tier 2,1.0,39.327,-81.5485,1a8519a7-bed4-4003-8e92-a5b74651d3ed,,,,,,,,,7,2026-02-18,7,,,,,,6678
+001Hr000028ZdYM,"City Of Martinsburg, WV",West Virginia,Municipality,Mihir Shah,18835,,Tier 2,1.0,39.4562,-77.9639,67d553fa-6640-4bcf-a711-8459baaee3bb,,,,,,,,,10,2026-05-19,4,1,5,,,,6954
+001Hr000028ZdZC,"Mineral County, WV",West Virginia,County,Mihir Shah,26957,Nurture,Tier 1,1.5,39.4069,-78.8836,e87cdc32-9773-4b03-a80a-cef6c6b387d5,Closed Lost,,,Leila Assil,11/25/2024,1/5/2025,,,,,,,,,,,11919
+001Hr000028ZdZn,"City Of Weirton, WV",West Virginia,Municipality,Mihir Shah,18813,Open Opportunity,Tier 2,1.0,40.419,-80.5895,139fa47b-0cc7-42a6-b63a-705cf796991e,Open,Initial Interest,Top of Funnel,Leila Assil,,9/23/2025,,,9,2026-05-19,1,2,6,,,,6974
+001Hr000028Zdb9,"Monongalia County, WV",West Virginia,County,Mihir Shah,108697,,Tier S,2.0,39.6696,-79.964,a47db39f-c68a-4d46-8ffd-200cdb6a6e53,,,,,,,,,1,2026-03-13,1,,,,,,11989
+001Hr000028ZdbZ,"City Of Parkersburg, WV",West Virginia,Municipality,Mihir Shah,29403,,Tier 1,1.5,39.2642,-81.5607,30a5e1fd-7ded-49e5-95f4-06752fbe0688,,,,,,,,,4,2026-04-10,4,,,,,,7110
+001Hr000028Zdbj,"City Of Morgantown, WV",West Virginia,Municipality,Mihir Shah,29219,,Tier 1,1.5,39.6304,-79.9545,70bd3140-2988-446a-a611-5f7c3d73741e,,,,,,,,,12,2026-04-21,12,,,,,,7104
+001Hr000028Zddz,"City Of Charleston, WV",West Virginia,Municipality,Mihir Shah,48018,,Tier 1,1.5,38.3498,-81.6326,7d98aa7c-608f-485f-83ef-ca623304781d,,,,,,,,,5,2026-03-04,5,,,,,,7226
+001Hr000028ZdeD,"Mercer County, WV",West Virginia,County,Mihir Shah,58057,,Tier S,2.0,37.4323,-81.1196,fd5752c9-ceac-47b2-bb27-f40705637124,,,,,,,,,,,,,,,,,11908
+001Hr000028Zdmn,"Berkeley County, WV",West Virginia,County,Mihir Shah,132440,,Tier S,2.0,39.4886,-78.0652,4c42c769-6d86-487b-ab8c-791b3de1b10a,,,,,,,,,13,2026-01-13,3,10,,,,,11991
+001Hr000028Zdmw,"Greenbrier County, WV",West Virginia,County,Mihir Shah,,,Tier 3,0.75,38.0198,-80.5438,44226825-8de2-4a87-8684-456e368cefc9,,,,,,,,,,,,,,,,,11906
+001Hr000028Zdnu,"Kanawha County, WV",West Virginia,County,Mihir Shah,173906,,Tier S,2.0,38.2557,-81.4279,29313d00-6674-4d5e-a0cd-98941a5a14b1,,,,,,,,,6,2026-04-06,6,,,,,,12000
+001cv00000AuWQ0,"City Of Spencer, WV",West Virginia,Municipality,Mihir Shah,2038,,Tier 3,0.75,38.802,-81.351,029be4c2-ff8b-497c-8da4-373f4516f8d6,,,,,,,,,20,2026-02-20,2,18,,,,,13040
+001cv00000AuWp5,"City Of Chester, WV",West Virginia,Municipality,Mihir Shah,2173,,Tier 3,0.75,40.6131,-80.5628,427ff583-394c-452b-afb0-aa0218a19359,,,,,,,,,,,,,,,,,13373
+001cv00000AuWqQ,"City Of White Sulphur Springs, WV",West Virginia,Municipality,Mihir Shah,2198,,Tier 3,0.75,37.7965,-80.2976,d696274f-23f2-41c1-bc88-8e3ba7f9858d,,,,,,,,,4,2026-01-12,4,,,,,,13500
+001cv00000AuWvQ,"City Of Hinton, WV",West Virginia,Municipality,Mihir Shah,2243,Nurture,Tier 3,0.75,37.674,-80.8893,07ad6650-dcaa-4f31-b32b-35b86b237fd6,Closed Lost,,,Emily Murnane,1/22/2026,1/12/2026,,,2,2026-01-12,2,,,,,,13572
+001cv00000AuX5e,"City Of Petersburg, WV",West Virginia,Municipality,Mihir Shah,2253,,Tier 3,0.75,38.9926,-79.1239,6b4d26ba-1715-49ee-b21c-9c2a37ad7001,,,,,,,,,,,,,,,,,13772
+001cv00000AuX8S,"City Of Shinnston, WV",West Virginia,Municipality,Mihir Shah,2306,,Tier 3,0.75,39.3956,-80.3001,62754598-b639-4c7b-8856-240d8a6fa552,,,,,,,,,8,2026-04-13,8,,,,,,13765
+001cv00000AuXO0,"City Of Paden City, WV",West Virginia,Municipality,Mihir Shah,2478,,Tier 3,0.75,39.6029,-80.9368,437ab29f-6095-4c28-a101-19232f3bd7bd,,,,,,,,,,,,,,,,,14123
+001cv00000AuXOT,"Town Of Moorefield, WV",West Virginia,Municipality,Mihir Shah,2487,Nurture,Tier 3,0.75,39.0623,-78.9695,d77dd9ea-1abd-4a39-a25f-ccb5840152c8,Closed Lost,,,Leila Assil,9/30/2025,9/9/2025,,,3,2025-09-09,,3,,,,,14063
+001cv00000AuXUV,"Village Of Bethlehem, WV",West Virginia,Municipality,Mihir Shah,2558,,Tier 3,0.75,40.044,-80.6906,fb07c552-e0d8-41d7-80d4-144bc549f40d,,,,,,,,,,,,,,,,,14209
+001cv00000AuXij,"City Of Follansbee, WV",West Virginia,Municipality,Mihir Shah,2799,,Tier 3,0.75,40.3276,-80.5959,1b129b93-b83e-4830-8071-4d6024607406,,,,,,,,,,,,,,,,,14586
+001cv00000AuXj1,"Town Of Milton, WV",West Virginia,Municipality,Mihir Shah,2809,,Tier 3,0.75,38.4345,-82.1324,8f625a91-13be-40fc-907d-5849d868a4d8,,,,,,,,,10,2026-04-14,7,3,,,,,14708
+001cv00000AuXjs,"City Of Madison, WV",West Virginia,Municipality,Mihir Shah,2838,Nurture,Tier 3,0.75,38.067,-81.8193,035cec18-272d-4dcd-ac4e-6a0cb753d870,Closed Lost,,,Emily Murnane,1/21/2026,1/21/2026,,,1,2026-01-07,1,,,,,,14648
+001cv00000AuXk7,"Town Of Fayetteville, WV",West Virginia,Municipality,Mihir Shah,2844,,Tier 3,0.75,38.0529,-81.104,ab3773c2-a3d4-4f12-a399-8158037b5e65,,,,,,,,,6,2026-02-12,6,,,,,,14689
+001cv00000AuXmu,"City Of Philippi, WV",West Virginia,Municipality,Mihir Shah,2922,,Tier 3,0.75,39.1523,-80.0404,01f67cb6-9e76-4d31-bb69-069f7a11421a,,,,,,,,,,,,,,,,,14936
+001cv00000AuXo2,"City Of Williamson, WV",West Virginia,Municipality,Mihir Shah,2968,,Tier 3,0.75,37.6743,-82.2774,da7afcba-6046-4819-9f84-ef1c0c890cb2,,,,,,,,,,,,,,,,,14923
+001cv00000AuYBD,"City Of Kingwood, WV",West Virginia,Municipality,Mihir Shah,3090,,Tier 3,0.75,39.472,-79.6873,3c815679-e5dc-400a-b668-f403636c131b,,,,,,,,,3,2026-01-29,3,,,,,,15082
+001cv00000AuYEB,"City Of Kenova, WV",West Virginia,Municipality,Mihir Shah,2978,,Tier 3,0.75,38.399,-82.5782,6b38887c-7d91-4442-9138-4619b9e8f6de,,,,,,,,,,,,,,,,,15324
+001cv00000AuYEG,"City Of Williamstown, WV",West Virginia,Municipality,Mihir Shah,2982,,Tier 3,0.75,39.4006,-81.4482,9f639322-3905-405a-a01e-8c9bccb3dcee,,,,,,,,,,,,,,,,,15360
+001cv00000AuYGq,"City Of Ripley, WV",West Virginia,Municipality,Mihir Shah,3064,,Tier 3,0.75,38.8187,-81.7107,f9cb706f-7f81-470a-8edc-f2e749754bd4,,,,,,,,,2,2026-03-05,2,,,,,,15106
+001cv00000AuYKj,"City Of Summersville, WV",West Virginia,Municipality,Mihir Shah,3408,,Tier 3,0.75,38.2812,-80.8526,94edc641-819b-4f49-8f38-8787465c2ab1,,,,,,,,,1,2026-01-07,1,,,,,,15977
+001cv00000AuYMd,"Town Of Pleasant Valley, WV",West Virginia,Municipality,Mihir Shah,3492,,Tier 3,0.75,39.4554,-80.1417,34707cf3-2dbb-4c2d-8da1-a727fdd1ddb7,,,,,,,,,3,2026-04-14,3,,,,,,15686
+001cv00000AuYaT,"City Of Westover, WV",West Virginia,Municipality,Mihir Shah,4075,,Tier 3,0.75,39.6345,-79.9698,2627bcc3-4749-4914-8c56-92b56cf78f71,,,,,,,,,2,2026-01-08,2,,,,,,16323
+001cv00000AuYgf,"City Of Ravenswood, WV",West Virginia,Municipality,Mihir Shah,3847,,Tier 3,0.75,38.9481,-81.761,93cb136a-3710-45bd-bf09-e1c9af26b916,,,,,,,,,4,2026-02-17,4,,,,,,16247
+001cv00000AuYh2,"City Of Lewisburg, WV",West Virginia,Municipality,Mihir Shah,3868,Implementation,Tier 3,0.75,37.8018,-80.4456,000996b5-cb7f-4158-bfd3-42106af7e50d,Closed Won,,,Emily Murnane,1/20/2026,1/8/2026,"$18,000",,5,2026-03-06,5,,,,,,16083
+001cv00000AuYhV,"City Of Weston, WV",West Virginia,Municipality,Mihir Shah,3890,,Tier 3,0.75,39.0384,-80.4673,2edf65e4-741c-4f47-9722-7e5df8779ae6,,,,,,,,,1,2026-02-05,1,,,,,,16134
+001cv00000AuYmK,"City Of Point Pleasant, WV",West Virginia,Municipality,Mihir Shah,4031,,Tier 3,0.75,38.8445,-82.1371,57595766-149a-4465-8f3a-09c9cba725d3,,,,,,,,,,,,,,,,,16633
+001cv00000AuYux,"Village Of Barboursville, WV",West Virginia,Municipality,Mihir Shah,4291,,Tier 3,0.75,38.4095,-82.2946,6fb5f4f6-69e8-40e3-aeb2-9950c860bff1,,,,,,,,,6,2026-03-05,3,3,,,,,16689
+001cv00000AuZBO,"County Of Pendleton, WV",West Virginia,County,Mihir Shah,6142,,Tier 3,0.75,38.7452,-79.2902,c6442d45-429f-4e73-818a-ffdbe9e71ce1,,,,,,,,,,,,,,,,,17192
+001cv00000AuZBW,"County Of Calhoun, WV",West Virginia,County,Mihir Shah,6176,,Tier 3,0.75,38.858,-81.1196,32b8434b-8fef-46be-8cac-0e3ab8b0b2a6,,,,,,,,,,,,,,,,,17120
+001cv00000AuZCP,"County Of Tucker, WV",West Virginia,County,Mihir Shah,6672,,Tier 3,0.75,39.1084,-79.6502,3b38d898-a399-46f5-ae20-f68ce9e5ba29,,,,,,,,,,,,,,,,,17188
+001cv00000AuZMn,"City Of Keyser, WV",West Virginia,Municipality,Mihir Shah,4860,,Tier 3,0.75,39.4409,-78.9739,d84455f5-cc60-47ab-87e0-10c14bff6a01,,,,,,,,,1,2026-03-05,1,,,,,,17431
+001cv00000AuZQz,"County Of Gilmer, WV",West Virginia,County,Mihir Shah,7377,,Tier 3,0.75,38.9203,-80.8544,d604bbc3-cf93-434b-afff-1c3e4286bb2f,,,,,,,,,,,,,,,,,17547
+001cv00000AuZRY,"County Of Pleasants, WV",West Virginia,County,Mihir Shah,7601,,Tier 3,0.75,39.3762,-81.1417,66546819-1b0e-436e-9cc7-0f7b961a1846,,,,,,,,,2,2026-04-14,2,,,,,,17638
+001cv00000AuZRu,"County Of Doddridge, WV",West Virginia,County,Mihir Shah,7735,,Tier 3,0.75,39.2368,-80.6771,4323107f-5f6b-45e7-bd84-111dd00994f8,,,,,,,,,,,,,,,,,17780
+001cv00000AuZSl,"County Of Wirt, WV",West Virginia,County,Mihir Shah,5063,,Tier 3,0.75,39.0436,-81.3839,4096d8db-e962-48bd-9f72-84f61ef5df77,,,,,,,,,,,,,,,,,17556
+001cv00000AuZVK,"County Of Pocahontas, WV",West Virginia,County,Mihir Shah,7841,,Tier 3,0.75,38.3102,-80.0088,cdc8a72f-5466-4a2b-a7f5-fc0245ff794f,,,,,,,,,,,,,,,,,17737
+001cv00000AuZVR,"County Of Clay, WV",West Virginia,County,Mihir Shah,7892,,Tier 3,0.75,38.4604,-81.0851,0332f1c4-7782-4938-b89a-75eb3cc8392e,,,,,,,,,,,,,,,,,17751
+001cv00000AuZXL,"County Of Tyler, WV",West Virginia,County,Mihir Shah,8155,,Tier 3,0.75,39.4977,-80.8544,a674191f-8975-4cad-998e-f0dcb87731b0,,,,,,,,,,,,,,,,,17652
+001cv00000AuZXU,"County Of Webster, WV",West Virginia,County,Mihir Shah,8249,,Tier 3,0.75,38.507,-80.3659,c22c387a-ac49-4bba-92d8-d623d0aa6a8f,,,,,,,,,,,,,,,,,17613
+001cv00000AuZXl,"County Of Ritchie, WV",West Virginia,County,Mihir Shah,8383,,Tier 3,0.75,39.1822,-81.0313,284b3ac5-8cbc-4420-9b73-ad3c4d021f10,,,,,,,,,,,,,,,,,17832
+001cv00000AuZbA,"County Of Summers, WV",West Virginia,County,Mihir Shah,11908,,Tier 2,1.0,37.5812,-80.8544,f4a9380b-0960-409d-aa45-51ed4b241dc7,,,,,,,,,,,,,,,,,18217
+001cv00000AuZi4,"County Of Barbour, WV",West Virginia,County,Mihir Shah,15468,,Tier 2,1.0,39.1399,-80.0088,49f21e57-de64-442a-b1f6-c6145ffac798,,,,,,,,,,,,,,,,,18110
+001cv00000AuZi8,"County Of Braxton, WV",West Virginia,County,Mihir Shah,12247,,Tier 2,1.0,38.7023,-80.7214,91b21626-253c-4b97-83a5-d2b1154583d3,,,,,,,,,,,,,,,,,18107
+001cv00000AuZiJ,"County Of Monroe, WV",West Virginia,County,Mihir Shah,12332,,Tier 2,1.0,37.5602,-80.5883,8942b162-c0aa-4072-a2e4-b085ccda8315,,,,,,,,,,,,,,,,,18133
+001cv00000AuZlj,"County Of Grant, WV",West Virginia,County,Mihir Shah,10983,,Tier 2,1.0,39.1042,-79.1549,7bc0603f-f0cd-491a-b2fe-820f6e8882c6,,,,,,,,,,,,,,,,,18001
+001cv00000AuZnK,"County Of Roane, WV",West Virginia,County,Mihir Shah,13898,Nurture,Tier 2,1.0,38.7565,-81.4279,b0f98545-780f-4791-a2b7-f458bfb9ec2a,Closed Lost,,,Mihir Shah,5/8/2026,5/6/2026,,,2,2026-05-08,,,1,,,1,17847
+001cv00000AuZnh,"County Of Hardy, WV",West Virginia,County,Mihir Shah,14160,,Tier 2,1.0,39.0416,-78.9288,c8c3b632-81e4-43fa-87fd-7b15e08d76d5,,,,,,,,,,,,,,,,,17911
+001cv00000AuZnj,"County Of Wetzel, WV",West Virginia,County,Mihir Shah,14170,,Tier 2,1.0,39.5656,-80.6771,01e6b116-d424-4562-a765-f9b784a30874,,,,,,,,,,,,,,,,,17905
+001cv00000AuZqx,"County Of Taylor, WV",West Virginia,County,Mihir Shah,16492,,Tier 2,1.0,39.3418,-79.964,d79b1e85-2f01-4ef2-b930-ec93ccfab934,,,,,,,,,,,,,,,,,18488
+001cv00000AuZrL,"County Of Lewis, WV",West Virginia,County,Mihir Shah,16892,,Tier 2,1.0,39.0196,-80.5438,4353e76b-a261-4bbd-88c4-3c023e3c6161,,,,,,,,,,,,,,,,,18471
+001cv00000AuZtR,"County Of Morgan, WV",West Virginia,County,Mihir Shah,17221,,Tier 2,1.0,39.5073,-78.2476,cbf0f3e3-8c7e-4d7d-b7e3-3c2e551c2b85,,,,,,,,,,,,,,,,,18478
+001cv00000AuZuS,"County Of Mcdowell, WV",West Virginia,County,Mihir Shah,18363,,Tier 2,1.0,37.386,-81.6473,f3f9db53-f23b-40af-b8cd-0ba4f7d69cfb,,,,,,,,,,,,,,,,,18493
+001cv00000AuZxT,"County Of Wyoming, WV",West Virginia,County,Mihir Shah,21051,,Tier 2,1.0,37.6339,-81.5596,d5526f52-d0d2-4ed8-b333-c2759093f1bc,,,,,,,,,,,,,,,,,19004
+001cv00000AuZxi,"County Of Boone, WV",West Virginia,County,Mihir Shah,21312,,Tier 2,1.0,37.9839,-81.7349,cd4e5bc9-c908-4ff8-925c-ab8576b248af,,,,,,,,,,,,,,,,,19074
+001cv00000Aua0a,"County Of Hancock, WV",West Virginia,County,Mihir Shah,28656,,Tier 1,1.5,40.5124,-80.5661,b8bc905c-7b47-4f26-aaa9-6667db253a4c,,,,,,,,,6,2025-09-25,,6,,,,,18775
+001cv00000Aua1C,"County Of Marshall, WV",West Virginia,County,Mihir Shah,30115,,Tier 1,1.5,39.8927,-80.6771,dd5caeb3-0e37-4fa2-9a31-efdf19bfd738,,,,,,,,,,,,,,,,,18722
+001cv00000Aua2b,"County Of Mason, WV",West Virginia,County,Mihir Shah,25157,,Tier 1,1.5,39.0217,-82.029,1e2af35a-ab22-4f2c-9891-82649480807f,,,,,,,,,,,,,,,,,19432
+001cv00000Aua3U,"County Of Lincoln, WV",West Virginia,County,Mihir Shah,20126,,Tier 2,1.0,38.1761,-82.0843,6654cbc8-cc14-474d-aef7-9e2a9c846842,,,,,,,,,,,,,,,,,18734
+001cv00000Aua69,"County Of Preston, WV",West Virginia,County,Mihir Shah,34358,,Tier 1,1.5,39.4372,-79.6502,985ce368-12f6-47d1-8e69-20ae1376a169,,,,,,,,,,,,,,,,,19344
+001cv00000Aua7a,"County Of Fayette, WV",West Virginia,County,Mihir Shah,39927,,Tier 1,1.5,38.0616,-81.0755,845d2c6a-91e1-4f07-b51d-7a4cc4fe01a5,,,,,,,,,,,,,,,,,19080
+001cv00000Aua8T,"County Of Logan, WV",West Virginia,County,Mihir Shah,31909,,Tier 1,1.5,37.8487,-81.9935,90442c51-a4da-4d02-9348-223b8b492a75,,,,,,,,,14,2026-03-02,5,9,,,,,18776
+001cv00000Aua9f,"County Of Brooke, WV",West Virginia,County,Mihir Shah,22140,,Tier 2,1.0,40.2698,-80.5661,f7418979-a7a8-4330-abd9-a8b5db9f4059,,,,,,,,,,,,,,,,,18718
+001cv00000AuaAA,"County Of Mingo, WV",West Virginia,County,Mihir Shah,23005,,Tier 2,1.0,37.7608,-82.1714,ed374b21-cb86-4bfa-ab39-ba91cbd7af68,,,,,,,,,,,,,,,,,18893
+001cv00000AuaAJ,"County Of Hampshire, WV",West Virginia,County,Mihir Shah,23302,,Tier 2,1.0,39.3349,-78.5661,7f557c2e-ccdf-4b9e-ad44-d27463f89eb2,,,,,,,,,,,,,,,,,18924
+001cv00000AuaAd,"County Of Upshur, WV",West Virginia,County,Mihir Shah,23791,,Tier 2,1.0,38.8697,-80.2321,4f7d5b56-ee0b-45c5-a053-842cced4f2d0,,,,,,,,,4,2025-10-30,3,,,,1,,18784
+001cv00000AuaAs,"County Of Nicholas, WV",West Virginia,County,Mihir Shah,24300,,Tier 2,1.0,38.3308,-80.7658,948ff2a5-36b4-421d-ad4b-f237d24c0300,,,,,,,,,,,,,,,,,18831
+001cv00000AuaC7,"County Of Jackson, WV",West Virginia,County,Mihir Shah,27738,,Tier 1,1.5,38.814,-81.6473,7953674a-04dd-495b-810e-11b86d5a6dba,,,,,,,,,,,,,,,,,19246
+001cv00000AuaCC,"County Of Randolph, WV",West Virginia,County,Mihir Shah,27806,,Tier 1,1.5,38.8093,-80.0088,fd929761-7854-42be-b2cb-86b085cc75f1,,,,,,,,,,,,,,,,,19054
+001cv00000AuaEQ,"County Of Wayne, WV",West Virginia,County,Mihir Shah,38498,Open Opportunity,Tier 1,1.5,38.1598,-82.4753,359e4f03-78c2-48db-b1ee-c1ec3f2f353d,Closed Lost,,,Harrison Peacock,7/22/2025,7/16/2025,,,,,,,,,,,19375
+001cv00000AuaGF,"County Of Ohio, WV",West Virginia,County,Mihir Shah,41776,,Tier 1,1.5,40.1111,-80.6105,0ac0e6e3-b65a-4436-a603-b6e31217f4dc,,,,,,,,,,,,,,,,,19037
+001cv00000AuaNU,"County Of Marion, WV",West Virginia,County,Mihir Shah,56001,,Tier S,2.0,39.5289,-80.2321,28e505da-0280-4077-8a69-70e21af0c6d5,,,,,,,,,,,,,,,,,19661
+001cv00000AuaNf,"County Of Putnam, WV",West Virginia,County,Mihir Shah,57260,,Tier S,2.0,38.4992,-81.9098,babe2c3a-91c0-403f-ae80-5005c15db2f6,,,,,,,,,,,,,,,,,19605
+001cv00000AuaP4,"County Of Harrison, WV",West Virginia,County,Mihir Shah,65158,All Modules Live,Tier S,2.0,39.3348,-80.3659,904860ec-0f5f-461f-b63f-2561d5469c17,Closed Won,,,Shane Lieberman,10/17/2024,1/5/2025,"$48,000",,,,,,,,,,19712
+001cv00000AuaQf,"County Of Wood, WV",West Virginia,County,Mihir Shah,83624,,Tier S,2.0,39.2154,-81.4718,9e5de775-e341-4a40-9cb9-d5007b336297,,,,,,,,,,,,,,,,,19813
+001cv00000AuaT1,"County Of Mercer, WV",West Virginia,County,Mihir Shah,59097,,Tier S,2.0,37.4323,-81.1196,fd5752c9-ceac-47b2-bb27-f40705637124,,,,,,,,,,,,,,,,,19882
+001cv00000AuaUj,"County Of Cabell, WV",West Virginia,County,Mihir Shah,93418,All Modules Live,Tier S,2.0,38.4392,-82.2583,d14656bb-2f94-49a0-80b0-dfe35c8fdc89,,,,,,,,,,,,,,,,,19933
+001cv00000AuaWS,"County Of Raleigh, WV",West Virginia,County,Mihir Shah,73771,,Tier S,2.0,37.7382,-81.2519,237d77c5-2f32-4c68-a5e8-7e5c68b906ab,,,,,,,,,,,,,,,,,19850
+001cv00000B21q2,"Town Of Winfield, WV",West Virginia,Municipality,Mihir Shah,2390,,Tier 3,0.75,38.5331,-81.8935,90549167-13de-4c66-8afa-77a6f49634fb,,,,,,,,,,,,,,,,,20212
+001cv00000B21qO,"City Of Wellsburg, WV",West Virginia,Municipality,Mihir Shah,2401,,Tier 3,0.75,40.272,-80.6095,c366e4d4-56aa-4f9e-99e5-767de35982ca,,,,,,,,,,,,,,,,,20135
+001cv00000Xmyro,"Town of Nutter Fort, WV",West Virginia,Municipality,Mihir Shah,1450,,Tier 3,0.75,39.2634,-80.3198,,,,,,,,,,,,,,,,,,21059
+001cv00000bBVeI,Town of White Hall,West Virginia,Municipality,Mihir Shah,704,,Tier 3,0.75,39.4212,-80.1826,0b37a053-f087-403d-afa9-3d5fb2dc2188,,,,,,,,,,,,,,,,,21149
+001cv00000bBVlw,City of Pennsboro,West Virginia,Municipality,Mihir Shah,1009,,Tier 3,0.75,39.2851,-80.9684,6fe036ec-a72b-4068-a5b6-cd1e849f0e26,,,,,,,,,,,,,,,,,21405
+001cv00000bBVyR,City of Logan,West Virginia,Municipality,Mihir Shah,1319,,Tier 3,0.75,37.8487,-81.9935,383104d5-bfa9-43ab-b684-b21e936fa1ae,,,,,,,,,,,,,,,,,21744
+001cv00000bBWtp,City of Glen Dale,West Virginia,Municipality,Mihir Shah,1413,,Tier 3,0.75,39.9479,-80.7542,c44bf3b3-c16c-4552-a139-e29358b6b1fd,,,,,,,,,,,,,,,,,22659

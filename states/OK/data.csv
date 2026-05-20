@@ -1,235 +1,235 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Lucy Nemerov,Calls - Ryan Minter,Calls - Alicia Gopal,Calls - Jenny Allison,Calls - Leila Assil,Calls - Quinzel Perry,Calls - Joe del Rosario
-001Hr000028Zbsq,"City Of Del City, OK",Oklahoma,Municipality,Blake Anderson,21604,Open Opportunity,Tier 2,1.0,35.442,-97.4409,9d6840f3-324a-450d-9659-29b01a5a2c9a,Open,Proposal,Mid Funnel,Lucy Nemerov,3/24/2026,3/12/2026,"$39,000",Yes,11,2026-02-09,3,8,,,,,
-001Hr000028ZcFb,"City Of Skiatook, OK",Oklahoma,Municipality,Lucy Nemerov,8560,Nurture,Tier 3,0.75,36.3684,-96.0014,6d10b6c9-7c89-4fc3-a592-7bdea7c2254f,Closed Lost,,,Alicia Gopal,1/9/2026,11/19/2025,,,27,2026-03-10,1,,26,,,,
-001Hr000028ZcKu,"City Of Anadarko, OK",Oklahoma,Municipality,Blake Anderson,5990,Open Opportunity,Tier 3,0.75,35.0726,-98.2437,94de2ff1-9d40-4e9a-9295-a45054e49fb1,Open,Meeting Booked,Top of Funnel,Lucy Nemerov,4/13/2026,4/6/2026,,,27,2026-05-18,14,,13,,,,
-001Hr000028ZcgC,"City Of Pryor Creek, OK",Oklahoma,Municipality,Lucy Nemerov,9453,,Tier 3,0.75,36.3084,-95.3169,30c75223-f8ce-452c-aa56-7df19c831efa,,,,,,,,,3,2026-03-09,2,1,,,,,
-001Hr000028Zcih,"City Of The Village, OK",Oklahoma,Municipality,Blake Anderson,9483,,Tier 3,0.75,35.5609,-97.5514,2b207e84-832b-4f2a-8bf0-f2e86a10de37,,,,,,,,,10,2026-02-20,1,9,,,,,
-001Hr000028Zciw,"City Of Catoosa, OK",Oklahoma,Municipality,Lucy Nemerov,7410,,Tier 3,0.75,36.189,-95.7458,894e771e-e41c-4f79-a084-b124eb0c2f25,,,,,,,,,6,2026-03-02,3,,3,,,,
-001Hr000028ZclG,"City Of Piedmont, OK",Oklahoma,Municipality,Blake Anderson,7884,,Tier 3,0.75,35.642,-97.7464,754c45e0-22dd-487c-ab0d-47d77e21d6bd,,,,,,,,,1,2025-07-29,,1,,,,,
-001Hr000028ZcmU,"City Of Harrah, OK",Oklahoma,Municipality,Lucy Nemerov,6352,,Tier 3,0.75,35.4895,-97.1636,ff818f21-d59b-446d-8d0a-61a99fd313d2,,,,,,,,,25,2026-02-26,6,9,,,10,,
-001Hr000028Zcnw,"City Of Sallisaw, OK",Oklahoma,Municipality,Lucy Nemerov,8483,Nurture,Tier 3,0.75,35.4604,-94.7874,fabb3694-1c65-434f-a776-1c4b57990dfe,Closed Lost,,,Liam Shaw,7/25/2024,1/5/2025,,,10,2026-02-25,3,,6,,,1,
-001Hr000028Zcqu,"City Of Poteau, OK",Oklahoma,Municipality,Lucy Nemerov,8822,Open Opportunity,Tier 3,0.75,35.0537,-94.6236,5de2e0d4-0f80-4c71-bc11-774430b50d28,Open,Initial Interest,Top of Funnel,Ryan Minter,9/24/2025,8/25/2025,,Yes,7,2025-09-24,,7,,,,,
-001Hr000028Zct2,"City Of Grove, OK",Oklahoma,Municipality,Lucy Nemerov,7033,Nurture,Tier 3,0.75,36.5937,-94.7691,48394830-0799-4891-9180-6aab4444eb39,Closed Lost,,,Liam Shaw,8/9/2024,1/5/2025,,,16,2026-05-06,12,4,,,,,
-001Hr000028Zctb,"City Of Lawton, OK",Oklahoma,Municipality,Lucy Nemerov,91055,,Tier S,2.0,34.6075,-98.392,d983caff-b228-4d45-a893-a08b1bf165ba,,,,,,,,,10,2026-05-07,7,3,,,,,
-001Hr000028Zctj,"City Of Altus, OK",Oklahoma,Municipality,Blake Anderson,18717,,Tier 2,1.0,34.6378,-99.334,01daaf11-8690-49a9-b4b2-421989953dc2,,,,,,,,,2,2026-04-23,1,1,,,,,
-001Hr000028Zcwo,"City Of Ponca City, OK",Oklahoma,Municipality,Blake Anderson,24398,Recent Competitor Purchase,Tier 2,1.0,36.707,-97.0856,ab4bbe2e-2eb4-46d6-a831-e28cd8d7cd64,,,,,,,,,9,2026-05-14,9,,,,,,
-001Hr000028ZcxE,"City Of Vinita, OK",Oklahoma,Municipality,Blake Anderson,5189,,Tier 3,0.75,36.6387,-95.1541,87c94575-4d82-45f9-9945-23ddafb59a5a,,,,,,,,,5,2026-05-18,4,1,,,,,
-001Hr000028ZczP,"City Of El Reno, OK",Oklahoma,Municipality,Lucy Nemerov,17774,Nurture,Tier 2,1.0,35.5323,-97.955,bf9a1eb2-def3-4230-b46c-68f88b1d6e4b,Closed Lost,,,Liam Shaw,8/7/2024,1/5/2025,,,19,2026-05-14,17,2,,,,,
-001Hr000028Zczi,"City Of Woodward, OK",Oklahoma,Municipality,Lucy Nemerov,11998,Open Opportunity,Tier 2,1.0,36.4336,-99.3904,8b623335-b839-421b-bb46-b2867efc85df,Open,Initial Interest,Top of Funnel,Ryan Minter,,8/27/2025,,,20,2026-05-15,13,7,,,,,
-001Hr000028Zd1j,"City Of Blackwell, OK",Oklahoma,Municipality,Lucy Nemerov,6069,Nurture,Tier 3,0.75,36.8045,-97.2828,8525cfdb-6ec4-440e-8f5b-52a45898da2d,Closed Lost,,,Liam Shaw,9/3/2024,1/5/2025,,,6,2026-02-26,4,2,,,,,
-001Hr000028Zd4y,"Rogers County, OK",Oklahoma,County,Lucy Nemerov,100248,1+ Module Live,Tier S,2.0,36.3898,-95.6458,d9317b1f-f890-480b-b660-8751af50be10,Closed Won,,,Alicia Gopal,12/18/2025,12/15/2025,"$48,000",,2,2025-12-15,,,2,,,,
-001Hr000028Zd8b,"City Of Chickasha, OK",Oklahoma,Municipality,Lucy Nemerov,15786,,Tier 2,1.0,35.0526,-97.9364,83945850-bde6-46ea-89e0-596287e99d73,,,,,,,,,5,2026-02-06,5,,,,,,
-001Hr000028Zd9J,"City Of Lone Grove, OK",Oklahoma,Municipality,Lucy Nemerov,5045,,Tier 3,0.75,34.1754,-97.2628,f58ed6ca-a7b7-4486-a7fa-c13174067c84,,,,,,,,,6,2026-04-16,6,,,,,,
-001Hr000028ZdDO,"City Of Henryetta, OK",Oklahoma,Municipality,Blake Anderson,5630,,Tier 3,0.75,35.4398,-95.9819,0b63be8f-4060-4249-9bbb-bb8b0fd4c5c7,,,,,,,,,22,2026-05-06,9,13,,,,,
-001Hr000028ZdF5,"City Of Hugo, OK",Oklahoma,Municipality,Lucy Nemerov,5174,Open Opportunity,Tier 3,0.75,34.0107,-95.5097,6d8cd643-7a94-4097-8930-a7e50e2e7023,Open,Meeting Booked,Top of Funnel,Alicia Gopal,12/3/2025,12/1/2025,,,12,2025-12-10,,,12,,,,
-001Hr000028ZdGF,"City Of Idabel, OK",Oklahoma,Municipality,Lucy Nemerov,7004,Nurture,Tier 3,0.75,33.8957,-94.8263,b7e13e35-9187-4f90-a2d5-828044cee4f0,Closed Lost,,,Liam Shaw,7/16/2024,1/5/2025,,,12,2026-03-02,3,9,,,,,
-001Hr000028ZdGx,"City Of Holdenville, OK",Oklahoma,Municipality,Lucy Nemerov,5775,Open Opportunity,Tier 3,0.75,35.0804,-96.3992,bf32769b-65a9-4d83-8532-f781cc1f27cf,Open,Meeting Booked,Top of Funnel,Alicia Gopal,1/28/2026,12/1/2025,,,28,2026-02-25,,,28,,,,
-001Hr000028ZdGz,"City Of Cushing, OK",Oklahoma,Municipality,Lucy Nemerov,8184,,Tier 3,0.75,35.9851,-96.767,f3373afb-12c5-434b-865c-4a3645c731b8,,,,,,,,,15,2026-05-05,14,1,,,,,
-001Hr000028ZdHl,"City Of Purcell, OK",Oklahoma,Municipality,Lucy Nemerov,6602,Nurture,Tier 3,0.75,35.0137,-97.3611,eaf137f7-ccf0-420e-a8a3-d5ec8933349e,Closed Lost,,,Quinzel Perry,2/24/2025,2/13/2025,,,12,2026-05-15,10,,,,,2,
-001Hr000028ZdHu,"City Of Coweta, OK",Oklahoma,Municipality,Lucy Nemerov,10149,Recent Competitor Purchase,Tier 2,1.0,35.9518,-95.6508,57f55919-83c3-41c4-a3fa-f7238b07f934,Closed Lost,,,Lucy Nemerov,2/19/2026,2/9/2026,"$28,000",,34,2026-05-19,10,,,24,,,
-001Hr000028ZdIe,"City Of Noble, OK",Oklahoma,Municipality,Lucy Nemerov,7402,Nurture,Tier 3,0.75,35.1392,-97.3948,be54a4df-0ad2-444b-9bc4-c1b80bae5ece,Closed Lost,,,Joe del Rosario,3/20/2025,3/12/2025,"$9,000",,1,2026-01-08,,,1,,,,
-001Hr000028ZdJe,"City Of Glenpool, OK",Oklahoma,Municipality,Lucy Nemerov,13859,Open Opportunity,Tier 2,1.0,35.9554,-96.0089,61df171b-f49c-4394-8297-fc400ab1783e,Open,Meeting Booked,Top of Funnel,Alicia Gopal,12/2/2025,11/24/2025,,,47,2026-05-14,26,,21,,,,
-001Hr000028ZdKz,"City Of Pauls Valley, OK",Oklahoma,Municipality,Lucy Nemerov,6031,Open Opportunity,Tier 3,0.75,34.7401,-97.2222,c989091c-3e82-471a-8a42-317eb0842355,Open,Meeting Booked,Top of Funnel,Lucy Nemerov,2/27/2026,2/27/2026,,Yes,16,2026-03-02,11,4,,1,,,
-001Hr000028ZdLn,"City Of Newcastle, OK",Oklahoma,Municipality,Blake Anderson,12204,Open Opportunity,Tier 2,1.0,35.2473,-97.5998,b8714bfb-50cd-4bac-91ea-0d5babd5a3ea,Open,Initial Interest,Top of Funnel,Ryan Minter,,10/21/2025,,,29,2026-05-14,15,14,,,,,
-001Hr000028ZdMG,"County Of Okmulgee, OK",Oklahoma,County,Lucy Nemerov,36843,,Tier 1,1.5,35.6796,-95.9833,1af8a226-5d40-43ec-826c-91cc9a41250c,,,,,,,,,4,2026-02-12,4,,,,,,
-001Hr000028ZdMK,"City Of Alva, OK",Oklahoma,Municipality,Lucy Nemerov,4997,Nurture,Tier 3,0.75,36.805,-98.6665,aec08067-ae47-46e5-a783-4b27bdc03f99,Closed Lost,,,Liam Shaw,7/17/2024,1/5/2025,,,3,2025-07-29,,3,,,,,
-001Hr000028ZdNP,"City Of Clinton, OK",Oklahoma,Municipality,Blake Anderson,8380,,Tier 3,0.75,35.5156,-98.9673,3661b853-f767-4185-9490-34ee0bf6e9fd,,,,,,,,,35,2026-05-05,12,,23,,,,
-001Hr000028ZdOY,"City Of Moore, OK",Oklahoma,Municipality,Lucy Nemerov,63462,,Tier S,2.0,35.3395,-97.4867,b90b89f2-4042-480d-bc43-8bd65242029c,,,,,,,,,7,2026-05-06,7,,,,,,
-001Hr000028ZdOv,"City Of Tuttle, OK",Oklahoma,Municipality,Blake Anderson,7739,Open Opportunity,Tier 3,0.75,35.2909,-97.8123,dcfea96f-d807-48f9-95d3-889d026f3a0f,Open,Initial Interest,Top of Funnel,Ryan Minter,,10/16/2025,,Yes,7,2025-10-21,,7,,,,,
-001Hr000028ZdOw,"City Of Collinsville, OK",Oklahoma,Municipality,Lucy Nemerov,8346,All Modules Live,Tier 3,0.75,36.3645,-95.8389,65f2e075-2911-432f-a993-94b40db35c1f,Closed Won,,,Asher Rosenfeld,7/30/2024,1/5/2025,"$15,000",,3,2025-09-15,,3,,,,,
-001Hr000028ZdPb,"City Of Ardmore, OK",Oklahoma,Municipality,Blake Anderson,24893,Recent Competitor Purchase,Tier 2,1.0,34.1743,-97.1436,2bec887f-766e-449c-8ffe-7c2d6a5998bb,,,,,,,,,13,2026-05-05,13,,,,,,
-001Hr000028ZdQ2,"City Of Tecumseh, OK",Oklahoma,Municipality,Lucy Nemerov,6349,,Tier 3,0.75,35.2578,-96.9367,2056e214-b9fa-49c6-9f06-bc3ceb746f54,,,,,,,,,26,2026-05-05,11,15,,,,,
-001Hr000028ZdQu,"City Of Duncan, OK",Oklahoma,Municipality,Lucy Nemerov,22745,Nurture,Tier 2,1.0,34.5023,-97.9578,c412bd99-0c42-4687-9f6d-34eb918a7813,Closed Lost,,,Liam Shaw,7/17/2024,1/5/2025,"$41,000",,38,2026-05-15,5,33,,,,,
-001Hr000028ZdRA,"City Of Seminole, OK",Oklahoma,Municipality,Lucy Nemerov,7068,,Tier 3,0.75,35.2245,-96.6706,b9d9ccfd-4181-41eb-b50c-8434f7f58470,,,,,,,,,13,2026-04-09,7,,4,,,,2
-001Hr000028ZdSD,"City Of Wagoner, OK",Oklahoma,Municipality,Blake Anderson,7846,,Tier 3,0.75,35.9595,-95.3694,94d4d754-af0c-47c8-b64b-e4cd04125cd5,,,,,,,,,,,,,,,,,
-001Hr000028ZdSd,"City Of Blanchard, OK",Oklahoma,Municipality,Lucy Nemerov,9225,Nurture,Tier 3,0.75,35.1378,-97.6581,188c6cc5-a202-46ee-a730-120dd8d6ff5e,Closed Lost,,,Liam Shaw,8/16/2024,1/5/2025,"$15,000",,2,2026-02-11,1,1,,,,,
-001Hr000028ZdT7,"City Of Guthrie, OK",Oklahoma,Municipality,Lucy Nemerov,11029,,Tier 2,1.0,35.8789,-97.4253,9b753fdc-0086-4c82-9c74-cb9b7cc89d2a,,,,,,,,,18,2026-05-14,4,14,,,,,
-001Hr000028ZdTv,"City Of Choctaw, OK",Oklahoma,Municipality,Lucy Nemerov,12223,Nurture,Tier 2,1.0,35.4976,-97.2689,c0e003b3-8ca2-4b98-aba4-b0693c10c701,Closed Lost,,,Liam Shaw,8/8/2024,1/5/2025,,,6,2026-02-06,3,3,,,,,
-001Hr000028ZdUQ,"City Of Midwest City, OK",Oklahoma,Municipality,Lucy Nemerov,58145,Open Opportunity,Tier S,2.0,35.4495,-97.3967,6664f778-1376-47dd-b551-5792a2353229,Open,Initial Interest,Top of Funnel,Ryan Minter,,10/21/2025,,,32,2026-05-18,11,21,,,,,
-001Hr000028ZdUn,"City Of Warr Acres, OK",Oklahoma,Municipality,Lucy Nemerov,10445,Nurture,Tier 2,1.0,35.5223,-97.619,c7e09ed3-7bcb-47fc-8e32-c132dab5477f,Closed Lost,,,Ryan Minter,9/24/2025,8/27/2025,,,9,2026-03-31,3,6,,,,,
-001Hr000028ZdVI,"City Of Mcalester, OK",Oklahoma,Municipality,Lucy Nemerov,18244,,Tier 2,1.0,34.9334,-95.7697,a43bbccc-f02c-4276-975a-804e333ea3f3,,,,,,,,,9,2026-05-19,9,,,,,,
-001Hr000028ZdVJ,"City Of Sapulpa, OK",Oklahoma,Municipality,Lucy Nemerov,22213,Nurture,Tier 2,1.0,35.9987,-96.1142,8bf01442-a51c-49a6-807f-16a5fb3e9309,Closed Lost,,,Quinzel Perry,2/6/2025,1/30/2025,,,15,2026-02-24,10,5,,,,,
-001Hr000028ZdVh,"City Of Tahlequah, OK",Oklahoma,Municipality,Lucy Nemerov,16463,Nurture,Tier 2,1.0,35.9154,-94.97,41cb91e0-8065-475a-811a-9b08d2ed793b,Closed Lost,,,Alicia Gopal,11/24/2025,11/20/2025,,,18,2026-05-18,2,,16,,,,
-001Hr000028ZdWB,"City Of Miami, OK",Oklahoma,Municipality,Blake Anderson,12885,,Tier 2,1.0,36.8745,-94.8775,efdb35f2-ae71-4594-8499-20922c053262,,,,,,,,,20,2026-05-18,11,9,,,,,
-001Hr000028ZdWU,"City Of Elk City, OK",Oklahoma,Municipality,Blake Anderson,11570,,Tier 2,1.0,35.412,-99.4043,7a7af512-1915-45ed-a258-3c5417418569,,,,,,,,,11,2026-05-14,3,8,,,,,
-001Hr000028ZdWy,"City Of Weatherford, OK",Oklahoma,Municipality,Blake Anderson,11980,Open Opportunity,Tier 2,1.0,35.5262,-98.7076,1741f902-e976-433d-809d-40988275621b,Open,Initial Interest,Top of Funnel,Ryan Minter,10/3/2025,8/28/2025,,Yes,23,2026-03-27,2,21,,,,,
-001Hr000028ZdXB,"City Of Bixby, OK",Oklahoma,Municipality,Lucy Nemerov,29242,,Tier 1,1.5,35.942,-95.8833,38230bb8-d82a-4e0e-9673-2a3015fb94c5,,,,,,,,,26,2026-05-13,12,14,,,,,
-001Hr000028ZdXC,"City Of Bartlesville, OK",Oklahoma,Municipality,Blake Anderson,37384,,Tier 1,1.5,36.7467,-95.9784,f71a21fd-21b1-4737-beda-229409cefd92,,,,,,,,,8,2026-04-15,8,,,,,,
-001Hr000028ZdXX,"City Of Guymon, OK",Oklahoma,Municipality,Lucy Nemerov,12561,,Tier 2,1.0,36.6828,-101.4815,e2b4dda0-8602-4dbb-878a-1d7d4caa8d1d,,,,,,,,,12,2026-03-20,5,,7,,,,
-001Hr000028ZdXn,"City Of Ada, OK",Oklahoma,Municipality,Blake Anderson,16842,,Tier 2,1.0,34.7745,-96.6783,57fa0f64-b499-4de9-9c7f-5212a324e53c,,,,,,,,,19,2026-05-12,7,12,,,,,
-001Hr000028ZdY3,"City Of Owasso, OK",Oklahoma,Municipality,Blake Anderson,38732,,Tier 1,1.5,36.2695,-95.8547,afc51d51-1d0a-4d77-a812-d98519e6e84e,,,,,,,,,8,2026-05-06,8,,,,,,
-001Hr000028ZdYN,"City Of Mustang, OK",Oklahoma,Municipality,Blake Anderson,21037,1+ Module Live,Tier 2,1.0,35.3842,-97.7245,76e7fa9a-fe05-4564-85ff-579afce86706,Closed Won,,,Quinzel Perry,1/23/2025,1/5/2025,"$28,000",,,,,,,,,,
-001Hr000028ZdYl,"City Of Bethany, OK",Oklahoma,Municipality,Blake Anderson,20514,,Tier 2,1.0,35.5187,-97.6323,dfa50a64-f446-4d79-83af-8b28c76233e1,,,,,,,,,7,2026-02-10,5,2,,,,,
-001Hr000028ZdZO,"City Of Durant, OK",Oklahoma,Municipality,Lucy Nemerov,19088,Open Opportunity,Tier 2,1.0,33.9924,-96.3971,00091013-6639-4657-aa53-b02b7b36759b,Open,Initial Interest,Top of Funnel,Ryan Minter,8/19/2025,8/14/2025,,,26,2025-10-21,,26,,,,,
-001Hr000028ZdZe,"City Of Sand Springs, OK",Oklahoma,Municipality,Blake Anderson,19973,,Tier 2,1.0,36.1398,-96.1089,c29ac1ef-cad4-4d0a-947e-5a71f811f1d0,,,,,,,,,22,2026-05-13,18,,4,,,,
-001Hr000028ZdZs,"City Of Claremore, OK",Oklahoma,Municipality,Lucy Nemerov,19419,Nurture,Tier 2,1.0,36.3126,-95.6161,617bd733-53e7-420d-8fc8-f96f70616615,Closed Lost,,,Liam Shaw,8/27/2024,1/5/2025,"$43,000",,8,2026-04-13,7,1,,,,,
-001Hr000028ZdaM,"City Of Jenks, OK",Oklahoma,Municipality,Lucy Nemerov,26661,Implementation,Tier 1,1.5,36.0229,-95.9683,bf652298-25de-45db-a34d-06a9d8d33bc9,Closed Won,,,Quinzel Perry,3/3/2025,2/24/2025,"$45,401",,,,,,,,,,
-001Hr000028Zdaw,"City Of Yukon, OK",Oklahoma,Municipality,Blake Anderson,24623,,Tier 2,1.0,35.5067,-97.7625,4958bf5e-7df9-45ad-9d63-c2a8b846071b,,,,,,,,,36,2026-05-18,19,17,,,,,
-001Hr000028Zdb6,"City Of Muskogee, OK",Oklahoma,Municipality,Blake Anderson,36790,,Tier 1,1.5,35.7479,-95.3697,3fab7726-59ce-442d-90d9-04057d6d036c,,,,,,,,,3,2026-05-06,3,,,,,,
-001Hr000028Zdby,"City Of Shawnee, OK",Oklahoma,Municipality,Blake Anderson,31576,,Tier 1,1.5,35.3273,-96.9253,258633ec-acab-4395-8b59-7de99920299d,,,,,,,,,18,2026-02-09,7,11,,,,,
-001Hr000028ZdcJ,"City Of Enid, OK",Oklahoma,Municipality,Lucy Nemerov,50566,,Tier S,2.0,36.3956,-97.8784,683d5717-2029-4880-b9ae-dec44fbec9d7,,,,,,,,,10,2026-03-16,5,5,,,,,
-001Hr000028Zdcm,"City Of Stillwater, OK",Oklahoma,Municipality,Blake Anderson,48134,,Tier 1,1.5,36.1157,-97.0586,7ebbf9f9-e9f5-41d8-9cf6-2e1ffc99722d,,,,,,,,,19,2026-05-05,9,10,,,,,
-001Hr000028Zdgq,"Creek County, OK",Oklahoma,County,Blake Anderson,73332,,Tier S,2.0,35.8362,-96.3226,9dc36a31-5c4a-47ef-8cb9-d1812b36b9d9,,,,,,,,,4,2026-02-24,4,,,,,,
-001Hr000028Zdhc,"City Of Edmond, OK",Oklahoma,Municipality,Blake Anderson,95341,Open Opportunity,Tier S,2.0,35.6528,-97.4781,f178bd73-7de5-4dff-9ca0-d5cc932daf3c,Open,Initial Interest,Top of Funnel,Ryan Minter,,8/26/2025,,,27,2026-05-18,17,10,,,,,
-001cv000006tVbR,"Town Of Roland, OK",Oklahoma,Municipality,Blake Anderson,3495,,Tier 3,0.75,35.4212,-94.5147,0fd2e101-b36a-4523-bf1a-a0109e536e11,,,,,,,,,3,2026-03-09,3,,,,,,
-001cv00000AuWYf,"Town Of Chouteau, OK",Oklahoma,Municipality,Lucy Nemerov,2077,,Tier 3,0.75,36.1859,-95.343,5bd123a1-5018-4e55-9e5e-160ccb01d5e2,,,,,,,,,3,2025-07-16,,3,,,,,
-001cv00000AuWZC,"City Of Krebs, OK",Oklahoma,Municipality,Blake Anderson,2089,,Tier 3,0.75,34.9279,-95.7158,c547f2bf-ac71-4658-8a19-c53dacc26a5d,,,,,,,,,1,2025-07-16,,1,,,,,
-001cv00000AuWb2,"Town Of Spiro, OK",Oklahoma,Municipality,Lucy Nemerov,2122,,Tier 3,0.75,35.2412,-94.6199,340cec0c-4838-4db6-80ee-b86f20c3c969,,,,,,,,,1,2025-07-11,,1,,,,,
-001cv00000AuWb4,"City Of Pink, OK",Oklahoma,Municipality,Blake Anderson,2123,,Tier 3,0.75,35.2606,-97.1197,e1c97566-ccfa-4a73-b470-5b2e1addf02a,,,,,,,,,,,,,,,,,
-001cv00000AuWcT,"Town Of Hennessey, OK",Oklahoma,Municipality,Blake Anderson,2149,,Tier 3,0.75,36.1092,-97.8987,708fe11b-ce95-4973-94d0-e8f94b638dec,,,,,,,,,,,,,,,,,
-001cv00000AuWpe,"City Of Antlers, OK",Oklahoma,Municipality,Lucy Nemerov,2184,Open Opportunity,Tier 3,0.75,34.2312,-95.6202,735e1f64-ae9e-469f-a971-0a02dc255150,Open,Meeting Booked,Top of Funnel,Lucy Nemerov,2/19/2026,2/13/2026,,,7,2026-03-03,7,,,,,,
-001cv00000AuWpn,"City Of Newkirk, OK",Oklahoma,Municipality,Blake Anderson,2186,,Tier 3,0.75,36.8823,-97.0534,b425da6e-98e9-4913-b243-c3f49da2a330,,,,,,,,,,,,,,,,,
-001cv00000AuWqc,"Town Of Kiefer, OK",Oklahoma,Municipality,Lucy Nemerov,2202,,Tier 3,0.75,35.9448,-96.0653,7b2cdb6a-36bc-4508-b3ce-c7cd28dc822c,,,,,,,,,1,2026-04-30,1,,,,,,
-001cv00000AuX5O,"County Of Cimarron, OK",Oklahoma,County,Blake Anderson,2248,,Tier 3,0.75,36.7936,-102.6216,30798bff-942f-4a74-b501-b5e75d11007e,,,,,,,,,,,,,,,,,
-001cv00000AuX6t,"City Of Commerce, OK",Oklahoma,Municipality,Blake Anderson,2276,,Tier 3,0.75,36.9334,-94.873,20af6f84-bd1a-4fd6-8721-6022d3b7a632,,,,,,,,,,,,,,,,,
-001cv00000AuX7z,"City Of Nicoma Park, OK",Oklahoma,Municipality,Blake Anderson,2300,,Tier 3,0.75,35.4912,-97.3231,a860fbef-14a2-4c9d-8cda-a8f40946039c,,,,,,,,,,,,,,,,,
-001cv00000AuX9F,"City Of Healdton, OK",Oklahoma,Municipality,Blake Anderson,2328,,Tier 3,0.75,34.2331,-97.4878,b632f50e-31a5-4306-aff9-0646340ad92b,,,,,,,,,,,,,,,,,
-001cv00000AuX9a,"City Of Wilburton, OK",Oklahoma,Municipality,Blake Anderson,2334,,Tier 3,0.75,34.9187,-95.3091,d8b74df1-3056-451f-9705-64ec00eb0f51,,,,,,,,,,,,,,,,,
-001cv00000AuXAt,"City Of Prague, OK",Oklahoma,Municipality,Lucy Nemerov,2368,Nurture,Tier 3,0.75,35.4867,-96.685,069ffb0d-efd0-4257-bad8-72cc3dd374de,Closed Lost,,,Ryan Minter,10/20/2025,10/14/2025,,,4,2025-10-21,,4,,,,,
-001cv00000AuXUB,"City Of Drumright, OK",Oklahoma,Municipality,Blake Anderson,2550,,Tier 3,0.75,35.9884,-96.6011,d06bac7f-a7aa-40ac-80df-22eeb2668509,,,,,,,,,,,,,,,,,
-001cv00000AuXej,"City Of Stigler, OK",Oklahoma,Municipality,Blake Anderson,2691,,Tier 3,0.75,35.2537,-95.123,a44a69ab-2772-4e3a-a4ed-72fdd7b627bd,,,,,,,,,,,,,,,,,
-001cv00000AuXem,"City Of Fairview, OK",Oklahoma,Municipality,Blake Anderson,2692,,Tier 3,0.75,36.2689,-98.4798,c30d5ec8-fc23-4bc2-9402-77cc7a3d0d02,,,,,,,,,4,2026-02-20,4,,,,,,
-001cv00000AuXgL,"City Of Stroud, OK",Oklahoma,Municipality,Blake Anderson,2748,,Tier 3,0.75,35.7487,-96.6581,6256dd0c-eee7-4fef-999e-3ffba3a87776,,,,,,,,,1,2025-10-14,,1,,,,,
-001cv00000AuXgW,"City Of Eufaula, OK",Oklahoma,Municipality,Blake Anderson,2751,,Tier 3,0.75,35.2873,-95.5825,f31e4b4f-2677-4e41-af5f-28e59d70b40b,,,,,,,,,,,,,,,,,
-001cv00000AuXh9,"City Of New Cordell, OK",Oklahoma,Municipality,Lucy Nemerov,2768,,Tier 3,0.75,35.2913,-98.9876,bca5996f-32fa-48a9-8dca-baf7d9ed043c,,,,,,,,,1,2026-04-29,1,,,,,,
-001cv00000AuXin,"City Of Davis, OK",Oklahoma,Municipality,Blake Anderson,2801,,Tier 3,0.75,34.5045,-97.1195,477ca2f0-6630-4706-a144-57d8b7a1dd0d,,,,,,,,,13,2026-05-13,13,,,,,,
-001cv00000AuXjo,"City Of Marietta, OK",Oklahoma,Municipality,Lucy Nemerov,2834,,Tier 3,0.75,33.937,-97.1167,7e31467f-1789-4492-8233-8542f64b7ee4,,,,,,,,,7,2026-05-05,7,,,,,,
-001cv00000AuXk4,"Town Of Goldsby, OK",Oklahoma,Municipality,Lucy Nemerov,2843,,Tier 3,0.75,35.1532,-97.4767,214fd8c4-77b2-4e28-b055-b082f032b95f,,,,,,,,,,,,,,,,,
-001cv00000AuXlc,"City Of Lindsay, OK",Oklahoma,Municipality,Blake Anderson,2880,,Tier 3,0.75,34.8348,-97.6025,6679a909-04c9-4e77-b212-54d8f5296636,,,,,,,,,,,,,,,,,
-001cv00000AuXlu,"City Of Chandler, OK",Oklahoma,Municipality,Lucy Nemerov,2890,,Tier 3,0.75,35.7017,-96.8809,56e00020-97b0-4e26-9e6c-1af8c515f0c5,,,,,,,,,,,,,,,,,
-001cv00000AuXnG,"Town Of Jones, OK",Oklahoma,Municipality,Lucy Nemerov,2941,,Tier 3,0.75,35.5659,-97.287,d43de5de-4836-4a5b-8a3e-e5e9ff6c8387,,,,,,,,,1,2026-04-29,1,,,,,,
-001cv00000AuXnV,"City Of Pawhuska, OK",Oklahoma,Municipality,Blake Anderson,2948,,Tier 3,0.75,36.6634,-96.3402,2698b7c8-33a9-4baf-85f4-6353207fe4f1,,,,,,,,,,,,,,,,,
-001cv00000AuXnm,"Town Of Calera, OK",Oklahoma,Municipality,Lucy Nemerov,2957,,Tier 3,0.75,33.9345,-96.4286,d00b26dc-25c5-487c-8206-c53a6e805f2f,,,,,,,,,,,,,,,,,
-001cv00000AuXns,"City Of Tishomingo, OK",Oklahoma,Municipality,Blake Anderson,2961,,Tier 3,0.75,34.2362,-96.6786,d43cddb2-75b0-43ab-8532-7a6b931a53f7,,,,,,,,,,,,,,,,,
-001cv00000AuXzb,"City Of Wewoka, OK",Oklahoma,Municipality,Lucy Nemerov,3080,,Tier 3,0.75,35.1587,-96.4933,ca594fee-b729-4abe-891e-15ae4b0bfc23,,,,,,,,,,,,,,,,,
-001cv00000AuYAj,"County Of Harper, OK",Oklahoma,County,Lucy Nemerov,3180,,Tier 3,0.75,36.8204,-99.6341,baaf06d5-4b59-4a55-8249-18b0631a5d9e,,,,,,,,,,,,,,,,,
-001cv00000AuYAl,"Town Of Hinton, OK",Oklahoma,Municipality,Blake Anderson,3181,,Tier 3,0.75,35.4714,-98.3556,94bfafaf-389e-4bd8-86d2-5d483b97f4cc,,,,,,,,,,,,,,,,,
-001cv00000AuYC8,"Town Of Bethel Acres, OK",Oklahoma,Municipality,Lucy Nemerov,3119,,Tier 3,0.75,35.3087,-97.0256,8463777f-27be-44a1-b2a4-55705f6315fa,,,,,,,,,,,,,,,,,
-001cv00000AuYEb,"Town Of Cache, OK",Oklahoma,Municipality,Blake Anderson,2993,,Tier 3,0.75,34.6295,-98.6287,d1d7c96b-32d6-4371-8fd7-1edf108a1681,,,,,,,,,,,,,,,,,
-001cv00000AuYEl,"City Of Heavener, OK",Oklahoma,Municipality,Blake Anderson,2997,,Tier 3,0.75,34.8955,-94.603,3fd93478-447c-401c-9760-6accb8434788,,,,,,,,,1,2026-02-13,1,,,,,,
-001cv00000AuYG9,"City Of Checotah, OK",Oklahoma,Municipality,Lucy Nemerov,3043,,Tier 3,0.75,35.4701,-95.523,ab3fe890-8308-40c2-8d68-5c0efec17aea,,,,,,,,,,,,,,,,,
-001cv00000AuYGC,"City Of Tonkawa, OK",Oklahoma,Municipality,Lucy Nemerov,3044,,Tier 3,0.75,36.6784,-97.31,d4027339-34ed-4f93-adf7-fff6afef2eeb,,,,,,,,,15,2026-05-06,12,3,,,,,
-001cv00000AuYGi,"City Of Okemah, OK",Oklahoma,Municipality,Lucy Nemerov,3061,,Tier 3,0.75,35.4326,-96.305,f3fbcfcd-76d8-4c3f-8acf-afa63bf6578b,,,,,,,,,1,2026-04-29,1,,,,,,
-001cv00000AuYHs,"Town Of Perkins, OK",Oklahoma,Municipality,Blake Anderson,3305,,Tier 3,0.75,35.9739,-97.0336,e509305e-b3c7-403c-9cdd-8db6a1bebd48,,,,,,,,,,,,,,,,,
-001cv00000AuYI6,"Town Of Muldrow, OK",Oklahoma,Municipality,Lucy Nemerov,3313,,Tier 3,0.75,35.4062,-94.5988,20331768-2826-432c-a18a-9208b1b98697,,,,,,,,,,,,,,,,,
-001cv00000AuYJh,"City Of Hobart, OK",Oklahoma,Municipality,Lucy Nemerov,3376,Nurture,Tier 3,0.75,35.0295,-99.0931,e84688d7-d318-4cc8-99f7-8434f9f5650c,Closed Lost,,,Alicia Gopal,1/15/2026,11/21/2025,,,10,2026-04-27,2,,8,,,,
-001cv00000AuYJs,"City Of Dewey, OK",Oklahoma,Municipality,Blake Anderson,3379,,Tier 3,0.75,36.7959,-95.9355,771273d3-5fe8-4014-b4d5-4ea25d679943,,,,,,,,,4,2026-02-25,4,,,,,,
-001cv00000AuYJx,"County Of Roger Mills, OK",Oklahoma,County,Blake Anderson,3386,,Tier 3,0.75,35.6162,-99.6341,ed328b8b-1d8a-4406-af72-e6757a47f837,,,,,,,,,,,,,,,,,
-001cv00000AuYMP,"City Of Nowata, OK",Oklahoma,Municipality,Blake Anderson,3481,,Tier 3,0.75,36.7006,-95.638,9a3ec191-38e4-4d01-8eff-169dba965af6,,,,,,,,,,,,,,,,,
-001cv00000AuYN3,"City Of Frederick, OK",Oklahoma,Municipality,Lucy Nemerov,3504,,Tier 3,0.75,34.392,-99.0184,d163ac4f-826d-4efd-a239-77de0f07b22e,,,,,,,,,9,2026-02-12,2,7,,,,,
-001cv00000AuYNt,"City Of Atoka, OK",Oklahoma,Municipality,Blake Anderson,3188,,Tier 3,0.75,34.3859,-96.1283,bb849967-229d-4062-a30a-79fe646e540f,,,,,,,,,14,2026-05-05,7,,7,,,,
-001cv00000AuYOb,"City Of Cleveland, OK",Oklahoma,Municipality,Lucy Nemerov,3214,,Tier 3,0.75,36.3101,-96.4642,58ea7779-8322-422f-9532-d5e89486c338,,,,,,,,,,,,,,,,,
-001cv00000AuYPa,"City Of Hominy, OK",Oklahoma,Municipality,Blake Anderson,3261,,Tier 3,0.75,36.4142,-96.3953,4830f350-7c35-49f4-8ff0-f4f5c9f29b78,,,,,,,,,,,,,,,,,
-001cv00000AuYPk,"Town Of Mannford, OK",Oklahoma,Municipality,Lucy Nemerov,3269,,Tier 3,0.75,36.1334,-96.3545,36832151-f9af-45a8-bbe0-dfdc0573ddcb,,,,,,,,,8,2026-04-30,8,,,,,,
-001cv00000AuYTJ,"City Of Stilwell, OK",Oklahoma,Municipality,Lucy Nemerov,3640,,Tier 3,0.75,35.8145,-94.6286,a7f813bd-ee48-4224-87fa-ce5527a2c913,,,,,,,,,,,,,,,,,
-001cv00000AuYYy,"City Of Spencer, OK",Oklahoma,Municipality,Blake Anderson,3931,,Tier 3,0.75,35.5103,-97.3679,3cd0679c-6aef-4709-8e4a-661c98cbcbff,,,,,,,,,,,,,,,,,
-001cv00000AuYfM,"Town Of Slaughterville, OK",Oklahoma,Municipality,Lucy Nemerov,4235,Nurture,Tier 3,0.75,35.0873,-97.335,a60c5563-2f23-40b2-a295-e2e29846e7c6,Closed Lost,,,Lucy Nemerov,2/19/2026,2/12/2026,,,2,2026-02-19,1,,,1,,,
-001cv00000AuYgC,"Town Of Fort Gibson, OK",Oklahoma,Municipality,Lucy Nemerov,3823,,Tier 3,0.75,35.7976,-95.2505,0563bd16-1f45-49c2-8e69-ad9b5e8449ac,,,,,,,,,,,,,,,,,
-001cv00000AuYgh,"City Of Nichols Hills, OK",Oklahoma,Municipality,Lucy Nemerov,3851,,Tier 3,0.75,35.5509,-97.5493,b9925ce8-a30c-463f-9d3a-474a13acb2ef,,,,,,,,,7,2025-12-18,,,7,,,,
-001cv00000AuYl3,"City Of Madill, OK",Oklahoma,Municipality,Blake Anderson,3969,,Tier 3,0.75,34.0904,-96.7717,c40501a7-9598-4533-ba45-da1f5e4063d2,,,,,,,,,,,,,,,,,
-001cv00000AuYoL,"County Of Grant, OK",Oklahoma,County,Lucy Nemerov,4131,,Tier 3,0.75,33.9431,-95.5138,42f0e45a-37b0-4d69-9cc7-03c47f5d060a,,,,,,,,,,,,,,,,,
-001cv00000AuYpn,"City Of Mcloud, OK",Oklahoma,Municipality,Lucy Nemerov,4217,,Tier 3,0.75,35.4359,-97.0914,b98ecaf4-6e89-4c18-89ac-eac623613205,,,,,,,,,2,2026-03-05,2,,,,,,
-001cv00000AuYs0,"Town Of Elgin, OK",Oklahoma,Municipality,Lucy Nemerov,3715,,Tier 3,0.75,34.7803,-98.2923,7193633e-b934-4bae-b903-f5a661b95715,,,,,,,,,,,,,,,,,
-001cv00000AuYsr,"County Of Ellis, OK",Oklahoma,County,Blake Anderson,3762,,Tier 3,0.75,36.292,-99.8125,157fff8b-548c-4f78-ba27-5090bd9ee3ab,,,,,,,,,,,,,,,,,
-001cv00000AuYu5,"City Of Broken Bow, OK",Oklahoma,Municipality,Blake Anderson,4244,,Tier 3,0.75,34.0293,-94.7391,fcc2f8a0-224f-4b45-b0b9-7a6047ccf936,,,,,,,,,,,,,,,,,
-001cv00000AuYuP,"City Of Bristow, OK",Oklahoma,Municipality,Lucy Nemerov,4260,,Tier 3,0.75,35.8306,-96.3911,da3e4da9-0164-478d-b2b9-d653565c7e04,,,,,,,,,,,,,,,,,
-001cv00000AuYvu,"Town Of Pocola, OK",Oklahoma,Municipality,Blake Anderson,4342,Open Opportunity,Tier 3,0.75,35.2312,-94.478,e516aff9-3c91-4e95-aad5-23e68ec396b5,Open,Proposal,Mid Funnel,Lucy Nemerov,3/2/2026,3/2/2026,"$20,000",,9,2026-05-14,4,,,5,,,
-001cv00000AuYxM,"City Of Sayre, OK",Oklahoma,Municipality,Blake Anderson,4400,,Tier 3,0.75,35.2912,-99.6401,b6d05b7f-d2fb-4113-9b6b-4c5f62f5b0db,,,,,,,,,,,,,,,,,
-001cv00000AuYxR,"City Of Marlow, OK",Oklahoma,Municipality,Lucy Nemerov,4403,,Tier 3,0.75,34.6481,-97.9581,0498145d-0c32-4d15-804f-b3fd9ae16907,,,,,,,,,5,2026-03-16,5,,,,,,
-001cv00000AuYxk,"County Of Dewey, OK",Oklahoma,County,Lucy Nemerov,4417,,Tier 3,0.75,36.7959,-95.9355,a1db2d3a-9ca2-4818-b9e2-7603af77225c,,,,,,,,,,,,,,,,,
-001cv00000AuYzY,"City Of Perry, OK",Oklahoma,Municipality,Lucy Nemerov,4527,,Tier 3,0.75,36.2895,-97.2881,c0e12d1c-320c-407b-b033-b55dc3e6632d,,,,,,,,,,,,,,,,,
-001cv00000AuZ7T,"County Of Coal, OK",Oklahoma,County,Blake Anderson,5276,,Tier 3,0.75,34.5686,-96.2801,1b0f758b-422e-4d1e-9f2a-a08944afaf4a,,,,,,,,,,,,,,,,,
-001cv00000AuZ8C,"County Of Jefferson, OK",Oklahoma,County,Lucy Nemerov,5438,,Tier 3,0.75,34.1673,-97.8722,6105eec5-71ab-4eaa-8f30-6941a968aad2,,,,,,,,,,,,,,,,,
-001cv00000AuZ8L,"Town Of Verdigris, OK",Oklahoma,Municipality,Lucy Nemerov,5461,,Tier 3,0.75,36.2348,-95.6911,7003e7a8-92de-4cac-bfef-9fb022b0b103,,,,,,,,,4,2026-05-13,2,2,,,,,
-001cv00000AuZ8N,"County Of Cotton, OK",Oklahoma,County,Blake Anderson,5480,,Tier 3,0.75,34.3091,-98.3965,a6cfc202-25fb-4560-86d5-362b3d9b1a13,,,,,,,,,,,,,,,,,
-001cv00000AuZ8Q,"County Of Greer, OK",Oklahoma,County,Lucy Nemerov,5487,,Tier 3,0.75,34.9339,-99.4562,ae6f9220-ae69-470b-85a0-5aade5dc5d71,,,,,,,,,,,,,,,,,
-001cv00000AuZDD,"County Of Tillman, OK",Oklahoma,County,Blake Anderson,7076,,Tier 3,0.75,34.4478,-98.9245,60e70028-c4a1-4ffb-a955-57a813d56cf1,,,,,,,,,,,,,,,,,
-001cv00000AuZKI,"County Of Alfalfa, OK",Oklahoma,County,Lucy Nemerov,5710,,Tier 3,0.75,36.7436,-98.3965,1c393fa6-1b85-4470-b05b-6ce681b805fa,,,,,,,,,1,2025-09-02,,1,,,,,
-001cv00000AuZM0,"City Of Kingfisher, OK",Oklahoma,Municipality,Lucy Nemerov,4813,,Tier 3,0.75,35.8614,-97.9317,bb43231e-4b24-41f6-aee9-9453f5a189ab,,,,,,,,,12,2026-05-06,12,,,,,,
-001cv00000AuZNT,"City Of Sulphur, OK",Oklahoma,Municipality,Blake Anderson,4904,,Tier 3,0.75,34.5079,-96.9684,e5a78660-83d9-4c06-ac49-f5c259f8099e,,,,,,,,,4,2025-12-04,,,4,,,,
-001cv00000AuZRi,"County Of Major, OK",Oklahoma,County,Lucy Nemerov,7668,,Tier 3,0.75,36.348,-98.5282,2bb5f2ec-9694-4803-b3d8-97f07e47dde9,,,,,,,,,,,,,,,,,
-001cv00000AuZS5,"County Of Beaver, OK",Oklahoma,County,Blake Anderson,4980,,Tier 3,0.75,36.8161,-100.5199,4441600a-cf13-4a3c-a56e-2242ea822a8b,,,,,,,,,,,,,,,,,
-001cv00000AuZXt,"County Of Kiowa, OK",Oklahoma,County,Lucy Nemerov,8410,,Tier 3,0.75,34.7207,-95.8992,ea45bb64-6b1d-40a3-9299-d2a848681304,,,,,,,,,,,,,,,,,
-001cv00000AuZY6,"County Of Blaine, OK",Oklahoma,County,Blake Anderson,8562,,Tier 3,0.75,35.8825,-98.3965,d6b779fd-075a-4c54-857e-55104bcff026,,,,,,,,,,,,,,,,,
-001cv00000AuZY9,"County Of Woods, OK",Oklahoma,County,Lucy Nemerov,8583,,Tier 3,0.75,36.7182,-98.7481,794e9297-fc90-4998-96bd-5492bc4d3703,,,,,,,,,,,,,,,,,
-001cv00000AuZZT,"County Of Nowata, OK",Oklahoma,County,Blake Anderson,9303,,Tier 3,0.75,36.7006,-95.638,38e9e31e-6c6d-4b41-9d3e-978c36fa2c58,,,,,,,,,,,,,,,,,
-001cv00000AuZZk,"County Of Latimer, OK",Oklahoma,County,Lucy Nemerov,9427,,Tier 3,0.75,34.835,-95.3102,99e810e0-c931-4a40-a541-036dec5f0cdd,,,,,,,,,,,,,,,,,
-001cv00000AuZaq,"County Of Haskell, OK",Oklahoma,County,Lucy Nemerov,11602,,Tier 2,1.0,35.8204,-95.6741,e564d0c0-ebfa-41e7-91a8-61d4201923d2,,,,,,,,,,,,,,,,,
-001cv00000AuZca,"County Of Love, OK",Oklahoma,County,Blake Anderson,10216,,Tier 2,1.0,33.9858,-97.2221,36fc1eda-60da-43bf-9f07-1dab5f84fd49,,,,,,,,,,,,,,,,,
-001cv00000AuZcf,"County Of Johnston, OK",Oklahoma,County,Lucy Nemerov,10301,,Tier 2,1.0,34.2481,-96.493,5cea8641-6c50-480c-8f24-54f6acd1cd36,,,,,,,,,,,,,,,,,
-001cv00000AuZgF,"County Of Hughes, OK",Oklahoma,County,Lucy Nemerov,13405,,Tier 2,1.0,35.138,-96.3226,2a557012-6883-4e87-a784-e275aef427bd,,,,,,,,,,,,,,,,,
-001cv00000AuZhm,"County Of Kingfisher, OK",Oklahoma,County,Blake Anderson,15204,,Tier 2,1.0,35.8614,-97.9317,dee76d3e-0530-4a3c-9f90-59b5b4496710,,,,,,,,,,,,,,,,,
-001cv00000AuZlQ,"County Of Pushmataha, OK",Oklahoma,County,Blake Anderson,10815,,Tier 2,1.0,34.482,-95.3102,4871d828-5433-4a74-b642-462bea9a1be4,,,,,,,,,,,,,,,,,
-001cv00000AuZle,"County Of Washita, OK",Oklahoma,County,Lucy Nemerov,10915,,Tier 2,1.0,35.3234,-98.9245,b1daccb5-0dfe-45c9-b278-9cade7136a97,,,,,,,,,,,,,,,,,
-001cv00000AuZlh,"County Of Noble, OK",Oklahoma,County,Blake Anderson,10933,,Tier 2,1.0,35.1392,-97.3948,d5533624-9ff3-44a2-a513-b4e11fc9b480,,,,,,,,,,,,,,,,,
-001cv00000AuZm1,"County Of Okfuskee, OK",Oklahoma,County,Blake Anderson,11197,,Tier 2,1.0,35.4879,-96.3226,4e74d1b4-1de1-4bc3-b6cb-48aada51e7c4,,,,,,,,,,,,,,,,,
-001cv00000AuZn2,"County Of Murray, OK",Oklahoma,County,Blake Anderson,13718,,Tier 2,1.0,34.4383,-97.0498,d7c16737-a106-4150-86b7-23b482ee5c7b,,,,,,,,,,,,,,,,,
-001cv00000AuZne,"County Of Craig, OK",Oklahoma,County,Lucy Nemerov,14115,,Tier 2,1.0,36.7572,-95.1432,4fd16248-a193-4c97-a317-f9e7fce0af24,,,,,,,,,,,,,,,,,
-001cv00000AuZnt,"County Of Choctaw, OK",Oklahoma,County,Blake Anderson,14307,,Tier 2,1.0,33.9851,-95.5197,40c5281c-1eb5-479f-8003-fc9baac4aab0,,,,,,,,,,,,,,,,,
-001cv00000AuZnv,"County Of Atoka, OK",Oklahoma,County,Lucy Nemerov,14324,,Tier 2,1.0,34.451,-95.9833,e9963a47-4ed3-46a5-b904-c67f6294cb72,,,,,,,,,,,,,,,,,
-001cv00000AuZog,"County Of Marshall, OK",Oklahoma,County,Lucy Nemerov,15594,,Tier 2,1.0,36.1539,-97.6256,b0ca0148-88d7-4aa4-b9ad-06d93d3ddf4f,,,,,,,,,,,,,,,,,
-001cv00000AuZoq,"County Of Pawnee, OK",Oklahoma,County,Blake Anderson,15741,,Tier 2,1.0,36.3378,-96.8039,83b3c2d1-9a56-4faa-968b-500a8af48edb,,,,,,,,,,,,,,,,,
-001cv00000AuZsy,"County Of Mcintosh, OK",Oklahoma,County,Blake Anderson,19245,,Tier 2,1.0,35.3466,-95.6458,b2040722-295c-4ffa-bc07-b56abde65d2f,,,,,,,,,,,,,,,,,
-001cv00000AuZt6,"County Of Adair, OK",Oklahoma,County,Lucy Nemerov,19414,,Tier 2,1.0,36.4368,-95.2714,037740c7-cf3c-4011-9f25-4cd8eda0c347,,,,,,,,,1,2026-05-13,1,,,,,,
-001cv00000AuZxK,"County Of Texas, OK",Oklahoma,County,Lucy Nemerov,20865,,Tier 2,1.0,36.8301,-101.4339,96d43932-946f-477f-b6a8-523e8f3ead9e,,,,,,,,,,,,,,,,,
-001cv00000Aua0J,"County Of Custer, OK",Oklahoma,County,Blake Anderson,28163,,Tier 1,1.5,35.6711,-98.9245,95e605f5-56a5-4ed7-9c99-208bed2f665a,,,,,,,,,,,,,,,,,
-001cv00000Aua1M,"County Of Ottawa, OK",Oklahoma,County,Blake Anderson,30340,,Tier 1,1.5,36.7711,-94.8106,b0d282b7-cc56-4f14-bd72-d9a6958d6446,,,,,,,,,,,,,,,,,
-001cv00000Aua2G,"County Of Jackson, OK",Oklahoma,County,Blake Anderson,24777,,Tier 2,1.0,34.5835,-99.4562,eef0bd48-2e6d-47a9-abe7-112292283ac7,,,,,,,,,,,,,,,,,
-001cv00000Aua3Y,"County Of Woodward, OK",Oklahoma,County,Lucy Nemerov,20205,,Tier 2,1.0,36.4336,-99.3904,a138764a-ff88-414f-99f4-0b840fc9cb42,,,,,,,,,,,,,,,,,
-001cv00000Aua5q,"County Of Lincoln, OK",Oklahoma,County,Lucy Nemerov,33829,,Tier 1,1.5,35.6343,-96.8351,eab8056a-816b-435e-a344-18c45db21bed,,,,,,,,,5,2026-05-18,5,,,,,,
-001cv00000Aua7K,"County Of Mayes, OK",Oklahoma,County,Lucy Nemerov,39159,,Tier 1,1.5,36.2322,-95.3102,92ff482e-cf02-4aeb-8418-382a4cec5115,,,,,,,,,1,2026-04-28,1,,,,,,
-001cv00000Aua7Q,"County Of Sequoyah, OK",Oklahoma,County,Blake Anderson,39508,,Tier 1,1.5,35.5155,-94.7692,46dcd481-c9ef-4870-b40b-9a5071eee976,,,,,,,,,,,,,,,,,
-001cv00000Aua87,"County Of Mccurtain, OK",Oklahoma,County,Lucy Nemerov,30884,,Tier 1,1.5,34.1482,-94.8106,f32e9ffa-9997-4112-9ba0-d7b6248ef4f5,,,,,,,,,,,,,,,,,
-001cv00000Aua9a,"County Of Beckham, OK",Oklahoma,County,Blake Anderson,22046,,Tier 2,1.0,35.2687,-99.6341,af6384aa-1a87-47e0-b108-1c41b89834d6,,,,,,,,,,,,,,,,,
-001cv00000AuaAS,"County Of Seminole, OK",Oklahoma,County,Blake Anderson,23567,,Tier 2,1.0,35.2245,-96.6706,db613f0f-6f52-45a6-a1eb-dd5d073f0366,,,,,,,,,,,,,,,,,
-001cv00000AuaB7,"County Of Garvin, OK",Oklahoma,County,Lucy Nemerov,25804,,Tier 1,1.5,34.7289,-97.3517,5e34797f-b6f7-48d5-be81-f838d9b26622,,,,,,,,,2,2026-04-28,2,,,,,,
-001cv00000AuaBN,"County Of Caddo, OK",Oklahoma,County,Blake Anderson,26368,,Tier 1,1.5,35.1056,-98.3088,b2a196da-93ef-45dc-a403-301a2f25ed1d,,,,,,,,,,,,,,,,,
-001cv00000AuaEF,"County Of Pontotoc, OK",Oklahoma,County,Lucy Nemerov,38163,,Tier 1,1.5,34.7685,-96.6638,c98008bd-0c22-4932-9c06-dfc43e188f41,,,,,,,,,,,,,,,,,
-001cv00000AuaG2,"County Of Delaware, OK",Oklahoma,County,Lucy Nemerov,41000,,Tier 1,1.5,36.4263,-94.8106,2012b1c8-f8fc-4126-a0d9-5bf2611f51c6,,,,,,,,,,,,,,,,,
-001cv00000AuaGe,"County Of Stephens, OK",Oklahoma,County,Blake Anderson,43129,,Tier 1,1.5,34.5203,-97.8722,a6633109-c2ce-4ae7-bc88-42ee332dd702,,,,,,,,,1,2026-04-28,1,,,,,,
-001cv00000AuaGr,"County Of Mcclain, OK",Oklahoma,County,Lucy Nemerov,43516,,Tier 1,1.5,35.0282,-97.4814,b7f8c256-3598-41d4-9d59-4dc6aa3b8e30,,,,,,,,,16,2026-04-09,7,9,,,,,
-001cv00000AuaGw,"County Of Pittsburg, OK",Oklahoma,County,Blake Anderson,43633,,Tier 1,1.5,34.7132,-95.85,7ccbb528-919c-4507-b649-8f867a912299,,,,,,,,,,,,,,,,,
-001cv00000AuaH1,"County Of Kay, OK",Oklahoma,County,Lucy Nemerov,43732,,Tier 1,1.5,36.8234,-97.179,8713ba1d-a2ee-4806-a2a6-3f982846d7d0,,,,,,,,,,,,,,,,,
-001cv00000AuaHc,"County Of Osage, OK",Oklahoma,County,Lucy Nemerov,45772,Open Opportunity,Tier 1,1.5,36.6189,-96.2376,d56bf233-cb83-440c-a0fb-8998ba66fcd2,Open,Initial Interest,Top of Funnel,Lucy Nemerov,2/18/2026,2/10/2026,,,7,2026-02-26,3,3,1,,,,
-001cv00000AuaK6,"County Of Bryan, OK",Oklahoma,County,Blake Anderson,47105,,Tier 1,1.5,33.9021,-96.3226,bae1a820-ee59-4e13-820a-11c86af95112,,,,,,,,,,,,,,,,,
-001cv00000AuaKD,"County Of Cherokee, OK",Oklahoma,County,Lucy Nemerov,47627,,Tier 1,1.5,36.7545,-98.3567,d2882c18-1cd6-4501-a82f-0e73166256cd,,,,,,,,,,,,,,,,,
-001cv00000AuaKO,"County Of Carter, OK",Oklahoma,County,Lucy Nemerov,48291,,Tier 1,1.5,35.2189,-99.5056,400f4b1a-0afe-46a6-a33e-7463a8237565,,,,,,,,,,,,,,,,,
-001cv00000AuaKR,"County Of Le Flore, OK",Oklahoma,County,Blake Anderson,48476,,Tier 1,1.5,34.8622,-94.645,b1ce5cb9-5e76-49ff-82dc-a38b2022d77d,,,,,,,,,,,,,,,,,
-001cv00000AuaL0,"County Of Logan, OK",Oklahoma,County,Blake Anderson,50885,,Tier S,2.0,35.9405,-97.5247,00b1496f-3dee-49fd-b420-2ee234e0be1d,,,,,,,,,4,2026-04-15,4,,,,,,
-001cv00000AuaLQ,"County Of Washington, OK",Oklahoma,County,Lucy Nemerov,52772,,Tier S,2.0,35.059,-97.4845,ec516fae-e8c0-4789-8251-d842a8ba8942,,,,,,,,,1,2026-03-31,1,,,,,,
-001cv00000AuaNL,"County Of Grady, OK",Oklahoma,County,Blake Anderson,55508,,Tier S,2.0,35.0473,-97.8722,1f761c9a-75dc-438a-9204-160de802f105,,,,,,,,,1,2026-03-31,1,,,,,,
-001cv00000AuaOT,"County Of Garfield, OK",Oklahoma,County,Blake Anderson,61926,,Tier S,2.0,36.4361,-97.8722,213d0d34-5040-4a7a-b649-9a3f97579f28,,,,,,,,,,,,,,,,,
-001cv00000AuaPL,"County Of Muskogee, OK",Oklahoma,County,Blake Anderson,66146,,Tier S,2.0,35.7111,-95.3102,637944bd-07e8-42fb-977d-cfd057cde64a,,,,,,,,,,,,,,,,,
-001cv00000AuaQj,"County Of Wagoner, OK",Oklahoma,County,Blake Anderson,84050,,Tier S,2.0,35.9595,-95.3694,5ba1fe8d-a174-4398-98e4-1638bd410715,,,,,,,,,4,2025-12-01,,,4,,,,
-001cv00000AuaWK,"County Of Pottawatomie, OK",Oklahoma,County,Lucy Nemerov,73019,,Tier S,2.0,35.2754,-97.0068,c7e469dc-edd4-4ca1-91c0-c2fa1e201755,,,,,,,,,,,,,,,,,
-001cv00000AuaXE,"County Of Payne, OK",Oklahoma,County,Lucy Nemerov,81989,,Tier S,2.0,36.145,-97.0068,28998172-128a-4405-a8ee-151c347da35b,,,,,,,,,,,,,,,,,
-001cv00000B21px,"City Of Jay, OK",Oklahoma,Municipality,Blake Anderson,2388,,Tier 3,0.75,36.4212,-94.7969,039bac87-aded-46d2-b752-a3d390974a61,,,,,,,,,,,,,,,,,
-001cv00000B21q0,"City Of Walters, OK",Oklahoma,Municipality,Lucy Nemerov,2390,,Tier 3,0.75,34.3579,-98.3092,40db2fee-470b-45a6-9cfd-ba4c71e000bc,,,,,,,,,,,,,,,,,
-001cv00000B21r0,"County Of Harmon, OK",Oklahoma,County,Blake Anderson,2315,,Tier 3,0.75,34.7305,-99.8125,1b196aee-62d4-4a29-b976-824cd94af1e9,,,,,,,,,,,,,,,,,
-001cv00000B21wx,"City Of Watonga, OK",Oklahoma,Municipality,Blake Anderson,2633,,Tier 3,0.75,35.8448,-98.4131,171d40a2-b8f0-4f56-a172-2cb7c25f6a74,,,,,,,,,,,,,,,,,
-001cv00000B21yc,"City Of Mangum, OK",Oklahoma,Municipality,Lucy Nemerov,2677,,Tier 3,0.75,34.872,-99.5043,db34de34-6828-4636-a26d-aa86671528b9,,,,,,,,,,,,,,,,,
-001cv00000CLwx3,"City Of Okmulgee, OK",Oklahoma,Municipality,Lucy Nemerov,11298,Open Opportunity,Tier 2,1.0,35.6267,-95.9515,fdf4c125-f000-4cf5-bf53-7b728ede27ca,Open,Initial Interest,Top of Funnel,Alicia Gopal,,12/1/2025,,,13,2026-05-15,8,3,2,,,,
-001cv00000bBVfZ,City of Seiling,Oklahoma,Municipality,Blake Anderson,809,,Tier 3,0.75,36.1481,-98.9243,85fec8a0-7ca1-438c-934f-5a8aff1a1d4d,,,,,,,,,,,,,,,,,
-001cv00000bBVlZ,City of Erick,Oklahoma,Municipality,Blake Anderson,982,,Tier 3,0.75,35.2153,-99.8665,aca0fb08-9e9e-4dc3-9de3-8e1a411ca93e,,,,,,,,,,,,,,,,,
-001cv00000bBVlb,City of Geary,Oklahoma,Municipality,Blake Anderson,987,,Tier 3,0.75,35.6312,-98.3173,1a952bbc-def8-4e49-9bda-5402b25c45fe,,,,,,,,,,,,,,,,,
-001cv00000bBVm3,Town of Buffalo,Oklahoma,Municipality,Blake Anderson,1019,,Tier 3,0.75,36.8356,-99.6304,9139272e-08d2-466d-aa05-0ce6a48c8df1,,,,,,,,,,,,,,,,,
-001cv00000bBVp6,Town of Colbert,Oklahoma,Municipality,Blake Anderson,1105,,Tier 3,0.75,33.8532,-96.5025,2970b4e8-a10c-425d-85d2-331e0c961ea1,,,,,,,,,,,,,,,,,
-001cv00000bBVwc,Town of Okarche,Oklahoma,Municipality,Blake Anderson,1193,,Tier 3,0.75,35.7259,-97.9764,5539f8c3-114b-4183-a21d-e99cc6c72fa7,,,,,,,,,,,,,,,,,
-001cv00000bBVwi,Town of Laverne,Oklahoma,Municipality,Blake Anderson,1198,,Tier 3,0.75,36.7098,-99.8935,7233af47-b0ce-4401-abc3-e33e44523065,,,,,,,,,,,,,,,,,
-001cv00000bBWD7,City of Wynnewood,Oklahoma,Municipality,Blake Anderson,1944,,Tier 3,0.75,34.6427,-97.1704,bb713256-790b-4fb4-9796-cdb74f76a396,,,,,,,,,,,,,,,,,
-001cv00000bBWKN,City of Hartshorne,Oklahoma,Municipality,Blake Anderson,1886,,Tier 3,0.75,34.8451,-95.5575,6711427f-0ab0-48cd-a8f2-04273d541a0b,,,,,,,,,,,,,,,,,
-001cv00000bBWPK,City of Coalgate,Oklahoma,Municipality,Blake Anderson,1715,,Tier 3,0.75,34.5381,-96.2186,d86ef2bf-a354-4ae1-b468-e287a026bab6,,,,,,,,,,,,,,,,,
-001cv00000bBWPT,Town of Haskell,Oklahoma,Municipality,Blake Anderson,1721,,Tier 3,0.75,35.8204,-95.6741,3cd67bd0-5c6f-4bec-a547-efcbebe5f862,,,,,,,,,,,,,,,,,
-001cv00000bBWSN,Comanche County,Oklahoma,County,Blake Anderson,121396,,Tier S,2.0,34.6613,-98.3965,fbbb42d8-dc17-40e8-b8e8-d211bf096d88,,,,,,,,,,,,,,,,,
-001cv00000bBWST,City of Broken Arrow,Oklahoma,Municipality,Lucy Nemerov,122756,,Tier S,2.0,36.0609,-95.7975,05a02857-b17b-4433-83e2-136a8eaae02f,,,,,,,,,,,,,,,,,
-001cv00000bBWSo,City of Norman,Oklahoma,Municipality,Blake Anderson,131010,,Tier S,2.0,35.2216,-97.4446,9ab56e83-dad1-4849-acf3-45c226e13d03,,,,,,,,,,,,,,,,,
-001cv00000bBWTs,Canadian County,Oklahoma,County,Lucy Nemerov,181760,,Tier S,2.0,35.5594,-98.0465,d6517002-48c0-4702-9625-e7b8f4048a28,,,,,,,,,,,,,,,,,
-001cv00000bBWYO,Tulsa County,Oklahoma,County,Lucy Nemerov,693514,,Tier S,2.0,36.1593,-95.941,2b2a3d8f-09e0-4797-b265-132f9f218967,,,,,,,,,,,,,,,,,
-001cv00000bBWYR,City of Oklahoma City,Oklahoma,Municipality,Blake Anderson,712919,,Tier S,2.0,35.4689,-97.5195,9a178736-00f4-40ec-9160-d3df86ff15ca,,,,,,,,,,,,,,,,,
-001cv00000bBWYf,Oklahoma County,Oklahoma,County,Lucy Nemerov,816490,,Tier S,2.0,35.6038,-97.3517,cb4777a7-ec56-4a7e-90fb-a7d9d0fcf899,,,,,,,,,,,,,,,,,
-001cv00000bBWsf,Town of Waukomis,Oklahoma,Municipality,Blake Anderson,1325,,Tier 3,0.75,36.2803,-97.8981,a37627e7-2ac2-4418-bbe1-0b94f00dcb43,,,,,,,,,,,,,,,,,
-001cv00000bBWtK,Town of Dickson,Oklahoma,Municipality,Blake Anderson,1372,,Tier 3,0.75,34.1872,-96.9859,70cf790c-6b21-4fd3-9c5b-3c52b96838c4,,,,,,,,,,,,,,,,,
-001cv00000bBWtU,City of Vian,Oklahoma,Municipality,Blake Anderson,1386,,Tier 3,0.75,35.4984,-94.9697,106e3e04-34b3-4799-bbec-84d4f52223de,,,,,,,,,,,,,,,,,
-001cv00000bBWtg,City of Comanche,Oklahoma,Municipality,Blake Anderson,1397,,Tier 3,0.75,34.369,-97.9639,004b8e3a-93f1-4ce7-8ef0-8cf6c02e407a,,,,,,,,,,,,,,,,,
-001cv00000bBX0C,Cleveland County,Oklahoma,County,Blake Anderson,303952,,Tier S,2.0,35.255,-97.3517,9a85f815-ec9d-4738-bef5-2dc607f2d2e0,,,,,,,,,,,,,,,,,
-001cv00000bBX10,City of Tulsa,Oklahoma,Municipality,Blake Anderson,415154,,Tier S,2.0,36.1551,-95.9895,4c7ea704-3f9c-41aa-9b53-66a8b41671bc,,,,,,,,,,,,,,,,,
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Lucy Nemerov,Calls - Ryan Minter,Calls - Alicia Gopal,Calls - Jenny Allison,Calls - Leila Assil,Calls - Quinzel Perry,Calls - Joe del Rosario,Outreach ID
+001Hr000028Zbsq,"City Of Del City, OK",Oklahoma,Municipality,Blake Anderson,21604,Open Opportunity,Tier 2,1.0,35.442,-97.4409,9d6840f3-324a-450d-9659-29b01a5a2c9a,Open,Proposal,Mid Funnel,Lucy Nemerov,3/24/2026,3/12/2026,"$39,000",Yes,11,2026-02-09,3,8,,,,,,7008
+001Hr000028ZcFb,"City Of Skiatook, OK",Oklahoma,Municipality,Lucy Nemerov,8560,Nurture,Tier 3,0.75,36.3684,-96.0014,6d10b6c9-7c89-4fc3-a592-7bdea7c2254f,Closed Lost,,,Alicia Gopal,1/9/2026,11/19/2025,,,27,2026-03-10,1,,26,,,,,6544
+001Hr000028ZcKu,"City Of Anadarko, OK",Oklahoma,Municipality,Blake Anderson,5990,Open Opportunity,Tier 3,0.75,35.0726,-98.2437,94de2ff1-9d40-4e9a-9295-a45054e49fb1,Open,Meeting Booked,Top of Funnel,Lucy Nemerov,4/13/2026,4/6/2026,,,27,2026-05-18,14,,13,,,,,6392
+001Hr000028ZcgC,"City Of Pryor Creek, OK",Oklahoma,Municipality,Lucy Nemerov,9453,,Tier 3,0.75,36.3084,-95.3169,30c75223-f8ce-452c-aa56-7df19c831efa,,,,,,,,,3,2026-03-09,2,1,,,,,,6610
+001Hr000028Zcih,"City Of The Village, OK",Oklahoma,Municipality,Blake Anderson,9483,,Tier 3,0.75,35.5609,-97.5514,2b207e84-832b-4f2a-8bf0-f2e86a10de37,,,,,,,,,10,2026-02-20,1,9,,,,,,6614
+001Hr000028Zciw,"City Of Catoosa, OK",Oklahoma,Municipality,Lucy Nemerov,7410,,Tier 3,0.75,36.189,-95.7458,894e771e-e41c-4f79-a084-b124eb0c2f25,,,,,,,,,6,2026-03-02,3,,3,,,,,6491
+001Hr000028ZclG,"City Of Piedmont, OK",Oklahoma,Municipality,Blake Anderson,7884,,Tier 3,0.75,35.642,-97.7464,754c45e0-22dd-487c-ab0d-47d77e21d6bd,,,,,,,,,1,2025-07-29,,1,,,,,,6456
+001Hr000028ZcmU,"City Of Harrah, OK",Oklahoma,Municipality,Lucy Nemerov,6352,,Tier 3,0.75,35.4895,-97.1636,ff818f21-d59b-446d-8d0a-61a99fd313d2,,,,,,,,,25,2026-02-26,6,9,,,10,,,6370
+001Hr000028Zcnw,"City Of Sallisaw, OK",Oklahoma,Municipality,Lucy Nemerov,8483,Nurture,Tier 3,0.75,35.4604,-94.7874,fabb3694-1c65-434f-a776-1c4b57990dfe,Closed Lost,,,Liam Shaw,7/25/2024,1/5/2025,,,10,2026-02-25,3,,6,,,1,,6549
+001Hr000028Zcqu,"City Of Poteau, OK",Oklahoma,Municipality,Lucy Nemerov,8822,Open Opportunity,Tier 3,0.75,35.0537,-94.6236,5de2e0d4-0f80-4c71-bc11-774430b50d28,Open,Initial Interest,Top of Funnel,Ryan Minter,9/24/2025,8/25/2025,,Yes,7,2025-09-24,,7,,,,,,6571
+001Hr000028Zct2,"City Of Grove, OK",Oklahoma,Municipality,Lucy Nemerov,7033,Nurture,Tier 3,0.75,36.5937,-94.7691,48394830-0799-4891-9180-6aab4444eb39,Closed Lost,,,Liam Shaw,8/9/2024,1/5/2025,,,16,2026-05-06,12,4,,,,,,6434
+001Hr000028Zctb,"City Of Lawton, OK",Oklahoma,Municipality,Lucy Nemerov,91055,,Tier S,2.0,34.6075,-98.392,d983caff-b228-4d45-a893-a08b1bf165ba,,,,,,,,,10,2026-05-07,7,3,,,,,,11601
+001Hr000028Zctj,"City Of Altus, OK",Oklahoma,Municipality,Blake Anderson,18717,,Tier 2,1.0,34.6378,-99.334,01daaf11-8690-49a9-b4b2-421989953dc2,,,,,,,,,2,2026-04-23,1,1,,,,,,6966
+001Hr000028Zcwo,"City Of Ponca City, OK",Oklahoma,Municipality,Blake Anderson,24398,Recent Competitor Purchase,Tier 2,1.0,36.707,-97.0856,ab4bbe2e-2eb4-46d6-a831-e28cd8d7cd64,,,,,,,,,9,2026-05-14,9,,,,,,,7045
+001Hr000028ZcxE,"City Of Vinita, OK",Oklahoma,Municipality,Blake Anderson,5189,,Tier 3,0.75,36.6387,-95.1541,87c94575-4d82-45f9-9945-23ddafb59a5a,,,,,,,,,5,2026-05-18,4,1,,,,,,6221
+001Hr000028ZczP,"City Of El Reno, OK",Oklahoma,Municipality,Lucy Nemerov,17774,Nurture,Tier 2,1.0,35.5323,-97.955,bf9a1eb2-def3-4230-b46c-68f88b1d6e4b,Closed Lost,,,Liam Shaw,8/7/2024,1/5/2025,,,19,2026-05-14,17,2,,,,,,6919
+001Hr000028Zczi,"City Of Woodward, OK",Oklahoma,Municipality,Lucy Nemerov,11998,Open Opportunity,Tier 2,1.0,36.4336,-99.3904,8b623335-b839-421b-bb46-b2867efc85df,Open,Initial Interest,Top of Funnel,Ryan Minter,,8/27/2025,,,20,2026-05-15,13,7,,,,,,6759
+001Hr000028Zd1j,"City Of Blackwell, OK",Oklahoma,Municipality,Lucy Nemerov,6069,Nurture,Tier 3,0.75,36.8045,-97.2828,8525cfdb-6ec4-440e-8f5b-52a45898da2d,Closed Lost,,,Liam Shaw,9/3/2024,1/5/2025,,,6,2026-02-26,4,2,,,,,,6395
+001Hr000028Zd4y,"Rogers County, OK",Oklahoma,County,Lucy Nemerov,100248,1+ Module Live,Tier S,2.0,36.3898,-95.6458,d9317b1f-f890-480b-b660-8751af50be10,Closed Won,,,Alicia Gopal,12/18/2025,12/15/2025,"$48,000",,2,2025-12-15,,,2,,,,,11871
+001Hr000028Zd8b,"City Of Chickasha, OK",Oklahoma,Municipality,Lucy Nemerov,15786,,Tier 2,1.0,35.0526,-97.9364,83945850-bde6-46ea-89e0-596287e99d73,,,,,,,,,5,2026-02-06,5,,,,,,,6882
+001Hr000028Zd9J,"City Of Lone Grove, OK",Oklahoma,Municipality,Lucy Nemerov,5045,,Tier 3,0.75,34.1754,-97.2628,f58ed6ca-a7b7-4486-a7fa-c13174067c84,,,,,,,,,6,2026-04-16,6,,,,,,,6179
+001Hr000028ZdDO,"City Of Henryetta, OK",Oklahoma,Municipality,Blake Anderson,5630,,Tier 3,0.75,35.4398,-95.9819,0b63be8f-4060-4249-9bbb-bb8b0fd4c5c7,,,,,,,,,22,2026-05-06,9,13,,,,,,6253
+001Hr000028ZdF5,"City Of Hugo, OK",Oklahoma,Municipality,Lucy Nemerov,5174,Open Opportunity,Tier 3,0.75,34.0107,-95.5097,6d8cd643-7a94-4097-8930-a7e50e2e7023,Open,Meeting Booked,Top of Funnel,Alicia Gopal,12/3/2025,12/1/2025,,,12,2025-12-10,,,12,,,,,6181
+001Hr000028ZdGF,"City Of Idabel, OK",Oklahoma,Municipality,Lucy Nemerov,7004,Nurture,Tier 3,0.75,33.8957,-94.8263,b7e13e35-9187-4f90-a2d5-828044cee4f0,Closed Lost,,,Liam Shaw,7/16/2024,1/5/2025,,,12,2026-03-02,3,9,,,,,,6424
+001Hr000028ZdGx,"City Of Holdenville, OK",Oklahoma,Municipality,Lucy Nemerov,5775,Open Opportunity,Tier 3,0.75,35.0804,-96.3992,bf32769b-65a9-4d83-8532-f781cc1f27cf,Open,Meeting Booked,Top of Funnel,Alicia Gopal,1/28/2026,12/1/2025,,,28,2026-02-25,,,28,,,,,6270
+001Hr000028ZdGz,"City Of Cushing, OK",Oklahoma,Municipality,Lucy Nemerov,8184,,Tier 3,0.75,35.9851,-96.767,f3373afb-12c5-434b-865c-4a3645c731b8,,,,,,,,,15,2026-05-05,14,1,,,,,,6524
+001Hr000028ZdHl,"City Of Purcell, OK",Oklahoma,Municipality,Lucy Nemerov,6602,Nurture,Tier 3,0.75,35.0137,-97.3611,eaf137f7-ccf0-420e-a8a3-d5ec8933349e,Closed Lost,,,Quinzel Perry,2/24/2025,2/13/2025,,,12,2026-05-15,10,,,,,2,,6377
+001Hr000028ZdHu,"City Of Coweta, OK",Oklahoma,Municipality,Lucy Nemerov,10149,Recent Competitor Purchase,Tier 2,1.0,35.9518,-95.6508,57f55919-83c3-41c4-a3fa-f7238b07f934,Closed Lost,,,Lucy Nemerov,2/19/2026,2/9/2026,"$28,000",,34,2026-05-19,10,,,24,,,,6622
+001Hr000028ZdIe,"City Of Noble, OK",Oklahoma,Municipality,Lucy Nemerov,7402,Nurture,Tier 3,0.75,35.1392,-97.3948,be54a4df-0ad2-444b-9bc4-c1b80bae5ece,Closed Lost,,,Joe del Rosario,3/20/2025,3/12/2025,"$9,000",,1,2026-01-08,,,1,,,,,6435
+001Hr000028ZdJe,"City Of Glenpool, OK",Oklahoma,Municipality,Lucy Nemerov,13859,Open Opportunity,Tier 2,1.0,35.9554,-96.0089,61df171b-f49c-4394-8297-fc400ab1783e,Open,Meeting Booked,Top of Funnel,Alicia Gopal,12/2/2025,11/24/2025,,,47,2026-05-14,26,,21,,,,,6813
+001Hr000028ZdKz,"City Of Pauls Valley, OK",Oklahoma,Municipality,Lucy Nemerov,6031,Open Opportunity,Tier 3,0.75,34.7401,-97.2222,c989091c-3e82-471a-8a42-317eb0842355,Open,Meeting Booked,Top of Funnel,Lucy Nemerov,2/27/2026,2/27/2026,,Yes,16,2026-03-02,11,4,,1,,,,6335
+001Hr000028ZdLn,"City Of Newcastle, OK",Oklahoma,Municipality,Blake Anderson,12204,Open Opportunity,Tier 2,1.0,35.2473,-97.5998,b8714bfb-50cd-4bac-91ea-0d5babd5a3ea,Open,Initial Interest,Top of Funnel,Ryan Minter,,10/21/2025,,,29,2026-05-14,15,14,,,,,,6696
+001Hr000028ZdMG,"County Of Okmulgee, OK",Oklahoma,County,Lucy Nemerov,36843,,Tier 1,1.5,35.6796,-95.9833,1af8a226-5d40-43ec-826c-91cc9a41250c,,,,,,,,,4,2026-02-12,4,,,,,,,6716
+001Hr000028ZdMK,"City Of Alva, OK",Oklahoma,Municipality,Lucy Nemerov,4997,Nurture,Tier 3,0.75,36.805,-98.6665,aec08067-ae47-46e5-a783-4b27bdc03f99,Closed Lost,,,Liam Shaw,7/17/2024,1/5/2025,,,3,2025-07-29,,3,,,,,,6165
+001Hr000028ZdNP,"City Of Clinton, OK",Oklahoma,Municipality,Blake Anderson,8380,,Tier 3,0.75,35.5156,-98.9673,3661b853-f767-4185-9490-34ee0bf6e9fd,,,,,,,,,35,2026-05-05,12,,23,,,,,6559
+001Hr000028ZdOY,"City Of Moore, OK",Oklahoma,Municipality,Lucy Nemerov,63462,,Tier S,2.0,35.3395,-97.4867,b90b89f2-4042-480d-bc43-8bd65242029c,,,,,,,,,7,2026-05-06,7,,,,,,,11628
+001Hr000028ZdOv,"City Of Tuttle, OK",Oklahoma,Municipality,Blake Anderson,7739,Open Opportunity,Tier 3,0.75,35.2909,-97.8123,dcfea96f-d807-48f9-95d3-889d026f3a0f,Open,Initial Interest,Top of Funnel,Ryan Minter,,10/16/2025,,Yes,7,2025-10-21,,7,,,,,,6461
+001Hr000028ZdOw,"City Of Collinsville, OK",Oklahoma,Municipality,Lucy Nemerov,8346,All Modules Live,Tier 3,0.75,36.3645,-95.8389,65f2e075-2911-432f-a993-94b40db35c1f,Closed Won,,,Asher Rosenfeld,7/30/2024,1/5/2025,"$15,000",,3,2025-09-15,,3,,,,,,6488
+001Hr000028ZdPb,"City Of Ardmore, OK",Oklahoma,Municipality,Blake Anderson,24893,Recent Competitor Purchase,Tier 2,1.0,34.1743,-97.1436,2bec887f-766e-449c-8ffe-7c2d6a5998bb,,,,,,,,,13,2026-05-05,13,,,,,,,7053
+001Hr000028ZdQ2,"City Of Tecumseh, OK",Oklahoma,Municipality,Lucy Nemerov,6349,,Tier 3,0.75,35.2578,-96.9367,2056e214-b9fa-49c6-9f06-bc3ceb746f54,,,,,,,,,26,2026-05-05,11,15,,,,,,6400
+001Hr000028ZdQu,"City Of Duncan, OK",Oklahoma,Municipality,Lucy Nemerov,22745,Nurture,Tier 2,1.0,34.5023,-97.9578,c412bd99-0c42-4687-9f6d-34eb918a7813,Closed Lost,,,Liam Shaw,7/17/2024,1/5/2025,"$41,000",,38,2026-05-15,5,33,,,,,,7023
+001Hr000028ZdRA,"City Of Seminole, OK",Oklahoma,Municipality,Lucy Nemerov,7068,,Tier 3,0.75,35.2245,-96.6706,b9d9ccfd-4181-41eb-b50c-8434f7f58470,,,,,,,,,13,2026-04-09,7,,4,,,,2,6442
+001Hr000028ZdSD,"City Of Wagoner, OK",Oklahoma,Municipality,Blake Anderson,7846,,Tier 3,0.75,35.9595,-95.3694,94d4d754-af0c-47c8-b64b-e4cd04125cd5,,,,,,,,,,,,,,,,,,6483
+001Hr000028ZdSd,"City Of Blanchard, OK",Oklahoma,Municipality,Lucy Nemerov,9225,Nurture,Tier 3,0.75,35.1378,-97.6581,188c6cc5-a202-46ee-a730-120dd8d6ff5e,Closed Lost,,,Liam Shaw,8/16/2024,1/5/2025,"$15,000",,2,2026-02-11,1,1,,,,,,6550
+001Hr000028ZdT7,"City Of Guthrie, OK",Oklahoma,Municipality,Lucy Nemerov,11029,,Tier 2,1.0,35.8789,-97.4253,9b753fdc-0086-4c82-9c74-cb9b7cc89d2a,,,,,,,,,18,2026-05-14,4,14,,,,,,6686
+001Hr000028ZdTv,"City Of Choctaw, OK",Oklahoma,Municipality,Lucy Nemerov,12223,Nurture,Tier 2,1.0,35.4976,-97.2689,c0e003b3-8ca2-4b98-aba4-b0693c10c701,Closed Lost,,,Liam Shaw,8/8/2024,1/5/2025,,,6,2026-02-06,3,3,,,,,,6753
+001Hr000028ZdUQ,"City Of Midwest City, OK",Oklahoma,Municipality,Lucy Nemerov,58145,Open Opportunity,Tier S,2.0,35.4495,-97.3967,6664f778-1376-47dd-b551-5792a2353229,Open,Initial Interest,Top of Funnel,Ryan Minter,,10/21/2025,,,32,2026-05-18,11,21,,,,,,11621
+001Hr000028ZdUn,"City Of Warr Acres, OK",Oklahoma,Municipality,Lucy Nemerov,10445,Nurture,Tier 2,1.0,35.5223,-97.619,c7e09ed3-7bcb-47fc-8e32-c132dab5477f,Closed Lost,,,Ryan Minter,9/24/2025,8/27/2025,,,9,2026-03-31,3,6,,,,,,6666
+001Hr000028ZdVI,"City Of Mcalester, OK",Oklahoma,Municipality,Lucy Nemerov,18244,,Tier 2,1.0,34.9334,-95.7697,a43bbccc-f02c-4276-975a-804e333ea3f3,,,,,,,,,9,2026-05-19,9,,,,,,,6946
+001Hr000028ZdVJ,"City Of Sapulpa, OK",Oklahoma,Municipality,Lucy Nemerov,22213,Nurture,Tier 2,1.0,35.9987,-96.1142,8bf01442-a51c-49a6-807f-16a5fb3e9309,Closed Lost,,,Quinzel Perry,2/6/2025,1/30/2025,,,15,2026-02-24,10,5,,,,,,7011
+001Hr000028ZdVh,"City Of Tahlequah, OK",Oklahoma,Municipality,Lucy Nemerov,16463,Nurture,Tier 2,1.0,35.9154,-94.97,41cb91e0-8065-475a-811a-9b08d2ed793b,Closed Lost,,,Alicia Gopal,11/24/2025,11/20/2025,,,18,2026-05-18,2,,16,,,,,6897
+001Hr000028ZdWB,"City Of Miami, OK",Oklahoma,Municipality,Blake Anderson,12885,,Tier 2,1.0,36.8745,-94.8775,efdb35f2-ae71-4594-8499-20922c053262,,,,,,,,,20,2026-05-18,11,9,,,,,,6795
+001Hr000028ZdWU,"City Of Elk City, OK",Oklahoma,Municipality,Blake Anderson,11570,,Tier 2,1.0,35.412,-99.4043,7a7af512-1915-45ed-a258-3c5417418569,,,,,,,,,11,2026-05-14,3,8,,,,,,6737
+001Hr000028ZdWy,"City Of Weatherford, OK",Oklahoma,Municipality,Blake Anderson,11980,Open Opportunity,Tier 2,1.0,35.5262,-98.7076,1741f902-e976-433d-809d-40988275621b,Open,Initial Interest,Top of Funnel,Ryan Minter,10/3/2025,8/28/2025,,Yes,23,2026-03-27,2,21,,,,,,6749
+001Hr000028ZdXB,"City Of Bixby, OK",Oklahoma,Municipality,Lucy Nemerov,29242,,Tier 1,1.5,35.942,-95.8833,38230bb8-d82a-4e0e-9673-2a3015fb94c5,,,,,,,,,26,2026-05-13,12,14,,,,,,7095
+001Hr000028ZdXC,"City Of Bartlesville, OK",Oklahoma,Municipality,Blake Anderson,37384,,Tier 1,1.5,36.7467,-95.9784,f71a21fd-21b1-4737-beda-229409cefd92,,,,,,,,,8,2026-04-15,8,,,,,,,7166
+001Hr000028ZdXX,"City Of Guymon, OK",Oklahoma,Municipality,Lucy Nemerov,12561,,Tier 2,1.0,36.6828,-101.4815,e2b4dda0-8602-4dbb-878a-1d7d4caa8d1d,,,,,,,,,12,2026-03-20,5,,7,,,,,6787
+001Hr000028ZdXn,"City Of Ada, OK",Oklahoma,Municipality,Blake Anderson,16842,,Tier 2,1.0,34.7745,-96.6783,57fa0f64-b499-4de9-9c7f-5212a324e53c,,,,,,,,,19,2026-05-12,7,12,,,,,,6909
+001Hr000028ZdY3,"City Of Owasso, OK",Oklahoma,Municipality,Blake Anderson,38732,,Tier 1,1.5,36.2695,-95.8547,afc51d51-1d0a-4d77-a812-d98519e6e84e,,,,,,,,,8,2026-05-06,8,,,,,,,7170
+001Hr000028ZdYN,"City Of Mustang, OK",Oklahoma,Municipality,Blake Anderson,21037,1+ Module Live,Tier 2,1.0,35.3842,-97.7245,76e7fa9a-fe05-4564-85ff-579afce86706,Closed Won,,,Quinzel Perry,1/23/2025,1/5/2025,"$28,000",,,,,,,,,,,6982
+001Hr000028ZdYl,"City Of Bethany, OK",Oklahoma,Municipality,Blake Anderson,20514,,Tier 2,1.0,35.5187,-97.6323,dfa50a64-f446-4d79-83af-8b28c76233e1,,,,,,,,,7,2026-02-10,5,2,,,,,,6994
+001Hr000028ZdZO,"City Of Durant, OK",Oklahoma,Municipality,Lucy Nemerov,19088,Open Opportunity,Tier 2,1.0,33.9924,-96.3971,00091013-6639-4657-aa53-b02b7b36759b,Open,Initial Interest,Top of Funnel,Ryan Minter,8/19/2025,8/14/2025,,,26,2025-10-21,,26,,,,,,6950
+001Hr000028ZdZe,"City Of Sand Springs, OK",Oklahoma,Municipality,Blake Anderson,19973,,Tier 2,1.0,36.1398,-96.1089,c29ac1ef-cad4-4d0a-947e-5a71f811f1d0,,,,,,,,,22,2026-05-13,18,,4,,,,,6985
+001Hr000028ZdZs,"City Of Claremore, OK",Oklahoma,Municipality,Lucy Nemerov,19419,Nurture,Tier 2,1.0,36.3126,-95.6161,617bd733-53e7-420d-8fc8-f96f70616615,Closed Lost,,,Liam Shaw,8/27/2024,1/5/2025,"$43,000",,8,2026-04-13,7,1,,,,,,6975
+001Hr000028ZdaM,"City Of Jenks, OK",Oklahoma,Municipality,Lucy Nemerov,26661,Implementation,Tier 1,1.5,36.0229,-95.9683,bf652298-25de-45db-a34d-06a9d8d33bc9,Closed Won,,,Quinzel Perry,3/3/2025,2/24/2025,"$45,401",,,,,,,,,,,7060
+001Hr000028Zdaw,"City Of Yukon, OK",Oklahoma,Municipality,Blake Anderson,24623,,Tier 2,1.0,35.5067,-97.7625,4958bf5e-7df9-45ad-9d63-c2a8b846071b,,,,,,,,,36,2026-05-18,19,17,,,,,,7039
+001Hr000028Zdb6,"City Of Muskogee, OK",Oklahoma,Municipality,Blake Anderson,36790,,Tier 1,1.5,35.7479,-95.3697,3fab7726-59ce-442d-90d9-04057d6d036c,,,,,,,,,3,2026-05-06,3,,,,,,,7167
+001Hr000028Zdby,"City Of Shawnee, OK",Oklahoma,Municipality,Blake Anderson,31576,,Tier 1,1.5,35.3273,-96.9253,258633ec-acab-4395-8b59-7de99920299d,,,,,,,,,18,2026-02-09,7,11,,,,,,7119
+001Hr000028ZdcJ,"City Of Enid, OK",Oklahoma,Municipality,Lucy Nemerov,50566,,Tier S,2.0,36.3956,-97.8784,683d5717-2029-4880-b9ae-dec44fbec9d7,,,,,,,,,10,2026-03-16,5,5,,,,,,11597
+001Hr000028Zdcm,"City Of Stillwater, OK",Oklahoma,Municipality,Blake Anderson,48134,,Tier 1,1.5,36.1157,-97.0586,7ebbf9f9-e9f5-41d8-9cf6-2e1ffc99722d,,,,,,,,,19,2026-05-05,9,10,,,,,,7222
+001Hr000028Zdgq,"Creek County, OK",Oklahoma,County,Blake Anderson,73332,,Tier S,2.0,35.8362,-96.3226,9dc36a31-5c4a-47ef-8cb9-d1812b36b9d9,,,,,,,,,4,2026-02-24,4,,,,,,,11873
+001Hr000028Zdhc,"City Of Edmond, OK",Oklahoma,Municipality,Blake Anderson,95341,Open Opportunity,Tier S,2.0,35.6528,-97.4781,f178bd73-7de5-4dff-9ca0-d5cc932daf3c,Open,Initial Interest,Top of Funnel,Ryan Minter,,8/26/2025,,,27,2026-05-18,17,10,,,,,,11600
+001cv000006tVbR,"Town Of Roland, OK",Oklahoma,Municipality,Blake Anderson,3495,,Tier 3,0.75,35.4212,-94.5147,0fd2e101-b36a-4523-bf1a-a0109e536e11,,,,,,,,,3,2026-03-09,3,,,,,,,12713
+001cv00000AuWYf,"Town Of Chouteau, OK",Oklahoma,Municipality,Lucy Nemerov,2077,,Tier 3,0.75,36.1859,-95.343,5bd123a1-5018-4e55-9e5e-160ccb01d5e2,,,,,,,,,3,2025-07-16,,3,,,,,,13279
+001cv00000AuWZC,"City Of Krebs, OK",Oklahoma,Municipality,Blake Anderson,2089,,Tier 3,0.75,34.9279,-95.7158,c547f2bf-ac71-4658-8a19-c53dacc26a5d,,,,,,,,,1,2025-07-16,,1,,,,,,13359
+001cv00000AuWb2,"Town Of Spiro, OK",Oklahoma,Municipality,Lucy Nemerov,2122,,Tier 3,0.75,35.2412,-94.6199,340cec0c-4838-4db6-80ee-b86f20c3c969,,,,,,,,,1,2025-07-11,,1,,,,,,13156
+001cv00000AuWb4,"City Of Pink, OK",Oklahoma,Municipality,Blake Anderson,2123,,Tier 3,0.75,35.2606,-97.1197,e1c97566-ccfa-4a73-b470-5b2e1addf02a,,,,,,,,,,,,,,,,,,13092
+001cv00000AuWcT,"Town Of Hennessey, OK",Oklahoma,Municipality,Blake Anderson,2149,,Tier 3,0.75,36.1092,-97.8987,708fe11b-ce95-4973-94d0-e8f94b638dec,,,,,,,,,,,,,,,,,,13239
+001cv00000AuWpe,"City Of Antlers, OK",Oklahoma,Municipality,Lucy Nemerov,2184,Open Opportunity,Tier 3,0.75,34.2312,-95.6202,735e1f64-ae9e-469f-a971-0a02dc255150,Open,Meeting Booked,Top of Funnel,Lucy Nemerov,2/19/2026,2/13/2026,,,7,2026-03-03,7,,,,,,,13674
+001cv00000AuWpn,"City Of Newkirk, OK",Oklahoma,Municipality,Blake Anderson,2186,,Tier 3,0.75,36.8823,-97.0534,b425da6e-98e9-4913-b243-c3f49da2a330,,,,,,,,,,,,,,,,,,13468
+001cv00000AuWqc,"Town Of Kiefer, OK",Oklahoma,Municipality,Lucy Nemerov,2202,,Tier 3,0.75,35.9448,-96.0653,7b2cdb6a-36bc-4508-b3ce-c7cd28dc822c,,,,,,,,,1,2026-04-30,1,,,,,,,13493
+001cv00000AuX5O,"County Of Cimarron, OK",Oklahoma,County,Blake Anderson,2248,,Tier 3,0.75,36.7936,-102.6216,30798bff-942f-4a74-b501-b5e75d11007e,,,,,,,,,,,,,,,,,,13720
+001cv00000AuX6t,"City Of Commerce, OK",Oklahoma,Municipality,Blake Anderson,2276,,Tier 3,0.75,36.9334,-94.873,20af6f84-bd1a-4fd6-8721-6022d3b7a632,,,,,,,,,,,,,,,,,,13762
+001cv00000AuX7z,"City Of Nicoma Park, OK",Oklahoma,Municipality,Blake Anderson,2300,,Tier 3,0.75,35.4912,-97.3231,a860fbef-14a2-4c9d-8cda-a8f40946039c,,,,,,,,,,,,,,,,,,13807
+001cv00000AuX9F,"City Of Healdton, OK",Oklahoma,Municipality,Blake Anderson,2328,,Tier 3,0.75,34.2331,-97.4878,b632f50e-31a5-4306-aff9-0646340ad92b,,,,,,,,,,,,,,,,,,13947
+001cv00000AuX9a,"City Of Wilburton, OK",Oklahoma,Municipality,Blake Anderson,2334,,Tier 3,0.75,34.9187,-95.3091,d8b74df1-3056-451f-9705-64ec00eb0f51,,,,,,,,,,,,,,,,,,13951
+001cv00000AuXAt,"City Of Prague, OK",Oklahoma,Municipality,Lucy Nemerov,2368,Nurture,Tier 3,0.75,35.4867,-96.685,069ffb0d-efd0-4257-bad8-72cc3dd374de,Closed Lost,,,Ryan Minter,10/20/2025,10/14/2025,,,4,2025-10-21,,4,,,,,,14050
+001cv00000AuXUB,"City Of Drumright, OK",Oklahoma,Municipality,Blake Anderson,2550,,Tier 3,0.75,35.9884,-96.6011,d06bac7f-a7aa-40ac-80df-22eeb2668509,,,,,,,,,,,,,,,,,,14293
+001cv00000AuXej,"City Of Stigler, OK",Oklahoma,Municipality,Blake Anderson,2691,,Tier 3,0.75,35.2537,-95.123,a44a69ab-2772-4e3a-a4ed-72fdd7b627bd,,,,,,,,,,,,,,,,,,14353
+001cv00000AuXem,"City Of Fairview, OK",Oklahoma,Municipality,Blake Anderson,2692,,Tier 3,0.75,36.2689,-98.4798,c30d5ec8-fc23-4bc2-9402-77cc7a3d0d02,,,,,,,,,4,2026-02-20,4,,,,,,,14331
+001cv00000AuXgL,"City Of Stroud, OK",Oklahoma,Municipality,Blake Anderson,2748,,Tier 3,0.75,35.7487,-96.6581,6256dd0c-eee7-4fef-999e-3ffba3a87776,,,,,,,,,1,2025-10-14,,1,,,,,,14448
+001cv00000AuXgW,"City Of Eufaula, OK",Oklahoma,Municipality,Blake Anderson,2751,,Tier 3,0.75,35.2873,-95.5825,f31e4b4f-2677-4e41-af5f-28e59d70b40b,,,,,,,,,,,,,,,,,,14525
+001cv00000AuXh9,"City Of New Cordell, OK",Oklahoma,Municipality,Lucy Nemerov,2768,,Tier 3,0.75,35.2913,-98.9876,bca5996f-32fa-48a9-8dca-baf7d9ed043c,,,,,,,,,1,2026-04-29,1,,,,,,,14573
+001cv00000AuXin,"City Of Davis, OK",Oklahoma,Municipality,Blake Anderson,2801,,Tier 3,0.75,34.5045,-97.1195,477ca2f0-6630-4706-a144-57d8b7a1dd0d,,,,,,,,,13,2026-05-13,13,,,,,,,14817
+001cv00000AuXjo,"City Of Marietta, OK",Oklahoma,Municipality,Lucy Nemerov,2834,,Tier 3,0.75,33.937,-97.1167,7e31467f-1789-4492-8233-8542f64b7ee4,,,,,,,,,7,2026-05-05,7,,,,,,,14646
+001cv00000AuXk4,"Town Of Goldsby, OK",Oklahoma,Municipality,Lucy Nemerov,2843,,Tier 3,0.75,35.1532,-97.4767,214fd8c4-77b2-4e28-b055-b082f032b95f,,,,,,,,,,,,,,,,,,14727
+001cv00000AuXlc,"City Of Lindsay, OK",Oklahoma,Municipality,Blake Anderson,2880,,Tier 3,0.75,34.8348,-97.6025,6679a909-04c9-4e77-b212-54d8f5296636,,,,,,,,,,,,,,,,,,14775
+001cv00000AuXlu,"City Of Chandler, OK",Oklahoma,Municipality,Lucy Nemerov,2890,,Tier 3,0.75,35.7017,-96.8809,56e00020-97b0-4e26-9e6c-1af8c515f0c5,,,,,,,,,,,,,,,,,,14795
+001cv00000AuXnG,"Town Of Jones, OK",Oklahoma,Municipality,Lucy Nemerov,2941,,Tier 3,0.75,35.5659,-97.287,d43de5de-4836-4a5b-8a3e-e5e9ff6c8387,,,,,,,,,1,2026-04-29,1,,,,,,,15007
+001cv00000AuXnV,"City Of Pawhuska, OK",Oklahoma,Municipality,Blake Anderson,2948,,Tier 3,0.75,36.6634,-96.3402,2698b7c8-33a9-4baf-85f4-6353207fe4f1,,,,,,,,,,,,,,,,,,14876
+001cv00000AuXnm,"Town Of Calera, OK",Oklahoma,Municipality,Lucy Nemerov,2957,,Tier 3,0.75,33.9345,-96.4286,d00b26dc-25c5-487c-8206-c53a6e805f2f,,,,,,,,,,,,,,,,,,14851
+001cv00000AuXns,"City Of Tishomingo, OK",Oklahoma,Municipality,Blake Anderson,2961,,Tier 3,0.75,34.2362,-96.6786,d43cddb2-75b0-43ab-8532-7a6b931a53f7,,,,,,,,,,,,,,,,,,14984
+001cv00000AuXzb,"City Of Wewoka, OK",Oklahoma,Municipality,Lucy Nemerov,3080,,Tier 3,0.75,35.1587,-96.4933,ca594fee-b729-4abe-891e-15ae4b0bfc23,,,,,,,,,,,,,,,,,,15154
+001cv00000AuYAj,"County Of Harper, OK",Oklahoma,County,Lucy Nemerov,3180,,Tier 3,0.75,36.8204,-99.6341,baaf06d5-4b59-4a55-8249-18b0631a5d9e,,,,,,,,,,,,,,,,,,15752
+001cv00000AuYAl,"Town Of Hinton, OK",Oklahoma,Municipality,Blake Anderson,3181,,Tier 3,0.75,35.4714,-98.3556,94bfafaf-389e-4bd8-86d2-5d483b97f4cc,,,,,,,,,,,,,,,,,,15598
+001cv00000AuYC8,"Town Of Bethel Acres, OK",Oklahoma,Municipality,Lucy Nemerov,3119,,Tier 3,0.75,35.3087,-97.0256,8463777f-27be-44a1-b2a4-55705f6315fa,,,,,,,,,,,,,,,,,,15210
+001cv00000AuYEb,"Town Of Cache, OK",Oklahoma,Municipality,Blake Anderson,2993,,Tier 3,0.75,34.6295,-98.6287,d1d7c96b-32d6-4371-8fd7-1edf108a1681,,,,,,,,,,,,,,,,,,15351
+001cv00000AuYEl,"City Of Heavener, OK",Oklahoma,Municipality,Blake Anderson,2997,,Tier 3,0.75,34.8955,-94.603,3fd93478-447c-401c-9760-6accb8434788,,,,,,,,,1,2026-02-13,1,,,,,,,15306
+001cv00000AuYG9,"City Of Checotah, OK",Oklahoma,Municipality,Lucy Nemerov,3043,,Tier 3,0.75,35.4701,-95.523,ab3fe890-8308-40c2-8d68-5c0efec17aea,,,,,,,,,,,,,,,,,,15077
+001cv00000AuYGC,"City Of Tonkawa, OK",Oklahoma,Municipality,Lucy Nemerov,3044,,Tier 3,0.75,36.6784,-97.31,d4027339-34ed-4f93-adf7-fff6afef2eeb,,,,,,,,,15,2026-05-06,12,3,,,,,,15069
+001cv00000AuYGi,"City Of Okemah, OK",Oklahoma,Municipality,Lucy Nemerov,3061,,Tier 3,0.75,35.4326,-96.305,f3fbcfcd-76d8-4c3f-8acf-afa63bf6578b,,,,,,,,,1,2026-04-29,1,,,,,,,15083
+001cv00000AuYHs,"Town Of Perkins, OK",Oklahoma,Municipality,Blake Anderson,3305,,Tier 3,0.75,35.9739,-97.0336,e509305e-b3c7-403c-9cdd-8db6a1bebd48,,,,,,,,,,,,,,,,,,15658
+001cv00000AuYI6,"Town Of Muldrow, OK",Oklahoma,Municipality,Lucy Nemerov,3313,,Tier 3,0.75,35.4062,-94.5988,20331768-2826-432c-a18a-9208b1b98697,,,,,,,,,,,,,,,,,,15645
+001cv00000AuYJh,"City Of Hobart, OK",Oklahoma,Municipality,Lucy Nemerov,3376,Nurture,Tier 3,0.75,35.0295,-99.0931,e84688d7-d318-4cc8-99f7-8434f9f5650c,Closed Lost,,,Alicia Gopal,1/15/2026,11/21/2025,,,10,2026-04-27,2,,8,,,,,15765
+001cv00000AuYJs,"City Of Dewey, OK",Oklahoma,Municipality,Blake Anderson,3379,,Tier 3,0.75,36.7959,-95.9355,771273d3-5fe8-4014-b4d5-4ea25d679943,,,,,,,,,4,2026-02-25,4,,,,,,,15778
+001cv00000AuYJx,"County Of Roger Mills, OK",Oklahoma,County,Blake Anderson,3386,,Tier 3,0.75,35.6162,-99.6341,ed328b8b-1d8a-4406-af72-e6757a47f837,,,,,,,,,,,,,,,,,,15722
+001cv00000AuYMP,"City Of Nowata, OK",Oklahoma,Municipality,Blake Anderson,3481,,Tier 3,0.75,36.7006,-95.638,9a3ec191-38e4-4d01-8eff-169dba965af6,,,,,,,,,,,,,,,,,,15279
+001cv00000AuYN3,"City Of Frederick, OK",Oklahoma,Municipality,Lucy Nemerov,3504,,Tier 3,0.75,34.392,-99.0184,d163ac4f-826d-4efd-a239-77de0f07b22e,,,,,,,,,9,2026-02-12,2,7,,,,,,15380
+001cv00000AuYNt,"City Of Atoka, OK",Oklahoma,Municipality,Blake Anderson,3188,,Tier 3,0.75,34.3859,-96.1283,bb849967-229d-4062-a30a-79fe646e540f,,,,,,,,,14,2026-05-05,7,,7,,,,,15346
+001cv00000AuYOb,"City Of Cleveland, OK",Oklahoma,Municipality,Lucy Nemerov,3214,,Tier 3,0.75,36.3101,-96.4642,58ea7779-8322-422f-9532-d5e89486c338,,,,,,,,,,,,,,,,,,15359
+001cv00000AuYPa,"City Of Hominy, OK",Oklahoma,Municipality,Blake Anderson,3261,,Tier 3,0.75,36.4142,-96.3953,4830f350-7c35-49f4-8ff0-f4f5c9f29b78,,,,,,,,,,,,,,,,,,15569
+001cv00000AuYPk,"Town Of Mannford, OK",Oklahoma,Municipality,Lucy Nemerov,3269,,Tier 3,0.75,36.1334,-96.3545,36832151-f9af-45a8-bbe0-dfdc0573ddcb,,,,,,,,,8,2026-04-30,8,,,,,,,15507
+001cv00000AuYTJ,"City Of Stilwell, OK",Oklahoma,Municipality,Lucy Nemerov,3640,,Tier 3,0.75,35.8145,-94.6286,a7f813bd-ee48-4224-87fa-ce5527a2c913,,,,,,,,,,,,,,,,,,16021
+001cv00000AuYYy,"City Of Spencer, OK",Oklahoma,Municipality,Blake Anderson,3931,,Tier 3,0.75,35.5103,-97.3679,3cd0679c-6aef-4709-8e4a-661c98cbcbff,,,,,,,,,,,,,,,,,,16198
+001cv00000AuYfM,"Town Of Slaughterville, OK",Oklahoma,Municipality,Lucy Nemerov,4235,Nurture,Tier 3,0.75,35.0873,-97.335,a60c5563-2f23-40b2-a295-e2e29846e7c6,Closed Lost,,,Lucy Nemerov,2/19/2026,2/12/2026,,,2,2026-02-19,1,,,1,,,,16774
+001cv00000AuYgC,"Town Of Fort Gibson, OK",Oklahoma,Municipality,Lucy Nemerov,3823,,Tier 3,0.75,35.7976,-95.2505,0563bd16-1f45-49c2-8e69-ad9b5e8449ac,,,,,,,,,,,,,,,,,,16131
+001cv00000AuYgh,"City Of Nichols Hills, OK",Oklahoma,Municipality,Lucy Nemerov,3851,,Tier 3,0.75,35.5509,-97.5493,b9925ce8-a30c-463f-9d3a-474a13acb2ef,,,,,,,,,7,2025-12-18,,,7,,,,,16242
+001cv00000AuYl3,"City Of Madill, OK",Oklahoma,Municipality,Blake Anderson,3969,,Tier 3,0.75,34.0904,-96.7717,c40501a7-9598-4533-ba45-da1f5e4063d2,,,,,,,,,,,,,,,,,,16464
+001cv00000AuYoL,"County Of Grant, OK",Oklahoma,County,Lucy Nemerov,4131,,Tier 3,0.75,33.9431,-95.5138,42f0e45a-37b0-4d69-9cc7-03c47f5d060a,,,,,,,,,,,,,,,,,,16731
+001cv00000AuYpn,"City Of Mcloud, OK",Oklahoma,Municipality,Lucy Nemerov,4217,,Tier 3,0.75,35.4359,-97.0914,b98ecaf4-6e89-4c18-89ac-eac623613205,,,,,,,,,2,2026-03-05,2,,,,,,,16248
+001cv00000AuYs0,"Town Of Elgin, OK",Oklahoma,Municipality,Lucy Nemerov,3715,,Tier 3,0.75,34.7803,-98.2923,7193633e-b934-4bae-b903-f5a661b95715,,,,,,,,,,,,,,,,,,16447
+001cv00000AuYsr,"County Of Ellis, OK",Oklahoma,County,Blake Anderson,3762,,Tier 3,0.75,36.292,-99.8125,157fff8b-548c-4f78-ba27-5090bd9ee3ab,,,,,,,,,,,,,,,,,,16495
+001cv00000AuYu5,"City Of Broken Bow, OK",Oklahoma,Municipality,Blake Anderson,4244,,Tier 3,0.75,34.0293,-94.7391,fcc2f8a0-224f-4b45-b0b9-7a6047ccf936,,,,,,,,,,,,,,,,,,16952
+001cv00000AuYuP,"City Of Bristow, OK",Oklahoma,Municipality,Lucy Nemerov,4260,,Tier 3,0.75,35.8306,-96.3911,da3e4da9-0164-478d-b2b9-d653565c7e04,,,,,,,,,,,,,,,,,,16835
+001cv00000AuYvu,"Town Of Pocola, OK",Oklahoma,Municipality,Blake Anderson,4342,Open Opportunity,Tier 3,0.75,35.2312,-94.478,e516aff9-3c91-4e95-aad5-23e68ec396b5,Open,Proposal,Mid Funnel,Lucy Nemerov,3/2/2026,3/2/2026,"$20,000",,9,2026-05-14,4,,,5,,,,16865
+001cv00000AuYxM,"City Of Sayre, OK",Oklahoma,Municipality,Blake Anderson,4400,,Tier 3,0.75,35.2912,-99.6401,b6d05b7f-d2fb-4113-9b6b-4c5f62f5b0db,,,,,,,,,,,,,,,,,,20116
+001cv00000AuYxR,"City Of Marlow, OK",Oklahoma,Municipality,Lucy Nemerov,4403,,Tier 3,0.75,34.6481,-97.9581,0498145d-0c32-4d15-804f-b3fd9ae16907,,,,,,,,,5,2026-03-16,5,,,,,,,19947
+001cv00000AuYxk,"County Of Dewey, OK",Oklahoma,County,Lucy Nemerov,4417,,Tier 3,0.75,36.7959,-95.9355,a1db2d3a-9ca2-4818-b9e2-7603af77225c,,,,,,,,,,,,,,,,,,19992
+001cv00000AuYzY,"City Of Perry, OK",Oklahoma,Municipality,Lucy Nemerov,4527,,Tier 3,0.75,36.2895,-97.2881,c0e12d1c-320c-407b-b033-b55dc3e6632d,,,,,,,,,,,,,,,,,,20012
+001cv00000AuZ7T,"County Of Coal, OK",Oklahoma,County,Blake Anderson,5276,,Tier 3,0.75,34.5686,-96.2801,1b0f758b-422e-4d1e-9f2a-a08944afaf4a,,,,,,,,,,,,,,,,,,16965
+001cv00000AuZ8C,"County Of Jefferson, OK",Oklahoma,County,Lucy Nemerov,5438,,Tier 3,0.75,34.1673,-97.8722,6105eec5-71ab-4eaa-8f30-6941a968aad2,,,,,,,,,,,,,,,,,,17063
+001cv00000AuZ8L,"Town Of Verdigris, OK",Oklahoma,Municipality,Lucy Nemerov,5461,,Tier 3,0.75,36.2348,-95.6911,7003e7a8-92de-4cac-bfef-9fb022b0b103,,,,,,,,,4,2026-05-13,2,2,,,,,,16988
+001cv00000AuZ8N,"County Of Cotton, OK",Oklahoma,County,Blake Anderson,5480,,Tier 3,0.75,34.3091,-98.3965,a6cfc202-25fb-4560-86d5-362b3d9b1a13,,,,,,,,,,,,,,,,,,16970
+001cv00000AuZ8Q,"County Of Greer, OK",Oklahoma,County,Lucy Nemerov,5487,,Tier 3,0.75,34.9339,-99.4562,ae6f9220-ae69-470b-85a0-5aade5dc5d71,,,,,,,,,,,,,,,,,,16990
+001cv00000AuZDD,"County Of Tillman, OK",Oklahoma,County,Blake Anderson,7076,,Tier 3,0.75,34.4478,-98.9245,60e70028-c4a1-4ffb-a955-57a813d56cf1,,,,,,,,,,,,,,,,,,17155
+001cv00000AuZKI,"County Of Alfalfa, OK",Oklahoma,County,Lucy Nemerov,5710,,Tier 3,0.75,36.7436,-98.3965,1c393fa6-1b85-4470-b05b-6ce681b805fa,,,,,,,,,1,2025-09-02,,1,,,,,,17291
+001cv00000AuZM0,"City Of Kingfisher, OK",Oklahoma,Municipality,Lucy Nemerov,4813,,Tier 3,0.75,35.8614,-97.9317,bb43231e-4b24-41f6-aee9-9453f5a189ab,,,,,,,,,12,2026-05-06,12,,,,,,,17393
+001cv00000AuZNT,"City Of Sulphur, OK",Oklahoma,Municipality,Blake Anderson,4904,,Tier 3,0.75,34.5079,-96.9684,e5a78660-83d9-4c06-ac49-f5c259f8099e,,,,,,,,,4,2025-12-04,,,4,,,,,17427
+001cv00000AuZRi,"County Of Major, OK",Oklahoma,County,Lucy Nemerov,7668,,Tier 3,0.75,36.348,-98.5282,2bb5f2ec-9694-4803-b3d8-97f07e47dde9,,,,,,,,,,,,,,,,,,17694
+001cv00000AuZS5,"County Of Beaver, OK",Oklahoma,County,Blake Anderson,4980,,Tier 3,0.75,36.8161,-100.5199,4441600a-cf13-4a3c-a56e-2242ea822a8b,,,,,,,,,,,,,,,,,,17604
+001cv00000AuZXt,"County Of Kiowa, OK",Oklahoma,County,Lucy Nemerov,8410,,Tier 3,0.75,34.7207,-95.8992,ea45bb64-6b1d-40a3-9299-d2a848681304,,,,,,,,,,,,,,,,,,17894
+001cv00000AuZY6,"County Of Blaine, OK",Oklahoma,County,Blake Anderson,8562,,Tier 3,0.75,35.8825,-98.3965,d6b779fd-075a-4c54-857e-55104bcff026,,,,,,,,,,,,,,,,,,17820
+001cv00000AuZY9,"County Of Woods, OK",Oklahoma,County,Lucy Nemerov,8583,,Tier 3,0.75,36.7182,-98.7481,794e9297-fc90-4998-96bd-5492bc4d3703,,,,,,,,,,,,,,,,,,17851
+001cv00000AuZZT,"County Of Nowata, OK",Oklahoma,County,Blake Anderson,9303,,Tier 3,0.75,36.7006,-95.638,38e9e31e-6c6d-4b41-9d3e-978c36fa2c58,,,,,,,,,,,,,,,,,,18371
+001cv00000AuZZk,"County Of Latimer, OK",Oklahoma,County,Lucy Nemerov,9427,,Tier 3,0.75,34.835,-95.3102,99e810e0-c931-4a40-a541-036dec5f0cdd,,,,,,,,,,,,,,,,,,18381
+001cv00000AuZaq,"County Of Haskell, OK",Oklahoma,County,Lucy Nemerov,11602,,Tier 2,1.0,35.8204,-95.6741,e564d0c0-ebfa-41e7-91a8-61d4201923d2,,,,,,,,,,,,,,,,,,18226
+001cv00000AuZca,"County Of Love, OK",Oklahoma,County,Blake Anderson,10216,,Tier 2,1.0,33.9858,-97.2221,36fc1eda-60da-43bf-9f07-1dab5f84fd49,,,,,,,,,,,,,,,,,,18306
+001cv00000AuZcf,"County Of Johnston, OK",Oklahoma,County,Lucy Nemerov,10301,,Tier 2,1.0,34.2481,-96.493,5cea8641-6c50-480c-8f24-54f6acd1cd36,,,,,,,,,,,,,,,,,,18297
+001cv00000AuZgF,"County Of Hughes, OK",Oklahoma,County,Lucy Nemerov,13405,,Tier 2,1.0,35.138,-96.3226,2a557012-6883-4e87-a784-e275aef427bd,,,,,,,,,,,,,,,,,,18252
+001cv00000AuZhm,"County Of Kingfisher, OK",Oklahoma,County,Blake Anderson,15204,,Tier 2,1.0,35.8614,-97.9317,dee76d3e-0530-4a3c-9f90-59b5b4496710,,,,,,,,,,,,,,,,,,18127
+001cv00000AuZlQ,"County Of Pushmataha, OK",Oklahoma,County,Blake Anderson,10815,,Tier 2,1.0,34.482,-95.3102,4871d828-5433-4a74-b642-462bea9a1be4,,,,,,,,,,,,,,,,,,17804
+001cv00000AuZle,"County Of Washita, OK",Oklahoma,County,Lucy Nemerov,10915,,Tier 2,1.0,35.3234,-98.9245,b1daccb5-0dfe-45c9-b278-9cade7136a97,,,,,,,,,,,,,,,,,,18016
+001cv00000AuZlh,"County Of Noble, OK",Oklahoma,County,Blake Anderson,10933,,Tier 2,1.0,35.1392,-97.3948,d5533624-9ff3-44a2-a513-b4e11fc9b480,,,,,,,,,,,,,,,,,,17978
+001cv00000AuZm1,"County Of Okfuskee, OK",Oklahoma,County,Blake Anderson,11197,,Tier 2,1.0,35.4879,-96.3226,4e74d1b4-1de1-4bc3-b6cb-48aada51e7c4,,,,,,,,,,,,,,,,,,17993
+001cv00000AuZn2,"County Of Murray, OK",Oklahoma,County,Blake Anderson,13718,,Tier 2,1.0,34.4383,-97.0498,d7c16737-a106-4150-86b7-23b482ee5c7b,,,,,,,,,,,,,,,,,,17859
+001cv00000AuZne,"County Of Craig, OK",Oklahoma,County,Lucy Nemerov,14115,,Tier 2,1.0,36.7572,-95.1432,4fd16248-a193-4c97-a317-f9e7fce0af24,,,,,,,,,,,,,,,,,,17956
+001cv00000AuZnt,"County Of Choctaw, OK",Oklahoma,County,Blake Anderson,14307,,Tier 2,1.0,33.9851,-95.5197,40c5281c-1eb5-479f-8003-fc9baac4aab0,,,,,,,,,,,,,,,,,,17917
+001cv00000AuZnv,"County Of Atoka, OK",Oklahoma,County,Lucy Nemerov,14324,,Tier 2,1.0,34.451,-95.9833,e9963a47-4ed3-46a5-b904-c67f6294cb72,,,,,,,,,,,,,,,,,,17897
+001cv00000AuZog,"County Of Marshall, OK",Oklahoma,County,Lucy Nemerov,15594,,Tier 2,1.0,36.1539,-97.6256,b0ca0148-88d7-4aa4-b9ad-06d93d3ddf4f,,,,,,,,,,,,,,,,,,17922
+001cv00000AuZoq,"County Of Pawnee, OK",Oklahoma,County,Blake Anderson,15741,,Tier 2,1.0,36.3378,-96.8039,83b3c2d1-9a56-4faa-968b-500a8af48edb,,,,,,,,,,,,,,,,,,17844
+001cv00000AuZsy,"County Of Mcintosh, OK",Oklahoma,County,Blake Anderson,19245,,Tier 2,1.0,35.3466,-95.6458,b2040722-295c-4ffa-bc07-b56abde65d2f,,,,,,,,,,,,,,,,,,18602
+001cv00000AuZt6,"County Of Adair, OK",Oklahoma,County,Lucy Nemerov,19414,,Tier 2,1.0,36.4368,-95.2714,037740c7-cf3c-4011-9f25-4cd8eda0c347,,,,,,,,,1,2026-05-13,1,,,,,,,18755
+001cv00000AuZxK,"County Of Texas, OK",Oklahoma,County,Lucy Nemerov,20865,,Tier 2,1.0,36.8301,-101.4339,96d43932-946f-477f-b6a8-523e8f3ead9e,,,,,,,,,,,,,,,,,,18673
+001cv00000Aua0J,"County Of Custer, OK",Oklahoma,County,Blake Anderson,28163,,Tier 1,1.5,35.6711,-98.9245,95e605f5-56a5-4ed7-9c99-208bed2f665a,,,,,,,,,,,,,,,,,,18880
+001cv00000Aua1M,"County Of Ottawa, OK",Oklahoma,County,Blake Anderson,30340,,Tier 1,1.5,36.7711,-94.8106,b0d282b7-cc56-4f14-bd72-d9a6958d6446,,,,,,,,,,,,,,,,,,18660
+001cv00000Aua2G,"County Of Jackson, OK",Oklahoma,County,Blake Anderson,24777,,Tier 2,1.0,34.5835,-99.4562,eef0bd48-2e6d-47a9-abe7-112292283ac7,,,,,,,,,,,,,,,,,,19293
+001cv00000Aua3Y,"County Of Woodward, OK",Oklahoma,County,Lucy Nemerov,20205,,Tier 2,1.0,36.4336,-99.3904,a138764a-ff88-414f-99f4-0b840fc9cb42,,,,,,,,,,,,,,,,,,18687
+001cv00000Aua5q,"County Of Lincoln, OK",Oklahoma,County,Lucy Nemerov,33829,,Tier 1,1.5,35.6343,-96.8351,eab8056a-816b-435e-a344-18c45db21bed,,,,,,,,,5,2026-05-18,5,,,,,,,19334
+001cv00000Aua7K,"County Of Mayes, OK",Oklahoma,County,Lucy Nemerov,39159,,Tier 1,1.5,36.2322,-95.3102,92ff482e-cf02-4aeb-8418-382a4cec5115,,,,,,,,,1,2026-04-28,1,,,,,,,19335
+001cv00000Aua7Q,"County Of Sequoyah, OK",Oklahoma,County,Blake Anderson,39508,,Tier 1,1.5,35.5155,-94.7692,46dcd481-c9ef-4870-b40b-9a5071eee976,,,,,,,,,,,,,,,,,,19345
+001cv00000Aua87,"County Of Mccurtain, OK",Oklahoma,County,Lucy Nemerov,30884,,Tier 1,1.5,34.1482,-94.8106,f32e9ffa-9997-4112-9ba0-d7b6248ef4f5,,,,,,,,,,,,,,,,,,18866
+001cv00000Aua9a,"County Of Beckham, OK",Oklahoma,County,Blake Anderson,22046,,Tier 2,1.0,35.2687,-99.6341,af6384aa-1a87-47e0-b108-1c41b89834d6,,,,,,,,,,,,,,,,,,18733
+001cv00000AuaAS,"County Of Seminole, OK",Oklahoma,County,Blake Anderson,23567,,Tier 2,1.0,35.2245,-96.6706,db613f0f-6f52-45a6-a1eb-dd5d073f0366,,,,,,,,,,,,,,,,,,18826
+001cv00000AuaB7,"County Of Garvin, OK",Oklahoma,County,Lucy Nemerov,25804,,Tier 1,1.5,34.7289,-97.3517,5e34797f-b6f7-48d5-be81-f838d9b26622,,,,,,,,,2,2026-04-28,2,,,,,,,19368
+001cv00000AuaBN,"County Of Caddo, OK",Oklahoma,County,Blake Anderson,26368,,Tier 1,1.5,35.1056,-98.3088,b2a196da-93ef-45dc-a403-301a2f25ed1d,,,,,,,,,,,,,,,,,,19166
+001cv00000AuaEF,"County Of Pontotoc, OK",Oklahoma,County,Lucy Nemerov,38163,,Tier 1,1.5,34.7685,-96.6638,c98008bd-0c22-4932-9c06-dfc43e188f41,,,,,,,,,,,,,,,,,,19380
+001cv00000AuaG2,"County Of Delaware, OK",Oklahoma,County,Lucy Nemerov,41000,,Tier 1,1.5,36.4263,-94.8106,2012b1c8-f8fc-4126-a0d9-5bf2611f51c6,,,,,,,,,,,,,,,,,,19358
+001cv00000AuaGe,"County Of Stephens, OK",Oklahoma,County,Blake Anderson,43129,,Tier 1,1.5,34.5203,-97.8722,a6633109-c2ce-4ae7-bc88-42ee332dd702,,,,,,,,,1,2026-04-28,1,,,,,,,18977
+001cv00000AuaGr,"County Of Mcclain, OK",Oklahoma,County,Lucy Nemerov,43516,,Tier 1,1.5,35.0282,-97.4814,b7f8c256-3598-41d4-9d59-4dc6aa3b8e30,,,,,,,,,16,2026-04-09,7,9,,,,,,18975
+001cv00000AuaGw,"County Of Pittsburg, OK",Oklahoma,County,Blake Anderson,43633,,Tier 1,1.5,34.7132,-95.85,7ccbb528-919c-4507-b649-8f867a912299,,,,,,,,,,,,,,,,,,18966
+001cv00000AuaH1,"County Of Kay, OK",Oklahoma,County,Lucy Nemerov,43732,,Tier 1,1.5,36.8234,-97.179,8713ba1d-a2ee-4806-a2a6-3f982846d7d0,,,,,,,,,,,,,,,,,,19201
+001cv00000AuaHc,"County Of Osage, OK",Oklahoma,County,Lucy Nemerov,45772,Open Opportunity,Tier 1,1.5,36.6189,-96.2376,d56bf233-cb83-440c-a0fb-8998ba66fcd2,Open,Initial Interest,Top of Funnel,Lucy Nemerov,2/18/2026,2/10/2026,,,7,2026-02-26,3,3,1,,,,,19287
+001cv00000AuaK6,"County Of Bryan, OK",Oklahoma,County,Blake Anderson,47105,,Tier 1,1.5,33.9021,-96.3226,bae1a820-ee59-4e13-820a-11c86af95112,,,,,,,,,,,,,,,,,,19556
+001cv00000AuaKD,"County Of Cherokee, OK",Oklahoma,County,Lucy Nemerov,47627,,Tier 1,1.5,36.7545,-98.3567,d2882c18-1cd6-4501-a82f-0e73166256cd,,,,,,,,,,,,,,,,,,19450
+001cv00000AuaKO,"County Of Carter, OK",Oklahoma,County,Lucy Nemerov,48291,,Tier 1,1.5,35.2189,-99.5056,400f4b1a-0afe-46a6-a33e-7463a8237565,,,,,,,,,,,,,,,,,,19584
+001cv00000AuaKR,"County Of Le Flore, OK",Oklahoma,County,Blake Anderson,48476,,Tier 1,1.5,34.8622,-94.645,b1ce5cb9-5e76-49ff-82dc-a38b2022d77d,,,,,,,,,,,,,,,,,,19660
+001cv00000AuaL0,"County Of Logan, OK",Oklahoma,County,Blake Anderson,50885,,Tier S,2.0,35.9405,-97.5247,00b1496f-3dee-49fd-b420-2ee234e0be1d,,,,,,,,,4,2026-04-15,4,,,,,,,19429
+001cv00000AuaLQ,"County Of Washington, OK",Oklahoma,County,Lucy Nemerov,52772,,Tier S,2.0,35.059,-97.4845,ec516fae-e8c0-4789-8251-d842a8ba8942,,,,,,,,,1,2026-03-31,1,,,,,,,19458
+001cv00000AuaNL,"County Of Grady, OK",Oklahoma,County,Blake Anderson,55508,,Tier S,2.0,35.0473,-97.8722,1f761c9a-75dc-438a-9204-160de802f105,,,,,,,,,1,2026-03-31,1,,,,,,,19513
+001cv00000AuaOT,"County Of Garfield, OK",Oklahoma,County,Blake Anderson,61926,,Tier S,2.0,36.4361,-97.8722,213d0d34-5040-4a7a-b649-9a3f97579f28,,,,,,,,,,,,,,,,,,19735
+001cv00000AuaPL,"County Of Muskogee, OK",Oklahoma,County,Blake Anderson,66146,,Tier S,2.0,35.7111,-95.3102,637944bd-07e8-42fb-977d-cfd057cde64a,,,,,,,,,,,,,,,,,,19696
+001cv00000AuaQj,"County Of Wagoner, OK",Oklahoma,County,Blake Anderson,84050,,Tier S,2.0,35.9595,-95.3694,5ba1fe8d-a174-4398-98e4-1638bd410715,,,,,,,,,4,2025-12-01,,,4,,,,,19632
+001cv00000AuaWK,"County Of Pottawatomie, OK",Oklahoma,County,Lucy Nemerov,73019,,Tier S,2.0,35.2754,-97.0068,c7e469dc-edd4-4ca1-91c0-c2fa1e201755,,,,,,,,,,,,,,,,,,19802
+001cv00000AuaXE,"County Of Payne, OK",Oklahoma,County,Lucy Nemerov,81989,,Tier S,2.0,36.145,-97.0068,28998172-128a-4405-a8ee-151c347da35b,,,,,,,,,,,,,,,,,,19806
+001cv00000B21px,"City Of Jay, OK",Oklahoma,Municipality,Blake Anderson,2388,,Tier 3,0.75,36.4212,-94.7969,039bac87-aded-46d2-b752-a3d390974a61,,,,,,,,,,,,,,,,,,20209
+001cv00000B21q0,"City Of Walters, OK",Oklahoma,Municipality,Lucy Nemerov,2390,,Tier 3,0.75,34.3579,-98.3092,40db2fee-470b-45a6-9cfd-ba4c71e000bc,,,,,,,,,,,,,,,,,,20218
+001cv00000B21r0,"County Of Harmon, OK",Oklahoma,County,Blake Anderson,2315,,Tier 3,0.75,34.7305,-99.8125,1b196aee-62d4-4a29-b976-824cd94af1e9,,,,,,,,,,,,,,,,,,20310
+001cv00000B21wx,"City Of Watonga, OK",Oklahoma,Municipality,Blake Anderson,2633,,Tier 3,0.75,35.8448,-98.4131,171d40a2-b8f0-4f56-a172-2cb7c25f6a74,,,,,,,,,,,,,,,,,,20474
+001cv00000B21yc,"City Of Mangum, OK",Oklahoma,Municipality,Lucy Nemerov,2677,,Tier 3,0.75,34.872,-99.5043,db34de34-6828-4636-a26d-aa86671528b9,,,,,,,,,,,,,,,,,,20469
+001cv00000CLwx3,"City Of Okmulgee, OK",Oklahoma,Municipality,Lucy Nemerov,11298,Open Opportunity,Tier 2,1.0,35.6267,-95.9515,fdf4c125-f000-4cf5-bf53-7b728ede27ca,Open,Initial Interest,Top of Funnel,Alicia Gopal,,12/1/2025,,,13,2026-05-15,8,3,2,,,,,20706
+001cv00000bBVfZ,City of Seiling,Oklahoma,Municipality,Blake Anderson,809,,Tier 3,0.75,36.1481,-98.9243,85fec8a0-7ca1-438c-934f-5a8aff1a1d4d,,,,,,,,,,,,,,,,,,21142
+001cv00000bBVlZ,City of Erick,Oklahoma,Municipality,Blake Anderson,982,,Tier 3,0.75,35.2153,-99.8665,aca0fb08-9e9e-4dc3-9de3-8e1a411ca93e,,,,,,,,,,,,,,,,,,21380
+001cv00000bBVlb,City of Geary,Oklahoma,Municipality,Blake Anderson,987,,Tier 3,0.75,35.6312,-98.3173,1a952bbc-def8-4e49-9bda-5402b25c45fe,,,,,,,,,,,,,,,,,,21384
+001cv00000bBVm3,Town of Buffalo,Oklahoma,Municipality,Blake Anderson,1019,,Tier 3,0.75,36.8356,-99.6304,9139272e-08d2-466d-aa05-0ce6a48c8df1,,,,,,,,,,,,,,,,,,21454
+001cv00000bBVp6,Town of Colbert,Oklahoma,Municipality,Blake Anderson,1105,,Tier 3,0.75,33.8532,-96.5025,2970b4e8-a10c-425d-85d2-331e0c961ea1,,,,,,,,,,,,,,,,,,21499
+001cv00000bBVwc,Town of Okarche,Oklahoma,Municipality,Blake Anderson,1193,,Tier 3,0.75,35.7259,-97.9764,5539f8c3-114b-4183-a21d-e99cc6c72fa7,,,,,,,,,,,,,,,,,,21585
+001cv00000bBVwi,Town of Laverne,Oklahoma,Municipality,Blake Anderson,1198,,Tier 3,0.75,36.7098,-99.8935,7233af47-b0ce-4401-abc3-e33e44523065,,,,,,,,,,,,,,,,,,21599
+001cv00000bBWD7,City of Wynnewood,Oklahoma,Municipality,Blake Anderson,1944,,Tier 3,0.75,34.6427,-97.1704,bb713256-790b-4fb4-9796-cdb74f76a396,,,,,,,,,,,,,,,,,,22018
+001cv00000bBWKN,City of Hartshorne,Oklahoma,Municipality,Blake Anderson,1886,,Tier 3,0.75,34.8451,-95.5575,6711427f-0ab0-48cd-a8f2-04273d541a0b,,,,,,,,,,,,,,,,,,21851
+001cv00000bBWPK,City of Coalgate,Oklahoma,Municipality,Blake Anderson,1715,,Tier 3,0.75,34.5381,-96.2186,d86ef2bf-a354-4ae1-b468-e287a026bab6,,,,,,,,,,,,,,,,,,22155
+001cv00000bBWPT,Town of Haskell,Oklahoma,Municipality,Blake Anderson,1721,,Tier 3,0.75,35.8204,-95.6741,3cd67bd0-5c6f-4bec-a547-efcbebe5f862,,,,,,,,,,,,,,,,,,22163
+001cv00000bBWSN,Comanche County,Oklahoma,County,Blake Anderson,121396,,Tier S,2.0,34.6613,-98.3965,fbbb42d8-dc17-40e8-b8e8-d211bf096d88,,,,,,,,,,,,,,,,,,22326
+001cv00000bBWST,City of Broken Arrow,Oklahoma,Municipality,Lucy Nemerov,122756,,Tier S,2.0,36.0609,-95.7975,05a02857-b17b-4433-83e2-136a8eaae02f,,,,,,,,,,,,,,,,,,22318
+001cv00000bBWSo,City of Norman,Oklahoma,Municipality,Blake Anderson,131010,,Tier S,2.0,35.2216,-97.4446,9ab56e83-dad1-4849-acf3-45c226e13d03,,,,,,,,,,,,,,,,,,22354
+001cv00000bBWTs,Canadian County,Oklahoma,County,Lucy Nemerov,181760,,Tier S,2.0,35.5594,-98.0465,d6517002-48c0-4702-9625-e7b8f4048a28,,,,,,,,,,,,,,,,,,22425
+001cv00000bBWYO,Tulsa County,Oklahoma,County,Lucy Nemerov,693514,,Tier S,2.0,36.1593,-95.941,2b2a3d8f-09e0-4797-b265-132f9f218967,,,,,,,,,,,,,,,,,,22477
+001cv00000bBWYR,City of Oklahoma City,Oklahoma,Municipality,Blake Anderson,712919,,Tier S,2.0,35.4689,-97.5195,9a178736-00f4-40ec-9160-d3df86ff15ca,,,,,,,,,,,,,,,,,,22475
+001cv00000bBWYf,Oklahoma County,Oklahoma,County,Lucy Nemerov,816490,,Tier S,2.0,35.6038,-97.3517,cb4777a7-ec56-4a7e-90fb-a7d9d0fcf899,,,,,,,,,,,,,,,,,,22488
+001cv00000bBWsf,Town of Waukomis,Oklahoma,Municipality,Blake Anderson,1325,,Tier 3,0.75,36.2803,-97.8981,a37627e7-2ac2-4418-bbe1-0b94f00dcb43,,,,,,,,,,,,,,,,,,22580
+001cv00000bBWtK,Town of Dickson,Oklahoma,Municipality,Blake Anderson,1372,,Tier 3,0.75,34.1872,-96.9859,70cf790c-6b21-4fd3-9c5b-3c52b96838c4,,,,,,,,,,,,,,,,,,22608
+001cv00000bBWtU,City of Vian,Oklahoma,Municipality,Blake Anderson,1386,,Tier 3,0.75,35.4984,-94.9697,106e3e04-34b3-4799-bbec-84d4f52223de,,,,,,,,,,,,,,,,,,22599
+001cv00000bBWtg,City of Comanche,Oklahoma,Municipality,Blake Anderson,1397,,Tier 3,0.75,34.369,-97.9639,004b8e3a-93f1-4ce7-8ef0-8cf6c02e407a,,,,,,,,,,,,,,,,,,22631
+001cv00000bBX0C,Cleveland County,Oklahoma,County,Blake Anderson,303952,,Tier S,2.0,35.255,-97.3517,9a85f815-ec9d-4738-bef5-2dc607f2d2e0,,,,,,,,,,,,,,,,,,22802
+001cv00000bBX10,City of Tulsa,Oklahoma,Municipality,Blake Anderson,415154,,Tier S,2.0,36.1551,-95.9895,4c7ea704-3f9c-41aa-9b53-66a8b41671bc,,,,,,,,,,,,,,,,,,22849
