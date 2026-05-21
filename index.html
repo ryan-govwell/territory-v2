@@ -1856,15 +1856,25 @@ function paConfidenceHTML(c) {
   return `<span class="pa-pill pa-pill-${escHtml(c.toLowerCase())}" title="Confidence: ${escHtml(label)}">${escHtml(label)}</span>`;
 }
 
-function paContactTableHTML(contacts) {
+function paContactTableHTML(contacts, mode = 'new') {
   if (!contacts || contacts.length === 0) return '';
   const rows = contacts.map(c => {
-    const priorityPill = c.priority === 'lead'
-      ? `<span class="pa-pill pa-pill-lead">Lead</span>`
-      : `<span class="pa-pill pa-pill-secondary">Secondary</span>`;
     const srcLink = c.source
       ? `<a class="pa-src-link" href="${escHtml(c.source)}" target="_blank" rel="noopener" title="${escHtml(c.source)}">↗</a>`
       : '';
+    if (mode === 'confirmed') {
+      return `<tr>
+        <td>${escHtml(c.name)}</td>
+        <td>${escHtml(c.title || '—')}</td>
+        <td>${paEmailHTML(c.email, c.emailSource)}</td>
+        <td>${escHtml(c.phone || '—')}</td>
+        <td><span class="pa-pill pa-pill-staffed">Verified</span></td>
+        <td>${srcLink}</td>
+      </tr>`;
+    }
+    const priorityPill = c.priority === 'lead'
+      ? `<span class="pa-pill pa-pill-lead">Lead</span>`
+      : `<span class="pa-pill pa-pill-secondary">Secondary</span>`;
     return `<tr>
       <td>${escHtml(c.name)}</td>
       <td>${escHtml(c.title || '—')}&nbsp;${priorityPill}</td>
@@ -1874,9 +1884,11 @@ function paContactTableHTML(contacts) {
       <td>${srcLink}</td>
     </tr>`;
   }).join('');
+  const titleHeader = mode === 'confirmed' ? 'Title' : 'Title / Priority';
+  const col5Header  = mode === 'confirmed' ? 'Status' : 'Confidence';
   return `<table class="pa-table">
     <thead><tr>
-      <th>Name</th><th>Title / Priority</th><th>Email</th><th>Phone</th><th>Confidence</th><th>Source</th>
+      <th>Name</th><th>${titleHeader}</th><th>Email</th><th>Phone</th><th>${col5Header}</th><th>Source</th>
     </tr></thead>
     <tbody>${rows}</tbody>
   </table>`;
@@ -1954,8 +1966,8 @@ function renderProspectingPanel(accountTr, accountId, result, errorMsg) {
     const confirmedContacts = (result.confirmed_existing || []).map(normalizeContact);
     if (confirmedContacts.length) {
       sections.push(`<div class="pa-section">
-        <div class="pa-section-title">Confirmed in system (${confirmedContacts.length})</div>
-        ${paContactTableHTML(confirmedContacts)}
+        <div class="pa-section-title">Confirmed and enriched (${confirmedContacts.length})</div>
+        ${paContactTableHTML(confirmedContacts, 'confirmed')}
       </div>`);
     }
 
