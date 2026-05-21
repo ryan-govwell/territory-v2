@@ -528,6 +528,65 @@ tr.ct-detail:hover { background: var(--surface-2) !important; }
 .ct-title { font-size: 11px; color: var(--text-muted); flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .ct-date  { font-size: 10px; color: var(--text-faint); white-space: nowrap; flex-shrink: 0; }
 
+/* ── Prospecting Agent panel ─────────────────────────────────────────────── */
+tr.pa-detail { cursor: default; }
+tr.pa-detail:hover { background: var(--surface-2) !important; }
+.pa-pane { background: var(--surface-2); border-top: 1px solid var(--border-subtle); }
+.pa-header { display: flex; align-items: center; gap: 10px; padding: 9px 16px; border-bottom: 1px solid var(--border); }
+.pa-status-pill { flex-shrink: 0; display: inline-flex; align-items: center; padding: 2px 7px; border-radius: 3px; font-size: 9.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; }
+.pa-pill-staffed      { background: rgba(34,197,94,0.15);  color: #16a34a; }
+.pa-pill-partial      { background: rgba(234,179,8,0.15);  color: #ca8a04; }
+.pa-pill-absent       { background: rgba(115,115,115,0.15);color: #737373; }
+.pa-pill-unverifiable { background: rgba(239,68,68,0.15);  color: #dc2626; }
+html.dark .pa-pill-staffed { color: #4ade80; }
+html.dark .pa-pill-partial { color: #fbbf24; }
+.pa-summary { flex: 1; font-size: 11.5px; color: var(--text-muted); min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pa-header-actions { display: flex; gap: 4px; flex-shrink: 0; }
+.pa-body { padding: 12px 16px 14px; display: flex; flex-direction: column; gap: 12px; }
+.pa-site-row { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.pa-site-link { font-size: 11.5px; color: var(--accent); text-decoration: none; font-weight: 500; }
+.pa-site-link:hover { text-decoration: underline; }
+.pa-site-note { font-size: 10.5px; color: var(--text-faint); font-style: italic; }
+.pa-site-unverified { border: 1px solid rgba(239,68,68,0.4); border-radius: 6px; padding: 8px 12px; font-size: 11.5px; color: #dc2626; }
+.pa-section { display: flex; flex-direction: column; gap: 5px; }
+.pa-section-title { font-size: 9.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em; color: var(--text-muted); padding-bottom: 5px; border-bottom: 1px solid var(--border); }
+.pa-note { font-size: 10.5px; color: var(--text-faint); font-style: italic; }
+.pa-table { width: 100%; border-collapse: collapse; font-size: 11.5px; }
+.pa-table th { font-size: 9.5px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-faint); padding: 0 8px 5px 0; text-align: left; white-space: nowrap; border-bottom: 1px solid var(--border); }
+.pa-table td { padding: 5px 8px 5px 0; border-bottom: 1px solid var(--border-subtle); vertical-align: middle; color: var(--text-muted); }
+.pa-table tr:last-child td { border-bottom: none; }
+.pa-table td:first-child { color: var(--text); font-weight: 500; }
+.pa-pill { display: inline-flex; align-items: center; padding: 2px 5px; border-radius: 3px; font-size: 9px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; white-space: nowrap; }
+.pa-pill-lead      { background: var(--accent-bg); color: var(--accent); }
+.pa-pill-secondary { background: var(--surface-3); color: var(--text-muted); }
+.pa-pill-high      { background: rgba(34,197,94,0.15); color: #16a34a; }
+.pa-pill-medium    { background: rgba(234,179,8,0.15); color: #ca8a04; }
+.pa-pill-low       { background: rgba(115,115,115,0.15); color: #737373; }
+html.dark .pa-pill-high    { color: #4ade80; }
+html.dark .pa-pill-medium  { color: #fbbf24; }
+.pa-tag { display: inline-flex; padding: 1px 4px; border-radius: 3px; font-size: 9px; font-weight: 500; margin-left: 4px; vertical-align: middle; }
+.pa-tag-alias    { background: rgba(115,115,115,0.12); color: var(--text-muted); }
+.pa-tag-inferred { background: rgba(234,179,8,0.15); color: #ca8a04; }
+.pa-email-link { font-size: 11px; color: var(--text-muted); text-decoration: none; }
+.pa-email-link:hover { color: var(--accent); text-decoration: underline; }
+.pa-src-link { font-size: 10px; color: var(--text-faint); text-decoration: none; white-space: nowrap; }
+.pa-src-link:hover { color: var(--accent); }
+.pa-stale-item { font-size: 11.5px; color: var(--text-muted); padding: 3px 0; }
+.pa-stale-name { font-weight: 500; color: var(--text); }
+.pa-update-item { font-size: 11.5px; padding: 3px 0; display: flex; align-items: baseline; gap: 6px; flex-wrap: wrap; }
+.pa-update-name { font-weight: 500; color: var(--text); }
+.pa-update-old  { color: var(--text-faint); text-decoration: line-through; }
+.pa-update-new  { font-weight: 500; color: var(--text); }
+.pa-sources > summary { font-size: 10px; color: var(--text-faint); cursor: pointer; user-select: none; }
+.pa-sources > summary:hover { color: var(--text-muted); }
+.pa-sources-list { display: flex; flex-direction: column; gap: 2px; padding-top: 6px; }
+.pa-sources-list a { font-size: 10px; color: var(--text-faint); text-decoration: none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; display: block; max-width: 600px; }
+.pa-sources-list a:hover { color: var(--accent); }
+.pa-error-bar { background: rgba(239,68,68,0.08); border-bottom: 1px solid rgba(239,68,68,0.2); padding: 8px 16px; display: flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 600; color: #dc2626; }
+.pa-error-body { padding: 10px 16px 12px; font-size: 11.5px; color: var(--text-muted); display: flex; align-items: center; gap: 10px; }
+.pa-retry-btn { width: auto !important; padding: 0 10px !important; font-size: 11px; }
+.pa-loading { padding: 24px 16px; display: flex; align-items: center; justify-content: center; gap: 8px; color: var(--text-muted); font-size: 12px; }
+
 /* ── View toggle ────────────────────────────────────────────────────────── */
 .view-toggle {
   display: flex;
@@ -1773,67 +1832,226 @@ function buildSearchableAccountName(accountName, stateFullName) {
   return `${trimmed}, ${abbr}`;
 }
 
-async function runProspectingAgent(buttonEl, accountId) {
-  const accountRow = allData.find(r => r['Account ID'] === accountId);
-  if (!accountRow) {
-    console.error("Account row not found for ID:", accountId);
-    alert("Could not find account data. Check console.");
-    return;
-  }
+function closeProspectingPanel(accountId) {
+  document.querySelectorAll(`.pa-detail[data-pa-id="${accountId}"]`).forEach(r => r.remove());
+}
 
-  const searchableName = buildSearchableAccountName(
-    accountRow['Account Name'],
-    accountRow['State']
-  );
+function escHtml(s) {
+  return String(s ?? '')
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
 
-  const accountContacts = contactsByAccount[accountId];
-  const buildingBucket  = accountContacts?.byFunction?.['Building/Permitting/Inspections'];
-  const buildingContacts = buildingBucket?.contacts ?? [];
-  const existingContacts = buildingContacts.map(c => ({
-    name:         c['Full Name'],
-    title:        c['Title'],
-    lastActivity: c['Last Activity']
-  }));
+function paEmailHTML(email, emailSource) {
+  if (!email) return '—';
+  let tag = '';
+  if (emailSource === 'role_alias') tag = '<span class="pa-tag pa-tag-alias">alias</span>';
+  else if (emailSource === 'inferred') tag = '<span class="pa-tag pa-tag-inferred">inferred</span>';
+  return `<a class="pa-email-link" href="mailto:${escHtml(email)}">${escHtml(email)}</a>${tag}`;
+}
 
-  const originalHTML = buttonEl.innerHTML;
-  buttonEl.disabled  = true;
-  buttonEl.innerHTML = `
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
-         stroke="currentColor" stroke-width="2">
-      <circle cx="12" cy="12" r="10" stroke-dasharray="20 30">
-        <animateTransform attributeName="transform" type="rotate"
-          from="0 12 12" to="360 12 12" dur="1s" repeatCount="indefinite"/>
-      </circle>
-    </svg>`;
+function paConfidenceHTML(c) {
+  if (!c) return '—';
+  const label = c.charAt(0).toUpperCase() + c.slice(1).toLowerCase();
+  return `<span class="pa-pill pa-pill-${escHtml(c.toLowerCase())}" title="Confidence: ${escHtml(label)}">${escHtml(label)}</span>`;
+}
 
-  try {
-    const response = await fetch(WORKER_URL, {
-      method:  "POST",
-      headers: { "Content-Type": "application/json" },
-      body:    JSON.stringify({
-        accountName:      searchableName,
-        state:            accountRow['State'],
-        function:         "building_permitting_inspections",
-        existingContacts: existingContacts
-      })
-    });
+function paContactTableHTML(contacts) {
+  if (!contacts || contacts.length === 0) return '';
+  const rows = contacts.map(c => {
+    const priorityPill = c.priority === 'lead'
+      ? `<span class="pa-pill pa-pill-lead">Lead</span>`
+      : `<span class="pa-pill pa-pill-secondary">Secondary</span>`;
+    const srcLink = c.source
+      ? `<a class="pa-src-link" href="${escHtml(c.source)}" target="_blank" rel="noopener" title="${escHtml(c.source)}">↗</a>`
+      : '';
+    return `<tr>
+      <td>${escHtml(c.name)}</td>
+      <td>${escHtml(c.title || '—')}&nbsp;${priorityPill}</td>
+      <td>${paEmailHTML(c.email, c.emailSource)}</td>
+      <td>${escHtml(c.phone || '—')}</td>
+      <td>${paConfidenceHTML(c.confidence)}</td>
+      <td>${srcLink}</td>
+    </tr>`;
+  }).join('');
+  return `<table class="pa-table">
+    <thead><tr>
+      <th>Name</th><th>Title / Priority</th><th>Email</th><th>Phone</th><th>Confidence</th><th>Source</th>
+    </tr></thead>
+    <tbody>${rows}</tbody>
+  </table>`;
+}
 
-    if (!response.ok) {
-      throw new Error(`Worker returned ${response.status}: ${await response.text()}`);
+function renderProspectingPanel(accountTr, accountId, result, errorMsg) {
+  closeProspectingPanel(accountId);
+
+  const paRow = document.createElement('tr');
+  paRow.className = 'pa-detail';
+  paRow.dataset.paId = accountId;
+
+  let innerContent;
+
+  if (errorMsg) {
+    innerContent = `
+      <div class="pa-error-bar">⚠ Search failed</div>
+      <div class="pa-error-body">
+        ${escHtml(errorMsg)}
+        <button class="ext-btn pa-retry-btn" onclick="runProspectingAgent(this,'${accountId}',true)">Retry</button>
+      </div>`;
+  } else {
+    const statusLabels = { staffed: 'Staffed', partial: 'Partial', absent: 'Absent', unverifiable: 'Unverifiable' };
+    const statusLabel = statusLabels[result.status] || escHtml(result.status);
+
+    const headerHTML = `<div class="pa-header">
+      <span class="pa-status-pill pa-pill-${escHtml(result.status)}">${escHtml(statusLabel)}</span>
+      <span class="pa-summary" title="${escHtml(result.statusSummary || '')}">${escHtml(result.statusSummary || '')}</span>
+      <div class="pa-header-actions">
+        <button class="ext-btn" onclick="runProspectingAgent(this,'${accountId}',true)" title="Refresh">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
+        </button>
+        <button class="ext-btn" onclick="closeProspectingPanel('${accountId}')" title="Close">
+          <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+      </div>
+    </div>`;
+
+    const sections = [];
+
+    // Official site
+    if (result.officialSite?.url) {
+      const site = result.officialSite;
+      if (site.verified) {
+        const note = site.note ? ` <span class="pa-site-note">${escHtml(site.note)}</span>` : '';
+        sections.push(`<div class="pa-site-row"><a class="pa-site-link" href="${escHtml(site.url)}" target="_blank" rel="noopener">${escHtml(site.url)}</a>${note}</div>`);
+      } else {
+        const note = site.note ? ` — ${escHtml(site.note)}` : '';
+        sections.push(`<div class="pa-site-unverified">Unverified: ${escHtml(site.url)}${note}</div>`);
+      }
     }
 
-    const data = await response.json();
-    console.log("=== Prospecting Agent (Phase A) Response ===");
-    console.log("Account:", searchableName);
-    console.log("Existing Building contacts sent:", existingContacts);
-    console.log("Worker response:", data);
-    alert("Phase A success! Check the browser console for full details.");
+    // New contacts
+    if (result.new?.length) {
+      sections.push(`<div class="pa-section">
+        <div class="pa-section-title">New contacts (${result.new.length})</div>
+        ${paContactTableHTML(result.new)}
+      </div>`);
+    }
+
+    // Confirmed existing
+    if (result.confirmed?.length) {
+      sections.push(`<div class="pa-section">
+        <div class="pa-section-title">Confirmed in system (${result.confirmed.length})</div>
+        ${paContactTableHTML(result.confirmed)}
+      </div>`);
+    }
+
+    // Title updates
+    if (result.updates?.length) {
+      const items = result.updates.map(u =>
+        `<div class="pa-update-item">
+          <span class="pa-update-name">${escHtml(u.name)}</span>
+          <span class="pa-update-old">${escHtml(u.oldTitle)}</span>
+          <span>→</span>
+          <span class="pa-update-new">${escHtml(u.newTitle)}</span>
+        </div>`
+      ).join('');
+      sections.push(`<div class="pa-section">
+        <div class="pa-section-title">Title updates (${result.updates.length})</div>
+        ${items}
+      </div>`);
+    }
+
+    // Stale contacts
+    if (result.stale?.length) {
+      const items = result.stale.map(s =>
+        `<div class="pa-stale-item"><span class="pa-stale-name">${escHtml(s.name)}</span>${s.title ? ' · ' + escHtml(s.title) : ''}</div>`
+      ).join('');
+      sections.push(`<div class="pa-section">
+        <div class="pa-section-title">Not found online (${result.stale.length})</div>
+        ${items}
+      </div>`);
+    }
+
+    // Sources disclosure
+    if (result.sources?.length) {
+      const links = result.sources.map(url =>
+        `<a href="${escHtml(url)}" target="_blank" rel="noopener">${escHtml(url)}</a>`
+      ).join('');
+      sections.push(`<details class="pa-sources">
+        <summary>${result.sources.length} source${result.sources.length > 1 ? 's' : ''}</summary>
+        <div class="pa-sources-list">${links}</div>
+      </details>`);
+    }
+
+    innerContent = `${headerHTML}<div class="pa-body">${sections.join('')}</div>`;
+  }
+
+  paRow.innerHTML = `<td colspan="10"><div class="pa-pane">${innerContent}</div></td>`;
+
+  let insertAfter = accountTr;
+  const nextSib = accountTr.nextElementSibling;
+  if (nextSib && nextSib.classList.contains('ct-detail')) insertAfter = nextSib;
+  insertAfter.after(paRow);
+  paRow.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+}
+
+async function runProspectingAgent(buttonEl, accountId, isRefresh = false) {
+  const accountRow = allData.find(r => r['Account ID'] === accountId);
+  if (!accountRow) { console.error('Account row not found:', accountId); return; }
+
+  const accountTr = document.querySelector(`#tbody tr[data-id="${accountId}"]`);
+  if (!accountTr) return;
+
+  // Toggle: non-refresh click on open panel → close
+  const existingPanel = document.querySelector(`.pa-detail[data-pa-id="${accountId}"]`);
+  if (!isRefresh && existingPanel) { closeProspectingPanel(accountId); return; }
+
+  // Loading state
+  const spinnerSVG = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10" stroke-dasharray="20 30"><animateTransform attributeName="transform" type="rotate" from="0 12 12" to="360 12 12" dur="1s" repeatCount="indefinite"/></circle></svg>`;
+  const loadingHTML = `<td colspan="10"><div class="pa-pane"><div class="pa-loading">${spinnerSVG} Searching the web for contacts…</div></div></td>`;
+
+  if (isRefresh && existingPanel) {
+    const loadingContent = `<div class="pa-loading">${spinnerSVG} Searching the web for contacts…</div>`;
+    const paBody = existingPanel.querySelector('.pa-body');
+    if (paBody) {
+      paBody.innerHTML = loadingContent;
+    } else {
+      // Error state panel has no .pa-body — replace the pane content directly
+      const pane = existingPanel.querySelector('.pa-pane');
+      if (pane) pane.innerHTML = loadingContent;
+    }
+  } else {
+    const loadingRow = document.createElement('tr');
+    loadingRow.className = 'pa-detail';
+    loadingRow.dataset.paId = accountId;
+    loadingRow.innerHTML = loadingHTML;
+    let insertAfter = accountTr;
+    const next = accountTr.nextElementSibling;
+    if (next && next.classList.contains('ct-detail')) insertAfter = next;
+    insertAfter.after(loadingRow);
+    loadingRow.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  }
+
+  const searchableName = buildSearchableAccountName(accountRow['Account Name'], accountRow['State']);
+  const buildingContacts = (contactsByAccount[accountId]?.byFunction?.['Building/Permitting/Inspections']?.contacts ?? [])
+    .map(c => ({ name: c['Full Name'], title: c['Title'], lastActivity: c['Last Activity'] }));
+
+  try {
+    const resp = await fetch(WORKER_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        accountName:      searchableName,
+        state:            accountRow['State'],
+        function:         'building_permitting_inspections',
+        existingContacts: buildingContacts
+      })
+    });
+    if (!resp.ok) throw new Error(`Worker ${resp.status}: ${await resp.text()}`);
+    renderProspectingPanel(accountTr, accountId, await resp.json(), null);
   } catch (err) {
-    console.error("Prospecting agent error:", err);
-    alert(`Error: ${err.message}`);
-  } finally {
-    buttonEl.disabled  = false;
-    buttonEl.innerHTML = originalHTML;
+    console.error('Prospecting agent error:', err);
+    renderProspectingPanel(accountTr, accountId, null, err.message);
   }
 }
 
