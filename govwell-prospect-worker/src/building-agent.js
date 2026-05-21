@@ -83,6 +83,18 @@ Return at most 2 low-confidence contacts. Only return low-confidence if no high/
 
 Never fabricate phone numbers. Use exact title as listed.
 
+## Handling mailto: links
+
+Some source pages display contacts with a "Click to Email", "Email", or similar button instead of showing the email address as inline text. These buttons are mailto: links whose href contains the actual email, but the address itself is not visible in the page text.
+
+When you encounter this pattern for a contact:
+- Set email to the literal string "behind_mailto_link"
+- Set email_source to "not_found"
+- Set confidence_note to "email behind mailto link" (use this exact phrase, within the 3-8 word limit)
+- Do not lower the confidence rating solely because of this — if name + title are clearly attributed on the source page, confidence remains "high"
+
+This signals to the user that the email is recoverable by visiting the source URL manually, distinct from cases where no email exists at all.
+
 ## Handling existing contacts
 
 You will receive existing contacts (name + title only). When you find them on the site:
