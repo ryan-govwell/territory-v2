@@ -1899,12 +1899,24 @@ function renderProspectingPanel(accountTr, accountId, result, errorMsg) {
         <button class="ext-btn pa-retry-btn" onclick="runProspectingAgent(this,'${accountId}',true)">Retry</button>
       </div>`;
   } else {
+    const normalizeContact = c => ({
+      name:        c.name || c.existing_name || '',
+      title:       c.title || '',
+      priority:    c.priority || 'secondary',
+      email:       c.email || null,
+      emailSource: c.email_source || null,
+      phone:       c.phone || null,
+      confidence:  c.confidence || null,
+      source:      c.source_url || null
+    });
+
     const statusLabels = { staffed: 'Staffed', partial: 'Partial', absent: 'Absent', unverifiable: 'Unverifiable' };
-    const statusLabel = statusLabels[result.status] || escHtml(result.status);
+    const status      = result.function_status || '';
+    const statusLabel = statusLabels[status] || escHtml(status);
 
     const headerHTML = `<div class="pa-header">
-      <span class="pa-status-pill pa-pill-${escHtml(result.status)}">${escHtml(statusLabel)}</span>
-      <span class="pa-summary" title="${escHtml(result.statusSummary || '')}">${escHtml(result.statusSummary || '')}</span>
+      <span class="pa-status-pill pa-pill-${escHtml(status)}">${escHtml(statusLabel)}</span>
+      <span class="pa-summary" title="${escHtml(result.summary || '')}">${escHtml(result.summary || '')}</span>
       <div class="pa-header-actions">
         <button class="ext-btn" onclick="runProspectingAgent(this,'${accountId}',true)" title="Refresh">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
@@ -1918,30 +1930,32 @@ function renderProspectingPanel(accountTr, accountId, result, errorMsg) {
     const sections = [];
 
     // Official site
-    if (result.officialSite?.url) {
-      const site = result.officialSite;
+    if (result.official_site?.url) {
+      const site = result.official_site;
       if (site.verified) {
-        const note = site.note ? ` <span class="pa-site-note">${escHtml(site.note)}</span>` : '';
+        const note = site.verification_note ? ` <span class="pa-site-note">${escHtml(site.verification_note)}</span>` : '';
         sections.push(`<div class="pa-site-row"><a class="pa-site-link" href="${escHtml(site.url)}" target="_blank" rel="noopener">${escHtml(site.url)}</a>${note}</div>`);
       } else {
-        const note = site.note ? ` — ${escHtml(site.note)}` : '';
+        const note = site.verification_note ? ` — ${escHtml(site.verification_note)}` : '';
         sections.push(`<div class="pa-site-unverified">Unverified: ${escHtml(site.url)}${note}</div>`);
       }
     }
 
     // New contacts
-    if (result.new?.length) {
+    const newContacts = (result.new_contacts || []).map(normalizeContact);
+    if (newContacts.length) {
       sections.push(`<div class="pa-section">
-        <div class="pa-section-title">New contacts (${result.new.length})</div>
-        ${paContactTableHTML(result.new)}
+        <div class="pa-section-title">New contacts (${newContacts.length})</div>
+        ${paContactTableHTML(newContacts)}
       </div>`);
     }
 
     // Confirmed existing
-    if (result.confirmed?.length) {
+    const confirmedContacts = (result.confirmed_existing || []).map(normalizeContact);
+    if (confirmedContacts.length) {
       sections.push(`<div class="pa-section">
-        <div class="pa-section-title">Confirmed in system (${result.confirmed.length})</div>
-        ${paContactTableHTML(result.confirmed)}
+        <div class="pa-section-title">Confirmed in system (${confirmedContacts.length})</div>
+        ${paContactTableHTML(confirmedContacts)}
       </div>`);
     }
 
@@ -1973,12 +1987,13 @@ function renderProspectingPanel(accountTr, accountId, result, errorMsg) {
     }
 
     // Sources disclosure
-    if (result.sources?.length) {
-      const links = result.sources.map(url =>
+    const sources = result.sources_checked || [];
+    if (sources.length) {
+      const links = sources.map(url =>
         `<a href="${escHtml(url)}" target="_blank" rel="noopener">${escHtml(url)}</a>`
       ).join('');
       sections.push(`<details class="pa-sources">
-        <summary>${result.sources.length} source${result.sources.length > 1 ? 's' : ''}</summary>
+        <summary>${sources.length} source${sources.length > 1 ? 's' : ''}</summary>
         <div class="pa-sources-list">${links}</div>
       </details>`);
     }
@@ -2048,7 +2063,7 @@ async function runProspectingAgent(buttonEl, accountId, isRefresh = false) {
       })
     });
     if (!resp.ok) throw new Error(`Worker ${resp.status}: ${await resp.text()}`);
-    renderProspectingPanel(accountTr, accountId, await resp.json(), null);
+    renderProspectingPanel(accountTr, accountId, (await resp.json()).result, null);
   } catch (err) {
     console.error('Prospecting agent error:', err);
     renderProspectingPanel(accountTr, accountId, null, err.message);
