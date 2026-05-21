@@ -1,16 +1,16 @@
-Account ID,Full Name,Title,Function,Last Activity
-001Hr000028ZdWp,Michele Souza,Building Department Supervisor,Building/Permitting/Inspections,2025-04-01
-001Hr000028ZdWp,Kristin Shimada,Chief Building Plans Examiner,Building/Permitting/Inspections,2026-05-06
-001Hr000028ZdWp,Leslie Otani,DSA Administrator,Other,2026-05-06
-001cv00000AuaWO,Jodi A. Higuchi Sayegusa,Deputy Planning Director,Planning & Zoning,2025-10-23
-001cv00000AuaWO,Ka??ina S. Hull,Planning Director,Planning & Zoning,2026-05-06
-001cv00000AuaWO,Sixto Agoto,Building Supervisor,Building/Permitting/Inspections,2026-05-06
-001cv00000EF8QI,Dennis Onishi,County Commissioner,Other,2026-05-15
-001cv00000EF8QI,Malia Kekai,Deputy Finance Director (Former Dir. Public Works),Other,
-001cv00000EF8QI,Darlene Espejo,Executive Assistant (for scheduling with Fresh),Other,2026-01-06
-001cv00000EF8QI,Wes Segawa,Director of Public Works,Other,2026-02-17
-001cv00000EF8QI,Diane Nakagawa,Finance Director,Other,
-001cv00000EF8QI,Alan Thompson,"Engineering Division Chief, DPW",Other,
-001cv00000EF8QI,Aaron Spielman,"Building Division Chief, DPW",Building/Permitting/Inspections,
-001cv00000EF8QI,Bruce Meyers,County Staff or County Chair,Other,
-001cv00000EF8QI,Neil Azevedo,Deputy Director of Public Works,Other,
+Account ID,Full Name,Title,Function,Last Activity,Email,Phone
+001Hr000028ZdWp,Michele Souza,Building Department Supervisor,Building/Permitting/Inspections,2025-04-01,michele.souza@co.maui.hi.us,+18082707250
+001Hr000028ZdWp,Kristin Shimada,Chief Building Plans Examiner,Building/Permitting/Inspections,2026-05-06,,(808) 270-7379
+001Hr000028ZdWp,Leslie Otani,DSA Administrator,Other,2026-05-06,dsa@mauicounty.gov,(808) 270-7379
+001cv00000AuaWO,Jodi A. Higuchi Sayegusa,Deputy Planning Director,Planning & Zoning,2025-10-23,,+18082414050
+001cv00000AuaWO,Ka??ina S. Hull,Planning Director,Planning & Zoning,2026-05-06,planningdepartment@kauai.gov,+18082414050
+001cv00000AuaWO,Sixto Agoto,Building Supervisor,Building/Permitting/Inspections,2026-05-06,sagoto@kauai.gov,(808) 241-4900
+001cv00000EF8QI,Dennis Onishi,County Commissioner,Other,2026-05-15,dennis.onishi@hawaiicounty.gov,(808) 961-8321
+001cv00000EF8QI,Malia Kekai,Deputy Finance Director (Former Dir. Public Works),Other,,malia.kekai@hawaiicounty.gov,(808) 961-8321
+001cv00000EF8QI,Darlene Espejo,Executive Assistant (for scheduling with Fresh),Other,2026-01-06,darlene.espejo@hawaiicounty.gov,(808) 961-8321
+001cv00000EF8QI,Wes Segawa,Director of Public Works,Other,2026-02-17,wesley.segawa@hawaiicounty.gov,(808) 961-8321
+001cv00000EF8QI,Diane Nakagawa,Finance Director,Other,,diane.nakagawa@hawaiicounty.gov,(808) 961-8321
+001cv00000EF8QI,Alan Thompson,"Engineering Division Chief, DPW",Other,,,(808) 961-8321
+001cv00000EF8QI,Aaron Spielman,"Building Division Chief, DPW",Building/Permitting/Inspections,,,(808) 961-8321
+001cv00000EF8QI,Bruce Meyers,County Staff or County Chair,Other,,,(808) 961-8321
+001cv00000EF8QI,Neil Azevedo,Deputy Director of Public Works,Other,,,(808) 961-8321

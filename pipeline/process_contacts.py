@@ -9,9 +9,9 @@ Usage:
         --state  FL \
         --output states/FL/contacts.csv
 
-Input columns expected: Starbridge Buyer ID, First Name, Last Name, Title,
-                        Account Name, Last Activity
-Output columns: Account ID, Full Name, Title, Function, Last Activity
+Input columns expected: Account ID, First Name, Last Name, Title,
+                        Account Name, Last Activity[, Email, Phone]
+Output columns: Account ID, Full Name, Title, Function, Last Activity, Email, Phone
 """
 
 import argparse
@@ -101,6 +101,8 @@ def main():
             title    = row.get('Title', '').strip()
             function = classify(title)
             last_act = parse_date(row.get('Last Activity', ''))
+            email    = row.get('Email', '').strip()
+            phone    = row.get('Phone', '').strip()
 
             rows_out.append({
                 'Account ID':    acct_id,
@@ -108,9 +110,11 @@ def main():
                 'Title':         title,
                 'Function':      function,
                 'Last Activity': last_act,
+                'Email':         email,
+                'Phone':         phone,
             })
 
-    FIELDNAMES = ['Account ID', 'Full Name', 'Title', 'Function', 'Last Activity']
+    FIELDNAMES = ['Account ID', 'Full Name', 'Title', 'Function', 'Last Activity', 'Email', 'Phone']
 
     Path(args.output).parent.mkdir(parents=True, exist_ok=True)
     with open(args.output, 'w', newline='', encoding='utf-8') as f:

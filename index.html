@@ -527,6 +527,10 @@ tr.ct-detail:hover { background: var(--surface-2) !important; }
 .ct-name  { font-size: 11.5px; font-weight: 500; color: var(--text); white-space: nowrap; flex-shrink: 0; }
 .ct-title { font-size: 11px; color: var(--text-muted); flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .ct-date  { font-size: 10px; color: var(--text-faint); white-space: nowrap; flex-shrink: 0; }
+.ct-email,
+.ct-phone { font-size: 11px; color: var(--text-muted); white-space: nowrap; flex-shrink: 0; }
+.ct-email a,
+.ct-phone a { color: var(--accent); text-decoration: none; }
 
 /* ── Prospecting Agent panel ─────────────────────────────────────────────── */
 tr.pa-detail { cursor: default; }
@@ -1219,13 +1223,21 @@ function buildContactPane(id) {
     const grp  = data.byFunction[fn];
     const last = grp.lastActivity
       ? `<span class="ct-fn-last">${fmtDate(grp.lastActivity)}</span>` : '';
-    const rows = grp.contacts.map(c =>
-      `<div class="ct-contact">
+    const rows = grp.contacts.map(c => {
+      const email = c['Email']
+        ? `<a href="mailto:${c['Email']}">${c['Email']}</a>`
+        : '—';
+      const phone = c['Phone']
+        ? `<a href="tel:${c['Phone']}">${c['Phone']}</a>`
+        : '—';
+      return `<div class="ct-contact">
          <span class="ct-name">${c['Full Name']}</span>
          <span class="ct-title">${c['Title'] || '—'}</span>
+         <span class="ct-email">${email}</span>
+         <span class="ct-phone">${phone}</span>
          <span class="ct-date">${c['Last Activity'] ? fmtDate(c['Last Activity']) : '—'}</span>
-       </div>`
-    ).join('');
+       </div>`;
+    }).join('');
     return `<div>
       <div class="ct-fn-head">
         <span class="ct-fn-label">${fn}</span>
