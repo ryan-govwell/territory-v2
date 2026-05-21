@@ -416,6 +416,11 @@ html.dark .owner-4 { background: rgba(236,72,153,0.18); color: #f472b6; }
   text-decoration: none;
   transition: border-color 0.1s, background 0.1s;
   flex-shrink: 0;
+  background: var(--surface);
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  padding: 0;
 }
 .ext-btn:hover { border-color: var(--accent); background: var(--accent-bg); }
 .ext-btn svg { display: block; }
@@ -1576,7 +1581,7 @@ function renderTable(data) {
       <td><div class="ext-links" onclick="event.stopPropagation()">
         ${(r['Salesforce ID'] || (r['Account ID'] && r['Account ID'].startsWith('001') ? r['Account ID'] : '')) ? `<a class="ext-btn" href="https://govwell.lightning.force.com/lightning/r/Account/${r['Salesforce ID'] || r['Account ID']}/view" target="_blank" rel="noopener" title="Salesforce"><svg width="14" height="14" viewBox="0 0 24 18" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 4.2a4.5 4.5 0 0 1 8.3.9 3.6 3.6 0 0 1 5.2 3.2 3.6 3.6 0 0 1-3.6 3.6H5a3.5 3.5 0 0 1-.5-7 4.4 4.4 0 0 1 5-0.7z" fill="#00A1E0"/></svg></a>` : ''}
         ${r['Outreach ID']   ? `<a class="ext-btn" href="https://web.outreach.io/accounts/${r['Outreach ID']}/overview" target="_blank" rel="noopener" title="Outreach"><svg width="14" height="14" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><path d="M50 8C32 8 10 26 10 48c0 8 4 16 10 22l30 22 30-22c6-6 10-14 10-22C90 26 68 8 50 8z" fill="#5951FF"/><circle cx="50" cy="46" r="16" fill="white"/><circle cx="50" cy="46" r="9" fill="#5951FF"/></svg></a>` : ''}
-        <a class="ext-btn" href="https://www.google.com/search?q=${encodeURIComponent(r['Account Name'] + ' staff directory apply permit')}" target="_blank" rel="noopener" title="Search Google"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" color="var(--text-muted)"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></a>
+        <button class="ext-btn" type="button" onclick="runProspectingAgent(this, '${r['Account ID']}')" title="Run prospecting agent (Building/Permitting/Inspections)" data-account-id="${r['Account ID']}"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></button>
       </div></td>
     </tr>`;
   }).join('');
@@ -1735,6 +1740,102 @@ document.getElementById('state-btn').addEventListener('click', e => {
 });
 
 stateDropdown.addEventListener('click', e => e.stopPropagation());
+
+// ── Prospecting Agent ──────────────────────────────────────────────────────
+// Phase A: handshake test — calls the Cloudflare Worker and logs the
+// response. Phase B will replace this with full agent flow + result panel.
+const WORKER_URL = "https://govwell-prospect-worker.ryan-govwell.workers.dev";
+
+const STATE_ABBR = {
+  "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR",
+  "California": "CA", "Colorado": "CO", "Connecticut": "CT", "Delaware": "DE",
+  "Florida": "FL", "Georgia": "GA", "Hawaii": "HI", "Idaho": "ID",
+  "Illinois": "IL", "Indiana": "IN", "Iowa": "IA", "Kansas": "KS",
+  "Kentucky": "KY", "Louisiana": "LA", "Maine": "ME", "Maryland": "MD",
+  "Massachusetts": "MA", "Michigan": "MI", "Minnesota": "MN", "Mississippi": "MS",
+  "Missouri": "MO", "Montana": "MT", "Nebraska": "NE", "Nevada": "NV",
+  "New Hampshire": "NH", "New Jersey": "NJ", "New Mexico": "NM", "New York": "NY",
+  "North Carolina": "NC", "North Dakota": "ND", "Ohio": "OH", "Oklahoma": "OK",
+  "Oregon": "OR", "Pennsylvania": "PA", "Rhode Island": "RI", "South Carolina": "SC",
+  "South Dakota": "SD", "Tennessee": "TN", "Texas": "TX", "Utah": "UT",
+  "Vermont": "VT", "Virginia": "VA", "Washington": "WA", "West Virginia": "WV",
+  "Wisconsin": "WI", "Wyoming": "WY"
+};
+
+function buildSearchableAccountName(accountName, stateFullName) {
+  const trimmed = (accountName || "").trim();
+  if (/,\s*[A-Z]{2}$/.test(trimmed)) return trimmed;
+  const abbr = STATE_ABBR[stateFullName];
+  if (!abbr) {
+    console.warn(`No state abbreviation for "${stateFullName}" on "${accountName}"`);
+    return trimmed;
+  }
+  return `${trimmed}, ${abbr}`;
+}
+
+async function runProspectingAgent(buttonEl, accountId) {
+  const accountRow = allData.find(r => r['Account ID'] === accountId);
+  if (!accountRow) {
+    console.error("Account row not found for ID:", accountId);
+    alert("Could not find account data. Check console.");
+    return;
+  }
+
+  const searchableName = buildSearchableAccountName(
+    accountRow['Account Name'],
+    accountRow['State']
+  );
+
+  const accountContacts = contactsByAccount[accountId];
+  const buildingBucket  = accountContacts?.byFunction?.['Building/Permitting/Inspections'];
+  const buildingContacts = buildingBucket?.contacts ?? [];
+  const existingContacts = buildingContacts.map(c => ({
+    name:         c['Full Name'],
+    title:        c['Title'],
+    lastActivity: c['Last Activity']
+  }));
+
+  const originalHTML = buttonEl.innerHTML;
+  buttonEl.disabled  = true;
+  buttonEl.innerHTML = `
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" stroke-width="2">
+      <circle cx="12" cy="12" r="10" stroke-dasharray="20 30">
+        <animateTransform attributeName="transform" type="rotate"
+          from="0 12 12" to="360 12 12" dur="1s" repeatCount="indefinite"/>
+      </circle>
+    </svg>`;
+
+  try {
+    const response = await fetch(WORKER_URL, {
+      method:  "POST",
+      headers: { "Content-Type": "application/json" },
+      body:    JSON.stringify({
+        accountName:      searchableName,
+        state:            accountRow['State'],
+        function:         "building_permitting_inspections",
+        existingContacts: existingContacts
+      })
+    });
+
+    if (!response.ok) {
+      throw new Error(`Worker returned ${response.status}: ${await response.text()}`);
+    }
+
+    const data = await response.json();
+    console.log("=== Prospecting Agent (Phase A) Response ===");
+    console.log("Account:", searchableName);
+    console.log("Existing Building contacts sent:", existingContacts);
+    console.log("Worker response:", data);
+    alert("Phase A success! Check the browser console for full details.");
+  } catch (err) {
+    console.error("Prospecting agent error:", err);
+    alert(`Error: ${err.message}`);
+  } finally {
+    buttonEl.disabled  = false;
+    buttonEl.innerHTML = originalHTML;
+  }
+}
 
 // ── Boot: landing vs. dashboard ───────────────────────────────────────────
 if (IS_LANDING) {
