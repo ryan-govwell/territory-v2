@@ -1,116 +1,116 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ben Laddis,Calls - Blake Anderson,Calls - Joe del Rosario,Calls - Jenny Allison,Calls - Sydney Ireland,Outreach ID
-001Hr000028Zcb2,"Pennington County, SD",South Dakota,County,Blake Anderson,115979,,Tier S,2.0,43.8901,-102.2548,e35e348a-42b3-4bca-bb10-dfd73b38bd75,,,,,,,,,11,2026-05-18,8,3,,,,11984
-001Hr000028Zcg8,"City Of Spearfish, SD",South Dakota,Municipality,Blake Anderson,12358,Open Opportunity,Tier 2,1.0,44.4908,-103.8594,8dc94e01-4133-4f27-a9bf-8bdc7ecb74ab,Open,Initial Interest,Top of Funnel,Ben Laddis,,3/4/2026,,,26,2026-04-24,22,,4,,,6748
-001Hr000028Zcoz,"City Of Harrisburg, SD",South Dakota,Municipality,Blake Anderson,7638,Open Opportunity,Tier 3,0.75,43.4314,-96.6973,62eab564-fa4a-4d0d-ad35-9e5634e688d4,Open,Sales Qualified,Mid Funnel,Ben Laddis,4/15/2026,4/7/2026,,,5,2026-04-07,5,,,,,6366
-001Hr000028Zcw6,"City Of Huron, SD",South Dakota,Municipality,Blake Anderson,14231,Open Opportunity,Tier 2,1.0,44.3633,-98.2143,64f920aa-0990-4396-8f1e-a3227bd88d9d,Open,Meeting Booked,Top of Funnel,Ben Laddis,10/21/2026,1/5/2025,,,6,2026-04-15,5,,1,,,6842
-001Hr000028ZcyB,"City Of Box Elder, SD",South Dakota,Municipality,Blake Anderson,12310,Open Opportunity,Tier 2,1.0,44.1125,-103.0682,e8a28e58-ef1e-446c-9462-3d78a733e6dd,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,5,2026-04-24,5,,,,,6724
-001Hr000028ZdHn,"City Of Aberdeen, SD",South Dakota,Municipality,Blake Anderson,28324,Nurture,Tier 1,1.5,45.4647,-98.4865,f2051cca-d2c5-4288-8bee-522951499af3,Open,Proposal,Mid Funnel,Sydney Ireland,2/24/2026,2/23/2026,"$33,000",Yes,10,2026-05-05,,,3,,7,7099
-001Hr000028ZdIo,"City Of Brandon, SD",South Dakota,Municipality,Blake Anderson,10950,Open Opportunity,Tier 2,1.0,43.5947,-96.572,db399046-eb32-44c5-9455-b369fe1ebb9a,Open,Proposal,Mid Funnel,Ben Laddis,3/31/2026,3/27/2026,"$25,000",Yes,4,2026-03-31,4,,,,,6684
-001Hr000028ZdNA,"City Of Madison, SD",South Dakota,Municipality,Blake Anderson,6071,Nurture,Tier 3,0.75,44.0061,-97.114,12d695b6-3e4d-4901-a01c-6bda2cf342a2,Closed Lost,,,Liam Shaw,12/12/2024,1/5/2025,,,10,2026-04-10,5,,5,,,6450
-001Hr000028ZdOB,"City Of Belle Fourche, SD",South Dakota,Municipality,Blake Anderson,5699,,Tier 3,0.75,44.6714,-103.8521,f57e8e40-ceef-4ebb-9f2a-2fb3e6c319ac,,,,,,,,,20,2026-04-16,20,,,,,6262
-001Hr000028ZdOG,"City Of Tea, SD",South Dakota,Municipality,Blake Anderson,6256,Implementation,Tier 3,0.75,43.4464,-96.8359,4bbb62a3-d90d-44cd-95aa-48a1aaa6b726,Closed Won,,,Ben Laddis,3/20/2026,3/13/2026,"$22,000",,11,2026-05-11,3,,,8,,6276
-001Hr000028ZdQS,"City Of Yankton, SD",South Dakota,Municipality,Blake Anderson,15453,Open Opportunity,Tier 2,1.0,42.8711,-97.3973,dcdbc3a6-c4db-4687-9ade-91260714e24d,Open,Proposal,Mid Funnel,Joe del Rosario,7/17/2025,7/15/2025,"$15,000",,1,2025-07-15,,,1,,,6875
-001Hr000028ZdRK,"City Of Sturgis, SD",South Dakota,Municipality,Blake Anderson,7107,Nurture,Tier 3,0.75,44.4097,-103.5091,d7b857df-b950-4f43-bb8e-c0c56d6e83d5,Closed Lost,,,Ben Laddis,,4/9/2026,,,5,2026-04-23,5,,,,,6438
-001Hr000028ZdS5,"City Of Brookings, SD",South Dakota,Municipality,Blake Anderson,23577,,Tier 2,1.0,44.3114,-96.7984,a42d2a3e-d289-407d-b267-ecb4eb803faf,,,,,,,,,1,2026-04-03,1,,,,,7033
-001Hr000028ZdV8,"City Of Mitchell, SD",South Dakota,Municipality,Blake Anderson,15631,,Tier 2,1.0,43.7094,-98.0298,73654fd3-5668-499c-b1ed-f8fa02cb65e3,,,,,,,,,4,2026-04-08,3,,1,,,6883
-001Hr000028ZdW5,"City Of Vermillion, SD",South Dakota,Municipality,Blake Anderson,11802,All Modules Live,Tier 2,1.0,42.7794,-96.9292,b1c9e720-6c6a-4664-9431-58aea876b49d,Closed Won,,,Joe del Rosario,9/26/2024,1/5/2025,"$18,000",,,,,,,,,6723
-001Hr000028ZdY6,"City Of Pierre, SD",South Dakota,Municipality,Blake Anderson,14000,,Tier 2,1.0,44.3668,-100.3538,20d06061-d64e-4cf7-8a59-8c149cbed50a,,,,,,,,,20,2026-04-15,20,,,,,6846
-001Hr000028ZdfL,"Codington County, SD",South Dakota,County,Blake Anderson,29278,,Tier 1,1.5,44.9954,-97.2349,12b608c7-286a-4d75-a5c4-e36097d90406,,,,,,,,,8,2026-05-07,3,5,,,,11814
-001Hr000028Zdhd,"City Of Rapid City, SD",South Dakota,Municipality,Blake Anderson,76184,Open Opportunity,Tier S,2.0,44.0805,-103.231,e87e9733-e550-4790-bc5c-af2136d4dda8,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,6,2026-03-27,5,,1,,,11668
-001Hr000028Zdn6,"Minnehaha County, SD",South Dakota,County,Blake Anderson,208639,,Tier S,2.0,43.6632,-96.8351,b10a2abd-1298-4d51-9c99-67d9b2c5b452,,,,,,,,,1,2026-04-06,1,,,,,11976
-001cv00000AuWQc,"Township Of Delapre, SD",South Dakota,Municipality,Blake Anderson,2046,,Tier 3,0.75,43.4603,-96.8673,8a6dae8f-3f3f-4235-becd-d5c3d3be7ddb,,,,,,,,,,,,,,,,12945
-001cv00000AuWXI,"Township Of Mapleton, SD",South Dakota,Municipality,Blake Anderson,2111,,Tier 3,0.75,43.6504,-96.728,d559ef86-dc7d-46ea-b665-5cd33f2ad4c5,,,,,,,,,,,,,,,,13205
-001cv00000AuWXN,"City Of Springfield, SD",South Dakota,Municipality,Blake Anderson,2053,,Tier 3,0.75,42.8542,-97.8973,8ff781a3-c634-4c9a-b7be-a681dff57b79,,,,,,,,,,,,,,,,13332
-001cv00000AuWb8,"City Of Elk Point, SD",South Dakota,Municipality,Blake Anderson,2124,,Tier 3,0.75,42.6833,-96.6836,e84716ad-bd55-466b-be9f-a855ee5eb41c,,,,,,,,,,,,,,,,13118
-001cv00000AuWbj,"County Of Faulk, SD",South Dakota,County,Blake Anderson,2137,,Tier 3,0.75,45.0827,-99.1531,a18028d6-cf92-438c-88c0-32d12a6380c9,,,,,,,,,,,,,,,,13127
-001cv00000AuWcI,"City Of Beresford, SD",South Dakota,Municipality,Blake Anderson,2145,,Tier 3,0.75,43.0805,-96.7737,76f80987-0b5a-4090-8efe-a115eca8a7b1,,,,,,,,,,,,,,,,13208
-001cv00000AuWcZ,"City Of Volga, SD",South Dakota,Municipality,Blake Anderson,2151,,Tier 3,0.75,44.3236,-96.9264,1a680483-594a-4a01-9625-496bb24ffa59,,,,,,,,,,,,,,,,13168
-001cv00000AuWdF,"City Of Fort Pierre, SD",South Dakota,Municipality,Blake Anderson,2162,,Tier 3,0.75,44.3536,-100.3737,b8880129-2cba-4e77-8462-0235a02796e3,,,,,,,,,,,,,,,,13206
-001cv00000AuWpc,"Township Of Springdale, SD",South Dakota,Municipality,Blake Anderson,2183,,Tier 3,0.75,43.464,-96.6424,4ab81e67-281e-4f5c-850f-f25a7d12c762,,,,,,,,,,,,,,,,13460
-001cv00000AuWpw,"City Of Redfield, SD",South Dakota,Municipality,Blake Anderson,2188,,Tier 3,0.75,44.8758,-98.5187,917f2c88-7d97-4b26-945e-99fffb23a246,,,,,,,,,3,2026-05-08,,3,,,,13467
-001cv00000AuX8i,"County Of Miner, SD",South Dakota,County,Blake Anderson,2314,,Tier 3,0.75,44.0644,-97.6982,e708fe7c-74f7-47ae-a5cd-5ef090ed47b0,,,,,,,,,3,2026-05-07,,3,,,,13863
-001cv00000AuXAN,"City Of Flandreau, SD",South Dakota,Municipality,Blake Anderson,2354,,Tier 3,0.75,44.0494,-96.5953,ab602612-107d-40a5-b108-d4c9e2974a95,,,,,,,,,1,2026-05-19,,1,,,,14003
-001cv00000AuXBF,"County Of Sanborn, SD",South Dakota,County,Blake Anderson,2378,,Tier 3,0.75,44.0403,-98.0465,bc74ebe2-d45b-4dd5-b8d5-dbdb544ad1cb,,,,,,,,,,,,,,,,14019
-001cv00000AuXNS,"City Of Chamberlain, SD",South Dakota,Municipality,Blake Anderson,2468,,Tier 3,0.75,43.8108,-99.3307,3833671d-0afe-4f15-81ba-177243174fce,,,,,,,,,,,,,,,,14102
-001cv00000AuXNq,"County Of Potter, SD",South Dakota,County,Blake Anderson,2475,,Tier 3,0.75,45.0875,-99.9904,6f9f3f86-9b7f-4959-9573-bfdf50a01677,,,,,,,,,,,,,,,,14068
-001cv00000AuXgM,"County Of Aurora, SD",South Dakota,County,Blake Anderson,2748,,Tier 3,0.75,44.2841,-96.6856,4be5f715-9f04-453c-a7e6-c1685f28611e,,,,,,,,,,,,,,,,14567
-001cv00000AuXjD,"County Of Perkins, SD",South Dakota,County,Blake Anderson,2819,,Tier 3,0.75,45.3888,-102.3224,994ab225-e3c5-477f-aaa5-1d19beb6b57c,,,,,,,,,,,,,,,,14705
-001cv00000AuXjM,"County Of Douglas, SD",South Dakota,County,Blake Anderson,2821,,Tier 3,0.75,43.4059,-98.3965,076b5575-3ea5-43d4-a242-16c2681e9541,,,,,,,,,,,,,,,,14744
-001cv00000AuXkU,"City Of Winner, SD",South Dakota,Municipality,Blake Anderson,2852,,Tier 3,0.75,43.3767,-99.859,2f08e090-61ee-4152-b681-499039fc93f0,,,,,,,,,,,,,,,,14801
-001cv00000AuXlZ,"County Of Jackson, SD",South Dakota,County,Blake Anderson,2878,,Tier 3,0.75,43.6648,-101.5248,006fdc1e-79a4-4359-8cba-82d37fe6c01b,,,,,,,,,,,,,,,,14746
-001cv00000AuY12,"City Of Lead, SD",South Dakota,Municipality,Blake Anderson,2971,,Tier 3,0.75,44.3522,-103.7652,b184a461-7f91-4403-898c-688fe39d66a2,,,,,,,,,,,,,,,,15039
-001cv00000AuYAg,"City Of Mobridge, SD",South Dakota,Municipality,Blake Anderson,3179,,Tier 3,0.75,45.5372,-100.4279,39a1309e-e280-4e85-a648-790b4a6db2b9,,,,,,,,,4,2026-05-15,,3,1,,,15679
-001cv00000AuYBS,"County Of Hand, SD",South Dakota,County,Blake Anderson,3095,,Tier 3,0.75,44.4947,-99.0129,a3589680-07b6-472a-9518-848f5dffa515,,,,,,,,,,,,,,,,15183
-001cv00000AuYCy,"Township Of Split Rock, SD",South Dakota,Municipality,Blake Anderson,3150,,Tier 3,0.75,43.5432,-96.5997,f67b886b-2004-40d9-9300-6d7bccb12ffa,,,,,,,,,4,2026-05-15,,4,,,,15228
-001cv00000AuYFK,"City Of North Sioux, SD",South Dakota,Municipality,Blake Anderson,3015,,Tier 3,0.75,42.5272,-96.4831,ac950302-7948-4db3-aaa2-b34082875905,,,,,,,,,7,2026-04-30,,2,5,,,15132
-001cv00000AuYFe,"City Of Summerset, SD",South Dakota,Municipality,Blake Anderson,3027,,Tier 3,0.75,44.19,-103.3438,382b91e5-f674-4c7a-bfe4-9f854a7d9643,,,,,,,,,6,2026-05-07,,6,,,,14973
-001cv00000AuYFo,"County Of Stanley, SD",South Dakota,County,Blake Anderson,3032,,Tier 3,0.75,44.3386,-100.8,736e11d6-8780-4b5f-a953-f0a33a6651d6,,,,,,,,,2,2026-05-11,,2,,,,15022
-001cv00000AuYGT,"City Of Canton, SD",South Dakota,Municipality,Blake Anderson,3054,,Tier 3,0.75,43.3008,-96.5928,bcdf880e-318e-42ce-83af-9223c122bf47,,,,,,,,,2,2026-04-29,,2,,,,14993
-001cv00000AuYJi,"City Of Hartford, SD",South Dakota,Municipality,Blake Anderson,3376,,Tier 3,0.75,43.623,-96.9426,c6f87b64-6cb8-4ef8-a724-c5cfeca291d5,,,,,,,,,10,2026-04-23,9,,1,,,15843
-001cv00000AuYKe,"County Of Bennett, SD",South Dakota,County,Blake Anderson,3406,,Tier 3,0.75,43.1224,-101.6158,650e31ae-20c8-478e-8a9f-20818e8a86ab,,,,,,,,,,,,,,,,16010
-001cv00000AuYMB,"City Of Milbank, SD",South Dakota,Municipality,Blake Anderson,3474,,Tier 3,0.75,45.219,-96.6408,d4ca3867-f094-437e-b47b-a9135e3498e1,,,,,,,,,,,,,,,,16025
-001cv00000AuYMS,"City Of Hot Springs, SD",South Dakota,Municipality,Blake Anderson,3485,Open Opportunity,Tier 3,0.75,43.4316,-103.4744,8cb24a69-152f-475d-b428-cd625ccfecee,Open,Meeting Booked,Top of Funnel,Blake Anderson,5/27/2026,5/18/2026,,,22,2026-05-19,,21,1,,,15301
-001cv00000AuYN5,"County Of Hanson, SD",South Dakota,County,Blake Anderson,3505,,Tier 3,0.75,43.6082,-97.6982,91f1378a-52be-4b84-b603-c36ca969f466,,,,,,,,,2,2026-05-04,,2,,,,15367
-001cv00000AuYgp,"County Of Clark, SD",South Dakota,County,Blake Anderson,3855,,Tier 3,0.75,44.8777,-97.7331,d702b7db-a37c-4185-a0ae-2b060800a080,,,,,,,,,3,2026-05-15,,3,,,,16184
-001cv00000AuYh6,"County Of Corson, SD",South Dakota,County,Blake Anderson,3872,,Tier 3,0.75,45.7623,-101.691,a7913160-1e3d-48ae-acb2-8db9f9d1b131,,,,,,,,,,,,,,,,16195
-001cv00000AuYki,"City Of Dell Rapids, SD",South Dakota,Municipality,Blake Anderson,3953,,Tier 3,0.75,43.8261,-96.7062,eaf59b6c-3773-4865-8aeb-90137370440e,,,,,,,,,6,2026-04-24,5,,1,,,16501
-001cv00000AuYlC,"County Of Gregory, SD",South Dakota,County,Blake Anderson,3977,,Tier 3,0.75,43.2355,-99.4293,7a4a6e61-130b-4157-9941-580a29ef2d54,,,,,,,,,2,2026-05-11,,2,,,,16532
-001cv00000AuYmM,"County Of Edmunds, SD",South Dakota,County,Blake Anderson,4033,,Tier 3,0.75,45.4586,-99.1819,7ec6378f-22d2-4923-b498-58e05c2fea59,,,,,,,,,1,2026-04-30,,1,,,,16525
-001cv00000AuYsu,"County Of Lyman, SD",South Dakota,County,Blake Anderson,3764,,Tier 3,0.75,43.9017,-99.8125,a29046e2-6343-467f-a8f0-68a16f7d96e2,,,,,,,,,2,2026-05-01,,2,,,,16477
-001cv00000AuYud,"County Of Deuel, SD",South Dakota,County,Blake Anderson,4272,,Tier 3,0.75,44.7311,-96.6638,5344a7c2-f459-493a-8cc4-3b9e47528bcc,,,,,,,,,2,2026-05-04,,2,,,,16772
-001cv00000AuYv9,"County Of Marshall, SD",South Dakota,County,Blake Anderson,4304,,Tier 3,0.75,45.7271,-97.6046,2fde0439-a68d-4a4e-94a7-14feddad8991,,,,,,,,,2,2026-05-11,,2,,,,16851
-001cv00000AuZ82,"County Of Day, SD",South Dakota,County,Blake Anderson,5414,,Tier 3,0.75,45.4167,-97.7024,b639809a-2313-4bed-a180-2c2fc2cb28ea,,,,,,,,,3,2026-05-06,,3,,,,16982
-001cv00000AuZBi,"County Of Hamlin, SD",South Dakota,County,Blake Anderson,6255,,Tier 3,0.75,44.6999,-97.179,d75fa8c6-a23e-4672-88cb-a3286e272aa7,,,,,,,,,4,2026-05-07,,4,,,,17109
-001cv00000AuZBm,"County Of Spink, SD",South Dakota,County,Blake Anderson,6269,,Tier 3,0.75,44.844,-98.3517,1949fc1b-0ea6-49d7-9c3f-e14f6e4e2d32,,,,,,,,,3,2026-05-04,,1,2,,,17107
-001cv00000AuZD5,"County Of Bon Homme, SD",South Dakota,County,Blake Anderson,7014,,Tier 3,0.75,42.9815,-97.8722,03e80528-acc0-453e-b1b5-de5265fe6423,,,,,,,,,,,,,,,,17268
-001cv00000AuZIN,"County Of Moody, SD",South Dakota,County,Blake Anderson,6315,Recent Competitor Purchase,Tier 3,0.75,43.9779,-96.6638,cc663b12-0a15-4d3e-9755-3ee4bb257477,Closed Lost,,,Blake Anderson,5/5/2026,5/1/2026,,,4,2026-05-05,,3,,1,,17274
-001cv00000AuZJz,"County Of Tripp, SD",South Dakota,County,Blake Anderson,5569,,Tier 3,0.75,43.2236,-99.7233,5c7d9032-6008-4c75-bf54-b785d891ad4b,,,,,,,,,,,,,,,,17244
-001cv00000AuZKD,"County Of Mccook, SD",South Dakota,County,Blake Anderson,5695,,Tier 3,0.75,43.6311,-97.3517,92495989-eb87-4e11-b537-81ddd30bc585,,,,,,,,,3,2026-05-06,,2,1,,,17180
-001cv00000AuZLh,"Township Of Big Sioux, SD",South Dakota,Municipality,Blake Anderson,4797,,Tier 3,0.75,42.5273,-96.5196,408a262b-0a2c-4ef1-a549-952e945bed95,,,,,,,,,,,,,,,,17338
-001cv00000AuZOp,"County Of Fall River, SD",South Dakota,County,Blake Anderson,7202,,Tier 3,0.75,43.224,-103.4512,399c342c-afdc-4e52-94d2-be050c01e69e,,,,,,,,,,,,,,,,17420
-001cv00000AuZR5,"County Of Hutchinson, SD",South Dakota,County,Blake Anderson,7411,,Tier 3,0.75,43.3017,-97.6982,f2057d67-dc70-46be-8426-017881376e9a,,,,,,,,,1,2025-07-16,,,1,,,17586
-001cv00000AuZRJ,"County Of Grant, SD",South Dakota,County,Blake Anderson,7519,,Tier 3,0.75,45.1752,-96.7507,8ba5c4f1-7e35-416d-9937-7349090e445d,,,,,,,,,3,2026-05-07,,1,2,,,17610
-001cv00000AuZTj,"County Of Kingsbury, SD",South Dakota,County,Blake Anderson,5192,,Tier 3,0.75,44.3777,-97.5247,ecec3e19-24ae-478c-a8d4-def316d9905d,,,,,,,,,4,2026-05-18,,3,1,,,17486
-001cv00000AuZTv,"County Of Brule, SD",South Dakota,County,Blake Anderson,5242,,Tier 3,0.75,43.6573,-99.1013,0333b983-3b23-43a5-8867-5210bb134f1b,,,,,,,,,2,2026-05-11,,2,,,,17607
-001cv00000AuZTy,"County Of Dewey, SD",South Dakota,County,Blake Anderson,5246,,Tier 3,0.75,43.5308,-104.041,91a7e48f-0f7e-45b4-b71b-79b6083db227,,,,,,,,,,,,,,,,17446
-001cv00000AuZU0,"County Of Walworth, SD",South Dakota,County,Blake Anderson,5248,,Tier 3,0.75,45.3811,-100.0944,7ca258f6-7147-4667-bbfd-8860a5c6cdb7,,,,,,,,,1,2026-05-04,,1,,,,17574
-001cv00000AuZYB,"County Of Custer, SD",South Dakota,County,Blake Anderson,8609,Open Opportunity,Tier 3,0.75,43.7667,-103.5988,3a39d827-c0e9-4637-a551-6af2a9d8a0ad,Closed Lost,,,Joe del Rosario,7/29/2025,7/29/2025,,,3,2026-03-27,1,,2,,,17813
-001cv00000AuZZE,"County Of Charles Mix, SD",South Dakota,County,Blake Anderson,9163,,Tier 3,0.75,43.0985,-98.3965,144c1b48-b2fd-4f43-aaf9-869d734abfee,,,,,,,,,1,2026-05-01,,1,,,,18412
-001cv00000AuZcV,"County Of Roberts, SD",South Dakota,County,Blake Anderson,10163,Open Opportunity,Tier 2,1.0,45.6116,-97.0336,fb28ae87-7900-47ea-992a-ab982d8d4e81,Open,Meeting Booked,Top of Funnel,Blake Anderson,5/14/2026,5/6/2026,,,3,2026-05-14,,2,,1,,18266
-001cv00000AuZcv,"County Of Butte, SD",South Dakota,County,Blake Anderson,10456,,Tier 2,1.0,44.9252,-103.7009,d581c231-c44c-4bd2-8c44-9c15ef28e82e,,,,,,,,,4,2026-05-19,,3,1,,,18315
-001cv00000AuZdI,"County Of Turner, SD",South Dakota,County,Blake Anderson,8708,,Tier 3,0.75,43.3356,-97.179,2756a130-7047-4301-be93-9bb514f9a79b,,,,,,,,,2,2026-05-04,,2,,,,17805
-001cv00000AuZhi,"County Of Clay, SD",South Dakota,County,Blake Anderson,15150,,Tier 2,1.0,42.8829,-97.0068,3d42536a-3e4e-420c-ac23-3db48f60a47a,,,,,,,,,2,2026-05-19,,1,1,,,18145
-001cv00000AuZlU,"County Of Lake, SD",South Dakota,County,Jenny Allison,10851,Open Opportunity,Tier 2,1.0,43.9467,-97.179,9eb27426-d7b1-4178-a54b-6a5c20b9fc15,Open,Sales Qualified,Mid Funnel,Blake Anderson,5/5/2026,5/4/2026,,,14,2026-05-12,,1,11,2,,18028
-001cv00000AuZrK,"County Of Union, SD",South Dakota,County,Blake Anderson,16872,,Tier 2,1.0,42.8621,-96.7066,0f1288be-5da9-4476-b9df-54f834bd1a9e,,,,,,,,,6,2026-05-12,,5,1,,,18497
-001cv00000AuZst,"County Of Beadle, SD",South Dakota,County,Blake Anderson,19121,,Tier 2,1.0,44.4797,-98.2213,505cb80d-96cd-4bc9-822c-8dcc64223896,,,,,,,,,1,2025-08-12,,,1,,,18556
-001cv00000AuZtr,"County Of Hughes, SD",South Dakota,County,Blake Anderson,17694,,Tier 2,1.0,44.3535,-99.8125,3ff1416a-4211-4867-9277-cd734a31b5d4,,,,,,,,,3,2026-05-07,,2,1,,,18517
-001cv00000Aua1G,"County Of Meade, SD",South Dakota,County,Blake Anderson,30173,,Tier 1,1.5,44.4415,-102.6855,8ae24be7-56e1-4343-96c9-4edfe44f43b1,,,,,,,,,4,2026-05-19,,1,3,,,18663
-001cv00000Aua3F,"County Of Davison, SD",South Dakota,County,Blake Anderson,19878,,Tier 2,1.0,43.7242,-98.2213,8ddb213f-f9bf-4f06-986e-e65e801c69cb,,,,,,,,,8,2026-05-19,,2,6,,,18668
-001cv00000AuaA2,"City Of Watertown, SD",South Dakota,Municipality,Blake Anderson,22722,,Tier 2,1.0,44.8994,-97.1151,bd293ca6-de5d-4001-800d-865fa573b9b3,,,,,,,,,1,2026-03-18,1,,,,,18914
-001cv00000AuaAI,"County Of Yankton, SD",South Dakota,County,Blake Anderson,23297,,Tier 2,1.0,42.8711,-97.3973,f6089792-2fb9-4c5e-b080-cd6f0653b416,,,,,,,,,4,2026-05-14,,2,2,,,18905
-001cv00000AuaBG,"County Of Lawrence, SD",South Dakota,County,Blake Anderson,26165,,Tier 1,1.5,44.3107,-103.798,76d74e77-e2e8-45de-8a2b-442cd5933676,,,,,,,,,2,2026-04-23,1,,1,,,19312
-001cv00000AuaCk,"County Of Brookings, SD",South Dakota,County,Blake Anderson,34639,,Tier 1,1.5,44.4212,-96.8351,db9a9f95-823c-4f55-991c-10bb53db7243,,,,,,,,,4,2026-05-06,1,1,2,,,19028
-001cv00000AuaEB,"County Of Brown, SD",South Dakota,County,Blake Anderson,38101,,Tier 1,1.5,45.7582,-98.2543,e9a055c1-0a24-49d9-9062-aef4c7cdcc0b,,,,,,,,,8,2026-04-23,7,,1,,,19182
-001cv00000AuaXk,"County Of Lincoln, SD",South Dakota,County,Blake Anderson,67870,,Tier S,2.0,43.2027,-96.8351,7fe6ca2d-ff9d-44e9-b5eb-eca41f8483e3,,,,,,,,,4,2026-04-06,1,,3,,,19683
-001cv00000B21pf,"County Of Ziebach, SD",South Dakota,County,Blake Anderson,2380,,Tier 3,0.75,44.8481,-101.7022,36c06dde-0383-4da0-9259-cc4d388de062,,,,,,,,,,,,,,,,20202
-001cv00000B21qY,"City Of Lennox, SD",South Dakota,Municipality,Blake Anderson,2405,,Tier 3,0.75,43.3541,-96.892,1510a649-ef68-4310-9c1b-bfd6080f1a3a,,,,,,,,,1,2026-04-14,1,,,,,20175
-001cv00000B21rA,"County Of Mcpherson, SD",South Dakota,County,Blake Anderson,2420,,Tier 3,0.75,45.7556,-99.2784,64c68b70-d80b-4ff8-87b4-cab8b15c706d,,,,,,,,,,,,,,,,20150
-001cv00000B21rX,"City Of Sisseton, SD",South Dakota,Municipality,Blake Anderson,2428,,Tier 3,0.75,45.6647,-97.0498,77551cfd-f554-42dc-be81-aea1e0f2d5db,,,,,,,,,,,,,,,,20237
-001cv00000bAeBg,"City of Sioux Falls, SD",South Dakota,Municipality,Blake Anderson,209289,,Tier S,2.0,43.546,-96.7313,d8f2d028-3916-4b18-83d9-b3505b2c4a64,,,,,,,,,,,,,,,,22752
-001cv00000bBVez,City of Philip,South Dakota,Municipality,Blake Anderson,752,,Tier 3,0.75,44.0394,-101.6651,16eba757-b666-4ee5-8844-ac8290470c27,,,,,,,,,,,,,,,,21179
-001cv00000bBVkm,City of Hill City,South Dakota,Municipality,Blake Anderson,937,,Tier 3,0.75,43.9325,-103.5752,c5d858ec-8262-48a9-bd27-3d45a5666ae8,,,,,,,,,,,,,,,,21346
-001cv00000bBVsX,City of Lemmon,South Dakota,Municipality,Blake Anderson,1141,,Tier 3,0.75,45.9408,-102.1593,d221a269-b234-4042-92e1-9ec85b31f77b,,,,,,,,,,,,,,,,21546
-001cv00000bBVwj,City of Britton,South Dakota,Municipality,Blake Anderson,1199,,Tier 3,0.75,45.7916,-97.7509,0e53bb5c-9cc6-4215-b18a-253b1b1157e1,,,,,,,,,,,,,,,,21595
-001cv00000bBVwq,Township of Jefferson,South Dakota,Municipality,Blake Anderson,1209,,Tier 3,0.75,42.6025,-96.5592,e3c3a46d-e99b-4e9f-a55d-371a69570abd,,,,,,,,,,,,,,,,21622
-001cv00000bBVyD,City of Freeman,South Dakota,Municipality,Blake Anderson,1308,,Tier 3,0.75,43.3525,-97.4373,08411777-defc-4376-838e-ea6b72d4afed,,,,,,,,,,,,,,,,21708
-001cv00000bBVyM,City of Salem,South Dakota,Municipality,Blake Anderson,1315,,Tier 3,0.75,43.7241,-97.389,161a0f54-c4b4-4a4f-a5cb-0adbc3ff719c,,,,,,,,,,,,,,,,21713
-001cv00000bBWJa,City of Custer,South Dakota,Municipality,Blake Anderson,1829,,Tier 3,0.75,43.7667,-103.5988,e469270d-8f17-47d4-8b74-86556d87f954,,,,,,,,,,,,,,,,21782
-001cv00000bBWJd,Haakon County,South Dakota,County,Blake Anderson,1834,,Tier 3,0.75,44.2671,-101.5248,1df82890-1b4f-4447-bad6-37f2cdb4ffed,,,,,,,,,,,,,,,,21790
-001cv00000bBWOV,City of Webster,South Dakota,Municipality,Blake Anderson,1666,,Tier 3,0.75,45.3322,-97.5201,129dbf88-821d-4ef1-a1ec-9efdee3592fa,,,,,,,,,,,,,,,,22110
-001cv00000bBWOr,Jerauld County,South Dakota,County,Blake Anderson,1689,,Tier 3,0.75,44.0365,-98.6161,424f66fc-a06d-4a3e-865d-b91721fadf8f,,,,,,,,,,,,,,,,22225
-001cv00000bBWse,Harding County,South Dakota,County,Blake Anderson,1325,,Tier 3,0.75,45.5483,-103.5996,633f91c3-e21e-4226-94f1-b3ee3e0009ec,,,,,,,,,,,,,,,,22604
-001cv00000bBWst,Campbell County,South Dakota,County,Blake Anderson,1342,,Tier 3,0.75,45.8415,-100.0677,35ac4e4f-e62a-4dd6-a187-d6dc6ec463e2,,,,,,,,,,,,,,,,22598
-001cv00000bBWsu,City of Groton,South Dakota,Municipality,Blake Anderson,1343,,Tier 3,0.75,45.4475,-98.0987,39b9040d-cc66-411e-88f0-738839ecef76,,,,,,,,,,,,,,,,22572
-001cv00000bBWsy,City of Deadwood,South Dakota,Municipality,Blake Anderson,1347,,Tier 3,0.75,44.3767,-103.7296,f7e890f0-3bf6-4d0f-9abe-56dda56e6ccc,,,,,,,,,,,,,,,,22576
-001cv00000bBWtE,City of Crooks,South Dakota,Municipality,Blake Anderson,1369,,Tier 3,0.75,43.6647,-96.8108,bd667f8d-d020-4324-8fa3-756c31e2a357,,,,,,,,,,,,,,,,22658
-001cv00000bBWuS,Sully County,South Dakota,County,Blake Anderson,1468,,Tier 3,0.75,44.7798,-100.0682,0636e508-b44e-4228-89d4-46cb4cab4e74,,,,,,,,,,,,,,,,22680
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ben Laddis,Calls - Blake Anderson,Calls - Joe del Rosario,Calls - Jenny Allison,Calls - Sydney Ireland,Salesforce ID
+001Hr000028Zcb2,"Pennington County, SD",South Dakota,County,Blake Anderson,115979,,Tier S,2.0,43.8901,-102.2548,e35e348a-42b3-4bca-bb10-dfd73b38bd75,,,,,,,,,16,2026-05-26,8,8,,,,
+001Hr000028Zcg8,"City Of Spearfish, SD",South Dakota,Municipality,Blake Anderson,12358,Open Opportunity,Tier 2,1.0,44.4908,-103.8594,8dc94e01-4133-4f27-a9bf-8bdc7ecb74ab,Open,Initial Interest,Top of Funnel,Ben Laddis,,3/4/2026,,,26,2026-04-24,22,,4,,,
+001Hr000028Zcoz,"City Of Harrisburg, SD",South Dakota,Municipality,Blake Anderson,7638,Open Opportunity,Tier 3,0.75,43.4314,-96.6973,62eab564-fa4a-4d0d-ad35-9e5634e688d4,Open,Sales Qualified,Mid Funnel,Ben Laddis,4/15/2026,4/7/2026,,,5,2026-04-07,5,,,,,
+001Hr000028Zcw6,"City Of Huron, SD",South Dakota,Municipality,Blake Anderson,14231,Open Opportunity,Tier 2,1.0,44.3633,-98.2143,64f920aa-0990-4396-8f1e-a3227bd88d9d,Open,Meeting Booked,Top of Funnel,Ben Laddis,10/21/2026,1/5/2025,,,6,2026-04-15,5,,1,,,
+001Hr000028ZcyB,"City Of Box Elder, SD",South Dakota,Municipality,Blake Anderson,12310,Open Opportunity,Tier 2,1.0,44.1125,-103.0682,e8a28e58-ef1e-446c-9462-3d78a733e6dd,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,5,2026-04-24,5,,,,,
+001Hr000028ZdHn,"City Of Aberdeen, SD",South Dakota,Municipality,Blake Anderson,28324,Nurture,Tier 1,1.5,45.4647,-98.4865,f2051cca-d2c5-4288-8bee-522951499af3,Open,Proposal,Mid Funnel,Sydney Ireland,2/24/2026,2/23/2026,"$33,000",Yes,10,2026-05-05,,,3,,7,
+001Hr000028ZdIo,"City Of Brandon, SD",South Dakota,Municipality,Blake Anderson,10950,Open Opportunity,Tier 2,1.0,43.5947,-96.572,db399046-eb32-44c5-9455-b369fe1ebb9a,Open,Proposal,Mid Funnel,Ben Laddis,3/31/2026,3/27/2026,"$25,000",Yes,4,2026-03-31,4,,,,,
+001Hr000028ZdNA,"City Of Madison, SD",South Dakota,Municipality,Blake Anderson,6071,Nurture,Tier 3,0.75,44.0061,-97.114,12d695b6-3e4d-4901-a01c-6bda2cf342a2,Closed Lost,,,Liam Shaw,12/12/2024,1/5/2025,,,10,2026-04-10,5,,5,,,
+001Hr000028ZdOB,"City Of Belle Fourche, SD",South Dakota,Municipality,Blake Anderson,5699,,Tier 3,0.75,44.6714,-103.8521,f57e8e40-ceef-4ebb-9f2a-2fb3e6c319ac,,,,,,,,,20,2026-04-16,20,,,,,
+001Hr000028ZdOG,"City Of Tea, SD",South Dakota,Municipality,Blake Anderson,6256,Implementation,Tier 3,0.75,43.4464,-96.8359,4bbb62a3-d90d-44cd-95aa-48a1aaa6b726,Closed Won,,,Ben Laddis,3/20/2026,3/13/2026,"$22,000",,11,2026-05-11,3,,,8,,
+001Hr000028ZdQS,"City Of Yankton, SD",South Dakota,Municipality,Blake Anderson,15453,Open Opportunity,Tier 2,1.0,42.8711,-97.3973,dcdbc3a6-c4db-4687-9ade-91260714e24d,Open,Proposal,Mid Funnel,Joe del Rosario,7/17/2025,7/15/2025,"$15,000",,1,2025-07-15,,,1,,,
+001Hr000028ZdRK,"City Of Sturgis, SD",South Dakota,Municipality,Blake Anderson,7107,Nurture,Tier 3,0.75,44.4097,-103.5091,d7b857df-b950-4f43-bb8e-c0c56d6e83d5,Closed Lost,,,Ben Laddis,,4/9/2026,,,5,2026-04-23,5,,,,,
+001Hr000028ZdS5,"City Of Brookings, SD",South Dakota,Municipality,Blake Anderson,23577,,Tier 2,1.0,44.3114,-96.7984,a42d2a3e-d289-407d-b267-ecb4eb803faf,,,,,,,,,1,2026-04-03,1,,,,,
+001Hr000028ZdV8,"City Of Mitchell, SD",South Dakota,Municipality,Blake Anderson,15631,,Tier 2,1.0,43.7094,-98.0298,73654fd3-5668-499c-b1ed-f8fa02cb65e3,,,,,,,,,3,2026-04-08,3,,,,,
+001Hr000028ZdW5,"City Of Vermillion, SD",South Dakota,Municipality,Blake Anderson,11802,All Modules Live,Tier 2,1.0,42.7794,-96.9292,b1c9e720-6c6a-4664-9431-58aea876b49d,Closed Won,,,Joe del Rosario,9/26/2024,1/5/2025,"$18,000",,,,,,,,,
+001Hr000028ZdY6,"City Of Pierre, SD",South Dakota,Municipality,Blake Anderson,14000,,Tier 2,1.0,44.3668,-100.3538,20d06061-d64e-4cf7-8a59-8c149cbed50a,,,,,,,,,20,2026-04-15,20,,,,,
+001Hr000028ZdfL,"Codington County, SD",South Dakota,County,Blake Anderson,29278,,Tier 1,1.5,44.9954,-97.2349,12b608c7-286a-4d75-a5c4-e36097d90406,,,,,,,,,8,2026-05-07,3,5,,,,
+001Hr000028Zdhd,"City Of Rapid City, SD",South Dakota,Municipality,Blake Anderson,76184,Open Opportunity,Tier S,2.0,44.0805,-103.231,e87e9733-e550-4790-bc5c-af2136d4dda8,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,6,2026-03-27,5,,1,,,
+001Hr000028Zdn6,"Minnehaha County, SD",South Dakota,County,Blake Anderson,208639,,Tier S,2.0,43.6632,-96.8351,b10a2abd-1298-4d51-9c99-67d9b2c5b452,,,,,,,,,1,2026-04-06,1,,,,,
+001cv00000AuWQc,"Township Of Delapre, SD",South Dakota,Municipality,Blake Anderson,2046,,Tier 3,0.75,43.4603,-96.8673,8a6dae8f-3f3f-4235-becd-d5c3d3be7ddb,,,,,,,,,,,,,,,,
+001cv00000AuWXI,"Township Of Mapleton, SD",South Dakota,Municipality,Blake Anderson,2111,,Tier 3,0.75,43.6504,-96.728,d559ef86-dc7d-46ea-b665-5cd33f2ad4c5,,,,,,,,,,,,,,,,
+001cv00000AuWXN,"City Of Springfield, SD",South Dakota,Municipality,Blake Anderson,2053,,Tier 3,0.75,42.8542,-97.8973,8ff781a3-c634-4c9a-b7be-a681dff57b79,,,,,,,,,,,,,,,,
+001cv00000AuWb8,"City Of Elk Point, SD",South Dakota,Municipality,Blake Anderson,2124,,Tier 3,0.75,42.6833,-96.6836,e84716ad-bd55-466b-be9f-a855ee5eb41c,,,,,,,,,,,,,,,,
+001cv00000AuWbj,"County Of Faulk, SD",South Dakota,County,Blake Anderson,2137,,Tier 3,0.75,45.0827,-99.1531,a18028d6-cf92-438c-88c0-32d12a6380c9,,,,,,,,,,,,,,,,
+001cv00000AuWcI,"City Of Beresford, SD",South Dakota,Municipality,Blake Anderson,2145,,Tier 3,0.75,43.0805,-96.7737,76f80987-0b5a-4090-8efe-a115eca8a7b1,,,,,,,,,,,,,,,,
+001cv00000AuWcZ,"City Of Volga, SD",South Dakota,Municipality,Blake Anderson,2151,,Tier 3,0.75,44.3236,-96.9264,1a680483-594a-4a01-9625-496bb24ffa59,,,,,,,,,,,,,,,,
+001cv00000AuWdF,"City Of Fort Pierre, SD",South Dakota,Municipality,Blake Anderson,2162,,Tier 3,0.75,44.3536,-100.3737,b8880129-2cba-4e77-8462-0235a02796e3,,,,,,,,,,,,,,,,
+001cv00000AuWpc,"Township Of Springdale, SD",South Dakota,Municipality,Blake Anderson,2183,,Tier 3,0.75,43.464,-96.6424,4ab81e67-281e-4f5c-850f-f25a7d12c762,,,,,,,,,,,,,,,,
+001cv00000AuWpw,"City Of Redfield, SD",South Dakota,Municipality,Blake Anderson,2188,,Tier 3,0.75,44.8758,-98.5187,917f2c88-7d97-4b26-945e-99fffb23a246,,,,,,,,,3,2026-05-08,,3,,,,
+001cv00000AuX8i,"County Of Miner, SD",South Dakota,County,Blake Anderson,2314,,Tier 3,0.75,44.0644,-97.6982,e708fe7c-74f7-47ae-a5cd-5ef090ed47b0,,,,,,,,,3,2026-05-07,,3,,,,
+001cv00000AuXAN,"City Of Flandreau, SD",South Dakota,Municipality,Blake Anderson,2354,,Tier 3,0.75,44.0494,-96.5953,ab602612-107d-40a5-b108-d4c9e2974a95,,,,,,,,,3,2026-05-26,,3,,,,
+001cv00000AuXBF,"County Of Sanborn, SD",South Dakota,County,Blake Anderson,2378,,Tier 3,0.75,44.0403,-98.0465,bc74ebe2-d45b-4dd5-b8d5-dbdb544ad1cb,,,,,,,,,,,,,,,,
+001cv00000AuXNS,"City Of Chamberlain, SD",South Dakota,Municipality,Blake Anderson,2468,,Tier 3,0.75,43.8108,-99.3307,3833671d-0afe-4f15-81ba-177243174fce,,,,,,,,,,,,,,,,
+001cv00000AuXNq,"County Of Potter, SD",South Dakota,County,Blake Anderson,2475,,Tier 3,0.75,45.0875,-99.9904,6f9f3f86-9b7f-4959-9573-bfdf50a01677,,,,,,,,,,,,,,,,
+001cv00000AuXgM,"County Of Aurora, SD",South Dakota,County,Blake Anderson,2748,,Tier 3,0.75,44.2841,-96.6856,4be5f715-9f04-453c-a7e6-c1685f28611e,,,,,,,,,,,,,,,,
+001cv00000AuXjD,"County Of Perkins, SD",South Dakota,County,Blake Anderson,2819,,Tier 3,0.75,45.3888,-102.3224,994ab225-e3c5-477f-aaa5-1d19beb6b57c,,,,,,,,,,,,,,,,
+001cv00000AuXjM,"County Of Douglas, SD",South Dakota,County,Blake Anderson,2821,,Tier 3,0.75,43.4059,-98.3965,076b5575-3ea5-43d4-a242-16c2681e9541,,,,,,,,,,,,,,,,
+001cv00000AuXkU,"City Of Winner, SD",South Dakota,Municipality,Blake Anderson,2852,,Tier 3,0.75,43.3767,-99.859,2f08e090-61ee-4152-b681-499039fc93f0,,,,,,,,,,,,,,,,
+001cv00000AuXlZ,"County Of Jackson, SD",South Dakota,County,Blake Anderson,2878,,Tier 3,0.75,43.6648,-101.5248,006fdc1e-79a4-4359-8cba-82d37fe6c01b,,,,,,,,,,,,,,,,
+001cv00000AuY12,"City Of Lead, SD",South Dakota,Municipality,Blake Anderson,2971,,Tier 3,0.75,44.3522,-103.7652,b184a461-7f91-4403-898c-688fe39d66a2,,,,,,,,,,,,,,,,
+001cv00000AuYAg,"City Of Mobridge, SD",South Dakota,Municipality,Blake Anderson,3179,,Tier 3,0.75,45.5372,-100.4279,39a1309e-e280-4e85-a648-790b4a6db2b9,,,,,,,,,4,2026-05-15,,3,1,,,
+001cv00000AuYBS,"County Of Hand, SD",South Dakota,County,Blake Anderson,3095,,Tier 3,0.75,44.4947,-99.0129,a3589680-07b6-472a-9518-848f5dffa515,,,,,,,,,,,,,,,,
+001cv00000AuYCy,"Township Of Split Rock, SD",South Dakota,Municipality,Blake Anderson,3150,,Tier 3,0.75,43.5432,-96.5997,f67b886b-2004-40d9-9300-6d7bccb12ffa,,,,,,,,,4,2026-05-15,,4,,,,
+001cv00000AuYFK,"City Of North Sioux, SD",South Dakota,Municipality,Blake Anderson,3015,,Tier 3,0.75,42.5272,-96.4831,ac950302-7948-4db3-aaa2-b34082875905,,,,,,,,,7,2026-04-30,,2,5,,,
+001cv00000AuYFe,"City Of Summerset, SD",South Dakota,Municipality,Blake Anderson,3027,,Tier 3,0.75,44.19,-103.3438,382b91e5-f674-4c7a-bfe4-9f854a7d9643,,,,,,,,,6,2026-05-07,,6,,,,
+001cv00000AuYFo,"County Of Stanley, SD",South Dakota,County,Blake Anderson,3032,,Tier 3,0.75,44.3386,-100.8,736e11d6-8780-4b5f-a953-f0a33a6651d6,,,,,,,,,2,2026-05-11,,2,,,,
+001cv00000AuYGT,"City Of Canton, SD",South Dakota,Municipality,Blake Anderson,3054,,Tier 3,0.75,43.3008,-96.5928,bcdf880e-318e-42ce-83af-9223c122bf47,,,,,,,,,2,2026-04-29,,2,,,,
+001cv00000AuYJi,"City Of Hartford, SD",South Dakota,Municipality,Blake Anderson,3376,,Tier 3,0.75,43.623,-96.9426,c6f87b64-6cb8-4ef8-a724-c5cfeca291d5,,,,,,,,,10,2026-04-23,9,,1,,,
+001cv00000AuYKe,"County Of Bennett, SD",South Dakota,County,Blake Anderson,3406,,Tier 3,0.75,43.1224,-101.6158,650e31ae-20c8-478e-8a9f-20818e8a86ab,,,,,,,,,,,,,,,,
+001cv00000AuYMB,"City Of Milbank, SD",South Dakota,Municipality,Blake Anderson,3474,,Tier 3,0.75,45.219,-96.6408,d4ca3867-f094-437e-b47b-a9135e3498e1,,,,,,,,,,,,,,,,
+001cv00000AuYMS,"City Of Hot Springs, SD",South Dakota,Municipality,Blake Anderson,3485,Open Opportunity,Tier 3,0.75,43.4316,-103.4744,8cb24a69-152f-475d-b428-cd625ccfecee,Open,Meeting Booked,Top of Funnel,Blake Anderson,5/27/2026,5/18/2026,,,22,2026-05-19,,21,1,,,
+001cv00000AuYN5,"County Of Hanson, SD",South Dakota,County,Blake Anderson,3505,,Tier 3,0.75,43.6082,-97.6982,91f1378a-52be-4b84-b603-c36ca969f466,,,,,,,,,2,2026-05-04,,2,,,,
+001cv00000AuYgp,"County Of Clark, SD",South Dakota,County,Blake Anderson,3855,,Tier 3,0.75,44.8777,-97.7331,d702b7db-a37c-4185-a0ae-2b060800a080,,,,,,,,,3,2026-05-15,,3,,,,
+001cv00000AuYh6,"County Of Corson, SD",South Dakota,County,Blake Anderson,3872,,Tier 3,0.75,45.7623,-101.691,a7913160-1e3d-48ae-acb2-8db9f9d1b131,,,,,,,,,,,,,,,,
+001cv00000AuYki,"City Of Dell Rapids, SD",South Dakota,Municipality,Blake Anderson,3953,,Tier 3,0.75,43.8261,-96.7062,eaf59b6c-3773-4865-8aeb-90137370440e,,,,,,,,,6,2026-04-24,5,,1,,,
+001cv00000AuYlC,"County Of Gregory, SD",South Dakota,County,Blake Anderson,3977,,Tier 3,0.75,43.2355,-99.4293,7a4a6e61-130b-4157-9941-580a29ef2d54,,,,,,,,,2,2026-05-11,,2,,,,
+001cv00000AuYmM,"County Of Edmunds, SD",South Dakota,County,Blake Anderson,4033,,Tier 3,0.75,45.4586,-99.1819,7ec6378f-22d2-4923-b498-58e05c2fea59,,,,,,,,,1,2026-04-30,,1,,,,
+001cv00000AuYsu,"County Of Lyman, SD",South Dakota,County,Blake Anderson,3764,,Tier 3,0.75,43.9017,-99.8125,a29046e2-6343-467f-a8f0-68a16f7d96e2,,,,,,,,,2,2026-05-01,,2,,,,
+001cv00000AuYud,"County Of Deuel, SD",South Dakota,County,Blake Anderson,4272,,Tier 3,0.75,44.7311,-96.6638,5344a7c2-f459-493a-8cc4-3b9e47528bcc,,,,,,,,,2,2026-05-04,,2,,,,
+001cv00000AuYv9,"County Of Marshall, SD",South Dakota,County,Blake Anderson,4304,,Tier 3,0.75,45.7271,-97.6046,2fde0439-a68d-4a4e-94a7-14feddad8991,,,,,,,,,2,2026-05-11,,2,,,,
+001cv00000AuZ82,"County Of Day, SD",South Dakota,County,Blake Anderson,5414,,Tier 3,0.75,45.4167,-97.7024,b639809a-2313-4bed-a180-2c2fc2cb28ea,,,,,,,,,3,2026-05-06,,3,,,,
+001cv00000AuZBi,"County Of Hamlin, SD",South Dakota,County,Blake Anderson,6255,,Tier 3,0.75,44.6999,-97.179,d75fa8c6-a23e-4672-88cb-a3286e272aa7,,,,,,,,,4,2026-05-07,,4,,,,
+001cv00000AuZBm,"County Of Spink, SD",South Dakota,County,Blake Anderson,6269,,Tier 3,0.75,44.844,-98.3517,1949fc1b-0ea6-49d7-9c3f-e14f6e4e2d32,,,,,,,,,3,2026-05-04,,1,2,,,
+001cv00000AuZD5,"County Of Bon Homme, SD",South Dakota,County,Blake Anderson,7014,,Tier 3,0.75,42.9815,-97.8722,03e80528-acc0-453e-b1b5-de5265fe6423,,,,,,,,,,,,,,,,
+001cv00000AuZIN,"County Of Moody, SD",South Dakota,County,Blake Anderson,6315,Recent Competitor Purchase,Tier 3,0.75,43.9779,-96.6638,cc663b12-0a15-4d3e-9755-3ee4bb257477,Closed Lost,,,Blake Anderson,5/5/2026,5/1/2026,,,4,2026-05-05,,3,,1,,
+001cv00000AuZJz,"County Of Tripp, SD",South Dakota,County,Blake Anderson,5569,,Tier 3,0.75,43.2236,-99.7233,5c7d9032-6008-4c75-bf54-b785d891ad4b,,,,,,,,,,,,,,,,
+001cv00000AuZKD,"County Of Mccook, SD",South Dakota,County,Blake Anderson,5695,,Tier 3,0.75,43.6311,-97.3517,92495989-eb87-4e11-b537-81ddd30bc585,,,,,,,,,3,2026-05-06,,2,1,,,
+001cv00000AuZLh,"Township Of Big Sioux, SD",South Dakota,Municipality,Blake Anderson,4797,,Tier 3,0.75,42.5273,-96.5196,408a262b-0a2c-4ef1-a549-952e945bed95,,,,,,,,,,,,,,,,
+001cv00000AuZOp,"County Of Fall River, SD",South Dakota,County,Blake Anderson,7202,,Tier 3,0.75,43.224,-103.4512,399c342c-afdc-4e52-94d2-be050c01e69e,,,,,,,,,,,,,,,,
+001cv00000AuZR5,"County Of Hutchinson, SD",South Dakota,County,Blake Anderson,7411,,Tier 3,0.75,43.3017,-97.6982,f2057d67-dc70-46be-8426-017881376e9a,,,,,,,,,1,2025-07-16,,,1,,,
+001cv00000AuZRJ,"County Of Grant, SD",South Dakota,County,Blake Anderson,7519,,Tier 3,0.75,45.1752,-96.7507,8ba5c4f1-7e35-416d-9937-7349090e445d,,,,,,,,,3,2026-05-07,,1,2,,,
+001cv00000AuZTj,"County Of Kingsbury, SD",South Dakota,County,Blake Anderson,5192,,Tier 3,0.75,44.3777,-97.5247,ecec3e19-24ae-478c-a8d4-def316d9905d,,,,,,,,,10,2026-05-26,,9,1,,,
+001cv00000AuZTv,"County Of Brule, SD",South Dakota,County,Blake Anderson,5242,,Tier 3,0.75,43.6573,-99.1013,0333b983-3b23-43a5-8867-5210bb134f1b,,,,,,,,,2,2026-05-11,,2,,,,
+001cv00000AuZTy,"County Of Dewey, SD",South Dakota,County,Blake Anderson,5246,,Tier 3,0.75,43.5308,-104.041,91a7e48f-0f7e-45b4-b71b-79b6083db227,,,,,,,,,,,,,,,,
+001cv00000AuZU0,"County Of Walworth, SD",South Dakota,County,Blake Anderson,5248,,Tier 3,0.75,45.3811,-100.0944,7ca258f6-7147-4667-bbfd-8860a5c6cdb7,,,,,,,,,1,2026-05-04,,1,,,,
+001cv00000AuZYB,"County Of Custer, SD",South Dakota,County,Blake Anderson,8609,Open Opportunity,Tier 3,0.75,43.7667,-103.5988,3a39d827-c0e9-4637-a551-6af2a9d8a0ad,Closed Lost,,,Joe del Rosario,7/29/2025,7/29/2025,,,3,2026-03-27,1,,2,,,
+001cv00000AuZZE,"County Of Charles Mix, SD",South Dakota,County,Blake Anderson,9163,,Tier 3,0.75,43.0985,-98.3965,144c1b48-b2fd-4f43-aaf9-869d734abfee,,,,,,,,,1,2026-05-01,,1,,,,
+001cv00000AuZcV,"County Of Roberts, SD",South Dakota,County,Blake Anderson,10163,Open Opportunity,Tier 2,1.0,45.6116,-97.0336,fb28ae87-7900-47ea-992a-ab982d8d4e81,Open,Initial Interest,Top of Funnel,Blake Anderson,5/14/2026,5/6/2026,,,3,2026-05-14,,2,,1,,
+001cv00000AuZcv,"County Of Butte, SD",South Dakota,County,Blake Anderson,10456,,Tier 2,1.0,44.9252,-103.7009,d581c231-c44c-4bd2-8c44-9c15ef28e82e,,,,,,,,,5,2026-05-20,,4,1,,,
+001cv00000AuZdI,"County Of Turner, SD",South Dakota,County,Blake Anderson,8708,,Tier 3,0.75,43.3356,-97.179,2756a130-7047-4301-be93-9bb514f9a79b,,,,,,,,,2,2026-05-04,,2,,,,
+001cv00000AuZhi,"County Of Clay, SD",South Dakota,County,Blake Anderson,15150,,Tier 2,1.0,42.8829,-97.0068,3d42536a-3e4e-420c-ac23-3db48f60a47a,,,,,,,,,2,2026-05-19,,1,1,,,
+001cv00000AuZlU,"County Of Lake, SD",South Dakota,County,Jenny Allison,10851,Open Opportunity,Tier 2,1.0,43.9467,-97.179,9eb27426-d7b1-4178-a54b-6a5c20b9fc15,Open,Sales Qualified,Mid Funnel,Blake Anderson,5/5/2026,5/4/2026,,,17,2026-05-26,,1,11,5,,
+001cv00000AuZrK,"County Of Union, SD",South Dakota,County,Blake Anderson,16872,,Tier 2,1.0,42.8621,-96.7066,0f1288be-5da9-4476-b9df-54f834bd1a9e,,,,,,,,,6,2026-05-12,,5,1,,,
+001cv00000AuZst,"County Of Beadle, SD",South Dakota,County,Blake Anderson,19121,,Tier 2,1.0,44.4797,-98.2213,505cb80d-96cd-4bc9-822c-8dcc64223896,,,,,,,,,1,2025-08-12,,,1,,,
+001cv00000AuZtr,"County Of Hughes, SD",South Dakota,County,Blake Anderson,17694,,Tier 2,1.0,44.3535,-99.8125,3ff1416a-4211-4867-9277-cd734a31b5d4,,,,,,,,,3,2026-05-07,,2,1,,,
+001cv00000Aua1G,"County Of Meade, SD",South Dakota,County,Blake Anderson,30173,,Tier 1,1.5,44.4415,-102.6855,8ae24be7-56e1-4343-96c9-4edfe44f43b1,,,,,,,,,7,2026-05-21,,4,3,,,
+001cv00000Aua3F,"County Of Davison, SD",South Dakota,County,Blake Anderson,19878,,Tier 2,1.0,43.7242,-98.2213,8ddb213f-f9bf-4f06-986e-e65e801c69cb,,,,,,,,,12,2026-05-21,,6,6,,,
+001cv00000AuaA2,"City Of Watertown, SD",South Dakota,Municipality,Blake Anderson,22722,,Tier 2,1.0,44.8994,-97.1151,bd293ca6-de5d-4001-800d-865fa573b9b3,,,,,,,,,1,2026-03-18,1,,,,,
+001cv00000AuaAI,"County Of Yankton, SD",South Dakota,County,Blake Anderson,23297,,Tier 2,1.0,42.8711,-97.3973,f6089792-2fb9-4c5e-b080-cd6f0653b416,,,,,,,,,4,2026-05-14,,2,2,,,
+001cv00000AuaBG,"County Of Lawrence, SD",South Dakota,County,Blake Anderson,26165,,Tier 1,1.5,44.3107,-103.798,76d74e77-e2e8-45de-8a2b-442cd5933676,,,,,,,,,2,2026-04-23,1,,1,,,
+001cv00000AuaCk,"County Of Brookings, SD",South Dakota,County,Blake Anderson,34639,,Tier 1,1.5,44.4212,-96.8351,db9a9f95-823c-4f55-991c-10bb53db7243,,,,,,,,,4,2026-05-06,1,1,2,,,
+001cv00000AuaEB,"County Of Brown, SD",South Dakota,County,Blake Anderson,38101,,Tier 1,1.5,45.7582,-98.2543,e9a055c1-0a24-49d9-9062-aef4c7cdcc0b,,,,,,,,,8,2026-04-23,7,,1,,,
+001cv00000AuaXk,"County Of Lincoln, SD",South Dakota,County,Blake Anderson,67870,,Tier S,2.0,43.2027,-96.8351,7fe6ca2d-ff9d-44e9-b5eb-eca41f8483e3,,,,,,,,,4,2026-04-06,1,,3,,,
+001cv00000B21pf,"County Of Ziebach, SD",South Dakota,County,Blake Anderson,2380,,Tier 3,0.75,44.8481,-101.7022,36c06dde-0383-4da0-9259-cc4d388de062,,,,,,,,,,,,,,,,
+001cv00000B21qY,"City Of Lennox, SD",South Dakota,Municipality,Blake Anderson,2405,,Tier 3,0.75,43.3541,-96.892,1510a649-ef68-4310-9c1b-bfd6080f1a3a,,,,,,,,,1,2026-04-14,1,,,,,
+001cv00000B21rA,"County Of Mcpherson, SD",South Dakota,County,Blake Anderson,2420,,Tier 3,0.75,45.7556,-99.2784,64c68b70-d80b-4ff8-87b4-cab8b15c706d,,,,,,,,,,,,,,,,
+001cv00000B21rX,"City Of Sisseton, SD",South Dakota,Municipality,Blake Anderson,2428,,Tier 3,0.75,45.6647,-97.0498,77551cfd-f554-42dc-be81-aea1e0f2d5db,,,,,,,,,,,,,,,,
+001cv00000bAeBg,"City of Sioux Falls, SD",South Dakota,Municipality,Blake Anderson,209289,,Tier S,2.0,43.546,-96.7313,d8f2d028-3916-4b18-83d9-b3505b2c4a64,,,,,,,,,,,,,,,,
+001cv00000bBVez,City of Philip,South Dakota,Municipality,Blake Anderson,752,,Tier 3,0.75,44.0394,-101.6651,16eba757-b666-4ee5-8844-ac8290470c27,,,,,,,,,,,,,,,,
+001cv00000bBVkm,City of Hill City,South Dakota,Municipality,Blake Anderson,937,,Tier 3,0.75,43.9325,-103.5752,c5d858ec-8262-48a9-bd27-3d45a5666ae8,,,,,,,,,,,,,,,,
+001cv00000bBVsX,City of Lemmon,South Dakota,Municipality,Blake Anderson,1141,,Tier 3,0.75,45.9408,-102.1593,d221a269-b234-4042-92e1-9ec85b31f77b,,,,,,,,,,,,,,,,
+001cv00000bBVwj,City of Britton,South Dakota,Municipality,Blake Anderson,1199,,Tier 3,0.75,45.7916,-97.7509,0e53bb5c-9cc6-4215-b18a-253b1b1157e1,,,,,,,,,,,,,,,,
+001cv00000bBVwq,Township of Jefferson,South Dakota,Municipality,Blake Anderson,1209,,Tier 3,0.75,42.6025,-96.5592,e3c3a46d-e99b-4e9f-a55d-371a69570abd,,,,,,,,,,,,,,,,
+001cv00000bBVyD,City of Freeman,South Dakota,Municipality,Blake Anderson,1308,,Tier 3,0.75,43.3525,-97.4373,08411777-defc-4376-838e-ea6b72d4afed,,,,,,,,,,,,,,,,
+001cv00000bBVyM,City of Salem,South Dakota,Municipality,Blake Anderson,1315,,Tier 3,0.75,43.7241,-97.389,161a0f54-c4b4-4a4f-a5cb-0adbc3ff719c,,,,,,,,,,,,,,,,
+001cv00000bBWJa,City of Custer,South Dakota,Municipality,Blake Anderson,1829,,Tier 3,0.75,43.7667,-103.5988,e469270d-8f17-47d4-8b74-86556d87f954,,,,,,,,,,,,,,,,
+001cv00000bBWJd,Haakon County,South Dakota,County,Blake Anderson,1834,,Tier 3,0.75,44.2671,-101.5248,1df82890-1b4f-4447-bad6-37f2cdb4ffed,,,,,,,,,,,,,,,,
+001cv00000bBWOV,City of Webster,South Dakota,Municipality,Blake Anderson,1666,,Tier 3,0.75,45.3322,-97.5201,129dbf88-821d-4ef1-a1ec-9efdee3592fa,,,,,,,,,,,,,,,,
+001cv00000bBWOr,Jerauld County,South Dakota,County,Blake Anderson,1689,,Tier 3,0.75,44.0365,-98.6161,424f66fc-a06d-4a3e-865d-b91721fadf8f,,,,,,,,,,,,,,,,
+001cv00000bBWse,Harding County,South Dakota,County,Blake Anderson,1325,,Tier 3,0.75,45.5483,-103.5996,633f91c3-e21e-4226-94f1-b3ee3e0009ec,,,,,,,,,,,,,,,,
+001cv00000bBWst,Campbell County,South Dakota,County,Blake Anderson,1342,,Tier 3,0.75,45.8415,-100.0677,35ac4e4f-e62a-4dd6-a187-d6dc6ec463e2,,,,,,,,,,,,,,,,
+001cv00000bBWsu,City of Groton,South Dakota,Municipality,Blake Anderson,1343,,Tier 3,0.75,45.4475,-98.0987,39b9040d-cc66-411e-88f0-738839ecef76,,,,,,,,,,,,,,,,
+001cv00000bBWsy,City of Deadwood,South Dakota,Municipality,Blake Anderson,1347,,Tier 3,0.75,44.3767,-103.7296,f7e890f0-3bf6-4d0f-9abe-56dda56e6ccc,,,,,,,,,,,,,,,,
+001cv00000bBWtE,City of Crooks,South Dakota,Municipality,Blake Anderson,1369,,Tier 3,0.75,43.6647,-96.8108,bd667f8d-d020-4324-8fa3-756c31e2a357,,,,,,,,,,,,,,,,
+001cv00000bBWuS,Sully County,South Dakota,County,Blake Anderson,1468,,Tier 3,0.75,44.7798,-100.0682,0636e508-b44e-4228-89d4-46cb4cab4e74,,,,,,,,,,,,,,,,

@@ -1,39 +1,39 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ryan Minter,Calls - Sydney Ireland,Calls - Joe del Rosario,Calls - Quinzel Perry,Outreach ID
-001Hr000028ZbuN,"City Of Ketchikan, AK",Alaska,Municipality,Joe del Rosario,8037,,Tier 3,0.75,55.3422,-131.6461,5ef15488-8d0d-4428-a0ad-8fc2f78dee1f,,,,,,,,,1,2026-05-06,,1,,,4234
-001Hr000028Zc1T,"City Of Kodiak, AK",Alaska,Municipality,Joe del Rosario,5458,,Tier 3,0.75,57.79,-152.4072,797205c5-6321-49bb-9ba2-11f0879ccbf5,,,,,,,,,2,2025-11-20,2,,,,3746
-001Hr000028Zc6x,"City Of Palmer, AK",Alaska,Municipality,Quinzel Perry,6094,Open Opportunity,Tier 3,0.75,61.5994,-149.1146,1c89695c-9948-400c-acb7-c5b3f8a07b46,Open,Initial Interest,Top of Funnel,Quinzel Perry,,3/21/2025,,,1,2025-06-03,,,,1,4056
-001Hr000028ZcUy,"City Of Bethel, AK",Alaska,Municipality,Joe del Rosario,6270,,Tier 3,0.75,60.7943,-161.7694,86373ca5-8dad-4f5f-add0-5ba01a99014c,,,,,,,,,,,,,,,3890
-001Hr000028ZcWB,"City Of Homer, AK",Alaska,Municipality,Joe del Rosario,5719,Open Opportunity,Tier 3,0.75,59.6481,-151.5299,08f8e8e9-02d8-4d99-978d-3d5098f14e70,Open,Initial Interest,Top of Funnel,,,12/14/2025,,,10,2025-12-15,2,,8,,3693
-001Hr000028Zcd3,"City And Borough Of Sitka, AK",Alaska,Municipality,Joe del Rosario,8407,,Tier 3,0.75,57.0532,-135.3346,df45eb1c-e1bc-4686-a7c2-610fdfdaa6cf,,,,,,,,,1,2026-05-06,,1,,,4315
-001Hr000028Zcl1,"City Of Kenai, AK",Alaska,Municipality,Joe del Rosario,7590,Open Opportunity,Tier 3,0.75,60.5549,-151.2597,1d9f3fb6-df2b-4b55-ae5e-98045ba6175f,Open,Initial Interest,Top of Funnel,Leila Assil,,12/15/2025,,,1,2026-04-20,1,,,,4083
-001Hr000028Zctw,"City Of Wasilla, AK",Alaska,Municipality,Joe del Rosario,10318,Open Opportunity,Tier 2,1.0,61.5809,-149.4411,9821ebce-d75b-4d0d-80ca-c0d9b5d83097,Open,Sales Qualified,Mid Funnel,Leila Assil,12/17/2025,12/14/2025,,,1,2025-12-16,1,,,,4422
-001Hr000028ZdEW,"City Of Fairbanks, AK",Alaska,Municipality,Joe del Rosario,32702,,Tier 1,1.5,64.8401,-147.72,48df0bc7-3a5a-4a21-ac15-5f941cc1cf5a,,,,,,,,,3,2026-05-08,,3,,,5922
-001Hr000028ZdH7,"Kenai Peninsula Borough, AK",Alaska,Municipality,Joe del Rosario,61259,,Tier S,2.0,60.0858,-151.3823,46901a0a-69ef-4d81-9c7f-aa31fdeeba8d,,,,,,,,,6,2026-05-06,5,1,,,12012
-001Hr000028ZdL5,"City and Borough of Juneau, AK",Alaska,Municipality,Joe del Rosario,31973,,Tier 1,1.5,58.3005,-134.4201,caaf9e65-1049-4c0f-8135-b5c4972aae7e,,,,,,,,,3,2026-05-06,,3,,,12138
-001Hr000028ZdWf,"Matanuska-Susitna Borough, AK",Alaska,Municipality,Joe del Rosario,117613,,Tier S,2.0,62.2599,-150.1729,f052e036-97f7-4647-abf4-0b92903f4c5b,,,,,,,,,15,2026-05-06,3,1,11,,12139
-001Hr000028ZdZa,"Fairbanks North Star Borough, AK",Alaska,Municipality,Joe del Rosario,94951,Open Opportunity,Tier S,2.0,64.9526,-146.4744,ee3f8a55-c150-4ae6-94f4-516505180958,Open,Initial Interest,Top of Funnel,Ryan Minter,,11/14/2025,,,5,2026-05-06,1,2,2,,12010
-001cv000006phkG,"City Of Nome, AK",Alaska,Municipality,Joe del Rosario,3594,Nurture,Tier 3,0.75,64.5006,-165.4086,2ac53078-ac71-4920-8d9a-ccc122baaea1,Closed Lost,,,Ryan Minter,11/25/2025,11/20/2025,,,1,2025-12-04,1,,,,12695
-001cv00000AuWXR,"City And Borough Of Wrangell, AK",Alaska,Municipality,Joe del Rosario,2055,,Tier 3,0.75,56.4706,-132.3815,cae087ec-7dce-47dc-a174-c3c0749d8bef,,,,,,,,,,,,,,,13336
-001cv00000AuWY4,"City Of Houston, AK",Alaska,Municipality,Joe del Rosario,2067,,Tier 3,0.75,61.6209,-149.7563,1795a402-4bdd-4798-b415-1e68b4807b32,,,,,,,,,3,2025-12-01,3,,,,13295
-001cv00000AuWYH,"Borough Of Haines, AK",Alaska,County,Joe del Rosario,2071,Nurture,Tier 3,0.75,59.1392,-135.0,0498e13d-f5c1-486b-a4e7-ec410ba283fc,Closed Lost,,,Leila Assil,,12/15/2025,,,1,2025-11-14,1,,,,13270
-001cv00000AuWqf,"City Of Dillingham, AK",Alaska,Municipality,Joe del Rosario,2203,Open Opportunity,Tier 3,0.75,59.0395,-158.4633,691a72d0-594c-40e8-904c-a30a444ca4a4,Open,Initial Interest,Top of Funnel,Leila Assil,,12/15/2025,,,,,,,,,13518
-001cv00000AuX7F,"City Of North Pole, AK",Alaska,Municipality,Joe del Rosario,2285,,Tier 3,0.75,64.7552,-147.3534,db1dbb85-5758-47ff-ba6a-1fc54526e566,,,,,,,,,,,,,,,13819
-001cv00000AuXTU,"City Of Cordova, AK",Alaska,Municipality,Joe del Rosario,2528,,Tier 3,0.75,60.5424,-145.7525,c6727de7-4acf-4acc-ae2c-fac208332fad,,,,,,,,,,,,,,,14128
-001cv00000AuY5q,"Borough Of Aleutians East, AK",Alaska,County,Joe del Rosario,3398,,Tier 3,0.75,55.4086,-161.7164,cc3b2674-cbde-4b2d-ae40-31deb91b086a,,,,,,,,,,,,,,,15613
-001cv00000AuYBu,"City Of Kotzebue, AK",Alaska,Municipality,Joe del Rosario,3110,Open Opportunity,Tier 3,0.75,66.8969,-162.5931,b248057f-3efb-4f6f-833e-71f59f385bb8,Open,Initial Interest,Top of Funnel,Leila Assil,,12/15/2025,,,,,,,,,15169
-001cv00000AuYJD,"Borough Of Petersburg, AK",Alaska,County,Joe del Rosario,3356,,Tier 3,0.75,57.3779,-132.9752,d06c6f6c-eec5-4b47-bf59-179b3d6fd835,,,,,,,,,,,,,,,15745
-001cv00000AuYhp,"City Of Valdez, AK",Alaska,Municipality,Joe del Rosario,3907,,Tier 3,0.75,61.1309,-146.3499,e9295afb-4735-4c1c-8683-5c5a97f19d15,,,,,,,,,1,2025-11-20,1,,,,16133
-001cv00000AuYlx,"City Of Unalaska, AK",Alaska,Municipality,Joe del Rosario,4009,Open Opportunity,Tier 3,0.75,53.8726,-166.5376,27ff240b-8e40-427d-a764-8a642b2cfdd5,Open,Initial Interest,Top of Funnel,Leila Assil,,12/15/2025,,,2,2025-12-15,2,,,,16556
-001cv00000AuYyJ,"City Of Soldotna, AK",Alaska,Municipality,Joe del Rosario,4444,Open Opportunity,Tier 3,0.75,60.4864,-151.0572,d4ec98f3-3bbb-452b-ab31-6df3b0105d47,Open,Initial Interest,Top of Funnel,Leila Assil,,12/15/2025,,,1,2025-11-20,1,,,,19955
-001cv00000AuZRT,"Borough Of Northwest Arctic, AK",Alaska,County,Joe del Rosario,7560,,Tier 3,0.75,67.2873,-160.0343,4a90dc5f-8cf6-4fef-bf9f-18ef96f61cdd,,,,,,,,,,,,,,,17696
-001cv00000AuZTf,"City Of Utqiagvik, AK",Alaska,Municipality,Joe del Rosario,5176,,Tier 3,0.75,71.2906,-156.7886,713dbe50-0c3c-4d4d-bf8e-87f40be4a0ed,,,,,,,,,1,2025-11-20,1,,,,17566
-001cv00000AuZli,"Borough Of North Slope, AK",Alaska,County,Joe del Rosario,10972,,Tier 2,1.0,69.0579,-152.8628,9d1ba255-f19d-413e-b534-7c2d86e7d770,,,,,,,,,1,2026-05-06,,1,,,18026
-001cv00000AuZn4,"Borough Of Ketchikan Gateway, AK",Alaska,County,Joe del Rosario,13754,,Tier 2,1.0,55.5009,-131.1496,7e17e9d3-a9e3-47fd-a3cb-a965a51989e0,,,,,,,,,5,2026-05-19,,5,,,17937
-001cv00000B21wj,"City Of Seward, AK",Alaska,Municipality,Joe del Rosario,2625,,Tier 3,0.75,60.1048,-149.4421,e2caef73-5fec-4fae-8039-fcdb6885e3a9,,,,,,,,,,,,,,,20377
-001cv00000bBVfr,City of King Cove,Alaska,Municipality,Asher Rosenfeld,833,,Tier 3,0.75,55.0594,-162.3131,c49e55ca-65e1-46be-9c93-381df3e25459,,,,,,,,,,,,,,,21164
-001cv00000bBViD,Bristol Bay Borough,Alaska,County,Asher Rosenfeld,884,,Tier 3,0.75,58.7578,-156.7793,54e072cf-0ddf-49c3-adb5-f123d9ed7c47,,,,,,,,,,,,,,,21276
-001cv00000bBVlV,City of Hoonah,Alaska,Municipality,Asher Rosenfeld,978,,Tier 3,0.75,58.1101,-135.4445,85fa1568-b454-47df-9c63-2387beccd6b0,,,,,,,,,,,,,,,21376
-001cv00000bBVoF,City of Craig,Alaska,Municipality,Asher Rosenfeld,1051,,Tier 3,0.75,55.4768,-133.1358,a5246a46-8caf-48a1-a02b-31afac67cd81,,,,,,,,,,,,,,,21439
-001cv00000bBVpI,Borough of Skagway,Alaska,County,Asher Rosenfeld,1119,,Tier 3,0.75,59.4572,-135.3145,b61b58bc-002e-431f-ae85-1939d2386187,,,,,,,,,,,,,,,21497
-001cv00000bBWML,Kodiak Island Borough,Alaska,County,Asher Rosenfeld,12654,,Tier 2,1.0,57.5369,-153.2659,a831c50c-4b85-4a92-bdad-ee7b0f28e91d,,,,,,,,,4,2026-05-06,,4,,,21940
-001cv00000bBWzO,Municipality of Anchorage,Alaska,Municipality,Asher Rosenfeld,289600,,Tier S,2.0,61.2176,-149.8997,dea515b3-5ac1-4363-a877-7bc2f4c35f6e,,,,,,,,,3,2026-05-06,,3,,,22793
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Sydney Ireland,Calls - Ryan Minter,Calls - Joe del Rosario,Calls - Quinzel Perry,Salesforce ID
+001Hr000028ZbuN,"City Of Ketchikan, AK",Alaska,Municipality,Joe del Rosario,8037,,Tier 3,0.75,55.3422,-131.6461,5ef15488-8d0d-4428-a0ad-8fc2f78dee1f,,,,,,,,,1,2026-05-06,1,,,,
+001Hr000028Zc1T,"City Of Kodiak, AK",Alaska,Municipality,Joe del Rosario,5458,,Tier 3,0.75,57.79,-152.4072,797205c5-6321-49bb-9ba2-11f0879ccbf5,,,,,,,,,2,2025-11-20,,2,,,
+001Hr000028Zc6x,"City Of Palmer, AK",Alaska,Municipality,Quinzel Perry,6094,Open Opportunity,Tier 3,0.75,61.5994,-149.1146,1c89695c-9948-400c-acb7-c5b3f8a07b46,Open,Initial Interest,Top of Funnel,Quinzel Perry,,3/21/2025,,,1,2025-06-03,,,,1,
+001Hr000028ZcUy,"City Of Bethel, AK",Alaska,Municipality,Joe del Rosario,6270,,Tier 3,0.75,60.7943,-161.7694,86373ca5-8dad-4f5f-add0-5ba01a99014c,,,,,,,,,,,,,,,
+001Hr000028ZcWB,"City Of Homer, AK",Alaska,Municipality,Joe del Rosario,5719,Open Opportunity,Tier 3,0.75,59.6481,-151.5299,08f8e8e9-02d8-4d99-978d-3d5098f14e70,Open,Initial Interest,Top of Funnel,,,12/14/2025,,,10,2025-12-15,,2,8,,
+001Hr000028Zcd3,"City And Borough Of Sitka, AK",Alaska,Municipality,Joe del Rosario,8407,,Tier 3,0.75,57.0532,-135.3346,df45eb1c-e1bc-4686-a7c2-610fdfdaa6cf,,,,,,,,,1,2026-05-06,1,,,,
+001Hr000028Zcl1,"City Of Kenai, AK",Alaska,Municipality,Joe del Rosario,7590,Open Opportunity,Tier 3,0.75,60.5549,-151.2597,1d9f3fb6-df2b-4b55-ae5e-98045ba6175f,Open,Initial Interest,Top of Funnel,Leila Assil,,12/15/2025,,,1,2026-04-20,,1,,,
+001Hr000028Zctw,"City Of Wasilla, AK",Alaska,Municipality,Joe del Rosario,10318,Open Opportunity,Tier 2,1.0,61.5809,-149.4411,9821ebce-d75b-4d0d-80ca-c0d9b5d83097,Open,Demo,Mid Funnel,Leila Assil,12/17/2025,12/14/2025,,,1,2025-12-16,,1,,,
+001Hr000028ZdEW,"City Of Fairbanks, AK",Alaska,Municipality,Joe del Rosario,32702,,Tier 1,1.5,64.8401,-147.72,48df0bc7-3a5a-4a21-ac15-5f941cc1cf5a,,,,,,,,,3,2026-05-08,3,,,,
+001Hr000028ZdH7,"Kenai Peninsula Borough, AK",Alaska,Municipality,Joe del Rosario,61259,,Tier S,2.0,60.0858,-151.3823,46901a0a-69ef-4d81-9c7f-aa31fdeeba8d,,,,,,,,,6,2026-05-06,1,5,,,
+001Hr000028ZdL5,"City and Borough of Juneau, AK",Alaska,Municipality,Joe del Rosario,31973,,Tier 1,1.5,58.3005,-134.4201,caaf9e65-1049-4c0f-8135-b5c4972aae7e,,,,,,,,,3,2026-05-06,3,,,,
+001Hr000028ZdWf,"Matanuska-Susitna Borough, AK",Alaska,Municipality,Joe del Rosario,117613,,Tier S,2.0,62.2599,-150.1729,f052e036-97f7-4647-abf4-0b92903f4c5b,,,,,,,,,12,2026-05-06,1,3,8,,
+001Hr000028ZdZa,"Fairbanks North Star Borough, AK",Alaska,Municipality,Joe del Rosario,94951,Open Opportunity,Tier S,2.0,64.9526,-146.4744,ee3f8a55-c150-4ae6-94f4-516505180958,Open,Initial Interest,Top of Funnel,Ryan Minter,,11/14/2025,,,5,2026-05-06,2,1,2,,
+001cv000006phkG,"City Of Nome, AK",Alaska,Municipality,Joe del Rosario,3594,Nurture,Tier 3,0.75,64.5006,-165.4086,2ac53078-ac71-4920-8d9a-ccc122baaea1,Closed Lost,,,Ryan Minter,11/25/2025,11/20/2025,,,1,2025-12-04,,1,,,
+001cv00000AuWXR,"City And Borough Of Wrangell, AK",Alaska,Municipality,Joe del Rosario,2055,,Tier 3,0.75,56.4706,-132.3815,cae087ec-7dce-47dc-a174-c3c0749d8bef,,,,,,,,,,,,,,,
+001cv00000AuWY4,"City Of Houston, AK",Alaska,Municipality,Joe del Rosario,2067,,Tier 3,0.75,61.6209,-149.7563,1795a402-4bdd-4798-b415-1e68b4807b32,,,,,,,,,3,2025-12-01,,3,,,
+001cv00000AuWYH,"Borough Of Haines, AK",Alaska,County,Joe del Rosario,2071,Nurture,Tier 3,0.75,59.1392,-135.0,0498e13d-f5c1-486b-a4e7-ec410ba283fc,Closed Lost,,,Leila Assil,,12/15/2025,,,1,2025-11-14,,1,,,
+001cv00000AuWqf,"City Of Dillingham, AK",Alaska,Municipality,Joe del Rosario,2203,Open Opportunity,Tier 3,0.75,59.0395,-158.4633,691a72d0-594c-40e8-904c-a30a444ca4a4,Open,Initial Interest,Top of Funnel,Leila Assil,,12/15/2025,,,,,,,,,
+001cv00000AuX7F,"City Of North Pole, AK",Alaska,Municipality,Joe del Rosario,2285,,Tier 3,0.75,64.7552,-147.3534,db1dbb85-5758-47ff-ba6a-1fc54526e566,,,,,,,,,,,,,,,
+001cv00000AuXTU,"City Of Cordova, AK",Alaska,Municipality,Joe del Rosario,2528,,Tier 3,0.75,60.5424,-145.7525,c6727de7-4acf-4acc-ae2c-fac208332fad,,,,,,,,,,,,,,,
+001cv00000AuY5q,"Borough Of Aleutians East, AK",Alaska,County,Joe del Rosario,3398,,Tier 3,0.75,55.4086,-161.7164,cc3b2674-cbde-4b2d-ae40-31deb91b086a,,,,,,,,,,,,,,,
+001cv00000AuYBu,"City Of Kotzebue, AK",Alaska,Municipality,Joe del Rosario,3110,Open Opportunity,Tier 3,0.75,66.8969,-162.5931,b248057f-3efb-4f6f-833e-71f59f385bb8,Open,Initial Interest,Top of Funnel,Leila Assil,,12/15/2025,,,,,,,,,
+001cv00000AuYJD,"Borough Of Petersburg, AK",Alaska,County,Joe del Rosario,3356,,Tier 3,0.75,57.3779,-132.9752,d06c6f6c-eec5-4b47-bf59-179b3d6fd835,,,,,,,,,,,,,,,
+001cv00000AuYhp,"City Of Valdez, AK",Alaska,Municipality,Joe del Rosario,3907,,Tier 3,0.75,61.1309,-146.3499,e9295afb-4735-4c1c-8683-5c5a97f19d15,,,,,,,,,1,2025-11-20,,1,,,
+001cv00000AuYlx,"City Of Unalaska, AK",Alaska,Municipality,Joe del Rosario,4009,Open Opportunity,Tier 3,0.75,53.8726,-166.5376,27ff240b-8e40-427d-a764-8a642b2cfdd5,Open,Initial Interest,Top of Funnel,Leila Assil,,12/15/2025,,,2,2025-12-15,,2,,,
+001cv00000AuYyJ,"City Of Soldotna, AK",Alaska,Municipality,Joe del Rosario,4444,Open Opportunity,Tier 3,0.75,60.4864,-151.0572,d4ec98f3-3bbb-452b-ab31-6df3b0105d47,Open,Initial Interest,Top of Funnel,Leila Assil,,12/15/2025,,,1,2025-11-20,,1,,,
+001cv00000AuZRT,"Borough Of Northwest Arctic, AK",Alaska,County,Joe del Rosario,7560,,Tier 3,0.75,67.2873,-160.0343,4a90dc5f-8cf6-4fef-bf9f-18ef96f61cdd,,,,,,,,,,,,,,,
+001cv00000AuZTf,"City Of Utqiagvik, AK",Alaska,Municipality,Joe del Rosario,5176,,Tier 3,0.75,71.2906,-156.7886,713dbe50-0c3c-4d4d-bf8e-87f40be4a0ed,,,,,,,,,1,2025-11-20,,1,,,
+001cv00000AuZli,"Borough Of North Slope, AK",Alaska,County,Joe del Rosario,10972,,Tier 2,1.0,69.0579,-152.8628,9d1ba255-f19d-413e-b534-7c2d86e7d770,,,,,,,,,1,2026-05-06,1,,,,
+001cv00000AuZn4,"Borough Of Ketchikan Gateway, AK",Alaska,County,Joe del Rosario,13754,,Tier 2,1.0,55.5009,-131.1496,7e17e9d3-a9e3-47fd-a3cb-a965a51989e0,,,,,,,,,6,2026-05-19,6,,,,
+001cv00000B21wj,"City Of Seward, AK",Alaska,Municipality,Joe del Rosario,2625,,Tier 3,0.75,60.1048,-149.4421,e2caef73-5fec-4fae-8039-fcdb6885e3a9,,,,,,,,,,,,,,,
+001cv00000bBVfr,City of King Cove,Alaska,Municipality,Asher Rosenfeld,833,,Tier 3,0.75,55.0594,-162.3131,c49e55ca-65e1-46be-9c93-381df3e25459,,,,,,,,,,,,,,,
+001cv00000bBViD,Bristol Bay Borough,Alaska,County,Asher Rosenfeld,884,,Tier 3,0.75,58.7578,-156.7793,54e072cf-0ddf-49c3-adb5-f123d9ed7c47,,,,,,,,,,,,,,,
+001cv00000bBVlV,City of Hoonah,Alaska,Municipality,Asher Rosenfeld,978,,Tier 3,0.75,58.1101,-135.4445,85fa1568-b454-47df-9c63-2387beccd6b0,,,,,,,,,,,,,,,
+001cv00000bBVoF,City of Craig,Alaska,Municipality,Asher Rosenfeld,1051,,Tier 3,0.75,55.4768,-133.1358,a5246a46-8caf-48a1-a02b-31afac67cd81,,,,,,,,,,,,,,,
+001cv00000bBVpI,Borough of Skagway,Alaska,County,Asher Rosenfeld,1119,,Tier 3,0.75,59.4572,-135.3145,b61b58bc-002e-431f-ae85-1939d2386187,,,,,,,,,,,,,,,
+001cv00000bBWML,Kodiak Island Borough,Alaska,County,Asher Rosenfeld,12654,,Tier 2,1.0,57.5369,-153.2659,a831c50c-4b85-4a92-bdad-ee7b0f28e91d,,,,,,,,,4,2026-05-06,4,,,,
+001cv00000bBWzO,Municipality of Anchorage,Alaska,Municipality,Asher Rosenfeld,289600,,Tier S,2.0,61.2176,-149.8997,dea515b3-5ac1-4363-a877-7bc2f4c35f6e,,,,,,,,,3,2026-05-06,3,,,,

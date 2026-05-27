@@ -1,403 +1,404 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Hugh Bargeron,Calls - Quinzel Perry,Calls - Jenny Allison,Calls - Joe del Rosario,Calls - Alicia Gopal,Calls - Nick Martino,Calls - Emily Murnane,Outreach ID
-001Hr000028ZbnW,"City Of Decatur, GA",Georgia,Municipality,Hugh Bargeron,24569,,Tier 2,1.0,33.7748,-84.2963,411a552d-17ab-414a-8a48-dedc89528fe3,,,,,,,,,12,2026-05-11,11,1,,,,,,1775
-001Hr000028Zbo3,"City Of Mcrae Helena, GA",Georgia,Municipality,Hugh Bargeron,5903,Recent Competitor Purchase,Tier 3,0.75,32.0681,-82.901,2d730e19-3772-4427-8373-04a6903f052e,,,,,,,,,1,2026-04-10,1,,,,,,,1001
-001Hr000028Zbo5,"City Of Bremen, GA",Georgia,Municipality,Hugh Bargeron,7474,Recent Competitor Purchase,Tier 3,0.75,33.7212,-85.1455,b303d91d-7d91-4ca1-a3ff-eada23dfd900,,,,,,,,,2,2026-05-11,1,1,,,,,,1780
-001Hr000028ZboF,"City Of Hampton, GA",Georgia,Municipality,Hugh Bargeron,8346,All Modules Live,Tier 3,0.75,33.3851,-84.2829,39c99214-44cc-4de8-837c-fecb8c955469,Closed Won,,,Asher Rosenfeld,,1/5/2025,"$15,000",,,,,,,,,,,2077
-001Hr000028Zbok,"City Of Fort Oglethorpe, GA",Georgia,Municipality,Hugh Bargeron,10531,,Tier 2,1.0,34.949,-85.2569,324e34ef-a74b-4c23-bb58-52e72af659ea,,,,,,,,,6,2026-03-27,6,,,,,,,1801
-001Hr000028Zbpa,"City Of Americus, GA",Georgia,Municipality,Hugh Bargeron,15989,,Tier 2,1.0,32.0724,-84.2327,d441bf70-4d66-472e-99aa-0f38b12ded68,,,,,,,,,1,2025-11-12,,,1,,,,,1003
-001Hr000028Zbq0,"City Of Gainesville, GA",Georgia,Municipality,Hugh Bargeron,43417,,Tier 1,1.5,34.2979,-83.8241,0e52f69f-114f-4aab-a61d-f063a26ceb2b,,,,,,,,,3,2026-03-20,3,,,,,,,2062
-001Hr000028ZbqC,"City Of Brunswick, GA",Georgia,Municipality,Hugh Bargeron,14629,,Tier 2,1.0,31.1511,-81.4878,2cd330a9-85eb-45a4-a2de-7a50a6cfc0b1,,,,,,,,,7,2026-04-13,7,,,,,,,2376
-001Hr000028ZbqV,"Town Of Braselton, GA",Georgia,Municipality,Hugh Bargeron,14383,Nurture,Tier 2,1.0,34.1093,-83.7627,09b04469-7b84-480f-9115-21788094b369,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,4,2026-05-18,3,1,,,,,,1800
-001Hr000028Zbql,"City Of Stockbridge, GA",Georgia,Municipality,Hugh Bargeron,29163,Recent Competitor Purchase,Tier 1,1.5,33.5438,-84.229,ccc23349-7d52-49d9-a6cb-b053fce3044a,Closed Lost,,,Shane Lieberman,6/11/2024,1/5/2025,,,2,2026-05-19,2,,,,,,,1781
-001Hr000028ZbrP,"City Of Fort Valley, GA",Georgia,Municipality,Hugh Bargeron,8863,Nurture,Tier 3,0.75,32.5538,-83.8874,26012a91-5d8c-4cfa-850c-9aa1db3a3ef7,Closed Lost,,,Quinzel Perry,11/7/2024,1/5/2025,,,9,2026-04-29,8,1,,,,,,1333
-001Hr000028Zbs0,"City Of Lawrenceville, GA",Georgia,Municipality,Hugh Bargeron,30516,Open Opportunity,Tier 1,1.5,33.9508,-83.9876,204ba7ac-9da2-414b-a9ec-0f14e9c18e28,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,27,2026-05-19,16,,11,,,,,1773
-001Hr000028Zbse,"City Of Sylvester, GA",Georgia,Municipality,Hugh Bargeron,5549,Nurture,Tier 3,0.75,31.5307,-83.8355,4d91f052-5d82-4d07-a04a-4ad2f7993d4f,Closed Lost,,,Troy LeCaire,,1/5/2025,"$7,500",,10,2026-05-11,9,1,,,,,,1000
-001Hr000028ZbtE,"City Of Thomaston, GA",Georgia,Municipality,Hugh Bargeron,9761,Nurture,Tier 3,0.75,32.8882,-84.3266,41edae93-b882-4614-a9f0-6873b62973c8,Closed Lost,,,Shane Lieberman,6/12/2024,1/5/2025,,,10,2026-05-14,10,,,,,,,1797
-001Hr000028Zbuz,"City Of East Point, GA",Georgia,Municipality,Hugh Bargeron,38141,,Tier 1,1.5,33.6796,-84.4394,0203ca93-e0b3-4238-ad46-2c69928deb33,,,,,,,,,7,2026-04-14,1,,,6,,,,1177
-001Hr000028ZbvB,"City Of Snellville, GA",Georgia,Municipality,Hugh Bargeron,20753,,Tier 2,1.0,33.8573,-84.0199,f5e724a9-2a9e-4cc5-9b39-7380951ac29a,,,,,,,,,3,2026-03-27,3,,,,,,,2082
-001Hr000028Zbwg,"City Of Fitzgerald, GA",Georgia,Municipality,Hugh Bargeron,8977,,Tier 3,0.75,31.7149,-83.2527,8e7f69ac-2790-48aa-ba2d-fa873f7076e5,,,,,,,,,3,2026-03-27,3,,,,,,,997
-001Hr000028Zbwj,"City Of Peachtree Corners, GA",Georgia,Municipality,Hugh Bargeron,42108,,Tier 1,1.5,33.9561,-84.2322,5bb1ff03-8a6a-4906-ae87-265e80d868a4,,,,,,,,,14,2026-05-18,12,2,,,,,,1324
-001Hr000028ZbxP,"City Of Holly Springs, GA",Georgia,Municipality,Hugh Bargeron,17473,Nurture,Tier 2,1.0,34.174,-84.5013,6d0176b8-7607-4f3c-a98a-b6f07a705a23,Closed Lost,,,Hugh Bargeron,4/23/2026,4/17/2026,,,5,2026-04-23,4,1,,,,,,2048
-001Hr000028Zbxa,"City Of Jackson, GA",Georgia,Municipality,Hugh Bargeron,5622,,Tier 3,0.75,33.2946,-83.966,21b45b33-71eb-4af7-8a2e-9e66eb11797a,,,,,,,,,8,2026-04-03,8,,,,,,,1178
-001Hr000028ZbyS,"City Of Flowery Branch, GA",Georgia,Municipality,Hugh Bargeron,10144,,Tier 2,1.0,34.1851,-83.9252,cca2e783-7e61-4324-9d3e-f206c04a3ef5,,,,,,,,,10,2026-05-06,10,,,,,,,1326
-001Hr000028Zbys,"City Of Byron, GA",Georgia,Municipality,Hugh Bargeron,5839,,Tier 3,0.75,32.6538,-83.7596,53339115-0075-4daa-80cf-1a3aae6bc99e,,,,,,,,,,,,,,,,,,1335
-001Hr000028Zbzv,"City Of Cairo, GA",Georgia,Municipality,Hugh Bargeron,10015,,Tier 2,1.0,30.8774,-84.2013,aa14e03c-57d2-450d-a8a3-79652d2dbafb,,,,,,,,,4,2025-10-15,,4,,,,,,995
-001Hr000028Zc0f,"Town Of Tyrone, GA",Georgia,Municipality,Hugh Bargeron,7817,,Tier 3,0.75,33.4712,-84.5972,d9bf7899-3cbf-430f-8ffa-f6db2713d42d,,,,,,,,,4,2025-10-30,,4,,,,,,2057
-001Hr000028Zc14,"City Of Dunwoody, GA",Georgia,Municipality,Hugh Bargeron,50901,,Tier S,2.0,33.9462,-84.3346,5a74ccd3-890d-476a-848c-e61195eda847,,,,,,,,,4,2026-04-06,3,1,,,,,,1771
-001Hr000028Zc15,"City Of Woodstock, GA",Georgia,Municipality,Hugh Bargeron,36198,Open Opportunity,Tier 1,1.5,34.1015,-84.5194,b72515e6-d3d1-4fc9-b7a0-22c1843d5655,Open,Initial Interest,Top of Funnel,Granger West,,1/23/2025,,Yes,11,2026-03-30,2,,9,,,,,2065
-001Hr000028Zc1X,"City Of Douglasville, GA",Georgia,Municipality,Hugh Bargeron,35561,Open Opportunity,Tier 1,1.5,33.7515,-84.7477,21a569a2-24d9-427d-8876-1d4189ae04aa,Open,Initial Interest,Top of Funnel,,,1/15/2025,,,32,2026-05-13,20,12,,,,,,1774
-001Hr000028Zc1q,"City Of Adel, GA",Georgia,Municipality,Hugh Bargeron,5507,Nurture,Tier 3,0.75,31.1371,-83.4235,f607429f-771b-48a5-b1c9-013542790216,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,5,2026-05-18,4,1,,,,,,1002
-001Hr000028Zc27,"City Of Eastman, GA",Georgia,Municipality,Hugh Bargeron,5595,Recent Competitor Purchase,Tier 3,0.75,32.1977,-83.1777,a33ae373-e656-4eb5-9212-19661244f7b5,,,,,,,,,,,,,,,,,,1329
-001Hr000028Zc2t,"City Of Grovetown, GA",Georgia,Municipality,Hugh Bargeron,16566,,Tier 2,1.0,33.4504,-82.1982,2f6dd7cd-3d60-4f23-bbfb-85503ce5e614,,,,,,,,,2,2026-04-16,1,1,,,,,,1793
-001Hr000028Zc3Z,"City Of Hinesville, GA",Georgia,Municipality,Hugh Bargeron,35420,Nurture,Tier 1,1.5,31.8315,-81.6141,8332032c-50f8-4558-b3c7-4a6fa6e922e5,Closed Lost,,,Shane Lieberman,2/13/2024,1/5/2025,,,2,2025-11-21,,,2,,,,,2387
-001Hr000028Zc3v,"City Of Thomasville, GA",Georgia,Municipality,Hugh Bargeron,18867,Recent Competitor Purchase,Tier 2,1.0,30.8366,-83.9788,cf50a0a3-4a17-4928-b9d5-0927d29151ee,,,,,,,,,2,2025-10-15,,2,,,,,,993
-001Hr000028Zc40,"City Of Camilla, GA",Georgia,Municipality,Hugh Bargeron,5046,Nurture,Tier 3,0.75,31.2313,-84.2105,35a709ad-fb06-4832-bb65-85660d06905e,Closed Lost,,,Quinzel Perry,8/27/2024,1/5/2025,,,22,2026-05-19,20,2,,,,,,994
-001Hr000028Zc45,"City Of Bainbridge, GA",Georgia,Municipality,Hugh Bargeron,14292,,Tier 2,1.0,30.9038,-84.5755,707f5894-7bc1-460e-92e7-b51ec2a17241,,,,,,,,,7,2026-04-13,5,2,,,,,,998
-001Hr000028Zc4A,"City Of Tifton, GA",Georgia,Municipality,Hugh Bargeron,17235,Nurture,Tier 2,1.0,31.4528,-83.5105,3372d6c9-0551-414f-9b82-7f000c58ac23,Closed Lost,,,Shane Lieberman,1/9/2024,1/5/2025,,,5,2026-05-14,1,4,,,,,,996
-001Hr000028Zc4F,"City Of Moultrie, GA",Georgia,Municipality,Hugh Bargeron,14587,Open Opportunity,Tier 2,1.0,31.1799,-83.7888,4fca1023-54bb-4752-b2be-49f6b610bec6,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,6,2026-05-11,4,,2,,,,,999
-001Hr000028Zc4I,"City Of Lilburn, GA",Georgia,Municipality,Hugh Bargeron,15168,Nurture,Tier 2,1.0,33.8901,-84.143,0043d36a-7686-4baf-aca8-a0fe56a3b7cd,Closed Lost,,,Shane Lieberman,1/10/2024,1/5/2025,"$21,376",,9,2026-05-18,8,1,,,,,,1777
-001Hr000028Zc4R,"City Of Glennville, GA",Georgia,Municipality,Hugh Bargeron,3707,,Tier 3,0.75,31.9366,-81.9284,611637b7-f775-4893-919d-b74aebc6f949,,,,,,,,,9,2026-04-22,6,,,3,,,,3475
-001Hr000028Zc4q,"City Of Jonesboro, GA",Georgia,Municipality,Hugh Bargeron,4510,Open Opportunity,Tier 3,0.75,33.5215,-84.3538,f696619e-21c7-4a14-ad90-46a656d2e4a5,Open,Proposal,Mid Funnel,Jason Ginsberg,3/26/2026,3/26/2026,"$19,000",,2,2025-06-03,,2,,,,,,2056
-001Hr000028Zc5F,"City Of Monroe, GA",Georgia,Municipality,Hugh Bargeron,15264,Nurture,Tier 2,1.0,33.7948,-83.7132,8d6318e0-cd7b-4673-af60-4d8b282b6d32,Closed Lost,,,Shane Lieberman,10/2/2024,1/5/2025,"$24,000",,8,2026-04-13,6,2,,,,,,2045
-001Hr000028Zc5W,"City Of Loganville, GA",Georgia,Municipality,Hugh Bargeron,14720,Nurture,Tier 2,1.0,33.839,-83.9007,929f50bb-593d-43f5-91aa-0638131ee1c8,Closed Lost,,,Quinzel Perry,3/27/2025,3/19/2025,"$26,000",,9,2026-01-14,,2,,,,,7,2054
-001Hr000028Zc5j,"City Of Dalton, GA",Georgia,Municipality,Hugh Bargeron,34285,,Tier 1,1.5,34.7698,-84.9702,e0aae78c-2cbb-4951-b931-00b4decaf385,,,,,,,,,,,,,,,,,,1802
-001Hr000028Zc6J,"City Of St Marys, GA",Georgia,Municipality,Hugh Bargeron,18521,,Tier 2,1.0,30.7479,-81.5706,b7cbb186-95e9-4f46-9160-94ea1a4e7e0b,,,,,,,,,4,2026-05-07,4,,,,,,,2388
-001Hr000028Zc6o,"City Of Toccoa, GA",Georgia,Municipality,Hugh Bargeron,9188,,Tier 3,0.75,34.5773,-83.3324,4063f259-3bb9-42a9-b043-a6b1f209b3ea,,,,,,,,,3,2026-04-14,1,2,,,,,,1790
-001Hr000028Zc71,"City Of Sugar Hill, GA",Georgia,Municipality,Hugh Bargeron,25259,Recent Competitor Purchase,Tier 1,1.5,34.1065,-84.0335,6d11b086-c12f-473e-a88b-f5f588cfdbbf,,,,,,,,,12,2026-05-11,8,1,3,,,,,2063
-001Hr000028Zc7X,"City Of Dallas, GA",Georgia,Municipality,Hugh Bargeron,14423,,Tier 2,1.0,33.9245,-84.8413,7859c4eb-9ae2-44d9-b6c4-636884bf2edf,,,,,,,,,3,2026-04-13,2,1,,,,,,2053
-001Hr000028Zc8m,"City Of Clarkston, GA",Georgia,Municipality,Hugh Bargeron,14538,Nurture,Tier 2,1.0,33.8095,-84.2396,2c7f98cf-4e17-47ca-860b-6345f4235e49,Closed Lost,,,Troy LeCaire,,1/5/2025,,,2,2025-11-19,,,2,,,,,1179
-001Hr000028Zc9a,"City Of Milledgeville, GA",Georgia,Municipality,Hugh Bargeron,17165,Open Opportunity,Tier 2,1.0,33.0801,-83.2321,045bedf5-6c8b-41ae-9ce4-300aa6d98e1d,Open,Initial Interest,Top of Funnel,Shane Lieberman,1/29/2025,1/5/2025,,,15,2026-05-19,10,,5,,,,,1330
-001Hr000028Zc9g,"City Of Lovejoy, GA",Georgia,Municipality,Hugh Bargeron,11311,,Tier 2,1.0,33.4362,-84.3144,d541f937-4ed8-4dc9-95c4-20fb9831d556,,,,,,,,,4,2026-05-07,3,1,,,,,,2055
-001Hr000028Zc9p,"City Of Eatonton, GA",Georgia,Municipality,Hugh Bargeron,6436,,Tier 3,0.75,33.3268,-83.3885,ddfe2af7-d936-427d-9093-6935c0d7c9bf,,,,,,,,,6,2026-03-30,6,,,,,,,1795
-001Hr000028Zc9y,"City Of College Park, GA",Georgia,Municipality,Hugh Bargeron,13889,Nurture,Tier 2,1.0,33.6534,-84.4494,8e741cc3-3d58-432d-aedb-4a80a056eac7,Closed Lost,,,Liam Shaw,5/21/2024,1/5/2025,,,7,2026-04-10,7,,,,,,,1181
-001Hr000028ZcA3,"City Of Hapeville, GA",Georgia,Municipality,Hugh Bargeron,6538,,Tier 3,0.75,33.6601,-84.4102,35e80b61-cdfb-455d-be18-01fd42eab4bd,,,,,,,,,7,2026-04-17,7,,,,,,,1180
-001Hr000028ZcAP,"City Of Richmond Hill, GA",Georgia,Municipality,Hugh Bargeron,17556,,Tier 2,1.0,31.9383,-81.3034,30e8b829-b5c4-404a-a6a5-42c6ad5976a2,,,,,,,,,5,2025-12-02,,,5,,,,,2384
-001Hr000028ZcBI,"City Of Rome, GA",Georgia,Municipality,Hugh Bargeron,37746,Nurture,Tier 1,1.5,34.2565,-85.1687,eb90b9dc-282d-47e3-9c4b-ef776abf99c5,Closed Lost,,,Quinzel Perry,9/9/2024,1/5/2025,"$59,000",,7,2026-04-08,2,5,,,,,,1789
-001Hr000028ZcBg,"City Of Norcross, GA",Georgia,Municipality,Hugh Bargeron,17642,,Tier 2,1.0,33.9411,-84.2137,dccff11a-fa57-4b33-8162-dd6637612b74,,,,,,,,,1,2025-10-08,,1,,,,,,1772
-001Hr000028ZcCU,"City Of Buford, GA",Georgia,Municipality,Hugh Bargeron,17683,,Tier 2,1.0,34.1126,-84.0009,14ddadc1-5859-4c40-8d09-3119e00b5d95,,,,,,,,,25,2026-05-18,11,14,,,,,,2076
-001Hr000028ZcCf,"County Of Pulaski, GA",Georgia,County,Hugh Bargeron,9917,Nurture,Tier 3,0.75,32.2326,-83.4644,2013fe55-0d9b-437a-8871-115f58f2ddc0,,,,,,,,,2,2026-03-18,2,,,,,,,1332
-001Hr000028ZcCz,"City Of Jefferson, GA",Georgia,Municipality,Hugh Bargeron,13986,,Tier 2,1.0,34.1171,-83.5724,d94fb0cf-8a39-44a4-86d9-38fb4ea14390,,,,,,,,,5,2025-10-30,,5,,,,,,1791
-001Hr000028ZcD3,"City Of Morrow, GA",Georgia,Municipality,Hugh Bargeron,6553,Nurture,Tier 3,0.75,33.5832,-84.3394,a5d609ff-ce3a-43f0-b237-0502ee81cb98,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,2,2026-05-14,1,1,,,,,,1782
-001Hr000028ZcDD,"City Of Sandersville, GA",Georgia,Municipality,Hugh Bargeron,5654,Open Opportunity,Tier 3,0.75,32.9815,-82.8101,a078fd74-cefa-4eae-9271-b90dd6204d77,Open,Proposal,Mid Funnel,Hugh Bargeron,4/7/2026,4/2/2026,"$18,500",,8,2026-05-12,2,,6,,,,,1331
-001Hr000028ZcDb,"City Of Forest Park, GA",Georgia,Municipality,Hugh Bargeron,19798,Open Opportunity,Tier 2,1.0,33.6221,-84.3691,b8375f76-2b93-4260-8a0a-692375c1e305,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,10,2026-05-06,10,,,,,,,1322
-001Hr000028ZcDg,"City Of Chamblee, GA",Georgia,Municipality,Hugh Bargeron,29781,Open Opportunity,Tier 1,1.5,33.892,-84.2988,9f22c6dc-a6a8-46fd-b152-4b1ace2b34f5,Open,Initial Interest,Top of Funnel,Jenny Allison,1/12/2026,11/19/2025,,,3,2026-01-12,,,3,,,,,1323
-001Hr000028ZcDh,"City Of Acworth, GA",Georgia,Municipality,Hugh Bargeron,22284,,Tier 2,1.0,34.0659,-84.6769,b9a7b213-aef5-49b3-acae-45f7e2c1a56c,,,,,,,,,10,2026-03-30,10,,,,,,,1779
-001Hr000028ZcDl,"City Of Swainsboro, GA",Georgia,Municipality,Hugh Bargeron,7438,,Tier 3,0.75,32.5974,-82.3337,d0113435-68e0-4daf-9786-114825f49dbf,,,,,,,,,6,2026-04-16,6,,,,,,,1327
-001Hr000028ZcDq,"City Of Villa Rica, GA",Georgia,Municipality,Hugh Bargeron,17830,,Tier 2,1.0,33.7321,-84.9191,8ac12f34-dbf1-477f-9f94-46e5c48daba9,,,,,,,,,11,2026-03-26,11,,,,,,,1325
-001Hr000028ZcDs,"City Of Locust Grove, GA",Georgia,Municipality,Hugh Bargeron,11749,Nurture,Tier 2,1.0,33.346,-84.1091,5001eafe-8ebb-46dd-b642-08f1177f9815,Closed Lost,,,Shane Lieberman,10/17/2025,10/17/2025,"$27,000",,10,2026-05-19,10,,,,,,,2078
-001Hr000028ZcDv,"City Of Dublin, GA",Georgia,Municipality,Hugh Bargeron,16121,Cold,Tier 2,1.0,32.5404,-82.9038,8d370168-69b1-431a-95b7-aedf5b7c06e6,Closed Lost,,,Shane Lieberman,1/16/2024,1/5/2025,"$34,001",,10,2026-05-14,1,1,8,,,,,1328
-001Hr000028ZcE0,"City Of Centerville, GA",Georgia,Municipality,Hugh Bargeron,8243,,Tier 3,0.75,32.6301,-83.6896,5c1940e6-0ae1-4052-b714-9047fa671663,,,,,,,,,3,2026-04-13,3,,,,,,,1334
-001Hr000028ZcE5,"City Of Perry, GA",Georgia,Municipality,Hugh Bargeron,22029,Nurture,Tier 2,1.0,32.4582,-83.7316,71bbc23c-887b-4e2f-8a0e-0bde002803b2,Closed Lost,,,Troy LeCaire,,1/5/2025,,,38,2026-05-18,14,,4,20,,,,1336
-001Hr000028ZcEd,"City Of Duluth, GA",Georgia,Municipality,Hugh Bargeron,31864,1+ Module Live,Tier 1,1.5,34.0029,-84.1446,6b7ffe99-8f4e-495e-9940-924bd846d2cb,Closed Won,,,Granger West,1/29/2025,1/5/2025,"$35,000",,,,,,,,,,,2059
-001Hr000028ZcG4,"City Of Commerce, GA",Georgia,Municipality,Hugh Bargeron,7604,Nurture,Tier 3,0.75,34.204,-83.4571,d30ba6af-0048-4652-84c4-15c08d727133,Closed Lost,,,Shane Lieberman,1/3/2024,1/5/2025,,,18,2026-04-13,18,,,,,,,1792
-001Hr000028ZcGC,"Cusseta-Chattahoochee County, GA",Georgia,Municipality,Hugh Bargeron,9533,,Tier 3,0.75,32.3061,-84.777,719c1e25-2ea3-4538-aa53-c1c3c489b6d5,,,,,,,,,1,2025-10-08,,1,,,,,,1804
-001Hr000028ZcHH,"City Of Suwanee, GA",Georgia,Municipality,Hugh Bargeron,21918,,Tier 2,1.0,34.0515,-84.0713,a40bde69-c7de-4aa0-bc57-a2d517880339,,,,,,,,,10,2026-05-19,10,,,,,,,2071
-001Hr000028ZcIo,"City Of Conyers, GA",Georgia,Municipality,Hugh Bargeron,17508,,Tier 2,1.0,33.6676,-84.0177,b634e75a-6c44-4366-a2e7-b6895d3787ac,,,,,,,,,3,2026-04-02,3,,,,,,,2073
-001Hr000028ZcJ1,"City Of Fairburn, GA",Georgia,Municipality,Hugh Bargeron,16597,Open Opportunity,Tier 2,1.0,33.5671,-84.581,25c551f3-4f1e-4fdc-9569-72c49df56ce8,Open,Initial Interest,Top of Funnel,Hugh Bargeron,3/26/2026,3/24/2026,,,3,2026-03-31,3,,,,,,,2080
-001Hr000028ZcLl,"City Of Tucker, GA",Georgia,Municipality,Hugh Bargeron,36855,,Tier 1,1.5,33.8545,-84.2171,a656c33d-738c-4bda-a630-a284b35ac868,,,,,,,,,7,2026-05-13,7,,,,,,,1776
-001Hr000028ZcMF,"City Of Union City, GA",Georgia,Municipality,Hugh Bargeron,27359,Nurture,Tier 1,1.5,33.5871,-84.5424,bcee0d08-daba-4697-a530-fba07f770b2a,Closed Lost,,,Shane Lieberman,1/11/2024,1/5/2025,,,15,2026-05-06,15,,,,,,,2061
-001Hr000028ZcMZ,"City Of Garden City, GA",Georgia,Municipality,Hugh Bargeron,10306,All Modules Live,Tier 2,1.0,32.1144,-81.154,c712d7b9-aba1-445c-8048-0a9c6445c465,Closed Won,,,,1/31/2025,1/31/2025,"$21,000",,,,,,,,,,,2389
-001Hr000028ZcMa,"City Of Port Wentworth, GA",Georgia,Municipality,Hugh Bargeron,11746,Nurture,Tier 2,1.0,32.1491,-81.1632,b97d3f37-eeb5-4b37-84f6-5e8517d8441c,Closed Lost,,,Quinzel Perry,,3/27/2025,,,15,2026-05-14,10,5,,,,,,2381
-001Hr000028ZcMo,"City Of Griffin, GA",Georgia,Municipality,Hugh Bargeron,23643,,Tier 2,1.0,33.2468,-84.2641,1a10876d-8ff8-4924-b35b-7994dba14efc,,,,,,,,,3,2026-04-14,2,1,,,,,,2046
-001Hr000028ZcN4,"City Of La Fayette, GA",Georgia,Municipality,Hugh Bargeron,6968,,Tier 3,0.75,34.7048,-85.2819,50ebaa89-6cde-4f12-b27c-15c70619a4b2,,,,,,,,,11,2026-05-06,11,,,,,,,1798
-001Hr000028ZcNH,"City Of Fayetteville, GA",Georgia,Municipality,Hugh Bargeron,19284,,Tier 2,1.0,33.4486,-84.455,3a0fa100-5b38-4386-8cdb-e3bea678ab93,,,,,,,,,6,2026-03-20,6,,,,,,,1769
-001Hr000028ZcNM,"City Of Milton, GA",Georgia,Municipality,Hugh Bargeron,41259,Nurture,Tier 1,1.5,34.0892,-84.3429,ced91c3e-6e74-40ff-a6fd-5a6dc5938e35,Closed Lost,,,Troy LeCaire,,1/5/2025,,,5,2026-04-13,4,1,,,,,,1770
-001Hr000028ZcNR,"City Of Mcdonough, GA",Georgia,Municipality,Hugh Bargeron,30356,,Tier 1,1.5,33.4472,-84.1424,a1381393-dc94-4c44-9eac-0db36225468a,,,,,,,,,25,2026-05-18,25,,,,,,,1778
-001Hr000028ZcNe,"City Of Statesboro, GA",Georgia,Municipality,Hugh Bargeron,33399,,Tier 1,1.5,32.4488,-81.7832,01137cd0-73ad-4509-b394-9acf6711c81f,,,,,,,,,4,2026-04-10,4,,,,,,,2385
-001Hr000028ZcNg,"City Of Calhoun, GA",Georgia,Municipality,Hugh Bargeron,17318,,Tier 2,1.0,34.5026,-84.9511,6d968c2a-be43-4432-9883-9bff24992ecb,,,,,,,,,2,2025-10-08,,2,,,,,,1799
-001Hr000028ZcNl,"City Of Dahlonega, GA",Georgia,Municipality,Hugh Bargeron,6654,Open Opportunity,Tier 3,0.75,34.5261,-83.9844,37bf34eb-d626-4d73-a574-e7114fd9b5c4,Open,Meeting Booked,Top of Funnel,Hugh Bargeron,4/27/2026,4/7/2026,,,12,2026-04-07,12,,,,,,,1794
-001Hr000028ZcNq,"City Of Lagrange, GA",Georgia,Municipality,Hugh Bargeron,31551,,Tier 1,1.5,33.0362,-85.0322,dbc31ca4-231e-4e83-8342-d401428b714e,,,,,,,,,5,2026-04-15,4,1,,,,,,1803
-001Hr000028ZcNv,"City Of Waynesboro, GA",Georgia,Municipality,Hugh Bargeron,5688,Nurture,Tier 3,0.75,33.0899,-82.0157,ce227f69-52af-433a-9470-e70e8031f723,Closed Lost,,,Quinzel Perry,8/20/2024,1/5/2025,,,18,2026-05-18,18,,,,,,,1796
-001Hr000028ZcO8,"City Of Kennesaw, GA",Georgia,Municipality,Hugh Bargeron,33049,,Tier 1,1.5,34.0234,-84.6155,0cfc6446-d61e-4664-a615-97acd217bf3c,,,,,,,,,5,2026-04-07,4,1,,,,,,2064
-001Hr000028ZcOb,"City Of Carrollton, GA",Georgia,Municipality,Hugh Bargeron,27493,,Tier 1,1.5,33.5801,-85.0766,05e170ae-dcd8-4ef6-a34a-c1bd038faa33,,,,,,,,,6,2026-04-02,6,,,,,,,2069
-001Hr000028ZcOc,"Town Of Rincon, GA",Georgia,Municipality,Hugh Bargeron,11016,Open Opportunity,Tier 2,1.0,32.2948,-81.2354,eade05d6-1764-4e0e-adea-a735121ae9a5,Open,Sales Qualified,Mid Funnel,Hugh Bargeron,4/20/2026,4/13/2026,,,12,2026-04-20,12,,,,,,,2386
-001Hr000028ZcP9,"City Of Powder Springs, GA",Georgia,Municipality,Hugh Bargeron,17083,,Tier 2,1.0,33.8595,-84.6838,4c0ffff6-3595-4a01-af42-85bf604a8e94,,,,,,,,,20,2026-05-06,20,,,,,,,2074
-001Hr000028ZcPU,"City Of Pooler, GA",Georgia,Municipality,Hugh Bargeron,26930,,Tier 1,1.5,32.1155,-81.2471,ec3bfe53-39d9-41da-8e77-cfa4ac0dd51e,,,,,,,,,10,2026-05-18,6,,4,,,,,2383
-001Hr000028ZcPb,"City Of Cordele, GA",Georgia,Municipality,Hugh Bargeron,10044,,Tier 2,1.0,31.9635,-83.7824,a19f2f30-6e60-43b6-8acf-97522c1125e8,,,,,,,,,5,2026-05-06,5,,,,,,,4610
-001Hr000028ZcPt,"City Of Barnesville, GA",Georgia,Municipality,Hugh Bargeron,6389,Nurture,Tier 3,0.75,33.0546,-84.1557,39b9eeaa-7568-40ef-90c1-8c6984630aa5,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,2,2025-10-08,,2,,,,,,2049
-001Hr000028ZcPx,"City Of Austell, GA",Georgia,Municipality,Hugh Bargeron,7797,,Tier 3,0.75,33.8126,-84.6344,fc3f3d95-22cb-4ce1-9a3e-47a45e7056c7,,,,,,,,,15,2026-04-02,15,,,,,,,2075
-001Hr000028ZcQ7,"City Of Cedartown, GA",Georgia,Municipality,Hugh Bargeron,10270,,Tier 2,1.0,34.0113,-85.2566,d48b54ca-b16d-44f5-918d-52ba760a91f1,,,,,,,,,8,2026-05-18,4,4,,,,,,2068
-001Hr000028ZcRJ,"City Of Covington, GA",Georgia,Municipality,Hugh Bargeron,14391,,Tier 2,1.0,33.5968,-83.8602,32f22e76-c5fd-4d8c-95f8-013459776354,,,,,,,,,8,2026-04-02,4,4,,,,,,2050
-001Hr000028ZcRO,"City Of Peachtree, GA",Georgia,Municipality,Hugh Bargeron,38818,Nurture,Tier 1,1.5,33.4014,-84.5817,1e468aa5-757c-4e47-86ed-5a86268bb03c,Closed Lost,,,,,1/23/2025,,,4,2026-01-22,,2,,,2,,,2058
-001Hr000028ZcRT,"City Of Winder, GA",Georgia,Municipality,Hugh Bargeron,18825,,Tier 2,1.0,33.9926,-83.7202,2cec827f-144c-46ea-b807-6ac7e07b531a,,,,,,,,,3,2026-04-09,3,,,,,,,2052
-001Hr000028ZcRY,"City Of Cartersville, GA",Georgia,Municipality,Hugh Bargeron,23222,,Tier 2,1.0,34.1651,-84.7999,69a1cdb3-d821-406e-acde-9fd09bfcd631,,,,,,,,,2,2025-10-08,,2,,,,,,2051
-001Hr000028ZcRd,"City Of Newnan, GA",Georgia,Municipality,Hugh Bargeron,43298,Open Opportunity,Tier 1,1.5,33.3807,-84.7997,5664eff4-9072-4e14-8861-2272faaade10,Open,Initial Interest,Top of Funnel,Quinzel Perry,11/5/2025,10/29/2025,,,13,2026-05-11,4,6,3,,,,,2047
-001Hr000028ZcRi,"City Of Doraville, GA",Georgia,Municipality,Hugh Bargeron,10889,Open Opportunity,Tier 2,1.0,33.8982,-84.2833,aa85817f-36c8-4c83-8466-ded8d71586c2,Open,Initial Interest,Top of Funnel,Nick Martino,,11/26/2025,,,25,2026-04-13,10,,,,,15,,2067
-001Hr000028ZcRn,"City Of Stone Mountain, GA",Georgia,Municipality,Hugh Bargeron,6614,Open Opportunity,Tier 3,0.75,33.8082,-84.1702,df292976-3dfc-4edb-b5b4-c94561aa2aaf,Open,Meeting Booked,Top of Funnel,Hugh Bargeron,3/23/2026,3/20/2026,,,5,2026-04-30,5,,,,,,,2060
-001Hr000028ZcRs,"City Of Cumming, GA",Georgia,Municipality,Hugh Bargeron,7235,,Tier 3,0.75,34.2073,-84.1402,e065e426-d258-4351-a7c2-af44126214f5,,,,,,,,,13,2026-04-13,6,7,,,,,,2070
-001Hr000028ZcRx,"City Of Canton, GA",Georgia,Municipality,Hugh Bargeron,34576,Open Opportunity,Tier 1,1.5,34.2368,-84.4908,cb47935e-db90-4ef1-ba9b-a7cb2e11c9b5,Open,Initial Interest,Top of Funnel,Shane Lieberman,1/9/2024,1/5/2025,,,27,2026-05-19,5,,,,22,,,2066
-001Hr000028ZcS2,"City Of Riverdale, GA",Georgia,Municipality,Hugh Bargeron,14912,,Tier 2,1.0,33.5726,-84.4133,8e2ef8c9-ab33-404c-b009-ef931591e634,,,,,,,,,5,2026-03-30,5,,,,,,,2072
-001Hr000028ZcS7,"City Of Dacula, GA",Georgia,Municipality,Hugh Bargeron,7008,,Tier 3,0.75,33.9887,-83.898,879be106-b7ab-4f1e-a8f2-efcb2df9f36d,,,,,,,,,4,2026-03-30,4,,,,,,,2079
-001Hr000028ZcSN,"City Of Waycross, GA",Georgia,Municipality,Hugh Bargeron,13759,,Tier 2,1.0,31.2136,-82.354,4145ce30-00aa-4a81-9613-9c88b7d4d8f8,,,,,,,,,16,2026-04-13,16,,,,,,,2377
-001Hr000028ZcUA,Whitfield County,Georgia,County,Hugh Bargeron,102848,,Tier S,2.0,34.8034,-84.9818,663542a7-89e3-4f64-9558-eaac0b87c370,,,,,,,,,10,2026-05-06,10,,,,,,,2618
-001Hr000028ZcVD,"City Of Kingsland, GA",Georgia,Municipality,Hugh Bargeron,19075,All Modules Live,Tier 2,1.0,30.8,-81.6898,1b9ffea7-f9e6-418c-9181-2b805cb7c8f2,Closed Won,,,Asher Rosenfeld,,1/5/2025,"$20,000",,,,,,,,,,,2382
-001Hr000028ZcXh,"City Of Vidalia, GA",Georgia,Municipality,Hugh Bargeron,10710,Nurture,Tier 2,1.0,32.2177,-82.4135,ba91bdad-fb92-40f3-b0d1-921a0e77ad79,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,2,2026-03-18,2,,,,,,,2380
-001Hr000028ZcXj,"Richmond County, GA",Georgia,County,Hugh Bargeron,206303,,Tier S,2.0,33.3205,-82.0843,dbbc7e84-4e6b-43c1-94ee-7123eff376c2,,,,,,,,,12,2026-04-13,2,10,,,,,,12173
-001Hr000028ZcXv,"City Of Douglas, GA",Georgia,Municipality,Hugh Bargeron,11727,,Tier 2,1.0,31.5088,-82.8499,ef59a095-3ff7-4ca1-bd63-f83c9a5d6cba,,,,,,,,,8,2026-04-09,2,,3,,3,,,2378
-001Hr000028ZcY0,"City Of Jesup, GA",Georgia,Municipality,Hugh Bargeron,9899,Nurture,Tier 3,0.75,31.6074,-81.8854,56124b26-6235-4c77-85fc-c9f658355aed,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,14,2026-05-19,14,,,,,,,2379
-001Hr000028ZcYJ,"Paulding County, GA",Georgia,County,Hugh Bargeron,188549,,Tier S,2.0,33.9142,-84.8985,251ad883-1d3c-48ad-a37e-09f6b727f1e6,,,,,,,,,34,2026-04-20,10,24,,,,,,12164
-001Hr000028ZcjK,"City Of Auburn, GA",Georgia,Municipality,Hugh Bargeron,8094,,Tier 3,0.75,34.0137,-83.8277,0f50c7f0-e2c6-4c37-af19-a58c1639409b,,,,,,,,,2,2026-05-07,2,,,,,,,4071
-001Hr000028Zcl9,"County Of Mcduffie, GA",Georgia,County,Hugh Bargeron,21633,,Tier 2,1.0,33.5259,-82.5186,fdd7699a-ddfd-4940-a088-412c1d7eaefd,,,,,,,,,6,2026-04-13,5,1,,,,,,3894
-001Hr000028Zcmd,"Jackson County, GA",Georgia,County,Hugh Bargeron,93825,,Tier S,2.0,34.1175,-83.5497,01a57288-6146-4458-bc40-a5552816cb8f,,,,,,,,,12,2026-04-14,1,11,,,,,,12061
-001Hr000028Zcnn,"Henry County, GA",Georgia,County,Hugh Bargeron,259315,,Tier S,2.0,33.4348,-84.1435,5c1f18c2-9763-4d95-a187-b278b5e9cab4,,,,,,,,,21,2026-04-29,8,13,,,,,,12172
-001Hr000028Zd8W,"County Of Jones, GA",Georgia,County,Hugh Bargeron,28400,Open Opportunity,Tier 1,1.5,33.0003,-83.507,2666ae46-207e-47b6-bf58-694b41809eb6,Open,Initial Interest,Top of Funnel,Alicia Gopal,,1/8/2026,,Yes,3,2026-04-16,,,,,3,,,12045
-001Hr000028Zd93,"Floyd County, GA",Georgia,County,Hugh Bargeron,101390,,Tier S,2.0,34.2829,-85.2308,cc89bee4-3c53-4ba5-8022-cd91ed352324,,,,,,,,,2,2026-04-13,1,1,,,,,,11927
-001Hr000028ZdC9,"Polk County, GA",Georgia,County,Hugh Bargeron,44610,,Tier 1,1.5,34.0132,-85.1479,a3ee76be-eed7-4a89-ba73-d771ed9e09f8,,,,,,,,,18,2026-05-13,17,1,,,,,,12072
-001Hr000028ZdG9,"Walton County, GA",Georgia,County,Hugh Bargeron,109792,,Tier S,2.0,33.7709,-83.7199,0962903b-d081-4749-b9e4-9f6bf76efad8,,,,,,,,,9,2026-03-30,4,5,,,,,,12069
-001Hr000028ZdJZ,"Upson County, GA",Georgia,County,Hugh Bargeron,28358,,Tier 1,1.5,32.9048,-84.3121,380422b1-b7ce-4b8e-a3bb-ee2a77c4e872,,,,,,,,,3,2026-04-23,1,2,,,,,,12060
-001Hr000028ZdK3,"Bryan County, GA",Georgia,County,Hugh Bargeron,49739,Nurture,Tier 1,1.5,32.0237,-81.4718,d8e76e04-ba7e-4770-b03b-7090e5a662dd,Closed Lost,,,Liam Shaw,5/16/2024,1/5/2025,,,3,2025-11-12,,,3,,,,,12068
-001Hr000028ZdME,"Houston County, GA",Georgia,County,Hugh Bargeron,174897,,Tier S,2.0,32.422,-83.6348,c49560b8-5137-45a8-ad10-f8b1ad154d12,,,,,,,,,2,2025-10-02,,2,,,,,,12162
-001Hr000028ZdOn,"Gilmer County, GA",Georgia,County,Hugh Bargeron,33327,,Tier 1,1.5,34.6935,-84.4803,47c3836e-8873-447a-8381-b0eba6b74e43,,,,,,,,,4,2026-04-13,1,3,,,,,,12051
-001Hr000028ZdRi,"Spalding County, GA",Georgia,County,Hugh Bargeron,70292,,Tier S,2.0,33.2637,-84.3121,76e01960-0f17-4b68-87cf-551b8393f342,,,,,,,,,2,2026-03-20,1,1,,,,,,12064
-001Hr000028ZdUl,"Oconee County, GA",Georgia,County,Hugh Bargeron,44751,,Tier 1,1.5,33.8232,-83.443,6d8444a3-3be4-4138-b191-a1bc7542fc91,,,,,,,,,20,2026-04-29,20,,,,,,,11933
-001Hr000028ZdZH,"County Of Bulloch, GA",Georgia,County,Hugh Bargeron,82442,Open Opportunity,Tier S,2.0,32.3596,-81.7787,9a7033f9-cede-421a-ba0c-95eef53ebdb1,Open,Initial Interest,Top of Funnel,Granger West,5/29/2025,5/12/2025,,,71,2026-05-19,10,61,,,,,,12065
-001Hr000028ZdaG,"Columbia County, GA",Georgia,County,Hugh Bargeron,167472,,Tier S,2.0,33.5099,-82.2583,19349a29-ae42-4b07-b972-26c3f5df06d3,,,,,,,,,13,2026-05-06,10,3,,,,,,12163
-001Hr000028ZdaJ,"City Of Stonecrest, GA",Georgia,Municipality,Hugh Bargeron,59863,Open Opportunity,Tier S,2.0,33.7041,-84.1307,a3153836-e1c0-4311-9da9-dd9384e9d3a8,Open,Sales Qualified,Mid Funnel,Hugh Bargeron,4/8/2026,3/26/2026,,,20,2026-05-06,20,,,,,,,11534
-001Hr000028ZdaY,"City Of Warner Robins, GA",Georgia,Municipality,Hugh Bargeron,81446,,Tier S,2.0,32.613,-83.6242,23b0f4e7-88d5-4dd3-89dc-6644e0b3bb2c,,,,,,,,,1,2026-03-20,1,,,,,,,11651
-001Hr000028Zdbp,"City Of Alpharetta, GA",Georgia,Municipality,Hugh Bargeron,66127,Nurture,Tier S,2.0,34.0746,-84.2923,7245d06c-a0ce-4aed-897a-eb15d5804e10,Closed Lost,,,Quinzel Perry,3/21/2025,3/20/2025,,,17,2026-04-08,17,,,,,,,11528
-001Hr000028Zdbv,"Worth County, GA",Georgia,County,Hugh Bargeron,20273,Open Opportunity,Tier 2,1.0,31.5282,-83.8897,ef735cf4-26de-4395-a944-4cb5830e58b2,Open,Proposal,Mid Funnel,Hugh Bargeron,5/4/2026,5/1/2026,"$6,000",Yes,15,2026-05-06,12,,3,,,,,11419
-001Hr000028ZdcP,"City Of Valdosta, GA",Georgia,Municipality,Hugh Bargeron,55567,,Tier S,2.0,30.8329,-83.2772,88e12bab-e759-4f7d-8476-291d93bda9dc,,,,,,,,,12,2026-05-06,12,,,,,,,11647
-001Hr000028Zdcs,"City Of Albany, GA",Georgia,Municipality,Hugh Bargeron,69048,,Tier S,2.0,31.5785,-84.1514,6473757f-9143-4ec4-8a9c-6402851b6674,,,,,,,,,17,2026-05-14,17,,,,,,,11450
-001Hr000028ZddC,"Lee County, GA",Georgia,County,Hugh Bargeron,34073,,Tier 1,1.5,31.8128,-84.1435,2254eae1-2a2b-4ddd-bfb7-251e6de4cc99,,,,,,,,,37,2026-04-10,1,36,,,,,,12043
-001Hr000028ZddD,"Fayette County, GA",Georgia,County,Hugh Bargeron,125107,,Tier S,2.0,33.4502,-84.4803,2e6e7008-b573-4562-a5d6-1748a5879966,,,,,,,,,14,2026-04-21,7,7,,,,,,12160
-001Hr000028ZdeE,"Marietta, GA",Georgia,Municipality,Hugh Bargeron,63122,Open Opportunity,Tier S,2.0,33.9533,-84.5499,d8ff3faf-c8d4-435b-829d-ed94ab5ecbd8,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,1,2025-07-16,,1,,,,,,11417
-001Hr000028Zdee,"City Of Johns Creek, GA",Georgia,Municipality,Hugh Bargeron,82065,,Tier S,2.0,34.0289,-84.1986,b09ba118-d441-4dec-8248-ebfe2a9c8cb7,,,,,,,,,2,2026-03-19,2,,,,,,,11527
-001Hr000028Zdel,"Hall County, GA",Georgia,County,Hugh Bargeron,221745,,Tier S,2.0,34.3078,-83.8049,b95f0dfd-626b-4eec-bbc3-efa0c4a305e4,,,,,,,,,2,2025-10-02,,2,,,,,,12158
-001Hr000028Zdey,"City Of Smyrna, GA",Georgia,Municipality,Hugh Bargeron,55685,Open Opportunity,Tier S,2.0,33.884,-84.5144,df3e8821-1a10-45a5-b811-b41e0d3a23d4,Open,Demo,Mid Funnel,Hugh Bargeron,3/26/2026,3/23/2026,,Yes,3,2026-03-23,3,,,,,,,11537
-001Hr000028Zdez,"Newton County, GA",Georgia,County,Hugh Bargeron,124010,,Tier S,2.0,33.5544,-83.8473,7b579a59-8c16-4199-adc4-8d12ab14fd5d,,,,,,,,,14,2026-04-13,4,10,,,,,,12153
-001Hr000028ZdfM,"City Of Brookhaven, GA",Georgia,Municipality,Hugh Bargeron,55366,Open Opportunity,Tier S,2.0,33.865,-84.3371,586a52ba-2e54-4918-b334-f83708dfa943,Open,Meeting Booked,Top of Funnel,Jason Ginsberg,3/26/2026,3/24/2026,,,2,2026-03-19,2,,,,,,,11526
-001Hr000028ZdfO,"Coweta County, GA",Georgia,County,Hugh Bargeron,158223,,Tier S,2.0,33.3717,-84.7316,b39131ea-75e6-471d-979b-b1faeb9b8292,,,,,,,,,15,2026-03-20,2,13,,,,,,12145
-001Hr000028Zdfc,"City Of Roswell, GA",Georgia,Municipality,Hugh Bargeron,92530,Recent Competitor Purchase,Tier S,2.0,34.0232,-84.3616,6e4e9016-c67a-405b-bc56-353a40f24866,,,,,,,,,16,2026-05-12,14,2,,,,,,11538
-001Hr000028ZdhZ,"White County, GA",Georgia,County,Hugh Bargeron,29668,,Tier 1,1.5,34.6568,-83.7199,06eadbe2-2c15-4bcc-88ee-af4f98f8101e,,,,,,,,,11,2026-04-29,9,2,,,,,,12071
-001Hr000028Zdhx,"Effingham County, GA",Georgia,County,Hugh Bargeron,73148,,Tier S,2.0,32.3781,-81.3839,30d51ca3-ac09-4fe1-b86f-6f958eba56b6,,,,,,,,,14,2026-04-14,11,3,,,,,,12067
-001Hr000028Zdig,"Rockdale County, GA",Georgia,County,Hugh Bargeron,95987,Nurture,Tier S,2.0,33.6752,-84.0379,64fd4a10-1bb8-494d-b2b7-22c87cafba80,Closed Lost,,,Quinzel Perry,9/5/2025,8/15/2025,,,16,2026-04-17,5,11,,,,,,12532
-001Hr000028ZdjC,"Habersham County, GA",Georgia,County,Hugh Bargeron,49665,,Tier 1,1.5,34.6479,-83.5497,4712ac8f-126c-408b-bb9a-a6e5046a3620,,,,,,,,,13,2026-04-22,6,7,,,,,,12053
-001Hr000028ZdjU,"County Of Catoosa, GA",Georgia,County,Hugh Bargeron,68397,Open Opportunity,Tier S,2.0,34.8982,-85.1479,6828d8cf-18d7-4cb0-b65a-e011c52a875d,Open,Initial Interest,Top of Funnel,Quinzel Perry,,5/1/2025,,,7,2026-04-29,6,1,,,,,,12074
-001Hr000028Zdja,"Camden County, GA",Georgia,County,Hugh Bargeron,58118,1+ Module Live,Tier S,2.0,30.8983,-81.6035,d2bd076f-5be7-49e5-a60c-28fd5a605863,Closed Won,,,Shane Lieberman,10/21/2024,1/5/2025,"$27,000",,,,,,,,,,,12080
-001Hr000028Zdkm,"Tift County, GA",Georgia,County,Hugh Bargeron,41708,,Tier 1,1.5,31.4206,-83.5497,6eaafc5c-77dd-41a7-978e-e3191fe67e41,,,,,,,,,2,2026-03-27,1,1,,,,,,12058
-001Hr000028Zdnh,"Carroll County, GA",Georgia,County,Hugh Bargeron,129911,,Tier S,2.0,33.5642,-85.0649,ba482e49-1e74-471b-8d67-c55b87e704f2,,,,,,,,,4,2026-04-13,4,,,,,,,12167
-001Hr000028Zdnl,"Walker County, GA",Georgia,County,Hugh Bargeron,69340,,Tier S,2.0,34.6858,-85.355,178bf7fe-94ba-42ed-8035-3ce99c567a04,,,,,,,,,2,2026-04-15,1,1,,,,,,12076
-001Hr000028ZdoE,"Harris County, GA",Georgia,County,Hugh Bargeron,36929,,Tier 1,1.5,32.7033,-84.8568,f83b5a21-c3fd-4aee-9f2e-47001d5ec0d2,,,,,,,,,12,2026-04-09,1,11,,,,,,12056
-001Hr000028ZdoZ,"Clarke County, GA",Georgia,County,Hugh Bargeron,129995,,Tier S,2.0,33.9519,-83.3576,e3e51765-d51c-46a0-a492-8c91ad185970,,,,,,,,,15,2026-05-18,10,5,,,,,,12157
-001Hr000028Zdoj,"Lowndes County, GA",Georgia,County,Hugh Bargeron,122082,Nurture,Tier S,2.0,30.86,-83.2934,5c7f5b91-16e0-44ad-a862-98576fd736dd,Closed Lost,,,Granger West,,5/12/2025,,,15,2026-04-16,6,9,,,,,,12155
-001Hr000028Zdp2,"Barrow County, GA",Georgia,County,Hugh Bargeron,96294,,Tier S,2.0,34.0143,-83.6987,47fc8bac-102e-4200-82d5-38a8d2547963,,,,,,,,,12,2026-05-19,11,1,,,,,,12059
-001Hr000028ZdpI,"Bartow County, GA",Georgia,County,Hugh Bargeron,117508,,Tier S,2.0,34.266,-84.8151,c551848d-3714-467b-8f91-30b88762b5ca,,,,,,,,,11,2026-03-30,7,4,,,,,,12152
-001Hr000028Zdpv,"Muscogee County, GA",Georgia,County,Hugh Bargeron,201830,,Tier S,2.0,32.4794,-84.8985,,,,,,,,,,11,2025-11-03,,11,,,,,,12168
-001Hr000028ZdqK,"Douglas County, GA",Georgia,County,Hugh Bargeron,149160,,Tier S,2.0,33.729,-84.7316,3031ce79-c319-45a7-95ee-b6e36a020b4f,,,,,,,,,42,2026-05-06,17,25,,,,,,12184
-001Hr000028Zdqe,"Bibb County, GA",Georgia,County,Hugh Bargeron,157056,,Tier S,2.0,32.7866,-83.7199,6105545c-ed1b-40b1-bebd-84bdb87e2527,,,,,,,,,5,2025-11-03,,5,,,,,,12165
-001Hr000028Zdra,"Madison, GA",Georgia,Municipality,Hugh Bargeron,5136,,Tier 3,0.75,34.099,-83.2078,ab6c53e1-ef51-404b-aa36-d9152399f0a7,,,,,,,,,1,2025-10-02,,1,,,,,,12505
-001Hr000028ZjDr,"Forsyth County, GA",Georgia,County,Hugh Bargeron,272887,Nurture,Tier S,2.0,34.2358,-84.1435,b9977bd4-6fce-46d5-9b1f-770f7dd5e532,Closed Lost,,,Liam Shaw,5/15/2024,1/5/2025,,,3,2026-04-13,1,2,,,,,,12613
-001Hr000028aCFJ,"City Of Adairsville, GA",Georgia,Municipality,Hugh Bargeron,4979,Cold,Tier 3,0.75,34.3687,-84.9341,25caae6a-1bb2-470c-a85b-6d0bd1cee439,,,,,,,,,2,2026-04-10,1,1,,,,,,12658
-001cv000006fVFj,"City Of Berkeley Lake, GA",Georgia,Municipality,Hugh Bargeron,2051,,Tier 3,0.75,33.9857,-84.1893,ca579deb-f8e3-45ba-99b2-7706bdb880ca,,,,,,,,,5,2026-05-19,5,,,,,,,12675
-001cv000007yGyr,"City Of Hogansville, GA",Georgia,Municipality,Hugh Bargeron,3209,Open Opportunity,Tier 3,0.75,33.173,-84.9148,3884f798-e49c-4056-bb47-633bc4160b87,Open,Initial Interest,Top of Funnel,Joe del Rosario,3/14/2025,3/10/2025,,,4,2026-04-14,2,,,2,,,,12787
-001cv000008gqtk,"City Of Tybee Island, GA",Georgia,Municipality,Hugh Bargeron,3091,Nurture,Tier 3,0.75,32.0002,-80.8457,c4758f45-fa1d-4094-b7ec-962cf3cab92a,Closed Lost,,,Quinzel Perry,4/4/2025,3/28/2025,,,,,,,,,,,,12806
-001cv000008hUg0,"City Of Bloomingdale, GA",Georgia,Municipality,Hugh Bargeron,2860,Open Opportunity,Tier 3,0.75,32.1324,-81.299,fa0c26a5-94b8-49d5-aeee-d6a4465fb25c,,,,,,,,,,,,,,,,,,12807
-001cv00000AoaAj,"City of Darian, GA",Georgia,Municipality,Hugh Bargeron,1678,Open Opportunity,Tier 3,0.75,31.3702,-81.434,a1d12883-efc6-46fe-a1b2-c3da25757bb9,Open,Initial Interest,Top of Funnel,Granger West,,5/12/2025,,,10,2026-05-12,10,,,,,,,12848
-001cv00000Aopfv,"City of Savannah, GA",Georgia,Municipality,Hugh Bargeron,147748,Nurture,Tier S,2.0,32.0809,-81.0912,7d9d2f71-3a10-4c4a-83df-c822d9e14c3e,,,,,,,,,3,2026-03-31,3,,,,,,,12849
-001cv00000AozSR,"Lamar County, GA",Georgia,County,Hugh Bargeron,20401,Open Opportunity,Tier 2,1.0,33.0766,-84.1435,6c71ad2b-0cba-450a-af4f-6d718c6bd2b5,Open,Initial Interest,Top of Funnel,Granger West,,5/12/2025,,,6,2026-05-14,6,,,,,,,12850
-001cv00000AuVkq,"County Of Troup, GA",Georgia,County,Hugh Bargeron,69720,,Tier S,2.0,33.0699,-85.0233,86257714-79e2-489d-a31a-3ff0268151e0,,,,,,,,,4,2026-04-09,1,3,,,,,,19664
-001cv00000AuWPF,"Town Of Sparks, GA",Georgia,Municipality,Hugh Bargeron,2030,,Tier 3,0.75,31.167,-83.4374,df597ae0-1203-4f91-b5a3-c57ed6edadb2,,,,,,,,,1,2025-08-07,,1,,,,,,12960
-001cv00000AuWPg,"City Of Clayton, GA",Georgia,Municipality,Hugh Bargeron,2035,,Tier 3,0.75,34.8781,-83.401,4c3255ab-7734-44f8-9314-70fbfeddd066,,,,,,,,,,,,,,,,,,13037
-001cv00000AuWcr,"City Of Lavonia, GA",Georgia,Municipality,Hugh Bargeron,2157,,Tier 3,0.75,34.4359,-83.1068,e5615aad-5322-462a-a3ae-b453ef3608fc,,,,,,,,,,,,,,,,,,13272
-001cv00000AuWdW,"City Of Bowdon, GA",Georgia,Municipality,Hugh Bargeron,2168,,Tier 3,0.75,33.5379,-85.2533,fcb6cf3b-87ba-4c83-9cbf-eed6ea29c587,,,,,,,,,,,,,,,,,,13198
-001cv00000AuWpJ,"City Of Varnell, GA",Georgia,Municipality,Hugh Bargeron,2179,,Tier 3,0.75,34.9012,-84.9738,fd9d7ca6-214c-4dd4-835f-9f83135a4e7c,,,,,,,,,,,,,,,,,,13412
-001cv00000AuWpL,"City Of Wrens, GA",Georgia,Municipality,Hugh Bargeron,2180,,Tier 3,0.75,33.2076,-82.3918,c628dd3a-b202-4bb4-a15b-2ce29a9e4adb,,,,,,,,,,,,,,,,,,13507
-001cv00000AuWpz,"City Of Midway, GA",Georgia,Municipality,Hugh Bargeron,2190,,Tier 3,0.75,31.8054,-81.4307,437dbc88-5376-40bf-a9fb-b8dd24c5f47a,,,,,,,,,2,2026-05-11,2,,,,,,,13549
-001cv00000AuWqY,"City Of Trenton, GA",Georgia,Municipality,Hugh Bargeron,2201,,Tier 3,0.75,34.872,-85.5091,81b7b4f4-5684-4833-9491-6e21f214d17b,,,,,,,,,,,,,,,,,,13508
-001cv00000AuWvM,"Unified Government Of Georgetown And Quitman County, GA",Georgia,Municipality,Hugh Bargeron,2243,,Tier 3,0.75,31.8486,-84.9818,6df0ef4c-c4e4-4232-bf18-cf89368cfe11,,,,,,,,,,,,,,,,,,13593
-001cv00000AuX6n,"City Of Oxford, GA",Georgia,Municipality,Hugh Bargeron,2275,,Tier 3,0.75,33.619,-83.8674,d6e59d91-0d8e-4216-95e5-f2026e5365f0,,,,,,,,,3,2026-05-13,3,,,,,,,13786
-001cv00000AuX8o,"City Of Homerville, GA",Georgia,Municipality,Hugh Bargeron,2317,,Tier 3,0.75,31.0366,-82.7471,a02a07a7-9e45-481d-90b7-5b4d31c1074f,,,,,,,,,,,,,,,,,,13929
-001cv00000AuXAZ,"City Of Louisville, GA",Georgia,Municipality,Hugh Bargeron,2361,,Tier 3,0.75,33.0015,-82.4112,c91ed7b6-fa31-4b10-8760-f82c32df049e,,,,,,,,,,,,,,,,,,14014
-001cv00000AuXAp,"Unified Government Of Webster County, GA",Georgia,Municipality,Hugh Bargeron,2367,,Tier 3,0.75,32.013,-84.5641,066c8f8c-f022-49f0-97d4-5d16d2207996,,,,,,,,,,,,,,,,,,14038
-001cv00000AuXO2,"City Of East Dublin, GA",Georgia,Municipality,Hugh Bargeron,2479,,Tier 3,0.75,32.5482,-82.8718,02dfd6c2-cda9-4d1f-b6cb-188aaa9548c0,,,,,,,,,,,,,,,,,,14090
-001cv00000AuXTe,"Town Of Thunderbolt, GA",Georgia,Municipality,Hugh Bargeron,2533,,Tier 3,0.75,32.0335,-81.0498,3976ccfa-ee2c-4138-9c99-c671e429aa09,,,,,,,,,5,2026-04-10,5,,,,,,,14166
-001cv00000AuXUP,"City Of Guyton, GA",Georgia,Municipality,Hugh Bargeron,2557,,Tier 3,0.75,32.3422,-81.3922,42887741-bc9c-47a7-bd6e-f40f50ec4033,,,,,,,,,2,2026-05-06,2,,,,,,,14267
-001cv00000AuXVL,"City Of Claxton, GA",Georgia,Municipality,Hugh Bargeron,2580,,Tier 3,0.75,32.1613,-81.904,a775fe36-5c01-44bf-928c-ef30a34d8801,,,,,,,,,,,,,,,,,,14269
-001cv00000AuXY7,"City Of Ball Ground, GA",Georgia,Municipality,Hugh Bargeron,2687,Open Opportunity,Tier 3,0.75,34.3373,-84.378,964310c2-f7db-424a-84b6-a99641306145,Open,Sales Qualified,Mid Funnel,Hugh Bargeron,4/28/2026,4/20/2026,,,6,2026-04-20,6,,,,,,,14318
-001cv00000AuXgu,"City Of Lakeland, GA",Georgia,Municipality,Hugh Bargeron,2762,,Tier 3,0.75,31.041,-83.0751,addcdfd2-624d-41ad-948b-ce04aece1057,,,,,,,,,,,,,,,,,,14658
-001cv00000AuXjC,"County Of Baker, GA",Georgia,County,Hugh Bargeron,2819,,Tier 3,0.75,31.2816,-84.4803,af662e86-df4e-4fd0-a791-6fbd8b747ff9,,,,,,,,,,,,,,,,,,14651
-001cv00000AuXjN,"City Of Donalsonville, GA",Georgia,Municipality,Hugh Bargeron,2822,,Tier 3,0.75,31.0405,-84.8791,06b9a7ea-66c6-447e-b8e9-483c53d6ea01,,,,,,,,,,,,,,,,,,14720
-001cv00000AuXk0,"City Of Soperton, GA",Georgia,Municipality,Hugh Bargeron,2843,,Tier 3,0.75,32.3771,-82.5924,3ec3a761-7507-4fad-b1a4-14664ab33efb,,,,,,,,,,,,,,,,,,14706
-001cv00000AuXkH,"City Of Unadilla, GA",Georgia,Municipality,Hugh Bargeron,2847,,Tier 3,0.75,32.2617,-83.7366,6f6705bf-bc79-4cb2-ae54-e99312beb818,,,,,,,,,,,,,,,,,,14733
-001cv00000AuXka,"City Of Statham, GA",Georgia,Municipality,Hugh Bargeron,2857,,Tier 3,0.75,33.9651,-83.5966,d33c9e3e-c516-4274-80d3-328d2b40855c,,,,,,,,,,,,,,,,,,14742
-001cv00000AuXlg,"County Of Clay, GA",Georgia,County,Hugh Bargeron,2882,,Tier 3,0.75,31.6448,-85.0026,86e6f409-8ff9-422b-896a-c1527fafabd5,,,,,,,,,,,,,,,,,,14806
-001cv00000AuXm0,"City Of Lula, GA",Georgia,Municipality,Hugh Bargeron,2895,,Tier 3,0.75,34.3876,-83.6663,156987fa-3c9f-41ab-8d4c-4732379266fd,,,,,,,,,,,,,,,,,,14789
-001cv00000AuXmd,"City Of Vienna, GA",Georgia,Municipality,Hugh Bargeron,2912,,Tier 3,0.75,32.0916,-83.7955,ec4bbc13-a590-4834-a811-039ab9ab5928,,,,,,,,,,,,,,,,,,14863
-001cv00000AuXmo,"County Of Glascock, GA",Georgia,County,Hugh Bargeron,2919,,Tier 3,0.75,33.2423,-82.6267,da071548-a957-4f75-9630-532624bf985f,,,,,,,,,,,,,,,,,,14857
-001cv00000AuXn3,"City Of Millen, GA",Georgia,Municipality,Hugh Bargeron,2934,,Tier 3,0.75,32.8041,-81.9493,b4340f33-9d16-44c7-89a1-a978a9f85de6,,,,,,,,,,,,,,,,,,14905
-001cv00000AuXn8,"City Of Watkinsville, GA",Georgia,Municipality,Hugh Bargeron,2937,,Tier 3,0.75,33.8629,-83.4088,a6e67ad5-6c29-4e41-bf7f-119934c8afed,,,,,,,,,,,,,,,,,,14860
-001cv00000AuXzG,"City Of Chickamauga, GA",Georgia,Municipality,Hugh Bargeron,3070,,Tier 3,0.75,34.8712,-85.2908,43992c56-4a8c-46c6-b509-1d899a1ed078,,,,,,,,,,,,,,,,,,14910
-001cv00000AuXzH,"City Of Lake City, GA",Georgia,Municipality,Hugh Bargeron,3071,,Tier 3,0.75,33.6065,-84.3352,ec4eec4e-d532-443a-9969-2533db7093d1,,,,,,,,,,,,,,,,,,15125
-001cv00000AuXzT,"City Of Montezuma, GA",Georgia,Municipality,Hugh Bargeron,3076,,Tier 3,0.75,32.3052,-84.0274,9ed37ff9-4ec9-4fb3-96cf-cae1cfc8a4e6,,,,,,,,,,,,,,,,,,15050
-001cv00000AuY7O,"City Of Hoschton, GA",Georgia,Municipality,Hugh Bargeron,3519,,Tier 3,0.75,34.0965,-83.7613,e68315d6-0f5f-4eee-9876-ea288611081a,,,,,,,,,3,2026-04-03,3,,,,,,,15531
-001cv00000AuYAx,"City Of Chattahoochee Hills, GA",Georgia,Municipality,Hugh Bargeron,3084,,Tier 3,0.75,33.548,-84.7631,0a99d999-bddc-4942-b7c3-89534b90c2d9,,,,,,,,,,,,,,,,,,15098
-001cv00000AuYBE,"City Of Cuthbert, GA",Georgia,Municipality,Hugh Bargeron,3091,,Tier 3,0.75,31.7713,-84.7894,c82644c1-ef0c-444e-9886-f768040426fc,,,,,,,,,,,,,,,,,,15029
-001cv00000AuYEY,"City Of Springfield, GA",Georgia,Municipality,Hugh Bargeron,2993,,Tier 3,0.75,32.3642,-81.3042,4cc0e13d-08ef-4c51-affe-b9ff3bbbb2ef,,,,,,,,,1,2026-04-06,1,,,,,,,15318
-001cv00000AuYHw,"City Of Wrightsville, GA",Georgia,Municipality,Hugh Bargeron,3309,,Tier 3,0.75,32.7293,-82.7199,0b03da7d-d462-40ea-ab17-65e5316d4977,,,,,,,,,,,,,,,,,,15647
-001cv00000AuYKG,"City Of Alma, GA",Georgia,Municipality,Hugh Bargeron,3397,,Tier 3,0.75,31.5394,-82.4624,878ef190-9527-482e-a1a1-4630628a0745,,,,,,,,,,,,,,,,,,15957
-001cv00000AuYKc,"City Of Hahira, GA",Georgia,Municipality,Hugh Bargeron,3406,,Tier 3,0.75,30.9913,-83.3727,ca5db365-9c58-4963-8461-6279a8ade794,,,,,,,,,,,,,,,,,,15970
-001cv00000AuYKg,"City Of Gray, GA",Georgia,Municipality,Hugh Bargeron,3407,,Tier 3,0.75,33.0096,-83.5338,611c80fe-f7ab-4795-8702-b41b5ff8572e,,,,,,,,,,,,,,,,,,15973
-001cv00000AuYKv,"City Of Pelham, GA",Georgia,Municipality,Hugh Bargeron,3416,,Tier 3,0.75,31.1277,-84.1518,7a51d042-a311-4620-98df-0cc36921a28a,,,,,,,,,,,,,,,,,,15893
-001cv00000AuYLL,"City Of Ringgold, GA",Georgia,Municipality,Hugh Bargeron,3429,,Tier 3,0.75,34.9159,-85.1091,ae9f8c3a-06d1-465b-b822-e611b920fcea,,,,,,,,,,,,,,,,,,15913
-001cv00000AuYMk,"City Of Avondale Estates, GA",Georgia,Municipality,Hugh Bargeron,3496,,Tier 3,0.75,33.7715,-84.2671,1403d732-04ab-4470-bcc5-ed5171b283bb,,,,,,,,,2,2026-04-17,2,,,,,,,15289
-001cv00000AuYN6,"City Of Leesburg, GA",Georgia,Municipality,Hugh Bargeron,3506,,Tier 3,0.75,31.7321,-84.1707,828b1fc6-cbd4-417c-9b79-500929b7a509,,,,,,,,,,,,,,,,,,15427
-001cv00000AuYN9,"City Of Cleveland, GA",Georgia,Municipality,Hugh Bargeron,3511,,Tier 3,0.75,34.597,-83.7632,264671fb-09b2-4091-a146-013bc9495c44,,,,,,,,,,,,,,,,,,15255
-001cv00000AuYOL,"City Of Nicholls, GA",Georgia,Municipality,Hugh Bargeron,3205,,Tier 3,0.75,31.5174,-82.6349,c86c54fd-d8ff-4f91-a539-8583f8c84817,,,,,,,,,,,,,,,,,,15393
-001cv00000AuYPE,"City Of Tallapoosa, GA",Georgia,Municipality,Hugh Bargeron,3247,Open Opportunity,Tier 3,0.75,33.7445,-85.288,6acd6edd-c7ce-4855-a625-bcf2f1d60749,Open,Meeting Booked,Top of Funnel,Hugh Bargeron,4/20/2026,4/20/2026,,,2,2026-04-20,2,,,,,,,15545
-001cv00000AuYPw,"City Of Grantville, GA",Georgia,Municipality,Hugh Bargeron,3276,,Tier 3,0.75,33.2348,-84.8358,52e9ae9d-5d8d-45b4-b45a-b19d6ad85d70,,,,,,,,,,,,,,,,,,15554
-001cv00000AuYR8,"City Of Blackshear, GA",Georgia,Municipality,Hugh Bargeron,3537,,Tier 3,0.75,31.3061,-82.2421,16d4cff6-a9f8-42ea-983f-05e86b436aec,,,,,,,,,,,,,,,,,,15472
-001cv00000AuYRg,"City Of Manchester, GA",Georgia,Municipality,Hugh Bargeron,3563,,Tier 3,0.75,32.8599,-84.6199,7303f18d-b066-493e-9e2d-983e86decd2c,,,,,,,,,,,,,,,,,,15529
-001cv00000AuYTZ,"City Of Greensboro, GA",Georgia,Municipality,Hugh Bargeron,3649,,Tier 3,0.75,33.5757,-83.1824,839513aa-b960-4e21-900e-2bcd2e6ea287,,,,,,,,,,,,,,,,,,15981
-001cv00000AuYXO,"City Of Walthourville, GA",Georgia,Municipality,Hugh Bargeron,3788,,Tier 3,0.75,31.7736,-81.6335,d00a9997-fdcc-49e5-a5d9-c1cb774db25a,,,,,,,,,,,,,,,,,,16013
-001cv00000AuYfK,"City Of Jasper, GA",Georgia,Municipality,Hugh Bargeron,4235,,Tier 3,0.75,34.4696,-84.429,e9525720-9ead-42ab-80c7-8b6e72cf9f6f,,,,,,,,,,,,,,,,,,16805
-001cv00000AuYgz,"City Of Harlem, GA",Georgia,Municipality,Hugh Bargeron,3866,,Tier 3,0.75,33.4146,-82.3126,7cdc2666-2d2b-46f5-ae5e-6a9c8d9e3b78,,,,,,,,,,,,,,,,,,16240
-001cv00000AuYlJ,"City Of Rossville, GA",Georgia,Municipality,Hugh Bargeron,3984,,Tier 3,0.75,34.9831,-85.2861,e3a42983-546c-4e56-9af2-620dfbcf3b15,,,,,,,,,,,,,,,,,,16575
-001cv00000AuYlW,"City Of Metter, GA",Georgia,Municipality,Hugh Bargeron,3994,,Tier 3,0.75,32.3971,-82.0601,20f2226f-82d7-4d05-b852-d53b64a2356a,,,,,,,,,,,,,,,,,,16623
-001cv00000AuYmv,"City Of Hazlehurst, GA",Georgia,Municipality,Hugh Bargeron,4065,,Tier 3,0.75,31.8696,-82.5943,3a632bd6-adbe-4913-970d-7ba965bf007c,,,,,,,,,,,,,,,,,,16661
-001cv00000AuYnl,"City Of Quitman, GA",Georgia,Municipality,Hugh Bargeron,4101,,Tier 3,0.75,30.7849,-83.5599,c7dbd808-dcf0-4b87-8698-7da5c066906f,,,,,,,,,,,,,,,,,,16710
-001cv00000AuYp2,"City Of Dawsonville, GA",Georgia,Municipality,Hugh Bargeron,4172,,Tier 3,0.75,34.4212,-84.1191,02d6bcac-7450-45eb-9402-911a7dc7c39c,,,,,,,,,,,,,,,,,,16702
-001cv00000AuYpi,"City Of Lyons, GA",Georgia,Municipality,Hugh Bargeron,4211,,Tier 3,0.75,32.2044,-82.3218,35196c06-2d19-449f-8c77-960326d07891,,,,,,,,,,,,,,,,,,16430
-001cv00000AuYpp,"City Of Ashburn, GA",Georgia,Municipality,Hugh Bargeron,4218,,Tier 3,0.75,31.706,-83.6532,85e952b9-1457-4eda-ac46-ee9f8e976bc1,,,,,,,,,,,,,,,,,,16331
-001cv00000AuYrX,"County Of Echols, GA",Georgia,County,Hugh Bargeron,3699,,Tier 3,0.75,30.7503,-82.9502,d281ddbc-7e69-4698-acef-07ebf15783d3,,,,,,,,,,,,,,,,,,16276
-001cv00000AuYrf,"City Of Washington, GA",Georgia,Municipality,Hugh Bargeron,3704,,Tier 3,0.75,33.7368,-82.7393,b0153e28-dd1b-470e-9f90-095116da077d,,,,,,,,,,,,,,,,,,16340
-001cv00000AuYs3,"City Of Ocilla, GA",Georgia,Municipality,Hugh Bargeron,3720,,Tier 3,0.75,31.5944,-83.2504,ddeaeed7-1db4-498c-9cef-195e7dfa11ca,,,,,,,,,,,,,,,,,,16325
-001cv00000AuYsR,"City Of West Point, GA",Georgia,Municipality,Hugh Bargeron,3748,,Tier 3,0.75,32.8779,-85.1833,160fb9a2-747b-457f-aa12-eba70c2823ba,,,,,,,,,,,,,,,,,,16393
-001cv00000AuYsc,"City Of Baldwin, GA",Georgia,Municipality,Hugh Bargeron,3755,,Tier 3,0.75,34.4918,-83.5374,021acfbf-6f00-453d-95c4-e5ed70f96e89,,,,,,,,,,,,,,,,,,16523
-001cv00000AuYtC,"City Of Hephzibah, GA",Georgia,Municipality,Hugh Bargeron,3782,,Tier 3,0.75,33.314,-82.0968,002ed5ba-ccc8-4821-9199-24d0c5ac2320,,,,,,,,,,,,,,,,,,16425
-001cv00000AuYvN,"City Of Euharlee, GA",Georgia,Municipality,Hugh Bargeron,4315,,Tier 3,0.75,34.1448,-84.933,9482c883-2b9a-46f2-ad0e-a3afb915b6e9,,,,,,,,,,,,,,,,,,16873
-001cv00000AuYvP,"City Of Dawson, GA",Georgia,Municipality,Hugh Bargeron,4317,,Tier 3,0.75,31.7735,-84.4466,dde41b39-dcb5-4f5e-a596-78d1e270c6c5,,,,,,,,,,,,,,,,,,16939
-001cv00000AuYxL,"City Of Summerville, GA",Georgia,Municipality,Hugh Bargeron,4400,,Tier 3,0.75,34.4806,-85.3477,d0d3b316-1aba-4348-9e60-27d268d48bb1,,,,,,,,,,,,,,,,,,20020
-001cv00000AuYxY,"City Of Folkston, GA",Georgia,Municipality,Hugh Bargeron,4408,,Tier 3,0.75,30.8305,-82.0098,abffce04-3e11-4ea0-a1d4-fb18066e3e33,,,,,,,,,6,2026-04-01,2,4,,,,,,20018
-001cv00000AuYyo,"County Of Schley, GA",Georgia,County,Hugh Bargeron,4478,,Tier 3,0.75,32.2736,-84.3121,83c07eae-3f1b-4c0f-b3ea-e4713d9d747c,,,,,,,,,,,,,,,,,,20040
-001cv00000AuYz6,"City Of Hartwell, GA",Georgia,Municipality,Hugh Bargeron,4503,,Tier 3,0.75,34.3529,-82.9321,daed910c-3459-4da3-904b-538cf8e933e1,,,,,,,,,,,,,,,,,,20104
-001cv00000AuYzL,"City Of Forsyth, GA",Georgia,Municipality,Hugh Bargeron,4512,,Tier 3,0.75,33.0343,-83.9382,f70b922e-5ffb-49a1-849c-5069e42d2e7f,,,,,,,,,,,,,,,,,,20056
-001cv00000AuZ7m,"County Of Stewart, GA",Georgia,County,Hugh Bargeron,5341,,Tier 3,0.75,32.1141,-84.8151,10c0afd8-5276-4a33-a80c-9f3714181996,,,,,,,,,1,2025-10-02,,1,,,,,,17060
-001cv00000AuZ7r,"City Of Oakwood, GA",Georgia,Municipality,Hugh Bargeron,5373,,Tier 3,0.75,34.2276,-83.8843,abac64ec-3f25-46cb-b14e-f1fd64a284a7,,,,,,,,,2,2026-04-16,1,1,,,,,,17015
-001cv00000AuZ8S,"County Of Calhoun, GA",Georgia,County,Hugh Bargeron,5509,,Tier 3,0.75,34.5026,-84.9511,493ba9fa-9ee2-4502-81e3-f44e3d7650e2,,,,,,,,,6,2026-04-21,6,,,,,,,17012
-001cv00000AuZAn,"County Of Miller, GA",Georgia,County,Hugh Bargeron,5919,Open Opportunity,Tier 3,0.75,31.2008,-84.7316,f3db84a1-962f-4915-8b5a-53a38d35f393,Open,Proposal,Mid Funnel,Hugh Bargeron,4/16/2026,4/16/2026,"$19,000",,11,2026-04-21,11,,,,,,,17101
-001cv00000AuZCY,"County Of Clinch, GA",Georgia,County,Hugh Bargeron,6725,,Tier 3,0.75,30.9717,-82.821,d9c441f1-9f81-4b23-a784-1622d01c9c30,,,,,,,,,2,2026-04-15,2,,,,,,,17339
-001cv00000AuZII,"County Of Randolph, GA",Georgia,County,Hugh Bargeron,6287,,Tier 3,0.75,31.7913,-84.6897,db8b2d27-a3cd-4a96-893d-9a00771b7da2,,,,,,,,,1,2026-05-06,1,,,,,,,17269
-001cv00000AuZIK,"County Of Treutlen, GA",Georgia,County,Hugh Bargeron,6306,,Tier 3,0.75,32.387,-82.5835,c1abd389-79f1-4f13-be50-e368de8e94ab,,,,,,,,,,,,,,,,,,17298
-001cv00000AuZK3,"City Of Temple, GA",Georgia,Municipality,Hugh Bargeron,5623,,Tier 3,0.75,33.7371,-85.0324,2928b5c9-99ba-40a3-a63e-7500a8d1721d,,,,,,,,,22,2026-05-19,17,5,,,,,,17306
-001cv00000AuZKM,"County Of Talbot, GA",Georgia,County,Hugh Bargeron,5742,Open Opportunity,Tier 3,0.75,32.6891,-84.5222,cb2fa9b1-6eda-42d0-8b9f-6d56b164a01d,Open,Initial Interest,Top of Funnel,Quinzel Perry,8/19/2025,8/13/2025,,,1,2026-05-14,1,,,,,,,17267
-001cv00000AuZLa,"City Of Cornelia, GA",Georgia,Municipality,Hugh Bargeron,4791,Nurture,Tier 3,0.75,34.5115,-83.5271,77a5529c-40ab-4520-86d1-9981d9d38557,Closed Lost,,,Hugh Bargeron,3/25/2026,3/25/2026,,,10,2026-04-10,6,4,,,,,,17239
-001cv00000AuZLp,"City Of Chatsworth, GA",Georgia,Municipality,Hugh Bargeron,4804,,Tier 3,0.75,34.7659,-84.7699,076966cd-d3f8-4b49-a629-8e191f9a8077,,,,,,,,,7,2025-10-23,,7,,,,,,17227
-001cv00000AuZLy,"City Of Rockmart, GA",Georgia,Municipality,Hugh Bargeron,4811,Nurture,Tier 3,0.75,34.0026,-85.0416,22c703f7-20c5-4105-9413-384abdcb0368,Closed Lost,,,Hugh Bargeron,10/8/2025,10/3/2025,,,21,2026-05-07,14,7,,,,,,17342
-001cv00000AuZMv,"City Of Nashville, GA",Georgia,Municipality,Hugh Bargeron,4869,,Tier 3,0.75,31.2074,-83.2502,9301098d-6cba-44f4-87c4-0e6fbd858676,,,,,,,,,,,,,,,,,,17461
-001cv00000AuZNF,"City Of Madison, GA",Georgia,Municipality,Hugh Bargeron,4894,,Tier 3,0.75,33.5957,-83.4679,ab6c53e1-ef51-404b-aa36-d9152399f0a7,,,,,,,,,3,2026-04-13,3,,,,,,,17411
-001cv00000AuZR9,"County Of Marion, GA",Georgia,County,Hugh Bargeron,7440,,Tier 3,0.75,32.3281,-84.5222,5e55bcb4-1d26-49e0-aa64-9442cf6b19bb,,,,,,,,,1,2025-08-21,,1,,,,,,17536
-001cv00000AuZRC,"County Of Wheeler, GA",Georgia,County,Hugh Bargeron,7471,,Tier 3,0.75,32.1,-82.6915,f32d6b86-5fff-4618-a54c-4ef1b34cc416,,,,,,,,,,,,,,,,,,17585
-001cv00000AuZRw,"County Of Lincoln, GA",Georgia,County,Hugh Bargeron,7749,,Tier 3,0.75,33.7875,-82.4319,beaa0537-a2bf-4a19-bc74-b0d981b8132c,,,,,,,,,1,2026-05-06,1,,,,,,,17543
-001cv00000AuZSJ,"City Of Baxley, GA",Georgia,Municipality,Hugh Bargeron,5008,,Tier 3,0.75,31.7783,-82.3485,bfbfc066-2452-486d-97a9-30832aff490e,,,,,,,,,3,2025-11-03,,3,,,,,,17589
-001cv00000AuZSp,"City Of Cochran, GA",Georgia,Municipality,Hugh Bargeron,5070,,Tier 3,0.75,32.3868,-83.3546,6a3303df-5dbd-472b-ad03-9be89a486df7,,,,,,,,,,,,,,,,,,17596
-001cv00000AuZSq,"City Of Palmetto, GA",Georgia,Municipality,Hugh Bargeron,5075,Open Opportunity,Tier 3,0.75,33.5179,-84.6697,3ceca9ce-c3d8-4bcc-bc75-75ee4102d89e,Open,Demo,Mid Funnel,Hugh Bargeron,4/16/2026,4/13/2026,,,19,2026-05-13,11,6,2,,,,,17559
-001cv00000AuZSv,"City Of Hiram, GA",Georgia,Municipality,Hugh Bargeron,5080,Open Opportunity,Tier 3,0.75,33.8757,-84.7622,a61a262d-8a72-4ada-bb3f-06e65e0d9a51,Open,Initial Interest,Top of Funnel,Quinzel Perry,,10/2/2025,,,26,2026-05-19,17,9,,,,,,17501
-001cv00000AuZTG,"City Of Social Circle, GA",Georgia,Municipality,Hugh Bargeron,5121,Recent Competitor Purchase,Tier 3,0.75,33.6562,-83.7182,93340327-7226-4ad4-9cd0-862fdca41cbb,Closed Lost,,,Quinzel Perry,,10/29/2025,,,5,2026-04-13,1,3,1,,,,,17438
-001cv00000AuZTs,"County Of Warren, GA",Georgia,County,Hugh Bargeron,5240,,Tier 3,0.75,33.447,-82.6915,b4d4ffc2-6151-4ec2-89dc-855f39a8f62c,,,,,,,,,,,,,,,,,,17504
-001cv00000AuZTx,"City Of Senoia, GA",Georgia,Municipality,Hugh Bargeron,5245,,Tier 3,0.75,33.3023,-84.5538,6f38c796-e00e-44f6-884b-2418fdfeb54d,,,,,,,,,1,2025-10-03,,1,,,,,,17535
-001cv00000AuZU2,"City Of Blakely, GA",Georgia,Municipality,Hugh Bargeron,5252,Nurture,Tier 3,0.75,31.3777,-84.9341,1f2b2743-ae8c-4ddb-8d71-16a4a95c6d95,Closed Lost,,,Quinzel Perry,10/7/2025,10/3/2025,,,4,2025-10-07,,4,,,,,,17467
-001cv00000AuZVH,"County Of Taylor, GA",Georgia,County,Hugh Bargeron,7799,,Tier 3,0.75,32.5407,-84.2279,ea500cf5-bf61-497d-89e7-5728f7c03453,,,,,,,,,2,2026-05-06,1,1,,,,,,17739
-001cv00000AuZVL,"County Of Twiggs, GA",Georgia,County,Hugh Bargeron,7856,,Tier 3,0.75,32.6836,-83.4644,3388c7cd-7a5d-4225-90fa-99574aebd787,,,,,,,,,3,2026-04-13,1,2,,,,,,17792
-001cv00000AuZXp,"County Of Atkinson, GA",Georgia,County,Hugh Bargeron,8391,Open Opportunity,Tier 3,0.75,31.2932,-82.8641,bc7c77f2-f70f-4324-a039-d6de4c4cef89,Open,Meeting Booked,Top of Funnel,Hugh Bargeron,4/23/2026,4/20/2026,,,12,2026-05-19,10,2,,,,,,17819
-001cv00000AuZYF,"County Of Hancock, GA",Georgia,County,Hugh Bargeron,8630,,Tier 3,0.75,33.2883,-83.0361,bb09f8bc-8a48-46bf-a416-44fedf84e108,,,,,,,,,7,2025-11-03,,7,,,,,,17733
-001cv00000AuZYH,"County Of Jenkins, GA",Georgia,County,Hugh Bargeron,8639,,Tier 3,0.75,32.7781,-81.9971,2fbbb36a-c551-4143-a847-d49afa031da4,,,,,,,,,4,2025-09-08,,4,,,,,,17818
-001cv00000AuZYJ,"County Of Montgomery, GA",Georgia,County,Hugh Bargeron,8653,,Tier 3,0.75,31.9405,-81.1221,86bad890-77ce-42df-a0b6-7520ef83676b,,,,,,,,,4,2026-04-21,4,,,,,,,17853
-001cv00000AuZYv,"County Of Terrell, GA",Georgia,County,Hugh Bargeron,8964,,Tier 3,0.75,31.737,-84.4803,5e7674da-10d4-4d1e-bcd8-aa99fa176838,,,,,,,,,,,,,,,,,,18475
-001cv00000AuZYw,"County Of Turner, GA",Georgia,County,Hugh Bargeron,8966,,Tier 3,0.75,31.6977,-83.6348,92167ece-52bd-490b-8cb0-731cea0078ab,,,,,,,,,5,2026-04-29,5,,,,,,,18358
-001cv00000AuZZD,"County Of Johnson, GA",Georgia,County,Hugh Bargeron,9160,,Tier 3,0.75,32.7308,-82.6915,5d97e643-11b6-4967-921f-0fe96dcdc6cd,,,,,,,,,2,2026-04-10,1,1,,,,,,18405
-001cv00000AuZZK,"County Of Seminole, GA",Georgia,County,Hugh Bargeron,9197,,Tier 3,0.75,30.9331,-84.8985,5c0041a4-8095-421c-a530-d2fd97369312,,,,,,,,,2,2025-07-21,,2,,,,,,18458
-001cv00000AuZZt,"County Of Wilkes, GA",Georgia,County,Hugh Bargeron,9513,,Tier 3,0.75,33.8083,-82.7779,707deeec-8092-424b-9561-6a65d17af3a7,,,,,,,,,,,,,,,,,,18370
-001cv00000AuZak,"County Of Heard, GA",Georgia,County,Hugh Bargeron,11565,Open Opportunity,Tier 2,1.0,33.299,-85.1479,a225e6a1-0144-4f58-986b-223f115cbdd6,Open,Initial Interest,Top of Funnel,Hugh Bargeron,5/6/2026,5/6/2026,,,5,2026-05-11,5,,,,,,,18281
-001cv00000AuZbI,"County Of Macon, GA",Georgia,County,Hugh Bargeron,12004,,Tier 2,1.0,32.8362,-83.632,fd88a82a-ecef-4e74-86c6-389ee01cd6ba,,,,,,,,,,,,,,,,,,18248
-001cv00000AuZbX,"County Of Crawford, GA",Georgia,County,Hugh Bargeron,12153,Nurture,Tier 2,1.0,33.8829,-83.1546,30875bfe-f64e-48bc-a26d-ec9196c8ec28,Closed Lost,,,Quinzel Perry,8/11/2025,8/7/2025,,,2,2026-05-14,1,1,,,,,,18210
-001cv00000AuZd9,"County Of Early, GA",Georgia,County,Hugh Bargeron,10619,,Tier 2,1.0,31.3901,-84.8985,927cca8c-fc5c-4f60-a103-b8f238b87951,,,,,,,,,,,,,,,,,,18243
-001cv00000AuZdE,"County Of Evans, GA",Georgia,County,Hugh Bargeron,10672,,Tier 2,1.0,33.5337,-82.1307,8fee3289-01c2-40e8-82e2-e84b0c2e5054,,,,,,,,,,,,,,,,,,18177
-001cv00000AuZdQ,"County Of Wilcox, GA",Georgia,County,Hugh Bargeron,8739,,Tier 3,0.75,31.9612,-83.4644,dc373ad9-97a1-4d92-bb99-fb451b99d855,,,,,,,,,1,2026-04-16,1,,,,,,,17802
-001cv00000AuZdc,"County Of Wilkinson, GA",Georgia,County,Hugh Bargeron,8831,,Tier 3,0.75,32.8025,-83.1649,5e8b5464-6f94-446f-8926-0457587bd49e,,,,,,,,,1,2026-04-15,1,,,,,,,17576
-001cv00000AuZfh,"County Of Towns, GA",Georgia,County,Hugh Bargeron,12875,,Tier 2,1.0,34.9208,-83.7199,61360e9b-e6ed-4f1c-a4c0-d1e5fa300a1a,,,,,,,,,10,2025-11-03,,10,,,,,,18251
-001cv00000AuZhS,"County Of Jeff Davis, GA",Georgia,County,Hugh Bargeron,14872,,Tier 2,1.0,31.8235,-82.6051,ae604ad6-e0ae-4e3e-9dab-85b5d75aa98f,,,,,,,,,,,,,,,,,,18169
-001cv00000AuZhg,"County Of Oglethorpe, GA",Georgia,County,Hugh Bargeron,15140,,Tier 2,1.0,32.2938,-84.061,e50988af-01d5-4548-b628-c54c13679705,,,,,,,,,1,2026-04-16,1,,,,,,,18126
-001cv00000AuZhr,"County Of Jasper, GA",Georgia,County,Hugh Bargeron,15278,,Tier 2,1.0,34.4696,-84.429,48928ed3-cdd1-42ad-946a-c667eb1c627a,,,,,,,,,1,2026-04-15,1,,,,,,,18018
-001cv00000AuZiT,"County Of Telfair, GA",Georgia,County,Hugh Bargeron,12414,,Tier 2,1.0,31.8908,-82.9932,b21ff7f9-6d27-46b7-8ff1-a133741c5884,,,,,,,,,,,,,,,,,,18059
-001cv00000AuZih,"County Of Bleckley, GA",Georgia,County,Hugh Bargeron,12607,,Tier 2,1.0,32.4088,-83.3789,38fed19e-9373-46a9-bbd5-f958a84a0828,,,,,,,,,6,2026-05-19,6,,,,,,,18070
-001cv00000AuZiq,"County Of Charlton, GA",Georgia,County,Hugh Bargeron,12766,Open Opportunity,Tier 2,1.0,30.7917,-82.0843,967b4f02-2943-4a92-9868-5fb415b8fbcf,Open,Meeting Booked,Top of Funnel,Hugh Bargeron,4/14/2026,3/30/2026,,Yes,6,2026-04-10,5,1,,,,,,18052
-001cv00000AuZjk,"Irwin County, GA",Georgia,County,Hugh Bargeron,9618,Nurture,Tier 3,0.75,31.5893,-83.2934,dacb45b2-e9ca-48cc-afd5-340688fac197,Closed Lost,,,Quinzel Perry,7/23/2025,7/18/2025,,,1,2025-07-18,,1,,,,,,18152
-001cv00000AuZkJ,"County Of Lanier, GA",Georgia,County,Hugh Bargeron,9907,Nurture,Tier 3,0.75,32.1299,-81.5368,f793aa4b-0f94-4cb5-b0c2-bc7cc2b66363,Closed Lost,,,Hugh Bargeron,4/23/2026,4/16/2026,,,3,2026-04-21,3,,,,,,,18034
-001cv00000AuZlX,"County Of Dooly, GA",Georgia,County,Hugh Bargeron,10885,,Tier 2,1.0,32.1593,-83.8049,87e5e6dd-785f-43c9-8c11-853f67750142,,,,,,,,,3,2025-07-25,,3,,,,,,18024
-001cv00000AuZll,"County Of Candler, GA",Georgia,County,Hugh Bargeron,11037,,Tier 2,1.0,32.4242,-82.0843,1fa5eda9-5abe-4783-98e6-bd2a39fe48e0,,,,,,,,,,,,,,,,,,18025
-001cv00000AuZlp,"County Of Bacon, GA",Georgia,County,Hugh Bargeron,11079,,Tier 2,1.0,31.5412,-82.4319,f42b0e82-c67c-48a2-874c-a5c73a24cf0e,,,,,,,,,,,,,,,,,,17995
-001cv00000AuZls,"County Of Mcintosh, GA",Georgia,County,Hugh Bargeron,11123,Implementation,Tier 2,1.0,31.3703,-81.4343,10bb06d7-9b3f-440a-a27f-ee27f9d2685d,Closed Won,,,Quinzel Perry,8/5/2025,7/24/2025,"$40,000",,3,2025-08-06,,3,,,,,,18023
-001cv00000AuZnb,"County Of Screven, GA",Georgia,County,Hugh Bargeron,14105,,Tier 2,1.0,31.4863,-82.0171,5f6c4a24-653d-48cb-bc38-53c0fb549f26,,,,,,,,,,,,,,,,,,17951
-001cv00000AuZoZ,"County Of Jefferson, GA",Georgia,County,Hugh Bargeron,15524,,Tier 2,1.0,34.1171,-83.5724,2497bc5b-0088-455a-bdd7-f64f97379609,,,,,,,,,6,2026-04-17,5,1,,,,,,17933
-001cv00000AuZpM,"County Of Brooks, GA",Georgia,County,Hugh Bargeron,16270,,Tier 2,1.0,33.291,-84.4594,aeb148f0-12e0-42c5-97c8-cb8cc0b1bf74,,,,,,,,,4,2026-04-13,2,2,,,,,,17773
-001cv00000AuZqn,"County Of Dade, GA",Georgia,County,Hugh Bargeron,16326,,Tier 2,1.0,34.9109,-85.4788,c3617c61-0d82-41d5-9930-56053543f278,,,,,,,,,,,,,,,,,,18513
-001cv00000AuZrf,"County Of Rabun, GA",Georgia,County,Hugh Bargeron,17119,,Tier 2,1.0,34.9027,-83.3789,280f83c1-6f33-4b60-aed3-1e35b43c6404,,,,,,,,,3,2026-05-15,3,,,,,,,18623
-001cv00000AuZri,"County Of Long, GA",Georgia,County,Hugh Bargeron,17152,,Tier 2,1.0,31.7756,-81.8224,b6e95b70-3f98-4d50-b1f7-3b39cfca3f08,,,,,,,,,,,,,,,,,,18417
-001cv00000AuZrj,"County Of Ben Hill, GA",Georgia,County,Hugh Bargeron,17158,,Tier 2,1.0,31.7664,-83.2078,9c5f14f3-f0ab-4942-adeb-e70f6586219d,,,,,,,,,,,,,,,,,,18448
-001cv00000AuZsO,"County Of Appling, GA",Georgia,County,Hugh Bargeron,18488,,Tier 2,1.0,31.7122,-82.2583,97fc66f7-1012-47fc-86b8-027ec5c8257e,,,,,,,,,,,,,,,,,,18540
-001cv00000AuZsS,"County Of Banks, GA",Georgia,County,Hugh Bargeron,18562,,Tier 2,1.0,34.3785,-83.4644,ffd297ff-2359-449f-adb3-d2965a73a968,,,,,,,,,,,,,,,,,,18680
-001cv00000AuZt8,"County Of Pike, GA",Georgia,County,Hugh Bargeron,19477,,Tier 2,1.0,33.0882,-84.3963,940ade4f-d32d-458a-bda3-b47c6e83b887,,,,,,,,,,,,,,,,,,18719
-001cv00000AuZtB,"County Of Greene, GA",Georgia,County,Hugh Bargeron,19536,,Tier 2,1.0,33.5187,-83.1649,adaa0e4d-d516-4258-bb79-620647b7cbba,,,,,,,,,,,,,,,,,,18709
-001cv00000AuZtD,"County Of Elbert, GA",Georgia,County,Hugh Bargeron,19579,,Tier 2,1.0,34.0795,-82.8641,6b9b6e31-2d38-4afc-bd0f-03b30d470ee1,,,,,,,,,,,,,,,,,,18749
-001cv00000AuZtU,"County Of Cook, GA",Georgia,County,Hugh Bargeron,17225,,Tier 2,1.0,31.1428,-83.4644,d123c38c-3add-4613-b407-92057779583a,,,,,,,,,5,2026-05-19,5,,,,,,,18624
-001cv00000AuZuD,"County Of Brantley, GA",Georgia,County,Hugh Bargeron,18101,,Tier 2,1.0,31.1511,-81.9971,d5553a21-877d-4e8d-9f65-7ee0708eb553,,,,,,,,,2,2026-04-02,2,,,,,,,18514
-001cv00000AuZuF,"County Of Berrien, GA",Georgia,County,Hugh Bargeron,18147,Open Opportunity,Tier 2,1.0,31.3119,-83.2078,8a75a964-fe4b-4208-af7e-28f7c2f219d1,Open,Meeting Booked,Top of Funnel,Hugh Bargeron,5/14/2026,5/13/2026,,,3,2026-05-14,3,,,,,,,18596
-001cv00000AuZxu,"County Of Mitchell, GA",Georgia,County,Hugh Bargeron,21521,,Tier 2,1.0,33.2199,-82.7032,ae5b7c2f-5e3b-4ace-a8f0-4f1959584fb1,,,,,,,,,5,2026-04-14,5,,,,,,,18991
-001cv00000Aua0O,"County Of Peach, GA",Georgia,County,Hugh Bargeron,28417,,Tier 1,1.5,32.5893,-83.8261,ffe73071-877a-4cac-a560-6853b24bc3c3,,,,,,,,,16,2026-05-18,15,1,,,,,,18952
-001cv00000Aua0U,"County Of Dawson, GA",Georgia,County,Hugh Bargeron,28497,,Tier 1,1.5,31.7735,-84.4466,367eb279-f499-4e2b-b517-cec906e37948,,,,,,,,,4,2026-03-31,4,,,,,,,18820
-001cv00000Aua0e,"County Of Monroe, GA",Georgia,County,Hugh Bargeron,28712,,Tier 1,1.5,32.9747,-83.8897,4c0027ff-77bb-4efa-be54-89c8e660f9d2,,,,,,,,,13,2026-03-23,2,11,,,,,,18721
-001cv00000Aua0s,"County Of Decatur, GA",Georgia,County,Hugh Bargeron,29038,,Tier 1,1.5,33.7748,-84.2963,2b67973e-b300-44d5-831b-4d55504c7320,,,,,,,,,3,2026-04-10,2,1,,,,,,18931
-001cv00000Aua10,"County Of Sumter, GA",Georgia,County,Hugh Bargeron,29283,,Tier 1,1.5,31.9982,-84.2279,78aac8f5-e1cb-4d6c-99b0-99f3f171ed0b,,,,,,,,,,,,,,,,,,18885
-001cv00000Aua1P,"County Of Wayne, GA",Georgia,County,Hugh Bargeron,30380,,Tier 1,1.5,31.5092,-81.9098,060ca519-a521-42cb-b216-f1f9e348e8d7,,,,,,,,,10,2026-05-19,10,,,,,,,18742
-001cv00000Aua2L,"County Of Chattooga, GA",Georgia,County,Hugh Bargeron,24932,,Tier 2,1.0,34.4633,-85.3136,b89d9f3e-a1ca-4875-b4f4-39c99f8fa5b5,,,,,,,,,,,,,,,,,,19270
-001cv00000Aua2r,"County Of Union, GA",Georgia,County,Hugh Bargeron,25521,,Tier 1,1.5,34.8458,-83.9744,4ec68b31-e8f4-4e08-84e0-8de05952a0ae,,,,,,,,,,,,,,,,,,19359
-001cv00000Aua2z,"County Of Butts, GA",Georgia,County,Hugh Bargeron,25781,,Tier 1,1.5,33.2691,-83.9533,e5877b0d-825f-43c7-8e5c-7b5830003ca1,,,,,,,,,12,2026-04-23,10,2,,,,,,19448
-001cv00000Aua35,"County Of Dodge, GA",Georgia,County,Hugh Bargeron,19759,,Tier 2,1.0,32.1287,-83.2078,70e39225-6400-4396-aacc-181282349b67,,,,,,,,,,,,,,,,,,18654
-001cv00000Aua38,"County Of Washington, GA",Georgia,County,Hugh Bargeron,19785,,Tier 2,1.0,33.7368,-82.7393,d9e3d075-4a10-465f-a478-3a8562a40913,,,,,,,,,,,,,,,,,,18689
-001cv00000Aua3G,"County Of Crisp, GA",Georgia,County,Hugh Bargeron,19879,,Tier 2,1.0,31.8876,-83.8049,da6d8f93-1617-4f2e-b4b7-cafc9a0f73c6,,,,,,,,,2,2026-04-14,1,,1,,,,,18565
-001cv00000Aua3P,"County Of Pierce, GA",Georgia,County,Hugh Bargeron,19976,,Tier 2,1.0,31.3438,-82.1714,cb2bbca0-5517-4e5a-b2a3-3e7ec013496f,,,,,,,,,5,2026-04-13,5,,,,,,,18720
-001cv00000Aua3s,"County Of Worth, GA",Georgia,County,Hugh Bargeron,20554,,Tier 2,1.0,31.5282,-83.8897,ef735cf4-26de-4395-a944-4cb5830e58b2,,,,,,,,,,,,,,,,,,18636
-001cv00000Aua3x,"County Of Morgan, GA",Georgia,County,Hugh Bargeron,20635,,Tier 2,1.0,33.5794,-83.4644,be68bc88-5f8e-46d2-81f7-f3328c47917b,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,10,2026-04-21,10,,,,,,,18479
-001cv00000Aua48,"County Of Meriwether, GA",Georgia,County,Hugh Bargeron,20793,,Tier 2,1.0,33.0561,-84.6897,e1ee892f-ba5e-48c3-beaf-ba1700abc953,,,,,,,,,3,2026-05-18,3,,,,,,,18635
-001cv00000Aua5v,"County Of Pickens, GA",Georgia,County,Hugh Bargeron,34024,,Tier 1,1.5,34.4497,-84.4593,fd71b8c1-78ad-4fc8-ba01-a387709f74d7,,,,,,,,,,,,,,,,,,19520
-001cv00000Aua64,"County Of Lumpkin, GA",Georgia,County,Hugh Bargeron,34278,,Tier 1,1.5,32.051,-84.7991,3e89d9be-71ef-4b9f-b117-5f294d9380c8,,,,,,,,,3,2026-04-10,3,,,,,,,19347
-001cv00000Aua7c,"County Of Murray, GA",Georgia,County,Hugh Bargeron,39951,,Tier 1,1.5,34.7928,-84.7316,20061f4e-3c05-4a4e-a994-00817512a201,,,,,,,,,,,,,,,,,,19218
-001cv00000Aua7v,"County Of Haralson, GA",Georgia,County,Hugh Bargeron,30572,,Tier 1,1.5,33.2265,-84.5713,6d3f1bbd-39f2-4645-8049-7cf180cd1500,,,,,,,,,6,2026-04-23,2,4,,,,,,18930
-001cv00000Aua88,"County Of Madison, GA",Georgia,County,Hugh Bargeron,30885,,Tier 1,1.5,34.099,-83.2078,f0727e09-4a4e-43d8-8955-81158a3d99b9,,,,,,,,,12,2026-04-20,9,3,,,,,,18919
-001cv00000Aua9s,"County Of Putnam, GA",Georgia,County,Hugh Bargeron,22585,,Tier 2,1.0,33.307,-83.3789,aec3aa49-0532-4c71-b446-e73ab8c2364e,,,,,,,,,3,2026-03-19,1,2,,,,,,18958
-001cv00000AuaA1,"County Of Emanuel, GA",Georgia,County,Hugh Bargeron,22716,,Tier 2,1.0,32.5727,-82.3018,65405895-fa37-4946-bbc6-44fcf030a7b6,,,,,,,,,,,,,,,,,,18862
-001cv00000AuaAC,"County Of Tattnall, GA",Georgia,County,Hugh Bargeron,23052,,Tier 2,1.0,32.0635,-82.0843,9e187566-68d1-4d89-afe2-e230a3fbe046,,,,,,,,,3,2026-05-15,3,,,,,,,18935
-001cv00000AuaAc,"County Of Franklin, GA",Georgia,County,Hugh Bargeron,23785,,Tier 2,1.0,34.3646,-83.2078,e1301797-0a6e-4014-912e-e7b8daff50dd,,,,,,,,,,,,,,,,,,18754
-001cv00000AuaAt,"County Of Burke, GA",Georgia,County,Hugh Bargeron,25318,Nurture,Tier 1,1.5,33.0888,-81.9535,e65c57a4-ca4f-4f7a-a00d-20415dd2adad,Closed Lost,,,Hugh Bargeron,5/19/2026,5/13/2026,,,4,2026-05-19,3,,1,,,,,18675
-001cv00000AuaB8,"County Of Fannin, GA",Georgia,County,Hugh Bargeron,25817,,Tier 1,1.5,34.858,-84.2279,76794267-ae1a-4708-9e70-bbb3ef4f2325,,,,,,,,,,,,,,,,,,19204
-001cv00000AuaBC,"County Of Grady, GA",Georgia,County,Hugh Bargeron,25918,,Tier 1,1.5,30.905,-84.2279,7e17e9e6-8cbd-4005-bbce-b811165ba80c,,,,,,,,,3,2026-04-21,3,,,,,,,19148
-001cv00000AuaBQ,"County Of Hart, GA",Georgia,County,Hugh Bargeron,26409,,Tier 1,1.5,34.35,-82.9502,284e71ae-bd2f-4d94-b1ba-f83b4ebda1b1,,,,,,,,,,,,,,,,,,19250
-001cv00000AuaBh,"County Of Stephens, GA",Georgia,County,Hugh Bargeron,26865,,Tier 1,1.5,34.5459,-83.2934,323198d0-88e1-4456-b78f-e0b8d7ae4ecf,,,,,,,,,4,2026-04-10,4,,,,,,,19069
-001cv00000AuaBl,"County Of Toombs, GA",Georgia,County,Hugh Bargeron,26911,,Tier 1,1.5,32.0795,-82.3452,ba8a9195-8336-4eac-a514-9b1ac60e5794,,,,,,,,,1,2026-03-31,1,,,,,,,19254
-001cv00000AuaDF,"County Of Ware, GA",Georgia,County,Hugh Bargeron,36033,,Tier 1,1.5,31.1344,-82.4753,98d6f3d9-a14c-475a-8367-2dcd9e7ef867,,,,,,,,,4,2026-03-31,2,2,,,,,,19056
-001cv00000AuaGn,"County Of Coffee, GA",Georgia,County,Hugh Bargeron,43386,,Tier 1,1.5,31.5182,-82.821,90917147-eaf8-4302-b38c-9a03adf4c268,,,,,,,,,2,2026-04-16,2,,,,,,,19032
-001cv00000AuaH3,"County Of Baldwin, GA",Georgia,County,Hugh Bargeron,43781,,Tier 1,1.5,34.4918,-83.5374,28905445-17d7-4482-953e-75daab7e95fb,,,,,,,,,,,,,,,,,,19151
-001cv00000AuaHd,"County Of Colquitt, GA",Georgia,County,Hugh Bargeron,45812,,Tier 1,1.5,31.1713,-84.7333,a87715eb-b02f-4259-987a-da145df8ab5c,,,,,,,,,9,2026-04-14,3,6,,,,,,19401
-001cv00000AuaHe,"County Of Thomas, GA",Georgia,County,Hugh Bargeron,45842,,Tier 1,1.5,30.8417,-83.8473,713c38c1-e60b-4ea4-b6cd-ea48929c0022,,,,,,,,,1,2026-04-06,1,,,,,,,19330
-001cv00000AuaKd,"County Of Laurens, GA",Georgia,County,Hugh Bargeron,50287,,Tier S,2.0,32.433,-82.9932,5a0921cf-24cd-4976-bdb0-78cfc06ef69e,Open,Proposal,Mid Funnel,Hugh Bargeron,4/15/2026,4/13/2026,"$18,000",,9,2026-04-20,8,1,,,,,,19498
-001cv00000AuaNv,"County Of Gordon, GA",Georgia,County,Hugh Bargeron,58237,,Tier S,2.0,32.8821,-83.3324,b78fbfaa-5f92-4ac2-87ca-ac294c7eca53,Closed Lost,,,Liam Shaw,5/20/2024,1/5/2025,,,16,2026-05-13,5,11,,,,,,19682
-001cv00000AuaOO,"City Of Marietta, GA",Georgia,Municipality,Hugh Bargeron,61497,,Tier S,2.0,33.9488,-84.5379,d8ff3faf-c8d4-435b-829d-ed94ab5ecbd8,,,,,,,,,5,2026-04-13,3,2,,,,,,19593
-001cv00000AuaPE,"County Of Liberty, GA",Georgia,County,Hugh Bargeron,65711,,Tier S,2.0,31.843,-81.4718,b2e1c190-3017-4ca6-b575-f294b163439a,,,,,,,,,29,2026-05-19,29,,,,,,,19674
-001cv00000AuaQo,"County Of Glynn, GA",Georgia,County,Hugh Bargeron,84739,,Tier S,2.0,31.2624,-81.6035,3eab8230-6a0f-4fc1-9479-3d6f7c38d265,,,,,,,,,5,2026-03-30,5,,,,,,,19704
-001cv00000AuaQq,"County Of Dougherty, GA",Georgia,County,Hugh Bargeron,84844,,Tier S,2.0,31.5439,-84.2279,5fe4e74c-06d1-4d10-9b3d-d63a4a339f31,,,,,,,,,,,,,,,,,,19716
-001cv00000AuaUo,"County Of Rockdale, GA",Georgia,County,Hugh Bargeron,94082,,Tier S,2.0,33.6752,-84.0379,64fd4a10-1bb8-494d-b2b7-22c87cafba80,,,,,,,,,,,,,,,,,,19860
-001cv00000B21sK,"City Of Reidsville, GA",Georgia,Municipality,Hugh Bargeron,2446,,Tier 3,0.75,32.0869,-82.1179,eed1181a-4b0f-4804-99b9-2dd9874eb600,,,,,,,,,,,,,,,,,,20298
-001cv00000B21wV,"City Of Lithonia, GA",Georgia,Municipality,Hugh Bargeron,2621,,Tier 3,0.75,33.7123,-84.1052,2f239386-b41c-49d8-be2e-36bf2d977e62,,,,,,,,,,,,,,,,,,20324
-001cv00000B21wg,"City Of Pembroke, GA",Georgia,Municipality,Hugh Bargeron,2624,,Tier 3,0.75,32.136,-81.6221,4cc55d83-d00d-4f8e-87f7-8e461fede579,,,,,,,,,,,,,,,,,,20300
-001cv00000B21xi,"City Of Royston, GA",Georgia,Municipality,Hugh Bargeron,2656,,Tier 3,0.75,34.2871,-83.1101,8bb8f5f9-6889-4be9-a2ef-1a2e8d02788b,,,,,,,,,,,,,,,,,,20350
-001cv00000B21xv,"City Of Sylvania, GA",Georgia,Municipality,Hugh Bargeron,2661,,Tier 3,0.75,32.7504,-81.6368,ae626fbc-d9fd-40ce-9491-32dc46769a39,,,,,,,,,,,,,,,,,,20378
-001cv00000B21y0,"City Of Abbeville, GA",Georgia,Municipality,Hugh Bargeron,2662,,Tier 3,0.75,31.9921,-83.3068,b859aadb-8b1c-4c69-8457-804d183c123d,,,,,,,,,,,,,,,,,,20435
-001cv00000B221W,"City Of Elberton, GA",Georgia,Municipality,Hugh Bargeron,4678,,Tier 3,0.75,34.1112,-82.8671,05d7d8a8-b44f-40b2-b9da-a17bfe73a1f8,,,,,,,,,,,,,,,,,,20581
-001cv00000B221X,"City Of Grayson, GA",Georgia,Municipality,Hugh Bargeron,4679,,Tier 3,0.75,33.8943,-83.9557,0e8ea61a-fe66-4fe4-992d-d6ca6d9d3f03,,,,,,,,,3,2026-05-19,3,,,,,,,20557
-001cv00000CLwiB,"City Of Hawkinsville, GA",Georgia,Municipality,Hugh Bargeron,3997,,Tier 3,0.75,32.2838,-83.4721,2efdd7cf-37e2-44f9-992d-5e3733df9f0a,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,,,,,,,,,,20711
-001cv00000CLwwa,"City Of Thomson, GA",Georgia,Municipality,Hugh Bargeron,6873,,Tier 3,0.75,33.4707,-82.5046,edf94a86-8662-42c3-a778-25576f779a81,,,,,,,,,,,,,,,,,,20700
-001cv00000bAdh2,"Cherokee County, GA",Georgia,County,Hugh Bargeron,293513,Open Opportunity,Tier S,2.0,34.2515,-84.4803,2b161126-900c-4fd0-9afc-61d9d27296c5,Open,Initial Interest,Top of Funnel,Emily Murnane,,3/27/2026,,,,,,,,,,,,22785
-001cv00000bAdh3,Clayton County,Georgia,County,Hugh Bargeron,297703,,Tier S,2.0,33.5572,-84.3752,95c52b5c-4dcc-4016-a651-d7d32c7065fc,,,,,,,,,,,,,,,,,,22795
-001cv00000bAeBb,Consolidated Government of Columbus,Georgia,Municipality,Hugh Bargeron,201830,,Tier S,2.0,32.4635,-84.9911,bbf7384a-c133-4191-90a3-9b9df5df40d8,,,,,,,,,,,,,,,,,,22781
-001cv00000bBVfe,City of Greenville,Georgia,Municipality,Hugh Bargeron,819,,Tier 3,0.75,33.0287,-84.713,be6cd903-71e7-47ed-b689-621daf065b03,,,,,,,,,,,,,,,,,,21148
-001cv00000bBVhq,City of Blairsville,Georgia,Municipality,Hugh Bargeron,849,,Tier 3,0.75,34.8759,-83.9583,049f5c7f-44e8-4ec0-94b6-f83502a59e59,,,,,,,,,,,,,,,,,,21263
-001cv00000bBVl9,City of Buchanan,Georgia,Municipality,Hugh Bargeron,956,,Tier 3,0.75,33.8022,-85.1901,c222aecb-2346-4112-a385-575de65f7333,,,,,,,,,,,,,,,,,,21347
-001cv00000bBVo8,City of Hiawassee,Georgia,Municipality,Hugh Bargeron,1046,,Tier 3,0.75,34.9493,-83.7574,060f8e40-7be3-4359-9e9b-b2ceeadf2ae9,,,,,,,,,,,,,,,,,,21466
-001cv00000bBVxJ,City of Blue Ridge,Georgia,Municipality,Hugh Bargeron,1246,,Tier 3,0.75,34.864,-84.3241,37ff5448-72cc-4957-8e92-432908f6d480,,,,,,,,,3,2026-05-19,3,,,,,,,21633
-001cv00000bBVy1,Town of Pine Mountain,Georgia,Municipality,Hugh Bargeron,1288,,Tier 3,0.75,32.8649,-84.8541,df570f09-d1e2-40e8-a070-14f5f89dad63,,,,,,,,,,,,,,,,,,21676
-001cv00000bBWD5,City of Porterdale,Georgia,Municipality,Hugh Bargeron,1941,,Tier 3,0.75,33.5751,-83.8938,55c8df31-5712-4aa0-b86c-875e98b9bef1,,,,,,,,,1,2026-05-12,1,,,,,,,22017
-001cv00000bBWDX,City of Trion,Georgia,Municipality,Hugh Bargeron,1972,,Tier 3,0.75,34.544,-85.3105,f589b27e-9e3a-4ac1-b98b-475def106daf,,,,,,,,,,,,,,,,,,22068
-001cv00000bBWF4,City of South Fulton,Georgia,Municipality,Hugh Bargeron,112003,,Tier S,2.0,33.6576,-84.627,94c41c1e-f6a8-4d44-adbe-19254f2d1e90,,,,,,,,,8,2026-04-23,8,,,,,,,22320
-001cv00000bBWKu,City of Ellijay,Georgia,Municipality,Hugh Bargeron,1923,,Tier 3,0.75,34.6948,-84.4822,7d30221f-6e35-4732-aeb5-76586ec0c5ab,,,,,,,,,,,,,,,,,,21871
-001cv00000bBWN7,City of Sandy Springs,Georgia,Municipality,Hugh Bargeron,105505,,Tier S,2.0,33.9304,-84.3733,4ff26bda-9490-4d40-920b-e2fd51228ac2,,,,,,,,,3,2026-04-14,3,,,,,,,21995
-001cv00000bBWRJ,City of Clarkesville,Georgia,Municipality,Hugh Bargeron,2159,,Tier 3,0.75,34.6126,-83.5249,48bae5b2-1a94-4731-89fa-e44d40d5a00b,,,,,,,,,,,,,,,,,,22198
-001cv00000bBWRK,City of Demorest,Georgia,Municipality,Hugh Bargeron,2189,,Tier 3,0.75,34.5651,-83.5452,8e4594c0-2ea9-4f49-8bde-1e56d5dc78e8,,,,,,,,,,,,,,,,,,22231
-001cv00000bBWRL,City of Emerson,Georgia,Municipality,Hugh Bargeron,2192,,Tier 3,0.75,34.1272,-84.7543,84307f11-f047-4378-8463-a574bd75bb17,,,,,,,,,1,2026-05-06,1,,,,,,,22145
-001cv00000bBWRe,City of Monticello,Georgia,Municipality,Hugh Bargeron,2969,,Tier 3,0.75,37.8714,-109.3429,32a49232-29e5-43cf-ab5d-c9d8388d069c,,,,,,,,,,,,,,,,,,22256
-001cv00000bBWTZ,Macon-Bibb County,Georgia,Municipality,Hugh Bargeron,157056,,Tier S,2.0,32.8362,-83.632,e0f92ff8-7630-4c1d-9779-760b3c7d47ac,,,,,,,,,,,,,,,,,,22390
-001cv00000bBWXk,City of Atlanta,Georgia,Municipality,Hugh Bargeron,520070,,Tier S,2.0,33.7501,-84.3885,fe30b9c0-b095-41b4-b4d9-261ee9f4c7d9,,,,,,,,,,,,,,,,,,22454
-001cv00000bBWYc,Cobb County,Georgia,County,Hugh Bargeron,787538,,Tier S,2.0,33.8999,-84.5641,95548cba-73b8-45e9-88b0-3564feb77876,,,,,,,,,,,,,,,,,,22494
-001cv00000bBWZ7,Gwinnett County,Georgia,County,Hugh Bargeron,1003869,,Tier S,2.0,33.9191,-84.0167,4a066e1e-dd43-4096-baa3-0362183f7805,,,,,,,,,,,,,,,,,,22523
-001cv00000bBWZE,Fulton County,Georgia,County,Hugh Bargeron,1090354,,Tier S,2.0,33.8034,-84.3963,7a4e1821-9091-47b5-993d-f8688d723056,,,,,,,,,,,,,,,,,,22529
-001cv00000bBX0E,Chatham County,Georgia,County,Hugh Bargeron,307336,,Tier S,2.0,31.9994,-81.1196,ba6db9cc-12a1-401e-a91a-0606f759272f,,,,,,,,,,,,,,,,,,22798
-001cv00000hiDwr,City of Mableton,Georgia,Municipality,Hugh Bargeron,,,Tier 3,0.75,33.8185,-84.5762,,,,,,,,,,,,,,,,,,,24413
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Hugh Bargeron,Calls - Quinzel Perry,Calls - Jenny Allison,Calls - Joe del Rosario,Calls - Alicia Gopal,Calls - Nick Martino,Calls - Emily Murnane,Salesforce ID
+001Hr000028ZbnW,"City Of Decatur, GA",Georgia,Municipality,Hugh Bargeron,24569,,Tier 2,1.0,33.7748,-84.2963,411a552d-17ab-414a-8a48-dedc89528fe3,,,,,,,,,12,2026-05-11,11,1,,,,,,
+001Hr000028Zbo3,"City Of Mcrae Helena, GA",Georgia,Municipality,Hugh Bargeron,5903,Recent Competitor Purchase,Tier 3,0.75,32.0681,-82.901,2d730e19-3772-4427-8373-04a6903f052e,,,,,,,,,1,2026-04-10,1,,,,,,,
+001Hr000028Zbo5,"City Of Bremen, GA",Georgia,Municipality,Hugh Bargeron,7474,Recent Competitor Purchase,Tier 3,0.75,33.7212,-85.1455,b303d91d-7d91-4ca1-a3ff-eada23dfd900,,,,,,,,,2,2026-05-11,1,1,,,,,,
+001Hr000028ZboF,"City Of Hampton, GA",Georgia,Municipality,Hugh Bargeron,8346,All Modules Live,Tier 3,0.75,33.3851,-84.2829,39c99214-44cc-4de8-837c-fecb8c955469,Closed Won,,,Asher Rosenfeld,,1/5/2025,"$15,000",,,,,,,,,,,
+001Hr000028Zbok,"City Of Fort Oglethorpe, GA",Georgia,Municipality,Hugh Bargeron,10531,,Tier 2,1.0,34.949,-85.2569,324e34ef-a74b-4c23-bb58-52e72af659ea,,,,,,,,,6,2026-03-27,6,,,,,,,
+001Hr000028Zbpa,"City Of Americus, GA",Georgia,Municipality,Hugh Bargeron,15989,,Tier 2,1.0,32.0724,-84.2327,d441bf70-4d66-472e-99aa-0f38b12ded68,,,,,,,,,1,2025-11-12,,,1,,,,,
+001Hr000028Zbq0,"City Of Gainesville, GA",Georgia,Municipality,Hugh Bargeron,43417,,Tier 1,1.5,34.2979,-83.8241,0e52f69f-114f-4aab-a61d-f063a26ceb2b,,,,,,,,,3,2026-03-20,3,,,,,,,
+001Hr000028ZbqC,"City Of Brunswick, GA",Georgia,Municipality,Hugh Bargeron,14629,,Tier 2,1.0,31.1511,-81.4878,2cd330a9-85eb-45a4-a2de-7a50a6cfc0b1,,,,,,,,,7,2026-04-13,7,,,,,,,
+001Hr000028ZbqV,"Town Of Braselton, GA",Georgia,Municipality,Hugh Bargeron,14383,Nurture,Tier 2,1.0,34.1093,-83.7627,09b04469-7b84-480f-9115-21788094b369,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,8,2026-05-22,7,1,,,,,,
+001Hr000028Zbql,"City Of Stockbridge, GA",Georgia,Municipality,Hugh Bargeron,29163,Recent Competitor Purchase,Tier 1,1.5,33.5438,-84.229,ccc23349-7d52-49d9-a6cb-b053fce3044a,Closed Lost,,,Shane Lieberman,6/11/2024,1/5/2025,,,12,2026-05-26,12,,,,,,,
+001Hr000028ZbrP,"City Of Fort Valley, GA",Georgia,Municipality,Hugh Bargeron,8863,Nurture,Tier 3,0.75,32.5538,-83.8874,26012a91-5d8c-4cfa-850c-9aa1db3a3ef7,Closed Lost,,,Quinzel Perry,11/7/2024,1/5/2025,,,8,2026-04-29,8,,,,,,,
+001Hr000028Zbs0,"City Of Lawrenceville, GA",Georgia,Municipality,Hugh Bargeron,30516,Open Opportunity,Tier 1,1.5,33.9508,-83.9876,204ba7ac-9da2-414b-a9ec-0f14e9c18e28,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,32,2026-05-26,21,,11,,,,,
+001Hr000028Zbse,"City Of Sylvester, GA",Georgia,Municipality,Hugh Bargeron,5549,Nurture,Tier 3,0.75,31.5307,-83.8355,4d91f052-5d82-4d07-a04a-4ad2f7993d4f,Closed Lost,,,Troy LeCaire,,1/5/2025,"$7,500",,10,2026-05-11,9,1,,,,,,
+001Hr000028ZbtE,"City Of Thomaston, GA",Georgia,Municipality,Hugh Bargeron,9761,Nurture,Tier 3,0.75,32.8882,-84.3266,41edae93-b882-4614-a9f0-6873b62973c8,Closed Lost,,,Shane Lieberman,6/12/2024,1/5/2025,,,10,2026-05-14,10,,,,,,,
+001Hr000028Zbuz,"City Of East Point, GA",Georgia,Municipality,Hugh Bargeron,38141,,Tier 1,1.5,33.6796,-84.4394,0203ca93-e0b3-4238-ad46-2c69928deb33,,,,,,,,,10,2026-05-20,4,,,6,,,,
+001Hr000028ZbvB,"City Of Snellville, GA",Georgia,Municipality,Hugh Bargeron,20753,,Tier 2,1.0,33.8573,-84.0199,f5e724a9-2a9e-4cc5-9b39-7380951ac29a,,,,,,,,,3,2026-03-27,3,,,,,,,
+001Hr000028Zbwg,"City Of Fitzgerald, GA",Georgia,Municipality,Hugh Bargeron,8977,,Tier 3,0.75,31.7149,-83.2527,8e7f69ac-2790-48aa-ba2d-fa873f7076e5,,,,,,,,,3,2026-03-27,3,,,,,,,
+001Hr000028Zbwj,"City Of Peachtree Corners, GA",Georgia,Municipality,Hugh Bargeron,42108,,Tier 1,1.5,33.9561,-84.2322,5bb1ff03-8a6a-4906-ae87-265e80d868a4,,,,,,,,,16,2026-05-22,14,2,,,,,,
+001Hr000028ZbxP,"City Of Holly Springs, GA",Georgia,Municipality,Hugh Bargeron,17473,Nurture,Tier 2,1.0,34.174,-84.5013,6d0176b8-7607-4f3c-a98a-b6f07a705a23,Closed Lost,,,Hugh Bargeron,4/23/2026,4/17/2026,,,5,2026-04-23,4,1,,,,,,
+001Hr000028Zbxa,"City Of Jackson, GA",Georgia,Municipality,Hugh Bargeron,5622,,Tier 3,0.75,33.2946,-83.966,21b45b33-71eb-4af7-8a2e-9e66eb11797a,,,,,,,,,8,2026-04-03,8,,,,,,,
+001Hr000028ZbyS,"City Of Flowery Branch, GA",Georgia,Municipality,Hugh Bargeron,10144,,Tier 2,1.0,34.1851,-83.9252,cca2e783-7e61-4324-9d3e-f206c04a3ef5,,,,,,,,,10,2026-05-06,10,,,,,,,
+001Hr000028Zbys,"City Of Byron, GA",Georgia,Municipality,Hugh Bargeron,5839,,Tier 3,0.75,32.6538,-83.7596,53339115-0075-4daa-80cf-1a3aae6bc99e,,,,,,,,,,,,,,,,,,
+001Hr000028Zbzv,"City Of Cairo, GA",Georgia,Municipality,Hugh Bargeron,10015,,Tier 2,1.0,30.8774,-84.2013,aa14e03c-57d2-450d-a8a3-79652d2dbafb,,,,,,,,,4,2025-10-15,,4,,,,,,
+001Hr000028Zc0f,"Town Of Tyrone, GA",Georgia,Municipality,Hugh Bargeron,7817,,Tier 3,0.75,33.4712,-84.5972,d9bf7899-3cbf-430f-8ffa-f6db2713d42d,,,,,,,,,4,2025-10-30,,4,,,,,,
+001Hr000028Zc14,"City Of Dunwoody, GA",Georgia,Municipality,Hugh Bargeron,50901,,Tier S,2.0,33.9462,-84.3346,5a74ccd3-890d-476a-848c-e61195eda847,,,,,,,,,4,2026-04-06,3,1,,,,,,
+001Hr000028Zc15,"City Of Woodstock, GA",Georgia,Municipality,Hugh Bargeron,36198,Open Opportunity,Tier 1,1.5,34.1015,-84.5194,b72515e6-d3d1-4fc9-b7a0-22c1843d5655,Open,Initial Interest,Top of Funnel,Granger West,,1/23/2025,,Yes,11,2026-03-30,2,,9,,,,,
+001Hr000028Zc1X,"City Of Douglasville, GA",Georgia,Municipality,Hugh Bargeron,35561,Open Opportunity,Tier 1,1.5,33.7515,-84.7477,21a569a2-24d9-427d-8876-1d4189ae04aa,Open,Initial Interest,Top of Funnel,,,1/15/2025,,,38,2026-05-26,26,12,,,,,,
+001Hr000028Zc1q,"City Of Adel, GA",Georgia,Municipality,Hugh Bargeron,5507,Nurture,Tier 3,0.75,31.1371,-83.4235,f607429f-771b-48a5-b1c9-013542790216,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,6,2026-05-20,5,1,,,,,,
+001Hr000028Zc27,"City Of Eastman, GA",Georgia,Municipality,Hugh Bargeron,5595,Recent Competitor Purchase,Tier 3,0.75,32.1977,-83.1777,a33ae373-e656-4eb5-9212-19661244f7b5,,,,,,,,,,,,,,,,,,
+001Hr000028Zc2t,"City Of Grovetown, GA",Georgia,Municipality,Hugh Bargeron,16566,,Tier 2,1.0,33.4504,-82.1982,2f6dd7cd-3d60-4f23-bbfb-85503ce5e614,,,,,,,,,2,2026-04-16,1,1,,,,,,
+001Hr000028Zc3Z,"City Of Hinesville, GA",Georgia,Municipality,Hugh Bargeron,35420,Nurture,Tier 1,1.5,31.8315,-81.6141,8332032c-50f8-4558-b3c7-4a6fa6e922e5,Closed Lost,,,Shane Lieberman,2/13/2024,1/5/2025,,,2,2025-11-21,,,2,,,,,
+001Hr000028Zc3v,"City Of Thomasville, GA",Georgia,Municipality,Hugh Bargeron,18867,Recent Competitor Purchase,Tier 2,1.0,30.8366,-83.9788,cf50a0a3-4a17-4928-b9d5-0927d29151ee,,,,,,,,,2,2025-10-15,,2,,,,,,
+001Hr000028Zc40,"City Of Camilla, GA",Georgia,Municipality,Hugh Bargeron,5046,Nurture,Tier 3,0.75,31.2313,-84.2105,35a709ad-fb06-4832-bb65-85660d06905e,Closed Lost,,,Quinzel Perry,8/27/2024,1/5/2025,,,26,2026-05-26,25,1,,,,,,
+001Hr000028Zc45,"City Of Bainbridge, GA",Georgia,Municipality,Hugh Bargeron,14292,,Tier 2,1.0,30.9038,-84.5755,707f5894-7bc1-460e-92e7-b51ec2a17241,,,,,,,,,7,2026-04-13,5,2,,,,,,
+001Hr000028Zc4A,"City Of Tifton, GA",Georgia,Municipality,Hugh Bargeron,17235,Nurture,Tier 2,1.0,31.4528,-83.5105,3372d6c9-0551-414f-9b82-7f000c58ac23,Closed Lost,,,Shane Lieberman,1/9/2024,1/5/2025,,,7,2026-05-22,3,4,,,,,,
+001Hr000028Zc4F,"City Of Moultrie, GA",Georgia,Municipality,Hugh Bargeron,14587,Open Opportunity,Tier 2,1.0,31.1799,-83.7888,4fca1023-54bb-4752-b2be-49f6b610bec6,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,8,2026-05-20,6,,2,,,,,
+001Hr000028Zc4I,"City Of Lilburn, GA",Georgia,Municipality,Hugh Bargeron,15168,Nurture,Tier 2,1.0,33.8901,-84.143,0043d36a-7686-4baf-aca8-a0fe56a3b7cd,Closed Lost,,,Shane Lieberman,1/10/2024,1/5/2025,"$21,376",,10,2026-05-20,9,1,,,,,,
+001Hr000028Zc4R,"City Of Glennville, GA",Georgia,Municipality,Hugh Bargeron,3707,,Tier 3,0.75,31.9366,-81.9284,611637b7-f775-4893-919d-b74aebc6f949,,,,,,,,,9,2026-04-22,6,,,3,,,,
+001Hr000028Zc4q,"City Of Jonesboro, GA",Georgia,Municipality,Hugh Bargeron,4510,Open Opportunity,Tier 3,0.75,33.5215,-84.3538,f696619e-21c7-4a14-ad90-46a656d2e4a5,Open,Proposal,Mid Funnel,Jason Ginsberg,3/26/2026,3/26/2026,"$19,000",,2,2025-06-03,,2,,,,,,
+001Hr000028Zc5F,"City Of Monroe, GA",Georgia,Municipality,Hugh Bargeron,15264,Nurture,Tier 2,1.0,33.7948,-83.7132,8d6318e0-cd7b-4673-af60-4d8b282b6d32,Closed Lost,,,Shane Lieberman,10/2/2024,1/5/2025,"$24,000",,8,2026-04-13,6,2,,,,,,
+001Hr000028Zc5W,"City Of Loganville, GA",Georgia,Municipality,Hugh Bargeron,14720,Nurture,Tier 2,1.0,33.839,-83.9007,929f50bb-593d-43f5-91aa-0638131ee1c8,Closed Lost,,,Quinzel Perry,3/27/2025,3/19/2025,"$26,000",,9,2026-01-14,,2,,,,,7,
+001Hr000028Zc5j,"City Of Dalton, GA",Georgia,Municipality,Hugh Bargeron,34285,,Tier 1,1.5,34.7698,-84.9702,e0aae78c-2cbb-4951-b931-00b4decaf385,,,,,,,,,,,,,,,,,,
+001Hr000028Zc6J,"City Of St Marys, GA",Georgia,Municipality,Hugh Bargeron,18521,,Tier 2,1.0,30.7479,-81.5706,b7cbb186-95e9-4f46-9160-94ea1a4e7e0b,,,,,,,,,4,2026-05-07,4,,,,,,,
+001Hr000028Zc6o,"City Of Toccoa, GA",Georgia,Municipality,Hugh Bargeron,9188,,Tier 3,0.75,34.5773,-83.3324,4063f259-3bb9-42a9-b043-a6b1f209b3ea,,,,,,,,,3,2026-04-14,1,2,,,,,,
+001Hr000028Zc71,"City Of Sugar Hill, GA",Georgia,Municipality,Hugh Bargeron,25259,Recent Competitor Purchase,Tier 1,1.5,34.1065,-84.0335,6d11b086-c12f-473e-a88b-f5f588cfdbbf,,,,,,,,,12,2026-05-11,8,1,3,,,,,
+001Hr000028Zc7X,"City Of Dallas, GA",Georgia,Municipality,Hugh Bargeron,14423,,Tier 2,1.0,33.9245,-84.8413,7859c4eb-9ae2-44d9-b6c4-636884bf2edf,,,,,,,,,3,2026-04-13,2,1,,,,,,
+001Hr000028Zc8m,"City Of Clarkston, GA",Georgia,Municipality,Hugh Bargeron,14538,Nurture,Tier 2,1.0,33.8095,-84.2396,2c7f98cf-4e17-47ca-860b-6345f4235e49,Closed Lost,,,Troy LeCaire,,1/5/2025,,,2,2025-11-19,,,2,,,,,
+001Hr000028Zc9a,"City Of Milledgeville, GA",Georgia,Municipality,Hugh Bargeron,17165,Open Opportunity,Tier 2,1.0,33.0801,-83.2321,045bedf5-6c8b-41ae-9ce4-300aa6d98e1d,Open,Initial Interest,Top of Funnel,Shane Lieberman,1/29/2025,1/5/2025,,,15,2026-05-19,10,,5,,,,,
+001Hr000028Zc9g,"City Of Lovejoy, GA",Georgia,Municipality,Hugh Bargeron,11311,,Tier 2,1.0,33.4362,-84.3144,d541f937-4ed8-4dc9-95c4-20fb9831d556,,,,,,,,,4,2026-05-07,3,1,,,,,,
+001Hr000028Zc9p,"City Of Eatonton, GA",Georgia,Municipality,Hugh Bargeron,6436,,Tier 3,0.75,33.3268,-83.3885,ddfe2af7-d936-427d-9093-6935c0d7c9bf,,,,,,,,,6,2026-03-30,6,,,,,,,
+001Hr000028Zc9y,"City Of College Park, GA",Georgia,Municipality,Hugh Bargeron,13889,Nurture,Tier 2,1.0,33.6534,-84.4494,8e741cc3-3d58-432d-aedb-4a80a056eac7,Closed Lost,,,Liam Shaw,5/21/2024,1/5/2025,,,7,2026-04-10,7,,,,,,,
+001Hr000028ZcA3,"City Of Hapeville, GA",Georgia,Municipality,Hugh Bargeron,6538,,Tier 3,0.75,33.6601,-84.4102,35e80b61-cdfb-455d-be18-01fd42eab4bd,,,,,,,,,7,2026-04-17,7,,,,,,,
+001Hr000028ZcAP,"City Of Richmond Hill, GA",Georgia,Municipality,Hugh Bargeron,17556,,Tier 2,1.0,31.9383,-81.3034,30e8b829-b5c4-404a-a6a5-42c6ad5976a2,,,,,,,,,5,2025-12-02,,,5,,,,,
+001Hr000028ZcBI,"City Of Rome, GA",Georgia,Municipality,Hugh Bargeron,37746,Nurture,Tier 1,1.5,34.2565,-85.1687,eb90b9dc-282d-47e3-9c4b-ef776abf99c5,Closed Lost,,,Quinzel Perry,9/9/2024,1/5/2025,"$59,000",,5,2026-04-08,2,3,,,,,,
+001Hr000028ZcBg,"City Of Norcross, GA",Georgia,Municipality,Hugh Bargeron,17642,,Tier 2,1.0,33.9411,-84.2137,dccff11a-fa57-4b33-8162-dd6637612b74,,,,,,,,,1,2025-10-08,,1,,,,,,
+001Hr000028ZcCU,"City Of Buford, GA",Georgia,Municipality,Hugh Bargeron,17683,,Tier 2,1.0,34.1126,-84.0009,14ddadc1-5859-4c40-8d09-3119e00b5d95,,,,,,,,,27,2026-05-22,13,14,,,,,,
+001Hr000028ZcCf,"County Of Pulaski, GA",Georgia,County,Hugh Bargeron,9917,Nurture,Tier 3,0.75,32.2326,-83.4644,2013fe55-0d9b-437a-8871-115f58f2ddc0,,,,,,,,,2,2026-03-18,2,,,,,,,
+001Hr000028ZcCz,"City Of Jefferson, GA",Georgia,Municipality,Hugh Bargeron,13986,,Tier 2,1.0,34.1171,-83.5724,d94fb0cf-8a39-44a4-86d9-38fb4ea14390,,,,,,,,,5,2025-10-30,,5,,,,,,
+001Hr000028ZcD3,"City Of Morrow, GA",Georgia,Municipality,Hugh Bargeron,6553,Nurture,Tier 3,0.75,33.5832,-84.3394,a5d609ff-ce3a-43f0-b237-0502ee81cb98,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,3,2026-05-20,2,1,,,,,,
+001Hr000028ZcDD,"City Of Sandersville, GA",Georgia,Municipality,Hugh Bargeron,5654,Open Opportunity,Tier 3,0.75,32.9815,-82.8101,a078fd74-cefa-4eae-9271-b90dd6204d77,Open,Proposal,Mid Funnel,Hugh Bargeron,4/7/2026,4/2/2026,"$18,500",,8,2026-05-12,2,,6,,,,,
+001Hr000028ZcDb,"City Of Forest Park, GA",Georgia,Municipality,Hugh Bargeron,19798,Open Opportunity,Tier 2,1.0,33.6221,-84.3691,b8375f76-2b93-4260-8a0a-692375c1e305,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,10,2026-05-06,10,,,,,,,
+001Hr000028ZcDg,"City Of Chamblee, GA",Georgia,Municipality,Hugh Bargeron,29781,Open Opportunity,Tier 1,1.5,33.892,-84.2988,9f22c6dc-a6a8-46fd-b152-4b1ace2b34f5,Open,Initial Interest,Top of Funnel,Jenny Allison,1/12/2026,11/19/2025,,,3,2026-01-12,,,3,,,,,
+001Hr000028ZcDh,"City Of Acworth, GA",Georgia,Municipality,Hugh Bargeron,22284,,Tier 2,1.0,34.0659,-84.6769,b9a7b213-aef5-49b3-acae-45f7e2c1a56c,,,,,,,,,10,2026-03-30,10,,,,,,,
+001Hr000028ZcDl,"City Of Swainsboro, GA",Georgia,Municipality,Hugh Bargeron,7438,,Tier 3,0.75,32.5974,-82.3337,d0113435-68e0-4daf-9786-114825f49dbf,,,,,,,,,8,2026-05-21,8,,,,,,,
+001Hr000028ZcDq,"City Of Villa Rica, GA",Georgia,Municipality,Hugh Bargeron,17830,,Tier 2,1.0,33.7321,-84.9191,8ac12f34-dbf1-477f-9f94-46e5c48daba9,,,,,,,,,11,2026-03-26,11,,,,,,,
+001Hr000028ZcDs,"City Of Locust Grove, GA",Georgia,Municipality,Hugh Bargeron,11749,Nurture,Tier 2,1.0,33.346,-84.1091,5001eafe-8ebb-46dd-b642-08f1177f9815,Closed Lost,,,Shane Lieberman,10/17/2025,10/17/2025,"$27,000",,10,2026-05-19,10,,,,,,,
+001Hr000028ZcDv,"City Of Dublin, GA",Georgia,Municipality,Hugh Bargeron,16121,Cold,Tier 2,1.0,32.5404,-82.9038,8d370168-69b1-431a-95b7-aedf5b7c06e6,Closed Lost,,,Shane Lieberman,1/16/2024,1/5/2025,"$34,001",,12,2026-05-22,3,1,8,,,,,
+001Hr000028ZcE0,"City Of Centerville, GA",Georgia,Municipality,Hugh Bargeron,8243,,Tier 3,0.75,32.6301,-83.6896,5c1940e6-0ae1-4052-b714-9047fa671663,,,,,,,,,3,2026-04-13,3,,,,,,,
+001Hr000028ZcE5,"City Of Perry, GA",Georgia,Municipality,Hugh Bargeron,22029,Nurture,Tier 2,1.0,32.4582,-83.7316,71bbc23c-887b-4e2f-8a0e-0bde002803b2,Closed Lost,,,Troy LeCaire,,1/5/2025,,,42,2026-05-22,18,,4,20,,,,
+001Hr000028ZcEd,"City Of Duluth, GA",Georgia,Municipality,Hugh Bargeron,31864,1+ Module Live,Tier 1,1.5,34.0029,-84.1446,6b7ffe99-8f4e-495e-9940-924bd846d2cb,Closed Won,,,Granger West,1/29/2025,1/5/2025,"$35,000",,,,,,,,,,,
+001Hr000028ZcG4,"City Of Commerce, GA",Georgia,Municipality,Hugh Bargeron,7604,Nurture,Tier 3,0.75,34.204,-83.4571,d30ba6af-0048-4652-84c4-15c08d727133,Closed Lost,,,Shane Lieberman,1/3/2024,1/5/2025,,,18,2026-04-13,18,,,,,,,
+001Hr000028ZcGC,"Cusseta-Chattahoochee County, GA",Georgia,Municipality,Hugh Bargeron,9533,,Tier 3,0.75,32.3061,-84.777,719c1e25-2ea3-4538-aa53-c1c3c489b6d5,,,,,,,,,1,2025-10-08,,1,,,,,,
+001Hr000028ZcHH,"City Of Suwanee, GA",Georgia,Municipality,Hugh Bargeron,21918,,Tier 2,1.0,34.0515,-84.0713,a40bde69-c7de-4aa0-bc57-a2d517880339,,,,,,,,,14,2026-05-22,14,,,,,,,
+001Hr000028ZcIo,"City Of Conyers, GA",Georgia,Municipality,Hugh Bargeron,17508,,Tier 2,1.0,33.6676,-84.0177,b634e75a-6c44-4366-a2e7-b6895d3787ac,,,,,,,,,3,2026-04-02,3,,,,,,,
+001Hr000028ZcJ1,"City Of Fairburn, GA",Georgia,Municipality,Hugh Bargeron,16597,Open Opportunity,Tier 2,1.0,33.5671,-84.581,25c551f3-4f1e-4fdc-9569-72c49df56ce8,Open,Initial Interest,Top of Funnel,Hugh Bargeron,3/26/2026,3/24/2026,,,3,2026-03-31,3,,,,,,,
+001Hr000028ZcLl,"City Of Tucker, GA",Georgia,Municipality,Hugh Bargeron,36855,,Tier 1,1.5,33.8545,-84.2171,a656c33d-738c-4bda-a630-a284b35ac868,,,,,,,,,7,2026-05-13,7,,,,,,,
+001Hr000028ZcMF,"City Of Union City, GA",Georgia,Municipality,Hugh Bargeron,27359,Nurture,Tier 1,1.5,33.5871,-84.5424,bcee0d08-daba-4697-a530-fba07f770b2a,Closed Lost,,,Shane Lieberman,1/11/2024,1/5/2025,,,15,2026-05-06,15,,,,,,,
+001Hr000028ZcMZ,"City Of Garden City, GA",Georgia,Municipality,Hugh Bargeron,10306,All Modules Live,Tier 2,1.0,32.1144,-81.154,c712d7b9-aba1-445c-8048-0a9c6445c465,Closed Won,,,,1/31/2025,1/31/2025,"$21,000",,,,,,,,,,,
+001Hr000028ZcMa,"City Of Port Wentworth, GA",Georgia,Municipality,Hugh Bargeron,11746,Nurture,Tier 2,1.0,32.1491,-81.1632,b97d3f37-eeb5-4b37-84f6-5e8517d8441c,Closed Lost,,,Quinzel Perry,,3/27/2025,,,21,2026-05-22,16,5,,,,,,
+001Hr000028ZcMo,"City Of Griffin, GA",Georgia,Municipality,Hugh Bargeron,23643,,Tier 2,1.0,33.2468,-84.2641,1a10876d-8ff8-4924-b35b-7994dba14efc,,,,,,,,,3,2026-04-14,2,1,,,,,,
+001Hr000028ZcN4,"City Of La Fayette, GA",Georgia,Municipality,Hugh Bargeron,6968,,Tier 3,0.75,34.7048,-85.2819,50ebaa89-6cde-4f12-b27c-15c70619a4b2,,,,,,,,,13,2026-05-21,13,,,,,,,
+001Hr000028ZcNH,"City Of Fayetteville, GA",Georgia,Municipality,Hugh Bargeron,19284,,Tier 2,1.0,33.4486,-84.455,3a0fa100-5b38-4386-8cdb-e3bea678ab93,,,,,,,,,6,2026-03-20,6,,,,,,,
+001Hr000028ZcNM,"City Of Milton, GA",Georgia,Municipality,Hugh Bargeron,41259,Nurture,Tier 1,1.5,34.0892,-84.3429,ced91c3e-6e74-40ff-a6fd-5a6dc5938e35,Closed Lost,,,Troy LeCaire,,1/5/2025,,,5,2026-04-13,4,1,,,,,,
+001Hr000028ZcNR,"City Of Mcdonough, GA",Georgia,Municipality,Hugh Bargeron,30356,,Tier 1,1.5,33.4472,-84.1424,a1381393-dc94-4c44-9eac-0db36225468a,,,,,,,,,28,2026-05-22,28,,,,,,,
+001Hr000028ZcNe,"City Of Statesboro, GA",Georgia,Municipality,Hugh Bargeron,33399,,Tier 1,1.5,32.4488,-81.7832,01137cd0-73ad-4509-b394-9acf6711c81f,,,,,,,,,4,2026-04-10,4,,,,,,,
+001Hr000028ZcNg,"City Of Calhoun, GA",Georgia,Municipality,Hugh Bargeron,17318,,Tier 2,1.0,34.5026,-84.9511,6d968c2a-be43-4432-9883-9bff24992ecb,,,,,,,,,2,2025-10-08,,2,,,,,,
+001Hr000028ZcNl,"City Of Dahlonega, GA",Georgia,Municipality,Hugh Bargeron,6654,Open Opportunity,Tier 3,0.75,34.5261,-83.9844,37bf34eb-d626-4d73-a574-e7114fd9b5c4,Open,Initial Interest,Top of Funnel,Hugh Bargeron,4/27/2026,4/7/2026,,,12,2026-04-07,12,,,,,,,
+001Hr000028ZcNq,"City Of Lagrange, GA",Georgia,Municipality,Hugh Bargeron,31551,,Tier 1,1.5,33.0362,-85.0322,dbc31ca4-231e-4e83-8342-d401428b714e,,,,,,,,,5,2026-04-15,4,1,,,,,,
+001Hr000028ZcNv,"City Of Waynesboro, GA",Georgia,Municipality,Hugh Bargeron,5688,Nurture,Tier 3,0.75,33.0899,-82.0157,ce227f69-52af-433a-9470-e70e8031f723,Closed Lost,,,Quinzel Perry,8/20/2024,1/5/2025,,,18,2026-05-18,18,,,,,,,
+001Hr000028ZcO8,"City Of Kennesaw, GA",Georgia,Municipality,Hugh Bargeron,33049,,Tier 1,1.5,34.0234,-84.6155,0cfc6446-d61e-4664-a615-97acd217bf3c,,,,,,,,,5,2026-04-07,4,1,,,,,,
+001Hr000028ZcOb,"City Of Carrollton, GA",Georgia,Municipality,Hugh Bargeron,27493,,Tier 1,1.5,33.5801,-85.0766,05e170ae-dcd8-4ef6-a34a-c1bd038faa33,,,,,,,,,6,2026-04-02,6,,,,,,,
+001Hr000028ZcOc,"Town Of Rincon, GA",Georgia,Municipality,Hugh Bargeron,11016,Open Opportunity,Tier 2,1.0,32.2948,-81.2354,eade05d6-1764-4e0e-adea-a735121ae9a5,Open,Demo,Mid Funnel,Hugh Bargeron,4/20/2026,4/13/2026,,,12,2026-04-20,12,,,,,,,
+001Hr000028ZcP9,"City Of Powder Springs, GA",Georgia,Municipality,Hugh Bargeron,17083,,Tier 2,1.0,33.8595,-84.6838,4c0ffff6-3595-4a01-af42-85bf604a8e94,,,,,,,,,20,2026-05-06,20,,,,,,,
+001Hr000028ZcPU,"City Of Pooler, GA",Georgia,Municipality,Hugh Bargeron,26930,,Tier 1,1.5,32.1155,-81.2471,ec3bfe53-39d9-41da-8e77-cfa4ac0dd51e,,,,,,,,,11,2026-05-26,7,,4,,,,,
+001Hr000028ZcPb,"City Of Cordele, GA",Georgia,Municipality,Hugh Bargeron,10044,,Tier 2,1.0,31.9635,-83.7824,a19f2f30-6e60-43b6-8acf-97522c1125e8,,,,,,,,,5,2026-05-06,5,,,,,,,
+001Hr000028ZcPt,"City Of Barnesville, GA",Georgia,Municipality,Hugh Bargeron,6389,Nurture,Tier 3,0.75,33.0546,-84.1557,39b9eeaa-7568-40ef-90c1-8c6984630aa5,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,2,2025-10-08,,2,,,,,,
+001Hr000028ZcPx,"City Of Austell, GA",Georgia,Municipality,Hugh Bargeron,7797,,Tier 3,0.75,33.8126,-84.6344,fc3f3d95-22cb-4ce1-9a3e-47a45e7056c7,,,,,,,,,15,2026-04-02,15,,,,,,,
+001Hr000028ZcQ7,"City Of Cedartown, GA",Georgia,Municipality,Hugh Bargeron,10270,,Tier 2,1.0,34.0113,-85.2566,d48b54ca-b16d-44f5-918d-52ba760a91f1,,,,,,,,,10,2026-05-22,6,4,,,,,,
+001Hr000028ZcRJ,"City Of Covington, GA",Georgia,Municipality,Hugh Bargeron,14391,,Tier 2,1.0,33.5968,-83.8602,32f22e76-c5fd-4d8c-95f8-013459776354,,,,,,,,,8,2026-04-02,4,4,,,,,,
+001Hr000028ZcRO,"City Of Peachtree, GA",Georgia,Municipality,Hugh Bargeron,38818,Nurture,Tier 1,1.5,33.4014,-84.5817,1e468aa5-757c-4e47-86ed-5a86268bb03c,Closed Lost,,,,,1/23/2025,,,4,2026-01-22,,2,,,2,,,
+001Hr000028ZcRT,"City Of Winder, GA",Georgia,Municipality,Hugh Bargeron,18825,,Tier 2,1.0,33.9926,-83.7202,2cec827f-144c-46ea-b807-6ac7e07b531a,,,,,,,,,3,2026-04-09,3,,,,,,,
+001Hr000028ZcRY,"City Of Cartersville, GA",Georgia,Municipality,Hugh Bargeron,23222,,Tier 2,1.0,34.1651,-84.7999,69a1cdb3-d821-406e-acde-9fd09bfcd631,,,,,,,,,2,2025-10-08,,2,,,,,,
+001Hr000028ZcRd,"City Of Newnan, GA",Georgia,Municipality,Hugh Bargeron,43298,Open Opportunity,Tier 1,1.5,33.3807,-84.7997,5664eff4-9072-4e14-8861-2272faaade10,Open,Initial Interest,Top of Funnel,Quinzel Perry,11/5/2025,10/29/2025,,,13,2026-05-11,4,6,3,,,,,
+001Hr000028ZcRi,"City Of Doraville, GA",Georgia,Municipality,Hugh Bargeron,10889,Open Opportunity,Tier 2,1.0,33.8982,-84.2833,aa85817f-36c8-4c83-8466-ded8d71586c2,Open,Initial Interest,Top of Funnel,Nick Martino,,11/26/2025,,,25,2026-04-13,10,,,,,15,,
+001Hr000028ZcRn,"City Of Stone Mountain, GA",Georgia,Municipality,Hugh Bargeron,6614,Open Opportunity,Tier 3,0.75,33.8082,-84.1702,df292976-3dfc-4edb-b5b4-c94561aa2aaf,Open,Initial Interest,Top of Funnel,Hugh Bargeron,3/23/2026,3/20/2026,,,5,2026-04-30,5,,,,,,,
+001Hr000028ZcRs,"City Of Cumming, GA",Georgia,Municipality,Hugh Bargeron,7235,,Tier 3,0.75,34.2073,-84.1402,e065e426-d258-4351-a7c2-af44126214f5,,,,,,,,,13,2026-04-13,6,7,,,,,,
+001Hr000028ZcRx,"City Of Canton, GA",Georgia,Municipality,Hugh Bargeron,34576,Open Opportunity,Tier 1,1.5,34.2368,-84.4908,cb47935e-db90-4ef1-ba9b-a7cb2e11c9b5,Open,Initial Interest,Top of Funnel,Shane Lieberman,1/9/2024,1/5/2025,,,31,2026-05-22,9,,,,22,,,
+001Hr000028ZcS2,"City Of Riverdale, GA",Georgia,Municipality,Hugh Bargeron,14912,,Tier 2,1.0,33.5726,-84.4133,8e2ef8c9-ab33-404c-b009-ef931591e634,,,,,,,,,5,2026-03-30,5,,,,,,,
+001Hr000028ZcS7,"City Of Dacula, GA",Georgia,Municipality,Hugh Bargeron,7008,,Tier 3,0.75,33.9887,-83.898,879be106-b7ab-4f1e-a8f2-efcb2df9f36d,,,,,,,,,4,2026-03-30,4,,,,,,,
+001Hr000028ZcSN,"City Of Waycross, GA",Georgia,Municipality,Hugh Bargeron,13759,,Tier 2,1.0,31.2136,-82.354,4145ce30-00aa-4a81-9613-9c88b7d4d8f8,,,,,,,,,16,2026-04-13,16,,,,,,,
+001Hr000028ZcUA,Whitfield County,Georgia,County,Hugh Bargeron,102848,,Tier S,2.0,34.8034,-84.9818,663542a7-89e3-4f64-9558-eaac0b87c370,,,,,,,,,10,2026-05-06,10,,,,,,,
+001Hr000028ZcVD,"City Of Kingsland, GA",Georgia,Municipality,Hugh Bargeron,19075,All Modules Live,Tier 2,1.0,30.8,-81.6898,1b9ffea7-f9e6-418c-9181-2b805cb7c8f2,Closed Won,,,Asher Rosenfeld,,1/5/2025,"$20,000",,,,,,,,,,,
+001Hr000028ZcXh,"City Of Vidalia, GA",Georgia,Municipality,Hugh Bargeron,10710,Nurture,Tier 2,1.0,32.2177,-82.4135,ba91bdad-fb92-40f3-b0d1-921a0e77ad79,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,2,2026-03-18,2,,,,,,,
+001Hr000028ZcXj,"Richmond County, GA",Georgia,County,Hugh Bargeron,206303,,Tier S,2.0,33.3205,-82.0843,dbbc7e84-4e6b-43c1-94ee-7123eff376c2,,,,,,,,,12,2026-04-13,2,10,,,,,,
+001Hr000028ZcXv,"City Of Douglas, GA",Georgia,Municipality,Hugh Bargeron,11727,,Tier 2,1.0,31.5088,-82.8499,ef59a095-3ff7-4ca1-bd63-f83c9a5d6cba,,,,,,,,,9,2026-05-20,3,,3,,3,,,
+001Hr000028ZcY0,"City Of Jesup, GA",Georgia,Municipality,Hugh Bargeron,9899,Nurture,Tier 3,0.75,31.6074,-81.8854,56124b26-6235-4c77-85fc-c9f658355aed,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,15,2026-05-20,15,,,,,,,
+001Hr000028ZcYJ,"Paulding County, GA",Georgia,County,Hugh Bargeron,188549,,Tier S,2.0,33.9142,-84.8985,251ad883-1d3c-48ad-a37e-09f6b727f1e6,,,,,,,,,32,2026-04-20,10,22,,,,,,
+001Hr000028ZcjK,"City Of Auburn, GA",Georgia,Municipality,Hugh Bargeron,8094,,Tier 3,0.75,34.0137,-83.8277,0f50c7f0-e2c6-4c37-af19-a58c1639409b,,,,,,,,,2,2026-05-07,2,,,,,,,
+001Hr000028Zcl9,"County Of Mcduffie, GA",Georgia,County,Hugh Bargeron,21633,,Tier 2,1.0,33.5259,-82.5186,fdd7699a-ddfd-4940-a088-412c1d7eaefd,,,,,,,,,6,2026-04-13,5,1,,,,,,
+001Hr000028Zcmd,"Jackson County, GA",Georgia,County,Hugh Bargeron,93825,,Tier S,2.0,34.1175,-83.5497,01a57288-6146-4458-bc40-a5552816cb8f,,,,,,,,,10,2026-04-14,1,9,,,,,,
+001Hr000028Zcnn,"Henry County, GA",Georgia,County,Hugh Bargeron,259315,,Tier S,2.0,33.4348,-84.1435,5c1f18c2-9763-4d95-a187-b278b5e9cab4,,,,,,,,,19,2026-04-29,8,11,,,,,,
+001Hr000028Zd8W,"County Of Jones, GA",Georgia,County,Hugh Bargeron,28400,Open Opportunity,Tier 1,1.5,33.0003,-83.507,2666ae46-207e-47b6-bf58-694b41809eb6,Open,Initial Interest,Top of Funnel,Alicia Gopal,,1/8/2026,,Yes,3,2026-04-16,,,,,3,,,
+001Hr000028Zd93,"Floyd County, GA",Georgia,County,Hugh Bargeron,101390,,Tier S,2.0,34.2829,-85.2308,cc89bee4-3c53-4ba5-8022-cd91ed352324,,,,,,,,,2,2026-04-13,1,1,,,,,,
+001Hr000028ZdC9,"Polk County, GA",Georgia,County,Hugh Bargeron,44610,,Tier 1,1.5,34.0132,-85.1479,a3ee76be-eed7-4a89-ba73-d771ed9e09f8,,,,,,,,,18,2026-05-19,18,,,,,,,
+001Hr000028ZdG9,"Walton County, GA",Georgia,County,Hugh Bargeron,109792,,Tier S,2.0,33.7709,-83.7199,0962903b-d081-4749-b9e4-9f6bf76efad8,,,,,,,,,9,2026-03-30,4,5,,,,,,
+001Hr000028ZdJZ,"Upson County, GA",Georgia,County,Hugh Bargeron,28358,,Tier 1,1.5,32.9048,-84.3121,380422b1-b7ce-4b8e-a3bb-ee2a77c4e872,,,,,,,,,2,2026-04-23,1,1,,,,,,
+001Hr000028ZdK3,"Bryan County, GA",Georgia,County,Hugh Bargeron,49739,Nurture,Tier 1,1.5,32.0237,-81.4718,d8e76e04-ba7e-4770-b03b-7090e5a662dd,Closed Lost,,,Liam Shaw,5/16/2024,1/5/2025,,,3,2025-11-12,,,3,,,,,
+001Hr000028ZdME,"Houston County, GA",Georgia,County,Hugh Bargeron,174897,,Tier S,2.0,32.422,-83.6348,c49560b8-5137-45a8-ad10-f8b1ad154d12,,,,,,,,,3,2026-05-20,1,2,,,,,,
+001Hr000028ZdOn,"Gilmer County, GA",Georgia,County,Hugh Bargeron,33327,,Tier 1,1.5,34.6935,-84.4803,47c3836e-8873-447a-8381-b0eba6b74e43,,,,,,,,,3,2026-04-13,1,2,,,,,,
+001Hr000028ZdRi,"Spalding County, GA",Georgia,County,Hugh Bargeron,70292,,Tier S,2.0,33.2637,-84.3121,76e01960-0f17-4b68-87cf-551b8393f342,,,,,,,,,1,2026-03-20,1,,,,,,,
+001Hr000028ZdUl,"Oconee County, GA",Georgia,County,Hugh Bargeron,44751,,Tier 1,1.5,33.8232,-83.443,6d8444a3-3be4-4138-b191-a1bc7542fc91,,,,,,,,,21,2026-05-21,21,,,,,,,
+001Hr000028ZdZH,"County Of Bulloch, GA",Georgia,County,Hugh Bargeron,82442,Open Opportunity,Tier S,2.0,32.3596,-81.7787,9a7033f9-cede-421a-ba0c-95eef53ebdb1,Open,Initial Interest,Top of Funnel,Granger West,5/29/2025,5/12/2025,,,71,2026-05-19,10,61,,,,,,
+001Hr000028ZdaG,"Columbia County, GA",Georgia,County,Hugh Bargeron,167472,,Tier S,2.0,33.5099,-82.2583,19349a29-ae42-4b07-b972-26c3f5df06d3,,,,,,,,,12,2026-05-06,10,2,,,,,,
+001Hr000028ZdaJ,"City Of Stonecrest, GA",Georgia,Municipality,Hugh Bargeron,59863,Open Opportunity,Tier S,2.0,33.7041,-84.1307,a3153836-e1c0-4311-9da9-dd9384e9d3a8,Open,Sales Qualified,Mid Funnel,Hugh Bargeron,4/8/2026,3/26/2026,,,20,2026-05-06,20,,,,,,,
+001Hr000028ZdaY,"City Of Warner Robins, GA",Georgia,Municipality,Hugh Bargeron,81446,,Tier S,2.0,32.613,-83.6242,23b0f4e7-88d5-4dd3-89dc-6644e0b3bb2c,,,,,,,,,1,2026-03-20,1,,,,,,,
+001Hr000028Zdbp,"City Of Alpharetta, GA",Georgia,Municipality,Hugh Bargeron,66127,Nurture,Tier S,2.0,34.0746,-84.2923,7245d06c-a0ce-4aed-897a-eb15d5804e10,Closed Lost,,,Quinzel Perry,3/21/2025,3/20/2025,,,17,2026-04-08,17,,,,,,,
+001Hr000028Zdbv,"Worth County, GA",Georgia,County,Hugh Bargeron,20273,Open Opportunity,Tier 2,1.0,31.5282,-83.8897,ef735cf4-26de-4395-a944-4cb5830e58b2,Open,Proposal,Mid Funnel,Hugh Bargeron,5/4/2026,5/1/2026,"$6,000",Yes,16,2026-05-22,12,,4,,,,,
+001Hr000028ZdcP,"City Of Valdosta, GA",Georgia,Municipality,Hugh Bargeron,55567,,Tier S,2.0,30.8329,-83.2772,88e12bab-e759-4f7d-8476-291d93bda9dc,,,,,,,,,12,2026-05-06,12,,,,,,,
+001Hr000028Zdcs,"City Of Albany, GA",Georgia,Municipality,Hugh Bargeron,69048,,Tier S,2.0,31.5785,-84.1514,6473757f-9143-4ec4-8a9c-6402851b6674,,,,,,,,,17,2026-05-14,17,,,,,,,
+001Hr000028ZddC,"Lee County, GA",Georgia,County,Hugh Bargeron,34073,,Tier 1,1.5,31.8128,-84.1435,2254eae1-2a2b-4ddd-bfb7-251e6de4cc99,,,,,,,,,23,2026-04-10,1,22,,,,,,
+001Hr000028ZddD,"Fayette County, GA",Georgia,County,Hugh Bargeron,125107,,Tier S,2.0,33.4502,-84.4803,2e6e7008-b573-4562-a5d6-1748a5879966,,,,,,,,,14,2026-04-21,7,7,,,,,,
+001Hr000028ZdeE,"Marietta, GA",Georgia,Municipality,Hugh Bargeron,63122,Open Opportunity,Tier S,2.0,33.9533,-84.5499,d8ff3faf-c8d4-435b-829d-ed94ab5ecbd8,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,1,2025-07-16,,1,,,,,,
+001Hr000028Zdee,"City Of Johns Creek, GA",Georgia,Municipality,Hugh Bargeron,82065,,Tier S,2.0,34.0289,-84.1986,b09ba118-d441-4dec-8248-ebfe2a9c8cb7,,,,,,,,,2,2026-03-19,2,,,,,,,
+001Hr000028Zdel,"Hall County, GA",Georgia,County,Hugh Bargeron,221745,,Tier S,2.0,34.3078,-83.8049,b95f0dfd-626b-4eec-bbc3-efa0c4a305e4,,,,,,,,,2,2025-10-02,,2,,,,,,
+001Hr000028Zdey,"City Of Smyrna, GA",Georgia,Municipality,Hugh Bargeron,55685,Open Opportunity,Tier S,2.0,33.884,-84.5144,df3e8821-1a10-45a5-b811-b41e0d3a23d4,Open,Demo,Mid Funnel,Hugh Bargeron,3/26/2026,3/23/2026,,Yes,3,2026-03-23,3,,,,,,,
+001Hr000028Zdez,"Newton County, GA",Georgia,County,Hugh Bargeron,124010,,Tier S,2.0,33.5544,-83.8473,7b579a59-8c16-4199-adc4-8d12ab14fd5d,,,,,,,,,13,2026-04-13,4,9,,,,,,
+001Hr000028ZdfM,"City Of Brookhaven, GA",Georgia,Municipality,Hugh Bargeron,55366,Open Opportunity,Tier S,2.0,33.865,-84.3371,586a52ba-2e54-4918-b334-f83708dfa943,Open,Initial Interest,Top of Funnel,Jason Ginsberg,3/26/2026,3/24/2026,,,2,2026-03-19,2,,,,,,,
+001Hr000028ZdfO,"Coweta County, GA",Georgia,County,Hugh Bargeron,158223,,Tier S,2.0,33.3717,-84.7316,b39131ea-75e6-471d-979b-b1faeb9b8292,,,,,,,,,14,2026-03-20,2,12,,,,,,
+001Hr000028Zdfc,"City Of Roswell, GA",Georgia,Municipality,Hugh Bargeron,92530,Recent Competitor Purchase,Tier S,2.0,34.0232,-84.3616,6e4e9016-c67a-405b-bc56-353a40f24866,,,,,,,,,15,2026-05-12,14,1,,,,,,
+001Hr000028ZdhZ,"White County, GA",Georgia,County,Hugh Bargeron,29668,,Tier 1,1.5,34.6568,-83.7199,06eadbe2-2c15-4bcc-88ee-af4f98f8101e,,,,,,,,,10,2026-04-29,9,1,,,,,,
+001Hr000028Zdhx,"Effingham County, GA",Georgia,County,Hugh Bargeron,73148,,Tier S,2.0,32.3781,-81.3839,30d51ca3-ac09-4fe1-b86f-6f958eba56b6,,,,,,,,,14,2026-04-14,11,3,,,,,,
+001Hr000028Zdig,"Rockdale County, GA",Georgia,County,Hugh Bargeron,95987,Nurture,Tier S,2.0,33.6752,-84.0379,64fd4a10-1bb8-494d-b2b7-22c87cafba80,Closed Lost,,,Quinzel Perry,9/5/2025,8/15/2025,,,16,2026-04-17,5,11,,,,,,
+001Hr000028ZdjC,"Habersham County, GA",Georgia,County,Hugh Bargeron,49665,,Tier 1,1.5,34.6479,-83.5497,4712ac8f-126c-408b-bb9a-a6e5046a3620,,,,,,,,,12,2026-04-22,6,6,,,,,,
+001Hr000028ZdjU,"County Of Catoosa, GA",Georgia,County,Hugh Bargeron,68397,Open Opportunity,Tier S,2.0,34.8982,-85.1479,6828d8cf-18d7-4cb0-b65a-e011c52a875d,Open,Initial Interest,Top of Funnel,Quinzel Perry,,5/1/2025,,,7,2026-04-29,6,1,,,,,,
+001Hr000028Zdja,"Camden County, GA",Georgia,County,Hugh Bargeron,58118,All Modules Live,Tier S,2.0,30.8983,-81.6035,d2bd076f-5be7-49e5-a60c-28fd5a605863,Closed Won,,,Shane Lieberman,10/21/2024,1/5/2025,"$27,000",,,,,,,,,,,
+001Hr000028Zdkm,"Tift County, GA",Georgia,County,Hugh Bargeron,41708,,Tier 1,1.5,31.4206,-83.5497,6eaafc5c-77dd-41a7-978e-e3191fe67e41,,,,,,,,,1,2026-03-27,1,,,,,,,
+001Hr000028Zdnh,"Carroll County, GA",Georgia,County,Hugh Bargeron,129911,,Tier S,2.0,33.5642,-85.0649,ba482e49-1e74-471b-8d67-c55b87e704f2,,,,,,,,,4,2026-04-13,4,,,,,,,
+001Hr000028Zdnl,"Walker County, GA",Georgia,County,Hugh Bargeron,69340,,Tier S,2.0,34.6858,-85.355,178bf7fe-94ba-42ed-8035-3ce99c567a04,,,,,,,,,1,2026-04-15,1,,,,,,,
+001Hr000028ZdoE,"Harris County, GA",Georgia,County,Hugh Bargeron,36929,,Tier 1,1.5,32.7033,-84.8568,f83b5a21-c3fd-4aee-9f2e-47001d5ec0d2,,,,,,,,,11,2026-04-09,1,10,,,,,,
+001Hr000028ZdoZ,"Clarke County, GA",Georgia,County,Hugh Bargeron,129995,,Tier S,2.0,33.9519,-83.3576,e3e51765-d51c-46a0-a492-8c91ad185970,,,,,,,,,16,2026-05-22,13,3,,,,,,
+001Hr000028Zdoj,"Lowndes County, GA",Georgia,County,Hugh Bargeron,122082,Nurture,Tier S,2.0,30.86,-83.2934,5c7f5b91-16e0-44ad-a862-98576fd736dd,Closed Lost,,,Granger West,,5/12/2025,,,15,2026-04-16,6,9,,,,,,
+001Hr000028Zdp2,"Barrow County, GA",Georgia,County,Hugh Bargeron,96294,,Tier S,2.0,34.0143,-83.6987,47fc8bac-102e-4200-82d5-38a8d2547963,,,,,,,,,13,2026-05-26,12,1,,,,,,
+001Hr000028ZdpI,"Bartow County, GA",Georgia,County,Hugh Bargeron,117508,,Tier S,2.0,34.266,-84.8151,c551848d-3714-467b-8f91-30b88762b5ca,,,,,,,,,7,2026-03-30,7,,,,,,,
+001Hr000028Zdpv,"Muscogee County, GA",Georgia,County,Hugh Bargeron,201830,,Tier S,2.0,32.4794,-84.8985,,,,,,,,,,11,2025-11-03,,11,,,,,,
+001Hr000028ZdqK,"Douglas County, GA",Georgia,County,Hugh Bargeron,149160,,Tier S,2.0,33.729,-84.7316,3031ce79-c319-45a7-95ee-b6e36a020b4f,,,,,,,,,40,2026-05-26,18,22,,,,,,
+001Hr000028Zdqe,"Bibb County, GA",Georgia,County,Hugh Bargeron,157056,,Tier S,2.0,32.7866,-83.7199,6105545c-ed1b-40b1-bebd-84bdb87e2527,,,,,,,,,3,2025-11-03,,3,,,,,,
+001Hr000028Zdra,"Madison, GA",Georgia,Municipality,Hugh Bargeron,5136,,Tier 3,0.75,34.099,-83.2078,ab6c53e1-ef51-404b-aa36-d9152399f0a7,,,,,,,,,1,2025-10-02,,1,,,,,,
+001Hr000028ZjDr,"Forsyth County, GA",Georgia,County,Hugh Bargeron,272887,Nurture,Tier S,2.0,34.2358,-84.1435,b9977bd4-6fce-46d5-9b1f-770f7dd5e532,Closed Lost,,,Liam Shaw,5/15/2024,1/5/2025,,,3,2026-04-13,1,2,,,,,,
+001Hr000028aCFJ,"City Of Adairsville, GA",Georgia,Municipality,Hugh Bargeron,4979,Cold,Tier 3,0.75,34.3687,-84.9341,25caae6a-1bb2-470c-a85b-6d0bd1cee439,,,,,,,,,1,2026-04-10,1,,,,,,,
+001cv000006fVFj,"City Of Berkeley Lake, GA",Georgia,Municipality,Hugh Bargeron,2051,,Tier 3,0.75,33.9857,-84.1893,ca579deb-f8e3-45ba-99b2-7706bdb880ca,,,,,,,,,5,2026-05-19,5,,,,,,,
+001cv000007yGyr,"City Of Hogansville, GA",Georgia,Municipality,Hugh Bargeron,3209,Open Opportunity,Tier 3,0.75,33.173,-84.9148,3884f798-e49c-4056-bb47-633bc4160b87,Open,Initial Interest,Top of Funnel,Joe del Rosario,3/14/2025,3/10/2025,,,4,2026-04-14,2,,,2,,,,
+001cv000007yt4C,"Early County, GA",Georgia,County,Hugh Bargeron,10444,,Tier 2,1.0,31.3901,-84.8985,927cca8c-fc5c-4f60-a103-b8f238b87951,,,,,,,,,3,2026-05-26,2,1,,,,,,
+001cv000008gqtk,"City Of Tybee Island, GA",Georgia,Municipality,Hugh Bargeron,3091,Nurture,Tier 3,0.75,32.0002,-80.8457,c4758f45-fa1d-4094-b7ec-962cf3cab92a,Closed Lost,,,Quinzel Perry,4/4/2025,3/28/2025,,,,,,,,,,,,
+001cv000008hUg0,"City Of Bloomingdale, GA",Georgia,Municipality,Hugh Bargeron,2860,Open Opportunity,Tier 3,0.75,32.1324,-81.299,fa0c26a5-94b8-49d5-aeee-d6a4465fb25c,,,,,,,,,,,,,,,,,,
+001cv00000AoaAj,"City of Darian, GA",Georgia,Municipality,Hugh Bargeron,1678,Open Opportunity,Tier 3,0.75,31.3702,-81.434,a1d12883-efc6-46fe-a1b2-c3da25757bb9,Open,Initial Interest,Top of Funnel,Granger West,,5/12/2025,,,10,2026-05-12,10,,,,,,,
+001cv00000Aopfv,"City of Savannah, GA",Georgia,Municipality,Hugh Bargeron,147748,Nurture,Tier S,2.0,32.0809,-81.0912,7d9d2f71-3a10-4c4a-83df-c822d9e14c3e,,,,,,,,,3,2026-03-31,3,,,,,,,
+001cv00000AozSR,"Lamar County, GA",Georgia,County,Hugh Bargeron,20401,Open Opportunity,Tier 2,1.0,33.0766,-84.1435,6c71ad2b-0cba-450a-af4f-6d718c6bd2b5,Open,Initial Interest,Top of Funnel,Granger West,,5/12/2025,,,7,2026-05-19,7,,,,,,,
+001cv00000AuVkq,"County Of Troup, GA",Georgia,County,Hugh Bargeron,69720,,Tier S,2.0,33.0699,-85.0233,86257714-79e2-489d-a31a-3ff0268151e0,,,,,,,,,3,2026-04-09,1,2,,,,,,
+001cv00000AuWPF,"Town Of Sparks, GA",Georgia,Municipality,Hugh Bargeron,2030,,Tier 3,0.75,31.167,-83.4374,df597ae0-1203-4f91-b5a3-c57ed6edadb2,,,,,,,,,1,2025-08-07,,1,,,,,,
+001cv00000AuWPg,"City Of Clayton, GA",Georgia,Municipality,Hugh Bargeron,2035,,Tier 3,0.75,34.8781,-83.401,4c3255ab-7734-44f8-9314-70fbfeddd066,,,,,,,,,,,,,,,,,,
+001cv00000AuWcr,"City Of Lavonia, GA",Georgia,Municipality,Hugh Bargeron,2157,,Tier 3,0.75,34.4359,-83.1068,e5615aad-5322-462a-a3ae-b453ef3608fc,,,,,,,,,,,,,,,,,,
+001cv00000AuWdW,"City Of Bowdon, GA",Georgia,Municipality,Hugh Bargeron,2168,,Tier 3,0.75,33.5379,-85.2533,fcb6cf3b-87ba-4c83-9cbf-eed6ea29c587,,,,,,,,,,,,,,,,,,
+001cv00000AuWpJ,"City Of Varnell, GA",Georgia,Municipality,Hugh Bargeron,2179,,Tier 3,0.75,34.9012,-84.9738,fd9d7ca6-214c-4dd4-835f-9f83135a4e7c,,,,,,,,,,,,,,,,,,
+001cv00000AuWpL,"City Of Wrens, GA",Georgia,Municipality,Hugh Bargeron,2180,,Tier 3,0.75,33.2076,-82.3918,c628dd3a-b202-4bb4-a15b-2ce29a9e4adb,,,,,,,,,,,,,,,,,,
+001cv00000AuWpz,"City Of Midway, GA",Georgia,Municipality,Hugh Bargeron,2190,,Tier 3,0.75,31.8054,-81.4307,437dbc88-5376-40bf-a9fb-b8dd24c5f47a,,,,,,,,,2,2026-05-11,2,,,,,,,
+001cv00000AuWqY,"City Of Trenton, GA",Georgia,Municipality,Hugh Bargeron,2201,,Tier 3,0.75,34.872,-85.5091,81b7b4f4-5684-4833-9491-6e21f214d17b,,,,,,,,,,,,,,,,,,
+001cv00000AuWvM,"Unified Government Of Georgetown And Quitman County, GA",Georgia,Municipality,Hugh Bargeron,2243,,Tier 3,0.75,31.8486,-84.9818,6df0ef4c-c4e4-4232-bf18-cf89368cfe11,,,,,,,,,,,,,,,,,,
+001cv00000AuX6n,"City Of Oxford, GA",Georgia,Municipality,Hugh Bargeron,2275,,Tier 3,0.75,33.619,-83.8674,d6e59d91-0d8e-4216-95e5-f2026e5365f0,,,,,,,,,3,2026-05-13,3,,,,,,,
+001cv00000AuX8o,"City Of Homerville, GA",Georgia,Municipality,Hugh Bargeron,2317,,Tier 3,0.75,31.0366,-82.7471,a02a07a7-9e45-481d-90b7-5b4d31c1074f,,,,,,,,,,,,,,,,,,
+001cv00000AuXAZ,"City Of Louisville, GA",Georgia,Municipality,Hugh Bargeron,2361,,Tier 3,0.75,33.0015,-82.4112,c91ed7b6-fa31-4b10-8760-f82c32df049e,,,,,,,,,,,,,,,,,,
+001cv00000AuXAp,"Unified Government Of Webster County, GA",Georgia,Municipality,Hugh Bargeron,2367,,Tier 3,0.75,32.013,-84.5641,066c8f8c-f022-49f0-97d4-5d16d2207996,,,,,,,,,,,,,,,,,,
+001cv00000AuXO2,"City Of East Dublin, GA",Georgia,Municipality,Hugh Bargeron,2479,,Tier 3,0.75,32.5482,-82.8718,02dfd6c2-cda9-4d1f-b6cb-188aaa9548c0,,,,,,,,,,,,,,,,,,
+001cv00000AuXTe,"Town Of Thunderbolt, GA",Georgia,Municipality,Hugh Bargeron,2533,,Tier 3,0.75,32.0335,-81.0498,3976ccfa-ee2c-4138-9c99-c671e429aa09,,,,,,,,,5,2026-04-10,5,,,,,,,
+001cv00000AuXUP,"City Of Guyton, GA",Georgia,Municipality,Hugh Bargeron,2557,,Tier 3,0.75,32.3422,-81.3922,42887741-bc9c-47a7-bd6e-f40f50ec4033,,,,,,,,,2,2026-05-06,2,,,,,,,
+001cv00000AuXVL,"City Of Claxton, GA",Georgia,Municipality,Hugh Bargeron,2580,,Tier 3,0.75,32.1613,-81.904,a775fe36-5c01-44bf-928c-ef30a34d8801,,,,,,,,,,,,,,,,,,
+001cv00000AuXY7,"City Of Ball Ground, GA",Georgia,Municipality,Hugh Bargeron,2687,Open Opportunity,Tier 3,0.75,34.3373,-84.378,964310c2-f7db-424a-84b6-a99641306145,Open,Demo,Mid Funnel,Hugh Bargeron,4/28/2026,4/20/2026,,,6,2026-04-20,6,,,,,,,
+001cv00000AuXgu,"City Of Lakeland, GA",Georgia,Municipality,Hugh Bargeron,2762,,Tier 3,0.75,31.041,-83.0751,addcdfd2-624d-41ad-948b-ce04aece1057,,,,,,,,,,,,,,,,,,
+001cv00000AuXjC,"County Of Baker, GA",Georgia,County,Hugh Bargeron,2819,,Tier 3,0.75,31.2816,-84.4803,af662e86-df4e-4fd0-a791-6fbd8b747ff9,,,,,,,,,,,,,,,,,,
+001cv00000AuXjN,"City Of Donalsonville, GA",Georgia,Municipality,Hugh Bargeron,2822,,Tier 3,0.75,31.0405,-84.8791,06b9a7ea-66c6-447e-b8e9-483c53d6ea01,,,,,,,,,,,,,,,,,,
+001cv00000AuXk0,"City Of Soperton, GA",Georgia,Municipality,Hugh Bargeron,2843,,Tier 3,0.75,32.3771,-82.5924,3ec3a761-7507-4fad-b1a4-14664ab33efb,,,,,,,,,,,,,,,,,,
+001cv00000AuXkH,"City Of Unadilla, GA",Georgia,Municipality,Hugh Bargeron,2847,,Tier 3,0.75,32.2617,-83.7366,6f6705bf-bc79-4cb2-ae54-e99312beb818,,,,,,,,,,,,,,,,,,
+001cv00000AuXka,"City Of Statham, GA",Georgia,Municipality,Hugh Bargeron,2857,,Tier 3,0.75,33.9651,-83.5966,d33c9e3e-c516-4274-80d3-328d2b40855c,,,,,,,,,,,,,,,,,,
+001cv00000AuXlg,"County Of Clay, GA",Georgia,County,Hugh Bargeron,2882,,Tier 3,0.75,31.6448,-85.0026,86e6f409-8ff9-422b-896a-c1527fafabd5,,,,,,,,,,,,,,,,,,
+001cv00000AuXm0,"City Of Lula, GA",Georgia,Municipality,Hugh Bargeron,2895,,Tier 3,0.75,34.3876,-83.6663,156987fa-3c9f-41ab-8d4c-4732379266fd,,,,,,,,,,,,,,,,,,
+001cv00000AuXmd,"City Of Vienna, GA",Georgia,Municipality,Hugh Bargeron,2912,,Tier 3,0.75,32.0916,-83.7955,ec4bbc13-a590-4834-a811-039ab9ab5928,,,,,,,,,,,,,,,,,,
+001cv00000AuXmo,"County Of Glascock, GA",Georgia,County,Hugh Bargeron,2919,,Tier 3,0.75,33.2423,-82.6267,da071548-a957-4f75-9630-532624bf985f,,,,,,,,,,,,,,,,,,
+001cv00000AuXn3,"City Of Millen, GA",Georgia,Municipality,Hugh Bargeron,2934,,Tier 3,0.75,32.8041,-81.9493,b4340f33-9d16-44c7-89a1-a978a9f85de6,,,,,,,,,,,,,,,,,,
+001cv00000AuXn8,"City Of Watkinsville, GA",Georgia,Municipality,Hugh Bargeron,2937,,Tier 3,0.75,33.8629,-83.4088,a6e67ad5-6c29-4e41-bf7f-119934c8afed,,,,,,,,,,,,,,,,,,
+001cv00000AuXzG,"City Of Chickamauga, GA",Georgia,Municipality,Hugh Bargeron,3070,,Tier 3,0.75,34.8712,-85.2908,43992c56-4a8c-46c6-b509-1d899a1ed078,,,,,,,,,,,,,,,,,,
+001cv00000AuXzH,"City Of Lake City, GA",Georgia,Municipality,Hugh Bargeron,3071,,Tier 3,0.75,33.6065,-84.3352,ec4eec4e-d532-443a-9969-2533db7093d1,,,,,,,,,,,,,,,,,,
+001cv00000AuXzT,"City Of Montezuma, GA",Georgia,Municipality,Hugh Bargeron,3076,,Tier 3,0.75,32.3052,-84.0274,9ed37ff9-4ec9-4fb3-96cf-cae1cfc8a4e6,,,,,,,,,,,,,,,,,,
+001cv00000AuY7O,"City Of Hoschton, GA",Georgia,Municipality,Hugh Bargeron,3519,,Tier 3,0.75,34.0965,-83.7613,e68315d6-0f5f-4eee-9876-ea288611081a,,,,,,,,,3,2026-04-03,3,,,,,,,
+001cv00000AuYAx,"City Of Chattahoochee Hills, GA",Georgia,Municipality,Hugh Bargeron,3084,,Tier 3,0.75,33.548,-84.7631,0a99d999-bddc-4942-b7c3-89534b90c2d9,,,,,,,,,1,2026-05-22,1,,,,,,,
+001cv00000AuYBE,"City Of Cuthbert, GA",Georgia,Municipality,Hugh Bargeron,3091,,Tier 3,0.75,31.7713,-84.7894,c82644c1-ef0c-444e-9886-f768040426fc,,,,,,,,,,,,,,,,,,
+001cv00000AuYEY,"City Of Springfield, GA",Georgia,Municipality,Hugh Bargeron,2993,,Tier 3,0.75,32.3642,-81.3042,4cc0e13d-08ef-4c51-affe-b9ff3bbbb2ef,,,,,,,,,1,2026-04-06,1,,,,,,,
+001cv00000AuYHw,"City Of Wrightsville, GA",Georgia,Municipality,Hugh Bargeron,3309,,Tier 3,0.75,32.7293,-82.7199,0b03da7d-d462-40ea-ab17-65e5316d4977,,,,,,,,,,,,,,,,,,
+001cv00000AuYKG,"City Of Alma, GA",Georgia,Municipality,Hugh Bargeron,3397,,Tier 3,0.75,31.5394,-82.4624,878ef190-9527-482e-a1a1-4630628a0745,,,,,,,,,,,,,,,,,,
+001cv00000AuYKc,"City Of Hahira, GA",Georgia,Municipality,Hugh Bargeron,3406,,Tier 3,0.75,30.9913,-83.3727,ca5db365-9c58-4963-8461-6279a8ade794,,,,,,,,,,,,,,,,,,
+001cv00000AuYKg,"City Of Gray, GA",Georgia,Municipality,Hugh Bargeron,3407,,Tier 3,0.75,33.0096,-83.5338,611c80fe-f7ab-4795-8702-b41b5ff8572e,,,,,,,,,,,,,,,,,,
+001cv00000AuYKv,"City Of Pelham, GA",Georgia,Municipality,Hugh Bargeron,3416,,Tier 3,0.75,31.1277,-84.1518,7a51d042-a311-4620-98df-0cc36921a28a,,,,,,,,,,,,,,,,,,
+001cv00000AuYLL,"City Of Ringgold, GA",Georgia,Municipality,Hugh Bargeron,3429,,Tier 3,0.75,34.9159,-85.1091,ae9f8c3a-06d1-465b-b822-e611b920fcea,,,,,,,,,,,,,,,,,,
+001cv00000AuYMk,"City Of Avondale Estates, GA",Georgia,Municipality,Hugh Bargeron,3496,,Tier 3,0.75,33.7715,-84.2671,1403d732-04ab-4470-bcc5-ed5171b283bb,,,,,,,,,2,2026-04-17,2,,,,,,,
+001cv00000AuYN6,"City Of Leesburg, GA",Georgia,Municipality,Hugh Bargeron,3506,,Tier 3,0.75,31.7321,-84.1707,828b1fc6-cbd4-417c-9b79-500929b7a509,,,,,,,,,,,,,,,,,,
+001cv00000AuYN9,"City Of Cleveland, GA",Georgia,Municipality,Hugh Bargeron,3511,,Tier 3,0.75,34.597,-83.7632,264671fb-09b2-4091-a146-013bc9495c44,,,,,,,,,,,,,,,,,,
+001cv00000AuYOL,"City Of Nicholls, GA",Georgia,Municipality,Hugh Bargeron,3205,,Tier 3,0.75,31.5174,-82.6349,c86c54fd-d8ff-4f91-a539-8583f8c84817,,,,,,,,,,,,,,,,,,
+001cv00000AuYPE,"City Of Tallapoosa, GA",Georgia,Municipality,Hugh Bargeron,3247,Open Opportunity,Tier 3,0.75,33.7445,-85.288,6acd6edd-c7ce-4855-a625-bcf2f1d60749,Open,Initial Interest,Top of Funnel,Hugh Bargeron,4/20/2026,4/20/2026,,,2,2026-04-20,2,,,,,,,
+001cv00000AuYPw,"City Of Grantville, GA",Georgia,Municipality,Hugh Bargeron,3276,,Tier 3,0.75,33.2348,-84.8358,52e9ae9d-5d8d-45b4-b45a-b19d6ad85d70,,,,,,,,,,,,,,,,,,
+001cv00000AuYR8,"City Of Blackshear, GA",Georgia,Municipality,Hugh Bargeron,3537,,Tier 3,0.75,31.3061,-82.2421,16d4cff6-a9f8-42ea-983f-05e86b436aec,,,,,,,,,,,,,,,,,,
+001cv00000AuYRg,"City Of Manchester, GA",Georgia,Municipality,Hugh Bargeron,3563,,Tier 3,0.75,32.8599,-84.6199,7303f18d-b066-493e-9e2d-983e86decd2c,,,,,,,,,,,,,,,,,,
+001cv00000AuYTZ,"City Of Greensboro, GA",Georgia,Municipality,Hugh Bargeron,3649,,Tier 3,0.75,33.5757,-83.1824,839513aa-b960-4e21-900e-2bcd2e6ea287,,,,,,,,,1,2026-05-21,1,,,,,,,
+001cv00000AuYXO,"City Of Walthourville, GA",Georgia,Municipality,Hugh Bargeron,3788,,Tier 3,0.75,31.7736,-81.6335,d00a9997-fdcc-49e5-a5d9-c1cb774db25a,,,,,,,,,,,,,,,,,,
+001cv00000AuYfK,"City Of Jasper, GA",Georgia,Municipality,Hugh Bargeron,4235,,Tier 3,0.75,34.4696,-84.429,e9525720-9ead-42ab-80c7-8b6e72cf9f6f,,,,,,,,,,,,,,,,,,
+001cv00000AuYgz,"City Of Harlem, GA",Georgia,Municipality,Hugh Bargeron,3866,,Tier 3,0.75,33.4146,-82.3126,7cdc2666-2d2b-46f5-ae5e-6a9c8d9e3b78,,,,,,,,,,,,,,,,,,
+001cv00000AuYlJ,"City Of Rossville, GA",Georgia,Municipality,Hugh Bargeron,3984,,Tier 3,0.75,34.9831,-85.2861,e3a42983-546c-4e56-9af2-620dfbcf3b15,,,,,,,,,,,,,,,,,,
+001cv00000AuYlW,"City Of Metter, GA",Georgia,Municipality,Hugh Bargeron,3994,,Tier 3,0.75,32.3971,-82.0601,20f2226f-82d7-4d05-b852-d53b64a2356a,,,,,,,,,,,,,,,,,,
+001cv00000AuYmv,"City Of Hazlehurst, GA",Georgia,Municipality,Hugh Bargeron,4065,,Tier 3,0.75,31.8696,-82.5943,3a632bd6-adbe-4913-970d-7ba965bf007c,,,,,,,,,,,,,,,,,,
+001cv00000AuYnl,"City Of Quitman, GA",Georgia,Municipality,Hugh Bargeron,4101,,Tier 3,0.75,30.7849,-83.5599,c7dbd808-dcf0-4b87-8698-7da5c066906f,,,,,,,,,,,,,,,,,,
+001cv00000AuYp2,"City Of Dawsonville, GA",Georgia,Municipality,Hugh Bargeron,4172,,Tier 3,0.75,34.4212,-84.1191,02d6bcac-7450-45eb-9402-911a7dc7c39c,,,,,,,,,,,,,,,,,,
+001cv00000AuYpi,"City Of Lyons, GA",Georgia,Municipality,Hugh Bargeron,4211,,Tier 3,0.75,32.2044,-82.3218,35196c06-2d19-449f-8c77-960326d07891,,,,,,,,,,,,,,,,,,
+001cv00000AuYpp,"City Of Ashburn, GA",Georgia,Municipality,Hugh Bargeron,4218,,Tier 3,0.75,31.706,-83.6532,85e952b9-1457-4eda-ac46-ee9f8e976bc1,,,,,,,,,,,,,,,,,,
+001cv00000AuYrX,"County Of Echols, GA",Georgia,County,Hugh Bargeron,3699,,Tier 3,0.75,30.7503,-82.9502,d281ddbc-7e69-4698-acef-07ebf15783d3,,,,,,,,,,,,,,,,,,
+001cv00000AuYrf,"City Of Washington, GA",Georgia,Municipality,Hugh Bargeron,3704,,Tier 3,0.75,33.7368,-82.7393,b0153e28-dd1b-470e-9f90-095116da077d,,,,,,,,,,,,,,,,,,
+001cv00000AuYs3,"City Of Ocilla, GA",Georgia,Municipality,Hugh Bargeron,3720,,Tier 3,0.75,31.5944,-83.2504,ddeaeed7-1db4-498c-9cef-195e7dfa11ca,,,,,,,,,,,,,,,,,,
+001cv00000AuYsR,"City Of West Point, GA",Georgia,Municipality,Hugh Bargeron,3748,,Tier 3,0.75,32.8779,-85.1833,160fb9a2-747b-457f-aa12-eba70c2823ba,,,,,,,,,,,,,,,,,,
+001cv00000AuYsc,"City Of Baldwin, GA",Georgia,Municipality,Hugh Bargeron,3755,,Tier 3,0.75,34.4918,-83.5374,021acfbf-6f00-453d-95c4-e5ed70f96e89,,,,,,,,,,,,,,,,,,
+001cv00000AuYtC,"City Of Hephzibah, GA",Georgia,Municipality,Hugh Bargeron,3782,,Tier 3,0.75,33.314,-82.0968,002ed5ba-ccc8-4821-9199-24d0c5ac2320,,,,,,,,,,,,,,,,,,
+001cv00000AuYvN,"City Of Euharlee, GA",Georgia,Municipality,Hugh Bargeron,4315,,Tier 3,0.75,34.1448,-84.933,9482c883-2b9a-46f2-ad0e-a3afb915b6e9,,,,,,,,,,,,,,,,,,
+001cv00000AuYvP,"City Of Dawson, GA",Georgia,Municipality,Hugh Bargeron,4317,,Tier 3,0.75,31.7735,-84.4466,dde41b39-dcb5-4f5e-a596-78d1e270c6c5,,,,,,,,,,,,,,,,,,
+001cv00000AuYxL,"City Of Summerville, GA",Georgia,Municipality,Hugh Bargeron,4400,,Tier 3,0.75,34.4806,-85.3477,d0d3b316-1aba-4348-9e60-27d268d48bb1,,,,,,,,,,,,,,,,,,
+001cv00000AuYxY,"City Of Folkston, GA",Georgia,Municipality,Hugh Bargeron,4408,,Tier 3,0.75,30.8305,-82.0098,abffce04-3e11-4ea0-a1d4-fb18066e3e33,,,,,,,,,6,2026-04-01,2,4,,,,,,
+001cv00000AuYyo,"County Of Schley, GA",Georgia,County,Hugh Bargeron,4478,,Tier 3,0.75,32.2736,-84.3121,83c07eae-3f1b-4c0f-b3ea-e4713d9d747c,,,,,,,,,,,,,,,,,,
+001cv00000AuYz6,"City Of Hartwell, GA",Georgia,Municipality,Hugh Bargeron,4503,,Tier 3,0.75,34.3529,-82.9321,daed910c-3459-4da3-904b-538cf8e933e1,,,,,,,,,,,,,,,,,,
+001cv00000AuYzL,"City Of Forsyth, GA",Georgia,Municipality,Hugh Bargeron,4512,,Tier 3,0.75,33.0343,-83.9382,f70b922e-5ffb-49a1-849c-5069e42d2e7f,,,,,,,,,,,,,,,,,,
+001cv00000AuZ7m,"County Of Stewart, GA",Georgia,County,Hugh Bargeron,5341,,Tier 3,0.75,32.1141,-84.8151,10c0afd8-5276-4a33-a80c-9f3714181996,,,,,,,,,1,2025-10-02,,1,,,,,,
+001cv00000AuZ7r,"City Of Oakwood, GA",Georgia,Municipality,Hugh Bargeron,5373,,Tier 3,0.75,34.2276,-83.8843,abac64ec-3f25-46cb-b14e-f1fd64a284a7,,,,,,,,,2,2026-04-16,1,1,,,,,,
+001cv00000AuZ8S,"County Of Calhoun, GA",Georgia,County,Hugh Bargeron,5509,,Tier 3,0.75,34.5026,-84.9511,493ba9fa-9ee2-4502-81e3-f44e3d7650e2,,,,,,,,,6,2026-04-21,6,,,,,,,
+001cv00000AuZAn,"County Of Miller, GA",Georgia,County,Hugh Bargeron,5919,Open Opportunity,Tier 3,0.75,31.2008,-84.7316,f3db84a1-962f-4915-8b5a-53a38d35f393,Open,Proposal,Mid Funnel,Hugh Bargeron,4/16/2026,4/16/2026,"$19,000",,11,2026-04-21,11,,,,,,,
+001cv00000AuZCY,"County Of Clinch, GA",Georgia,County,Hugh Bargeron,6725,,Tier 3,0.75,30.9717,-82.821,d9c441f1-9f81-4b23-a784-1622d01c9c30,,,,,,,,,2,2026-04-15,2,,,,,,,
+001cv00000AuZII,"County Of Randolph, GA",Georgia,County,Hugh Bargeron,6287,,Tier 3,0.75,31.7913,-84.6897,db8b2d27-a3cd-4a96-893d-9a00771b7da2,,,,,,,,,1,2026-05-06,1,,,,,,,
+001cv00000AuZIK,"County Of Treutlen, GA",Georgia,County,Hugh Bargeron,6306,,Tier 3,0.75,32.387,-82.5835,c1abd389-79f1-4f13-be50-e368de8e94ab,,,,,,,,,,,,,,,,,,
+001cv00000AuZK3,"City Of Temple, GA",Georgia,Municipality,Hugh Bargeron,5623,,Tier 3,0.75,33.7371,-85.0324,2928b5c9-99ba-40a3-a63e-7500a8d1721d,,,,,,,,,23,2026-05-22,18,5,,,,,,
+001cv00000AuZKM,"County Of Talbot, GA",Georgia,County,Hugh Bargeron,5742,Open Opportunity,Tier 3,0.75,32.6891,-84.5222,cb2fa9b1-6eda-42d0-8b9f-6d56b164a01d,Open,Initial Interest,Top of Funnel,Quinzel Perry,8/19/2025,8/13/2025,,,4,2026-05-22,4,,,,,,,
+001cv00000AuZLa,"City Of Cornelia, GA",Georgia,Municipality,Hugh Bargeron,4791,Nurture,Tier 3,0.75,34.5115,-83.5271,77a5529c-40ab-4520-86d1-9981d9d38557,Closed Lost,,,Hugh Bargeron,3/25/2026,3/25/2026,,,10,2026-04-10,6,4,,,,,,
+001cv00000AuZLp,"City Of Chatsworth, GA",Georgia,Municipality,Hugh Bargeron,4804,,Tier 3,0.75,34.7659,-84.7699,076966cd-d3f8-4b49-a629-8e191f9a8077,,,,,,,,,7,2025-10-23,,7,,,,,,
+001cv00000AuZLy,"City Of Rockmart, GA",Georgia,Municipality,Hugh Bargeron,4811,Nurture,Tier 3,0.75,34.0026,-85.0416,22c703f7-20c5-4105-9413-384abdcb0368,Closed Lost,,,Hugh Bargeron,10/8/2025,10/3/2025,,,23,2026-05-21,16,7,,,,,,
+001cv00000AuZMv,"City Of Nashville, GA",Georgia,Municipality,Hugh Bargeron,4869,,Tier 3,0.75,31.2074,-83.2502,9301098d-6cba-44f4-87c4-0e6fbd858676,,,,,,,,,,,,,,,,,,
+001cv00000AuZNF,"City Of Madison, GA",Georgia,Municipality,Hugh Bargeron,4894,,Tier 3,0.75,33.5957,-83.4679,ab6c53e1-ef51-404b-aa36-d9152399f0a7,,,,,,,,,3,2026-04-13,3,,,,,,,
+001cv00000AuZR9,"County Of Marion, GA",Georgia,County,Hugh Bargeron,7440,,Tier 3,0.75,32.3281,-84.5222,5e55bcb4-1d26-49e0-aa64-9442cf6b19bb,,,,,,,,,1,2025-08-21,,1,,,,,,
+001cv00000AuZRC,"County Of Wheeler, GA",Georgia,County,Hugh Bargeron,7471,,Tier 3,0.75,32.1,-82.6915,f32d6b86-5fff-4618-a54c-4ef1b34cc416,,,,,,,,,,,,,,,,,,
+001cv00000AuZRw,"County Of Lincoln, GA",Georgia,County,Hugh Bargeron,7749,,Tier 3,0.75,33.7875,-82.4319,beaa0537-a2bf-4a19-bc74-b0d981b8132c,,,,,,,,,1,2026-05-06,1,,,,,,,
+001cv00000AuZSJ,"City Of Baxley, GA",Georgia,Municipality,Hugh Bargeron,5008,,Tier 3,0.75,31.7783,-82.3485,bfbfc066-2452-486d-97a9-30832aff490e,,,,,,,,,3,2025-11-03,,3,,,,,,
+001cv00000AuZSp,"City Of Cochran, GA",Georgia,Municipality,Hugh Bargeron,5070,,Tier 3,0.75,32.3868,-83.3546,6a3303df-5dbd-472b-ad03-9be89a486df7,,,,,,,,,,,,,,,,,,
+001cv00000AuZSq,"City Of Palmetto, GA",Georgia,Municipality,Hugh Bargeron,5075,Open Opportunity,Tier 3,0.75,33.5179,-84.6697,3ceca9ce-c3d8-4bcc-bc75-75ee4102d89e,Open,Demo,Mid Funnel,Hugh Bargeron,4/16/2026,4/13/2026,,,19,2026-05-13,11,6,2,,,,,
+001cv00000AuZSv,"City Of Hiram, GA",Georgia,Municipality,Hugh Bargeron,5080,Open Opportunity,Tier 3,0.75,33.8757,-84.7622,a61a262d-8a72-4ada-bb3f-06e65e0d9a51,Open,Initial Interest,Top of Funnel,Quinzel Perry,,10/2/2025,,,29,2026-05-26,20,9,,,,,,
+001cv00000AuZTG,"City Of Social Circle, GA",Georgia,Municipality,Hugh Bargeron,5121,Recent Competitor Purchase,Tier 3,0.75,33.6562,-83.7182,93340327-7226-4ad4-9cd0-862fdca41cbb,Closed Lost,,,Quinzel Perry,,10/29/2025,,,5,2026-04-13,1,3,1,,,,,
+001cv00000AuZTs,"County Of Warren, GA",Georgia,County,Hugh Bargeron,5240,,Tier 3,0.75,33.447,-82.6915,b4d4ffc2-6151-4ec2-89dc-855f39a8f62c,,,,,,,,,,,,,,,,,,
+001cv00000AuZTx,"City Of Senoia, GA",Georgia,Municipality,Hugh Bargeron,5245,,Tier 3,0.75,33.3023,-84.5538,6f38c796-e00e-44f6-884b-2418fdfeb54d,,,,,,,,,1,2025-10-03,,1,,,,,,
+001cv00000AuZU2,"City Of Blakely, GA",Georgia,Municipality,Hugh Bargeron,5252,Nurture,Tier 3,0.75,31.3777,-84.9341,1f2b2743-ae8c-4ddb-8d71-16a4a95c6d95,Closed Lost,,,Quinzel Perry,10/7/2025,10/3/2025,,,4,2025-10-07,,4,,,,,,
+001cv00000AuZVH,"County Of Taylor, GA",Georgia,County,Hugh Bargeron,7799,,Tier 3,0.75,32.5407,-84.2279,ea500cf5-bf61-497d-89e7-5728f7c03453,,,,,,,,,2,2026-05-06,1,1,,,,,,
+001cv00000AuZVL,"County Of Twiggs, GA",Georgia,County,Hugh Bargeron,7856,,Tier 3,0.75,32.6836,-83.4644,3388c7cd-7a5d-4225-90fa-99574aebd787,,,,,,,,,3,2026-04-13,1,2,,,,,,
+001cv00000AuZXp,"County Of Atkinson, GA",Georgia,County,Hugh Bargeron,8391,Open Opportunity,Tier 3,0.75,31.2932,-82.8641,bc7c77f2-f70f-4324-a039-d6de4c4cef89,Open,Initial Interest,Top of Funnel,Hugh Bargeron,4/23/2026,4/20/2026,,,12,2026-05-19,10,2,,,,,,
+001cv00000AuZYF,"County Of Hancock, GA",Georgia,County,Hugh Bargeron,8630,,Tier 3,0.75,33.2883,-83.0361,bb09f8bc-8a48-46bf-a416-44fedf84e108,,,,,,,,,7,2025-11-03,,7,,,,,,
+001cv00000AuZYH,"County Of Jenkins, GA",Georgia,County,Hugh Bargeron,8639,,Tier 3,0.75,32.7781,-81.9971,2fbbb36a-c551-4143-a847-d49afa031da4,,,,,,,,,4,2025-09-08,,4,,,,,,
+001cv00000AuZYJ,"County Of Montgomery, GA",Georgia,County,Hugh Bargeron,8653,,Tier 3,0.75,31.9405,-81.1221,86bad890-77ce-42df-a0b6-7520ef83676b,,,,,,,,,4,2026-04-21,4,,,,,,,
+001cv00000AuZYv,"County Of Terrell, GA",Georgia,County,Hugh Bargeron,8964,,Tier 3,0.75,31.737,-84.4803,5e7674da-10d4-4d1e-bcd8-aa99fa176838,,,,,,,,,,,,,,,,,,
+001cv00000AuZYw,"County Of Turner, GA",Georgia,County,Hugh Bargeron,8966,,Tier 3,0.75,31.6977,-83.6348,92167ece-52bd-490b-8cb0-731cea0078ab,,,,,,,,,5,2026-04-29,5,,,,,,,
+001cv00000AuZZD,"County Of Johnson, GA",Georgia,County,Hugh Bargeron,9160,,Tier 3,0.75,32.7308,-82.6915,5d97e643-11b6-4967-921f-0fe96dcdc6cd,,,,,,,,,2,2026-04-10,1,1,,,,,,
+001cv00000AuZZK,"County Of Seminole, GA",Georgia,County,Hugh Bargeron,9197,,Tier 3,0.75,30.9331,-84.8985,5c0041a4-8095-421c-a530-d2fd97369312,,,,,,,,,2,2025-07-21,,2,,,,,,
+001cv00000AuZZt,"County Of Wilkes, GA",Georgia,County,Hugh Bargeron,9513,,Tier 3,0.75,33.8083,-82.7779,707deeec-8092-424b-9561-6a65d17af3a7,,,,,,,,,,,,,,,,,,
+001cv00000AuZak,"County Of Heard, GA",Georgia,County,Hugh Bargeron,11565,Open Opportunity,Tier 2,1.0,33.299,-85.1479,a225e6a1-0144-4f58-986b-223f115cbdd6,Open,Initial Interest,Top of Funnel,Hugh Bargeron,5/6/2026,5/6/2026,,,6,2026-05-21,6,,,,,,,
+001cv00000AuZbI,"County Of Macon, GA",Georgia,County,Hugh Bargeron,12004,,Tier 2,1.0,32.8362,-83.632,fd88a82a-ecef-4e74-86c6-389ee01cd6ba,,,,,,,,,,,,,,,,,,
+001cv00000AuZbX,"County Of Crawford, GA",Georgia,County,Hugh Bargeron,12153,Nurture,Tier 2,1.0,33.8829,-83.1546,30875bfe-f64e-48bc-a26d-ec9196c8ec28,Closed Lost,,,Quinzel Perry,8/11/2025,8/7/2025,,,2,2026-05-14,1,1,,,,,,
+001cv00000AuZd9,"County Of Early, GA",Georgia,County,Hugh Bargeron,10619,,Tier 2,1.0,31.3901,-84.8985,927cca8c-fc5c-4f60-a103-b8f238b87951,,,,,,,,,1,2026-05-26,1,,,,,,,
+001cv00000AuZdE,"County Of Evans, GA",Georgia,County,Hugh Bargeron,10672,,Tier 2,1.0,33.5337,-82.1307,8fee3289-01c2-40e8-82e2-e84b0c2e5054,,,,,,,,,,,,,,,,,,
+001cv00000AuZdQ,"County Of Wilcox, GA",Georgia,County,Hugh Bargeron,8739,,Tier 3,0.75,31.9612,-83.4644,dc373ad9-97a1-4d92-bb99-fb451b99d855,,,,,,,,,1,2026-04-16,1,,,,,,,
+001cv00000AuZdc,"County Of Wilkinson, GA",Georgia,County,Hugh Bargeron,8831,,Tier 3,0.75,32.8025,-83.1649,5e8b5464-6f94-446f-8926-0457587bd49e,,,,,,,,,1,2026-04-15,1,,,,,,,
+001cv00000AuZfh,"County Of Towns, GA",Georgia,County,Hugh Bargeron,12875,,Tier 2,1.0,34.9208,-83.7199,61360e9b-e6ed-4f1c-a4c0-d1e5fa300a1a,,,,,,,,,10,2025-11-03,,10,,,,,,
+001cv00000AuZhS,"County Of Jeff Davis, GA",Georgia,County,Hugh Bargeron,14872,,Tier 2,1.0,31.8235,-82.6051,ae604ad6-e0ae-4e3e-9dab-85b5d75aa98f,,,,,,,,,,,,,,,,,,
+001cv00000AuZhg,"County Of Oglethorpe, GA",Georgia,County,Hugh Bargeron,15140,,Tier 2,1.0,32.2938,-84.061,e50988af-01d5-4548-b628-c54c13679705,,,,,,,,,1,2026-04-16,1,,,,,,,
+001cv00000AuZhr,"County Of Jasper, GA",Georgia,County,Hugh Bargeron,15278,,Tier 2,1.0,34.4696,-84.429,48928ed3-cdd1-42ad-946a-c667eb1c627a,,,,,,,,,1,2026-04-15,1,,,,,,,
+001cv00000AuZiT,"County Of Telfair, GA",Georgia,County,Hugh Bargeron,12414,,Tier 2,1.0,31.8908,-82.9932,b21ff7f9-6d27-46b7-8ff1-a133741c5884,,,,,,,,,,,,,,,,,,
+001cv00000AuZih,"County Of Bleckley, GA",Georgia,County,Hugh Bargeron,12607,,Tier 2,1.0,32.4088,-83.3789,38fed19e-9373-46a9-bbd5-f958a84a0828,,,,,,,,,7,2026-05-20,7,,,,,,,
+001cv00000AuZiq,"County Of Charlton, GA",Georgia,County,Hugh Bargeron,12766,Open Opportunity,Tier 2,1.0,30.7917,-82.0843,967b4f02-2943-4a92-9868-5fb415b8fbcf,Open,Initial Interest,Top of Funnel,Hugh Bargeron,4/14/2026,3/30/2026,,Yes,6,2026-04-10,5,1,,,,,,
+001cv00000AuZjk,"Irwin County, GA",Georgia,County,Hugh Bargeron,9618,Nurture,Tier 3,0.75,31.5893,-83.2934,dacb45b2-e9ca-48cc-afd5-340688fac197,Closed Lost,,,Quinzel Perry,7/23/2025,7/18/2025,,,1,2025-07-18,,1,,,,,,
+001cv00000AuZkJ,"County Of Lanier, GA",Georgia,County,Hugh Bargeron,9907,Nurture,Tier 3,0.75,32.1299,-81.5368,f793aa4b-0f94-4cb5-b0c2-bc7cc2b66363,Closed Lost,,,Hugh Bargeron,4/23/2026,4/16/2026,,,3,2026-04-21,3,,,,,,,
+001cv00000AuZlX,"County Of Dooly, GA",Georgia,County,Hugh Bargeron,10885,,Tier 2,1.0,32.1593,-83.8049,87e5e6dd-785f-43c9-8c11-853f67750142,,,,,,,,,3,2025-07-25,,3,,,,,,
+001cv00000AuZll,"County Of Candler, GA",Georgia,County,Hugh Bargeron,11037,,Tier 2,1.0,32.4242,-82.0843,1fa5eda9-5abe-4783-98e6-bd2a39fe48e0,,,,,,,,,,,,,,,,,,
+001cv00000AuZlp,"County Of Bacon, GA",Georgia,County,Hugh Bargeron,11079,,Tier 2,1.0,31.5412,-82.4319,f42b0e82-c67c-48a2-874c-a5c73a24cf0e,,,,,,,,,,,,,,,,,,
+001cv00000AuZls,"County Of Mcintosh, GA",Georgia,County,Hugh Bargeron,11123,Implementation,Tier 2,1.0,31.3703,-81.4343,10bb06d7-9b3f-440a-a27f-ee27f9d2685d,Closed Won,,,Quinzel Perry,8/5/2025,7/24/2025,"$40,000",,3,2025-08-06,,3,,,,,,
+001cv00000AuZnb,"County Of Screven, GA",Georgia,County,Hugh Bargeron,14105,,Tier 2,1.0,31.4863,-82.0171,5f6c4a24-653d-48cb-bc38-53c0fb549f26,,,,,,,,,,,,,,,,,,
+001cv00000AuZoZ,"County Of Jefferson, GA",Georgia,County,Hugh Bargeron,15524,,Tier 2,1.0,34.1171,-83.5724,2497bc5b-0088-455a-bdd7-f64f97379609,,,,,,,,,6,2026-04-17,5,1,,,,,,
+001cv00000AuZpM,"County Of Brooks, GA",Georgia,County,Hugh Bargeron,16270,,Tier 2,1.0,33.291,-84.4594,aeb148f0-12e0-42c5-97c8-cb8cc0b1bf74,,,,,,,,,4,2026-04-13,2,2,,,,,,
+001cv00000AuZqn,"County Of Dade, GA",Georgia,County,Hugh Bargeron,16326,,Tier 2,1.0,34.9109,-85.4788,c3617c61-0d82-41d5-9930-56053543f278,,,,,,,,,,,,,,,,,,
+001cv00000AuZrf,"County Of Rabun, GA",Georgia,County,Hugh Bargeron,17119,,Tier 2,1.0,34.9027,-83.3789,280f83c1-6f33-4b60-aed3-1e35b43c6404,,,,,,,,,5,2026-05-22,5,,,,,,,
+001cv00000AuZri,"County Of Long, GA",Georgia,County,Hugh Bargeron,17152,,Tier 2,1.0,31.7756,-81.8224,b6e95b70-3f98-4d50-b1f7-3b39cfca3f08,,,,,,,,,,,,,,,,,,
+001cv00000AuZrj,"County Of Ben Hill, GA",Georgia,County,Hugh Bargeron,17158,,Tier 2,1.0,31.7664,-83.2078,9c5f14f3-f0ab-4942-adeb-e70f6586219d,,,,,,,,,,,,,,,,,,
+001cv00000AuZsO,"County Of Appling, GA",Georgia,County,Hugh Bargeron,18488,,Tier 2,1.0,31.7122,-82.2583,97fc66f7-1012-47fc-86b8-027ec5c8257e,,,,,,,,,,,,,,,,,,
+001cv00000AuZsS,"County Of Banks, GA",Georgia,County,Hugh Bargeron,18562,,Tier 2,1.0,34.3785,-83.4644,ffd297ff-2359-449f-adb3-d2965a73a968,,,,,,,,,,,,,,,,,,
+001cv00000AuZt8,"County Of Pike, GA",Georgia,County,Hugh Bargeron,19477,,Tier 2,1.0,33.0882,-84.3963,940ade4f-d32d-458a-bda3-b47c6e83b887,,,,,,,,,,,,,,,,,,
+001cv00000AuZtB,"County Of Greene, GA",Georgia,County,Hugh Bargeron,19536,,Tier 2,1.0,33.5187,-83.1649,adaa0e4d-d516-4258-bb79-620647b7cbba,,,,,,,,,1,2026-05-22,1,,,,,,,
+001cv00000AuZtD,"County Of Elbert, GA",Georgia,County,Hugh Bargeron,19579,,Tier 2,1.0,34.0795,-82.8641,6b9b6e31-2d38-4afc-bd0f-03b30d470ee1,,,,,,,,,,,,,,,,,,
+001cv00000AuZtU,"County Of Cook, GA",Georgia,County,Hugh Bargeron,17225,,Tier 2,1.0,31.1428,-83.4644,d123c38c-3add-4613-b407-92057779583a,,,,,,,,,7,2026-05-26,7,,,,,,,
+001cv00000AuZuD,"County Of Brantley, GA",Georgia,County,Hugh Bargeron,18101,,Tier 2,1.0,31.1511,-81.9971,d5553a21-877d-4e8d-9f65-7ee0708eb553,,,,,,,,,2,2026-04-02,2,,,,,,,
+001cv00000AuZuF,"County Of Berrien, GA",Georgia,County,Hugh Bargeron,18147,Nurture,Tier 2,1.0,31.3119,-83.2078,8a75a964-fe4b-4208-af7e-28f7c2f219d1,Closed Lost,,,Hugh Bargeron,5/14/2026,5/13/2026,,,3,2026-05-14,3,,,,,,,
+001cv00000AuZxu,"County Of Mitchell, GA",Georgia,County,Hugh Bargeron,21521,,Tier 2,1.0,33.2199,-82.7032,ae5b7c2f-5e3b-4ace-a8f0-4f1959584fb1,,,,,,,,,6,2026-05-20,6,,,,,,,
+001cv00000Aua0O,"County Of Peach, GA",Georgia,County,Hugh Bargeron,28417,,Tier 1,1.5,32.5893,-83.8261,ffe73071-877a-4cac-a560-6853b24bc3c3,,,,,,,,,15,2026-05-18,15,,,,,,,
+001cv00000Aua0U,"County Of Dawson, GA",Georgia,County,Hugh Bargeron,28497,,Tier 1,1.5,31.7735,-84.4466,367eb279-f499-4e2b-b517-cec906e37948,,,,,,,,,4,2026-03-31,4,,,,,,,
+001cv00000Aua0e,"County Of Monroe, GA",Georgia,County,Hugh Bargeron,28712,,Tier 1,1.5,32.9747,-83.8897,4c0027ff-77bb-4efa-be54-89c8e660f9d2,,,,,,,,,12,2026-03-23,2,10,,,,,,
+001cv00000Aua0s,"County Of Decatur, GA",Georgia,County,Hugh Bargeron,29038,,Tier 1,1.5,33.7748,-84.2963,2b67973e-b300-44d5-831b-4d55504c7320,,,,,,,,,2,2026-04-10,2,,,,,,,
+001cv00000Aua10,"County Of Sumter, GA",Georgia,County,Hugh Bargeron,29283,,Tier 1,1.5,31.9982,-84.2279,78aac8f5-e1cb-4d6c-99b0-99f3f171ed0b,,,,,,,,,,,,,,,,,,
+001cv00000Aua1P,"County Of Wayne, GA",Georgia,County,Hugh Bargeron,30380,,Tier 1,1.5,31.5092,-81.9098,060ca519-a521-42cb-b216-f1f9e348e8d7,,,,,,,,,10,2026-05-19,10,,,,,,,
+001cv00000Aua2L,"County Of Chattooga, GA",Georgia,County,Hugh Bargeron,24932,,Tier 2,1.0,34.4633,-85.3136,b89d9f3e-a1ca-4875-b4f4-39c99f8fa5b5,,,,,,,,,,,,,,,,,,
+001cv00000Aua2r,"County Of Union, GA",Georgia,County,Hugh Bargeron,25521,,Tier 1,1.5,34.8458,-83.9744,4ec68b31-e8f4-4e08-84e0-8de05952a0ae,,,,,,,,,1,2026-05-22,1,,,,,,,
+001cv00000Aua2z,"County Of Butts, GA",Georgia,County,Hugh Bargeron,25781,,Tier 1,1.5,33.2691,-83.9533,e5877b0d-825f-43c7-8e5c-7b5830003ca1,,,,,,,,,10,2026-04-23,10,,,,,,,
+001cv00000Aua35,"County Of Dodge, GA",Georgia,County,Hugh Bargeron,19759,,Tier 2,1.0,32.1287,-83.2078,70e39225-6400-4396-aacc-181282349b67,,,,,,,,,,,,,,,,,,
+001cv00000Aua38,"County Of Washington, GA",Georgia,County,Hugh Bargeron,19785,,Tier 2,1.0,33.7368,-82.7393,d9e3d075-4a10-465f-a478-3a8562a40913,,,,,,,,,,,,,,,,,,
+001cv00000Aua3G,"County Of Crisp, GA",Georgia,County,Hugh Bargeron,19879,,Tier 2,1.0,31.8876,-83.8049,da6d8f93-1617-4f2e-b4b7-cafc9a0f73c6,,,,,,,,,2,2026-04-14,1,,1,,,,,
+001cv00000Aua3P,"County Of Pierce, GA",Georgia,County,Hugh Bargeron,19976,,Tier 2,1.0,31.3438,-82.1714,cb2bbca0-5517-4e5a-b2a3-3e7ec013496f,,,,,,,,,5,2026-04-13,5,,,,,,,
+001cv00000Aua3s,"County Of Worth, GA",Georgia,County,Hugh Bargeron,20554,,Tier 2,1.0,31.5282,-83.8897,ef735cf4-26de-4395-a944-4cb5830e58b2,,,,,,,,,,,,,,,,,,
+001cv00000Aua3x,"County Of Morgan, GA",Georgia,County,Hugh Bargeron,20635,,Tier 2,1.0,33.5794,-83.4644,be68bc88-5f8e-46d2-81f7-f3328c47917b,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,10,2026-04-21,10,,,,,,,
+001cv00000Aua48,"County Of Meriwether, GA",Georgia,County,Hugh Bargeron,20793,,Tier 2,1.0,33.0561,-84.6897,e1ee892f-ba5e-48c3-beaf-ba1700abc953,,,,,,,,,3,2026-05-18,3,,,,,,,
+001cv00000Aua5v,"County Of Pickens, GA",Georgia,County,Hugh Bargeron,34024,,Tier 1,1.5,34.4497,-84.4593,fd71b8c1-78ad-4fc8-ba01-a387709f74d7,,,,,,,,,,,,,,,,,,
+001cv00000Aua64,"County Of Lumpkin, GA",Georgia,County,Hugh Bargeron,34278,,Tier 1,1.5,32.051,-84.7991,3e89d9be-71ef-4b9f-b117-5f294d9380c8,,,,,,,,,3,2026-04-10,3,,,,,,,
+001cv00000Aua7c,"County Of Murray, GA",Georgia,County,Hugh Bargeron,39951,,Tier 1,1.5,34.7928,-84.7316,20061f4e-3c05-4a4e-a994-00817512a201,,,,,,,,,,,,,,,,,,
+001cv00000Aua7v,"County Of Haralson, GA",Georgia,County,Hugh Bargeron,30572,,Tier 1,1.5,33.2265,-84.5713,6d3f1bbd-39f2-4645-8049-7cf180cd1500,,,,,,,,,6,2026-04-23,2,4,,,,,,
+001cv00000Aua88,"County Of Madison, GA",Georgia,County,Hugh Bargeron,30885,,Tier 1,1.5,34.099,-83.2078,f0727e09-4a4e-43d8-8955-81158a3d99b9,,,,,,,,,12,2026-04-20,9,3,,,,,,
+001cv00000Aua9s,"County Of Putnam, GA",Georgia,County,Hugh Bargeron,22585,,Tier 2,1.0,33.307,-83.3789,aec3aa49-0532-4c71-b446-e73ab8c2364e,,,,,,,,,3,2026-03-19,1,2,,,,,,
+001cv00000AuaA1,"County Of Emanuel, GA",Georgia,County,Hugh Bargeron,22716,,Tier 2,1.0,32.5727,-82.3018,65405895-fa37-4946-bbc6-44fcf030a7b6,,,,,,,,,,,,,,,,,,
+001cv00000AuaAC,"County Of Tattnall, GA",Georgia,County,Hugh Bargeron,23052,,Tier 2,1.0,32.0635,-82.0843,9e187566-68d1-4d89-afe2-e230a3fbe046,,,,,,,,,5,2026-05-26,5,,,,,,,
+001cv00000AuaAc,"County Of Franklin, GA",Georgia,County,Hugh Bargeron,23785,,Tier 2,1.0,34.3646,-83.2078,e1301797-0a6e-4014-912e-e7b8daff50dd,,,,,,,,,,,,,,,,,,
+001cv00000AuaAt,"County Of Burke, GA",Georgia,County,Hugh Bargeron,25318,Nurture,Tier 1,1.5,33.0888,-81.9535,e65c57a4-ca4f-4f7a-a00d-20415dd2adad,Closed Lost,,,Hugh Bargeron,5/19/2026,5/13/2026,,,4,2026-05-19,3,,1,,,,,
+001cv00000AuaB8,"County Of Fannin, GA",Georgia,County,Hugh Bargeron,25817,,Tier 1,1.5,34.858,-84.2279,76794267-ae1a-4708-9e70-bbb3ef4f2325,,,,,,,,,,,,,,,,,,
+001cv00000AuaBC,"County Of Grady, GA",Georgia,County,Hugh Bargeron,25918,,Tier 1,1.5,30.905,-84.2279,7e17e9e6-8cbd-4005-bbce-b811165ba80c,,,,,,,,,3,2026-04-21,3,,,,,,,
+001cv00000AuaBQ,"County Of Hart, GA",Georgia,County,Hugh Bargeron,26409,,Tier 1,1.5,34.35,-82.9502,284e71ae-bd2f-4d94-b1ba-f83b4ebda1b1,,,,,,,,,,,,,,,,,,
+001cv00000AuaBh,"County Of Stephens, GA",Georgia,County,Hugh Bargeron,26865,,Tier 1,1.5,34.5459,-83.2934,323198d0-88e1-4456-b78f-e0b8d7ae4ecf,,,,,,,,,4,2026-04-10,4,,,,,,,
+001cv00000AuaBl,"County Of Toombs, GA",Georgia,County,Hugh Bargeron,26911,,Tier 1,1.5,32.0795,-82.3452,ba8a9195-8336-4eac-a514-9b1ac60e5794,,,,,,,,,1,2026-03-31,1,,,,,,,
+001cv00000AuaDF,"County Of Ware, GA",Georgia,County,Hugh Bargeron,36033,,Tier 1,1.5,31.1344,-82.4753,98d6f3d9-a14c-475a-8367-2dcd9e7ef867,,,,,,,,,3,2026-03-31,2,1,,,,,,
+001cv00000AuaGn,"County Of Coffee, GA",Georgia,County,Hugh Bargeron,43386,,Tier 1,1.5,31.5182,-82.821,90917147-eaf8-4302-b38c-9a03adf4c268,,,,,,,,,2,2026-04-16,2,,,,,,,
+001cv00000AuaH3,"County Of Baldwin, GA",Georgia,County,Hugh Bargeron,43781,,Tier 1,1.5,34.4918,-83.5374,28905445-17d7-4482-953e-75daab7e95fb,,,,,,,,,,,,,,,,,,
+001cv00000AuaHd,"County Of Colquitt, GA",Georgia,County,Hugh Bargeron,45812,,Tier 1,1.5,31.1713,-84.7333,a87715eb-b02f-4259-987a-da145df8ab5c,,,,,,,,,9,2026-04-14,3,6,,,,,,
+001cv00000AuaHe,"County Of Thomas, GA",Georgia,County,Hugh Bargeron,45842,,Tier 1,1.5,30.8417,-83.8473,713c38c1-e60b-4ea4-b6cd-ea48929c0022,,,,,,,,,1,2026-04-06,1,,,,,,,
+001cv00000AuaKd,"County Of Laurens, GA",Georgia,County,Hugh Bargeron,50287,,Tier S,2.0,32.433,-82.9932,5a0921cf-24cd-4976-bdb0-78cfc06ef69e,Open,Proposal,Mid Funnel,Hugh Bargeron,4/15/2026,4/13/2026,"$18,000",,9,2026-04-20,8,1,,,,,,
+001cv00000AuaNv,"County Of Gordon, GA",Georgia,County,Hugh Bargeron,58237,,Tier S,2.0,32.8821,-83.3324,b78fbfaa-5f92-4ac2-87ca-ac294c7eca53,Closed Lost,,,Liam Shaw,5/20/2024,1/5/2025,,,16,2026-05-13,5,11,,,,,,
+001cv00000AuaOO,"City Of Marietta, GA",Georgia,Municipality,Hugh Bargeron,61497,,Tier S,2.0,33.9488,-84.5379,d8ff3faf-c8d4-435b-829d-ed94ab5ecbd8,,,,,,,,,5,2026-04-13,3,2,,,,,,
+001cv00000AuaPE,"County Of Liberty, GA",Georgia,County,Hugh Bargeron,65711,,Tier S,2.0,31.843,-81.4718,b2e1c190-3017-4ca6-b575-f294b163439a,,,,,,,,,29,2026-05-19,29,,,,,,,
+001cv00000AuaQo,"County Of Glynn, GA",Georgia,County,Hugh Bargeron,84739,,Tier S,2.0,31.2624,-81.6035,3eab8230-6a0f-4fc1-9479-3d6f7c38d265,,,,,,,,,5,2026-03-30,5,,,,,,,
+001cv00000AuaQq,"County Of Dougherty, GA",Georgia,County,Hugh Bargeron,84844,,Tier S,2.0,31.5439,-84.2279,5fe4e74c-06d1-4d10-9b3d-d63a4a339f31,,,,,,,,,,,,,,,,,,
+001cv00000AuaUo,"County Of Rockdale, GA",Georgia,County,Hugh Bargeron,94082,,Tier S,2.0,33.6752,-84.0379,64fd4a10-1bb8-494d-b2b7-22c87cafba80,,,,,,,,,,,,,,,,,,
+001cv00000B21sK,"City Of Reidsville, GA",Georgia,Municipality,Hugh Bargeron,2446,,Tier 3,0.75,32.0869,-82.1179,eed1181a-4b0f-4804-99b9-2dd9874eb600,,,,,,,,,,,,,,,,,,
+001cv00000B21wV,"City Of Lithonia, GA",Georgia,Municipality,Hugh Bargeron,2621,,Tier 3,0.75,33.7123,-84.1052,2f239386-b41c-49d8-be2e-36bf2d977e62,,,,,,,,,,,,,,,,,,
+001cv00000B21wg,"City Of Pembroke, GA",Georgia,Municipality,Hugh Bargeron,2624,,Tier 3,0.75,32.136,-81.6221,4cc55d83-d00d-4f8e-87f7-8e461fede579,,,,,,,,,,,,,,,,,,
+001cv00000B21xi,"City Of Royston, GA",Georgia,Municipality,Hugh Bargeron,2656,,Tier 3,0.75,34.2871,-83.1101,8bb8f5f9-6889-4be9-a2ef-1a2e8d02788b,,,,,,,,,,,,,,,,,,
+001cv00000B21xv,"City Of Sylvania, GA",Georgia,Municipality,Hugh Bargeron,2661,,Tier 3,0.75,32.7504,-81.6368,ae626fbc-d9fd-40ce-9491-32dc46769a39,,,,,,,,,,,,,,,,,,
+001cv00000B21y0,"City Of Abbeville, GA",Georgia,Municipality,Hugh Bargeron,2662,,Tier 3,0.75,31.9921,-83.3068,b859aadb-8b1c-4c69-8457-804d183c123d,,,,,,,,,,,,,,,,,,
+001cv00000B221W,"City Of Elberton, GA",Georgia,Municipality,Hugh Bargeron,4678,,Tier 3,0.75,34.1112,-82.8671,05d7d8a8-b44f-40b2-b9da-a17bfe73a1f8,,,,,,,,,,,,,,,,,,
+001cv00000B221X,"City Of Grayson, GA",Georgia,Municipality,Hugh Bargeron,4679,,Tier 3,0.75,33.8943,-83.9557,0e8ea61a-fe66-4fe4-992d-d6ca6d9d3f03,,,,,,,,,3,2026-05-19,3,,,,,,,
+001cv00000CLwiB,"City Of Hawkinsville, GA",Georgia,Municipality,Hugh Bargeron,3997,,Tier 3,0.75,32.2838,-83.4721,2efdd7cf-37e2-44f9-992d-5e3733df9f0a,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,,,,,,,,,,
+001cv00000CLwwa,"City Of Thomson, GA",Georgia,Municipality,Hugh Bargeron,6873,,Tier 3,0.75,33.4707,-82.5046,edf94a86-8662-42c3-a778-25576f779a81,,,,,,,,,,,,,,,,,,
+001cv00000bAdh2,"Cherokee County, GA",Georgia,County,Hugh Bargeron,293513,Open Opportunity,Tier S,2.0,34.2515,-84.4803,2b161126-900c-4fd0-9afc-61d9d27296c5,Open,Initial Interest,Top of Funnel,Emily Murnane,,3/27/2026,,,,,,,,,,,,
+001cv00000bAdh3,Clayton County,Georgia,County,Hugh Bargeron,297703,,Tier S,2.0,33.5572,-84.3752,95c52b5c-4dcc-4016-a651-d7d32c7065fc,,,,,,,,,,,,,,,,,,
+001cv00000bAeBb,Consolidated Government of Columbus,Georgia,Municipality,Hugh Bargeron,201830,,Tier S,2.0,32.4635,-84.9911,bbf7384a-c133-4191-90a3-9b9df5df40d8,,,,,,,,,,,,,,,,,,
+001cv00000bBVfe,City of Greenville,Georgia,Municipality,Hugh Bargeron,819,,Tier 3,0.75,33.0287,-84.713,be6cd903-71e7-47ed-b689-621daf065b03,,,,,,,,,,,,,,,,,,
+001cv00000bBVhq,City of Blairsville,Georgia,Municipality,Hugh Bargeron,849,,Tier 3,0.75,34.8759,-83.9583,049f5c7f-44e8-4ec0-94b6-f83502a59e59,,,,,,,,,,,,,,,,,,
+001cv00000bBVl9,City of Buchanan,Georgia,Municipality,Hugh Bargeron,956,,Tier 3,0.75,33.8022,-85.1901,c222aecb-2346-4112-a385-575de65f7333,,,,,,,,,,,,,,,,,,
+001cv00000bBVo8,City of Hiawassee,Georgia,Municipality,Hugh Bargeron,1046,,Tier 3,0.75,34.9493,-83.7574,060f8e40-7be3-4359-9e9b-b2ceeadf2ae9,,,,,,,,,,,,,,,,,,
+001cv00000bBVxJ,City of Blue Ridge,Georgia,Municipality,Hugh Bargeron,1246,,Tier 3,0.75,34.864,-84.3241,37ff5448-72cc-4957-8e92-432908f6d480,,,,,,,,,4,2026-05-20,4,,,,,,,
+001cv00000bBVy1,Town of Pine Mountain,Georgia,Municipality,Hugh Bargeron,1288,,Tier 3,0.75,32.8649,-84.8541,df570f09-d1e2-40e8-a070-14f5f89dad63,,,,,,,,,,,,,,,,,,
+001cv00000bBWD5,City of Porterdale,Georgia,Municipality,Hugh Bargeron,1941,,Tier 3,0.75,33.5751,-83.8938,55c8df31-5712-4aa0-b86c-875e98b9bef1,,,,,,,,,2,2026-05-21,2,,,,,,,
+001cv00000bBWDX,City of Trion,Georgia,Municipality,Hugh Bargeron,1972,,Tier 3,0.75,34.544,-85.3105,f589b27e-9e3a-4ac1-b98b-475def106daf,,,,,,,,,,,,,,,,,,
+001cv00000bBWF4,City of South Fulton,Georgia,Municipality,Hugh Bargeron,112003,,Tier S,2.0,33.6576,-84.627,94c41c1e-f6a8-4d44-adbe-19254f2d1e90,,,,,,,,,8,2026-04-23,8,,,,,,,
+001cv00000bBWKu,City of Ellijay,Georgia,Municipality,Hugh Bargeron,1923,,Tier 3,0.75,34.6948,-84.4822,7d30221f-6e35-4732-aeb5-76586ec0c5ab,,,,,,,,,,,,,,,,,,
+001cv00000bBWN7,City of Sandy Springs,Georgia,Municipality,Hugh Bargeron,105505,,Tier S,2.0,33.9304,-84.3733,4ff26bda-9490-4d40-920b-e2fd51228ac2,,,,,,,,,4,2026-05-21,4,,,,,,,
+001cv00000bBWRJ,City of Clarkesville,Georgia,Municipality,Hugh Bargeron,2159,,Tier 3,0.75,34.6126,-83.5249,48bae5b2-1a94-4731-89fa-e44d40d5a00b,,,,,,,,,,,,,,,,,,
+001cv00000bBWRK,City of Demorest,Georgia,Municipality,Hugh Bargeron,2189,,Tier 3,0.75,34.5651,-83.5452,8e4594c0-2ea9-4f49-8bde-1e56d5dc78e8,,,,,,,,,,,,,,,,,,
+001cv00000bBWRL,City of Emerson,Georgia,Municipality,Hugh Bargeron,2192,,Tier 3,0.75,34.1272,-84.7543,84307f11-f047-4378-8463-a574bd75bb17,,,,,,,,,1,2026-05-06,1,,,,,,,
+001cv00000bBWRe,City of Monticello,Georgia,Municipality,Hugh Bargeron,2969,,Tier 3,0.75,37.8714,-109.3429,32a49232-29e5-43cf-ab5d-c9d8388d069c,,,,,,,,,,,,,,,,,,
+001cv00000bBWTZ,Macon-Bibb County,Georgia,Municipality,Hugh Bargeron,157056,,Tier S,2.0,32.8362,-83.632,e0f92ff8-7630-4c1d-9779-760b3c7d47ac,,,,,,,,,,,,,,,,,,
+001cv00000bBWXk,City of Atlanta,Georgia,Municipality,Hugh Bargeron,520070,,Tier S,2.0,33.7501,-84.3885,fe30b9c0-b095-41b4-b4d9-261ee9f4c7d9,,,,,,,,,,,,,,,,,,
+001cv00000bBWYc,Cobb County,Georgia,County,Hugh Bargeron,787538,,Tier S,2.0,33.8999,-84.5641,95548cba-73b8-45e9-88b0-3564feb77876,,,,,,,,,,,,,,,,,,
+001cv00000bBWZ7,Gwinnett County,Georgia,County,Hugh Bargeron,1003869,,Tier S,2.0,33.9191,-84.0167,4a066e1e-dd43-4096-baa3-0362183f7805,,,,,,,,,,,,,,,,,,
+001cv00000bBWZE,Fulton County,Georgia,County,Hugh Bargeron,1090354,,Tier S,2.0,33.8034,-84.3963,7a4e1821-9091-47b5-993d-f8688d723056,,,,,,,,,,,,,,,,,,
+001cv00000bBX0E,Chatham County,Georgia,County,Hugh Bargeron,307336,,Tier S,2.0,31.9994,-81.1196,ba6db9cc-12a1-401e-a91a-0606f759272f,,,,,,,,,,,,,,,,,,
+001cv00000hiDwr,City of Mableton,Georgia,Municipality,Hugh Bargeron,,,Tier 3,0.75,33.8185,-84.5762,,,,,,,,,,,,,,,,,,,

@@ -1,63 +1,63 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Catherine Silvestri,Calls - Joe del Rosario,Calls - Jenny Allison,Outreach ID
-001Hr000028Zbpq,"City Of Rock Springs, WY",Wyoming,Municipality,Catherine Silvestri,23196,,Tier 2,1.0,41.5875,-109.2029,7447814f-477e-4108-a764-99b731ef1f7d,,,,,,,,,3,2026-05-13,3,,,7034
-001Hr000028Zd7d,"Town Of Jackson, WY",Wyoming,Municipality,Catherine Silvestri,10849,Open Opportunity,Tier 2,1.0,43.4799,-110.7624,ad6a9d35-e699-41b5-97b9-b22c2c599687,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,5/4/2026,,,21,2026-05-12,11,10,,6683
-001Hr000028ZdA2,"City Of Cody, WY",Wyoming,Municipality,Catherine Silvestri,10174,,Tier 2,1.0,44.5263,-109.0565,6d0bd7d0-4717-47c9-bd10-60982da46780,,,,,,,,,9,2026-05-18,9,,,6646
-001Hr000028ZdD7,"City Of Laramie, WY",Wyoming,Municipality,Catherine Silvestri,31659,,Tier 1,1.5,41.3114,-105.5911,48567ee9-bb83-4afb-9821-f6da7661f2d7,,,,,,,,,3,2026-04-23,3,,,7121
-001Hr000028ZdIf,"City Of Lander, WY",Wyoming,Municipality,Catherine Silvestri,7451,,Tier 3,0.75,42.833,-108.7307,3ea6a854-df85-495b-b865-bf84d6b9d2fd,,,,,,,,,4,2025-06-02,,4,,6471
-001Hr000028ZdLr,"City Of Worland, WY",Wyoming,Municipality,Catherine Silvestri,4787,,Tier 3,0.75,44.0169,-107.9554,054035b5-e5be-451e-9e0a-6b99fd401986,,,,,,,,,,,,,,6180
-001Hr000028ZdM6,"City Of Douglas, WY",Wyoming,Municipality,Catherine Silvestri,6351,,Tier 3,0.75,42.7597,-105.3822,aeca1053-73ef-4875-89a8-6bef62e4013a,,,,,,,,,,,,,,6360
-001Hr000028ZdPT,"City Of Powell, WY",Wyoming,Municipality,Catherine Silvestri,6418,,Tier 3,0.75,44.7538,-108.7574,e466ebce-66b9-4dde-83d3-b554342cb04f,,,,,,,,,2,2026-05-12,2,,,6351
-001Hr000028ZdPo,"City Of Torrington, WY",Wyoming,Municipality,Catherine Silvestri,6132,,Tier 3,0.75,42.0625,-104.1844,66e319df-e8df-4f60-aee5-aa89319d628a,,,,,,,,,,,,,,6389
-001Hr000028ZdSz,"Laramie County, WY",Wyoming,County,Catherine Silvestri,101783,,Tier S,2.0,41.427,-104.8455,44b23730-3a61-4213-8702-08daa3c0cdca,,,,,,,,,1,2026-05-14,1,,,11997
-001Hr000028ZdT6,"City Of Rawlins, WY",Wyoming,Municipality,Catherine Silvestri,8298,,Tier 3,0.75,41.7911,-107.2387,a7c187da-e311-4873-b643-af8b737534a3,,,,,,,,,1,2025-10-21,,1,,6543
-001Hr000028ZdUG,"City Of Evanston, WY",Wyoming,Municipality,Catherine Silvestri,11814,,Tier 2,1.0,41.2683,-110.9632,0adf9a3b-1c4f-4b3b-bf85-0d4ed60740be,,,,,,,,,1,2025-08-13,,1,,6741
-001Hr000028ZdVb,"City Of Riverton, WY",Wyoming,Municipality,Catherine Silvestri,10587,,Tier 2,1.0,43.0247,-108.3806,bcc5c668-d9ed-4491-a04b-952deb93cf20,,,,,,,,,3,2026-05-06,1,2,,6675
-001Hr000028ZdWt,"City Of Green River, WY",Wyoming,Municipality,Catherine Silvestri,11609,Nurture,Tier 2,1.0,41.5294,-109.4655,8a2c90ae-c937-4f3a-891a-8edb40202df7,Open,Initial Interest,Top of Funnel,,,1/9/2025,,,5,2026-05-13,5,,,6744
-001Hr000028ZdZd,"City Of Sheridan, WY",Wyoming,Municipality,Catherine Silvestri,19095,,Tier 2,1.0,44.7972,-106.9562,588a9d7b-736f-441f-9df5-389a85b3c4ed,,,,,,,,,1,2026-05-06,1,,,6959
-001Hr000028Zdb1,"Albany County, WY",Wyoming,County,Catherine Silvestri,38257,,Tier 1,1.5,41.6384,-105.5943,07286b68-29db-45a6-93a6-bd0eae02a63f,,,,,,,,,5,2026-05-04,5,,,11914
-001Hr000028Zdba,"City Of Gillette, WY",Wyoming,Municipality,Catherine Silvestri,32884,Open Opportunity,Tier 1,1.5,44.2931,-105.4942,8b8fbe0c-89a2-4e20-bdf3-727528406938,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,3,2026-05-12,2,1,,7133
-001Hr000028ZdgV,"Fremont County, WY",Wyoming,County,Catherine Silvestri,,,Tier 3,0.75,43.012,-108.6176,d0bb9672-f741-4572-af13-a988eca6b4d3,,,,,,,,,,,,,,11913
-001Hr000028ZdhI,"City Of Cheyenne, WY",Wyoming,Municipality,Catherine Silvestri,65051,Open Opportunity,Tier S,2.0,41.1347,-104.8212,93207e4d-defc-48c2-9736-d1bfa08d9f4f,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,5/8/2026,4/24/2026,,,7,2026-05-06,7,,,11644
-001Hr000028ZdhS,"City Of Casper, WY",Wyoming,Municipality,Catherine Silvestri,58656,,Tier S,2.0,42.8487,-106.2981,9397110a-d73a-445d-aa2f-b1dd3bb78dad,,,,,,,,,9,2026-05-12,9,,,11645
-001cv00000AuWpA,"Town Of Lyman, WY",Wyoming,Municipality,Catherine Silvestri,2175,,Tier 3,0.75,41.3275,-110.2929,fc852ebd-c312-4e60-a483-cc005b11aa31,,,,,,,,,,,,,,13506
-001cv00000AuWr5,"Town Of Afton, WY",Wyoming,Municipality,Catherine Silvestri,2213,,Tier 3,0.75,42.7249,-110.9319,4ee27fe8-877a-4cc5-b3d3-adc6c0f8244b,,,,,,,,,,,,,,13584
-001cv00000AuX65,"Town Of Pinedale, WY",Wyoming,Municipality,Catherine Silvestri,2262,,Tier 3,0.75,42.8679,-109.8633,cd2a1758-1b44-4dbb-83df-f36dfff6f3a2,,,,,,,,,1,2026-04-28,,,1,13741
-001cv00000AuX6b,"Town Of Lovell, WY",Wyoming,Municipality,Catherine Silvestri,2271,,Tier 3,0.75,44.8375,-108.3896,52366ec5-0ae5-45a8-82ac-f2b71aa7d3c6,,,,,,,,,,,,,,13802
-001cv00000AuXf6,"Town Of Thermopolis, WY",Wyoming,Municipality,Catherine Silvestri,2706,,Tier 3,0.75,43.6461,-108.212,b60fad2b-1a81-47d1-b82f-4f8e0c731284,,,,,,,,,,,,,,14414
-001cv00000AuXgQ,"Town Of Evansville, WY",Wyoming,Municipality,Catherine Silvestri,2749,,Tier 3,0.75,42.8619,-106.2708,acb659ac-7041-4907-bda8-ecae5698fb4a,,,,,,,,,,,,,,14434
-001cv00000AuYEC,"Town Of Bar Nunn, WY",Wyoming,Municipality,Catherine Silvestri,2978,,Tier 3,0.75,42.914,-106.3423,5838dbff-f571-4e43-adfb-ba11a05304b9,,,,,,,,,,,,,,15263
-001cv00000AuYOJ,"City Of Newcastle, WY",Wyoming,Municipality,Catherine Silvestri,3204,,Tier 3,0.75,43.8547,-104.2049,9c76c586-fee5-467e-97c4-046319870918,,,,,,,,,,,,,,15408
-001cv00000AuYSM,"Town Of Wheatland, WY",Wyoming,Municipality,Catherine Silvestri,3597,,Tier 3,0.75,42.0544,-104.9527,c03d8dab-8456-40a2-9a28-8568094c8587,,,,,,,,,1,2025-07-09,,1,,15696
-001cv00000AuYpv,"Town Of Mills, WY",Wyoming,Municipality,Catherine Silvestri,4221,,Tier 3,0.75,42.852,-106.3853,c2db8d4a-75cb-4129-a2d0-feb388e89b58,,,,,,,,,,,,,,16372
-001cv00000AuYyi,"Town Of Buffalo, WY",Wyoming,Municipality,Catherine Silvestri,4469,,Tier 3,0.75,44.3482,-106.6991,98063995-3caf-4c4a-9744-380296046462,,,,,,,,,,,,,,20035
-001cv00000AuZCc,"County Of Weston, WY",Wyoming,County,Catherine Silvestri,6745,,Tier 3,0.75,43.927,-104.4723,320866cf-86ee-40f2-9888-1b17e7d09989,,,,,,,,,,,,,,17228
-001cv00000AuZQr,"County Of Crook, WY",Wyoming,County,Catherine Silvestri,7315,,Tier 3,0.75,44.4976,-104.6915,3d08080e-d285-492c-a507-a690cbe33945,,,,,,,,,1,2025-07-15,,1,,17584
-001cv00000AuZRm,"County Of Washakie, WY",Wyoming,County,Catherine Silvestri,7705,,Tier 3,0.75,43.8348,-107.7038,760ac89c-0d3d-4988-8b1a-6ce9cbea56a8,,,,,,,,,3,2025-07-15,,3,,17745
-001cv00000AuZYE,"County Of Johnson, WY",Wyoming,County,Catherine Silvestri,8623,,Tier 3,0.75,43.9557,-106.4273,cb887c36-bcea-4079-9c48-e1ca91a29181,,,,,,,,,9,2025-07-24,,9,,17764
-001cv00000AuZas,"County Of Big Horn, WY",Wyoming,County,Catherine Silvestri,11632,,Tier 2,1.0,44.6036,-108.0941,041b3d09-ce35-4264-9e9d-f4fe0d28b30c,,,,,,,,,2,2025-07-23,,2,,18228
-001cv00000AuZdG,"County Of Sublette, WY",Wyoming,County,Catherine Silvestri,8697,,Tier 3,0.75,42.8139,-109.7592,983b3f70-3c6c-4fda-a5ae-c42b3336d837,,,,,,,,,,,,,,17769
-001cv00000AuZdH,"County Of Platte, WY",Wyoming,County,Catherine Silvestri,8699,,Tier 3,0.75,42.0506,-104.8455,9e1ea393-aff4-4492-9ae1-54b70c887f1f,,,,,,,,,,,,,,17779
-001cv00000AuZhE,"County Of Carbon, WY",Wyoming,County,Catherine Silvestri,14649,,Tier 2,1.0,41.6032,-106.9123,35f1a92e-9efc-4128-a2e1-70a1e9e07432,,,,,,,,,,,,,,18218
-001cv00000AuZib,"County Of Goshen, WY",Wyoming,County,Catherine Silvestri,12537,,Tier 2,1.0,42.0334,-104.3792,b335167f-61e3-416f-942f-a5ab1193df96,,,,,,,,,10,2026-05-12,8,2,,18093
-001cv00000AuZmy,"County Of Converse, WY",Wyoming,County,Catherine Silvestri,13672,,Tier 2,1.0,43.0489,-105.4068,072ea765-cc23-4d3a-be0e-df9dffa4b1d0,,,,,,,,,,,,,,17961
-001cv00000Aua1B,"County Of Park, WY",Wyoming,County,Catherine Silvestri,30108,,Tier 1,1.5,44.6782,-109.458,af5cce91-0de2-4f1b-baf2-8669a412868a,,,,,,,,,3,2026-05-11,3,,,18640
-001cv00000Aua3V,"County Of Lincoln, WY",Wyoming,County,Catherine Silvestri,20153,,Tier 2,1.0,42.0703,-110.5215,65e4b7dc-91e9-417d-864f-50a214e077cb,,,,,,,,,,,,,,18746
-001cv00000Aua3w,"County Of Uinta, WY",Wyoming,County,Catherine Silvestri,20635,Nurture,Tier 2,1.0,41.2107,-110.6169,03e378ee-442f-440c-8a94-46a47bc7147f,Closed Lost,,,Joe del Rosario,8/18/2025,8/12/2025,,,3,2025-08-15,,3,,18590
-001cv00000Aua8P,"County Of Sheridan, WY",Wyoming,County,Catherine Silvestri,31646,,Tier 1,1.5,44.7879,-106.926,4819b6bd-2642-4565-b86f-46c6df2e89ca,,,,,,,,,7,2025-08-21,,7,,18863
-001cv00000AuaAT,"County Of Teton, WY",Wyoming,County,Catherine Silvestri,23575,,Tier 2,1.0,43.8536,-110.6314,f4775dde-ff7e-419a-8528-b78785e48668,,,,,,,,,2,2025-09-03,,2,,18845
-001cv00000AuaGB,"County Of Sweetwater, WY",Wyoming,County,Catherine Silvestri,41614,,Tier 1,1.5,41.8519,-109.188,f8ee3e08-7305-4f48-a461-2884564dbc99,,,,,,,,,4,2026-05-11,2,2,,18973
-001cv00000AuaJu,"County Of Campbell, WY",Wyoming,County,Catherine Silvestri,46401,,Tier 1,1.5,44.3956,-105.4489,1a142fa0-c48f-4c62-bffe-742e41d6d9bc,,,,,,,,,2,2026-04-24,1,1,,19495
-001cv00000AuaWw,"County Of Natrona, WY",Wyoming,County,Catherine Silvestri,79555,,Tier S,2.0,42.8314,-106.9123,1ae00512-7d37-48ee-ad1c-a50add42576f,,,,,,,,,2,2026-02-20,2,,,19861
-001cv00000B21qc,"Town Of Glenrock, WY",Wyoming,Municipality,Catherine Silvestri,2407,,Tier 3,0.75,42.8614,-105.8722,1a25aeb8-a01d-4d9c-bdd4-4b612288e26a,,,,,,,,,,,,,,20136
-001cv00000B21rI,"City Of Kemmerer, WY",Wyoming,Municipality,Catherine Silvestri,2422,,Tier 3,0.75,41.7924,-110.5377,31422f36-18fb-4ef9-99b0-728c4bd4c92e,,,,,,,,,,,,,,20258
-001cv00000B21rx,"County Of Niobrara, WY",Wyoming,County,Catherine Silvestri,2438,,Tier 3,0.75,43.0212,-104.4723,ea2193a8-4296-4592-8875-cd08adf7053c,,,,,,,,,,,,,,20265
-001cv00000B220N,"County Of Hot Springs, WY",Wyoming,County,Catherine Silvestri,4597,,Tier 3,0.75,43.6587,-108.3268,739934c1-acfb-4ea4-b8ff-54be5b41d367,,,,,,,,,,,,,,20501
-001cv00000bBVfo,Town of Dayton,Wyoming,Municipality,Asher Rosenfeld,829,,Tier 3,0.75,44.8752,-107.2623,80ec79b0-ec05-4602-a38f-08f0c0a7e72b,,,,,,,,,,,,,,21167
-001cv00000bBVhm,Town of Marbleton,Wyoming,Municipality,Asher Rosenfeld,845,,Tier 3,0.75,42.5536,-110.1093,e9054851-9f23-4eaa-887d-d654a377d825,,,,,,,,,,,,,,21260
-001cv00000bBVp9,Town of Pine Bluffs,Wyoming,Municipality,Asher Rosenfeld,1111,,Tier 3,0.75,41.1819,-104.0691,fa8226f2-e050-4418-8903-2104a6dc8671,,,,,,,,,,,,,,21502
-001cv00000bBVpO,City of Sundance,Wyoming,Municipality,Asher Rosenfeld,1123,,Tier 3,0.75,44.4064,-104.3758,a4bf03c3-6984-4bfd-bc86-22cb183b0c62,,,,,,,,,,,,,,21515
-001cv00000bBVwB,Town of Ranchester,Wyoming,Municipality,Asher Rosenfeld,1176,,Tier 3,0.75,44.9089,-107.1634,aa11153d-d0db-4ad7-82b7-87dd34328761,,,,,,,,,,,,,,21562
-001cv00000bBWIe,Town of Saratoga,Wyoming,Municipality,Asher Rosenfeld,1760,,Tier 3,0.75,41.455,-106.8064,e7e0a734-b027-4ce1-bcba-e27c54ae48ed,,,,,,,,,,,,,,21739
-001cv00000bBWPI,Town of Greybull,Wyoming,Municipality,Asher Rosenfeld,1715,,Tier 3,0.75,44.4891,-108.0562,a8675786-adea-4f5d-bb4f-ade89fa1f632,,,,,,,,,,,,,,22272
-001cv00000bBWQv,Town of Star Valley Ranch,Wyoming,Municipality,Asher Rosenfeld,2041,,Tier 3,0.75,42.9714,-110.9556,adebbf7e-d983-408c-9649-7986095600eb,,,,,,,,,,,,,,22223
-001cv00000bBWtj,Town of Lusk,Wyoming,Municipality,Asher Rosenfeld,1401,,Tier 3,0.75,42.7625,-104.4522,60c3d208-5acc-4de1-8a32-a098fbc777bb,,,,,,,,,,,,,,22634
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Catherine Silvestri,Calls - Joe del Rosario,Calls - Jenny Allison,Salesforce ID
+001Hr000028Zbpq,"City Of Rock Springs, WY",Wyoming,Municipality,Catherine Silvestri,23196,,Tier 2,1.0,41.5875,-109.2029,7447814f-477e-4108-a764-99b731ef1f7d,,,,,,,,,5,2026-05-21,5,,,
+001Hr000028Zd7d,"Town Of Jackson, WY",Wyoming,Municipality,Catherine Silvestri,10849,Open Opportunity,Tier 2,1.0,43.4799,-110.7624,ad6a9d35-e699-41b5-97b9-b22c2c599687,Open,Initial Interest,Top of Funnel,Catherine Silvestri,,5/4/2026,,,22,2026-05-21,12,10,,
+001Hr000028ZdA2,"City Of Cody, WY",Wyoming,Municipality,Catherine Silvestri,10174,,Tier 2,1.0,44.5263,-109.0565,6d0bd7d0-4717-47c9-bd10-60982da46780,,,,,,,,,14,2026-05-26,14,,,
+001Hr000028ZdD7,"City Of Laramie, WY",Wyoming,Municipality,Catherine Silvestri,31659,,Tier 1,1.5,41.3114,-105.5911,48567ee9-bb83-4afb-9821-f6da7661f2d7,,,,,,,,,3,2026-04-23,3,,,
+001Hr000028ZdIf,"City Of Lander, WY",Wyoming,Municipality,Catherine Silvestri,7451,,Tier 3,0.75,42.833,-108.7307,3ea6a854-df85-495b-b865-bf84d6b9d2fd,,,,,,,,,2,2025-06-02,,2,,
+001Hr000028ZdLr,"City Of Worland, WY",Wyoming,Municipality,Catherine Silvestri,4787,,Tier 3,0.75,44.0169,-107.9554,054035b5-e5be-451e-9e0a-6b99fd401986,,,,,,,,,,,,,,
+001Hr000028ZdM6,"City Of Douglas, WY",Wyoming,Municipality,Catherine Silvestri,6351,,Tier 3,0.75,42.7597,-105.3822,aeca1053-73ef-4875-89a8-6bef62e4013a,,,,,,,,,,,,,,
+001Hr000028ZdPT,"City Of Powell, WY",Wyoming,Municipality,Catherine Silvestri,6418,,Tier 3,0.75,44.7538,-108.7574,e466ebce-66b9-4dde-83d3-b554342cb04f,,,,,,,,,2,2026-05-12,2,,,
+001Hr000028ZdPo,"City Of Torrington, WY",Wyoming,Municipality,Catherine Silvestri,6132,,Tier 3,0.75,42.0625,-104.1844,66e319df-e8df-4f60-aee5-aa89319d628a,,,,,,,,,,,,,,
+001Hr000028ZdSz,"Laramie County, WY",Wyoming,County,Catherine Silvestri,101783,,Tier S,2.0,41.427,-104.8455,44b23730-3a61-4213-8702-08daa3c0cdca,,,,,,,,,1,2026-05-14,1,,,
+001Hr000028ZdT6,"City Of Rawlins, WY",Wyoming,Municipality,Catherine Silvestri,8298,,Tier 3,0.75,41.7911,-107.2387,a7c187da-e311-4873-b643-af8b737534a3,,,,,,,,,1,2025-10-21,,1,,
+001Hr000028ZdUG,"City Of Evanston, WY",Wyoming,Municipality,Catherine Silvestri,11814,,Tier 2,1.0,41.2683,-110.9632,0adf9a3b-1c4f-4b3b-bf85-0d4ed60740be,,,,,,,,,1,2025-08-13,,1,,
+001Hr000028ZdVb,"City Of Riverton, WY",Wyoming,Municipality,Catherine Silvestri,10587,,Tier 2,1.0,43.0247,-108.3806,bcc5c668-d9ed-4491-a04b-952deb93cf20,,,,,,,,,3,2026-05-06,1,2,,
+001Hr000028ZdWt,"City Of Green River, WY",Wyoming,Municipality,Catherine Silvestri,11609,Nurture,Tier 2,1.0,41.5294,-109.4655,8a2c90ae-c937-4f3a-891a-8edb40202df7,Open,Initial Interest,Top of Funnel,,,1/9/2025,,,7,2026-05-22,7,,,
+001Hr000028ZdZd,"City Of Sheridan, WY",Wyoming,Municipality,Catherine Silvestri,19095,,Tier 2,1.0,44.7972,-106.9562,588a9d7b-736f-441f-9df5-389a85b3c4ed,,,,,,,,,1,2026-05-06,1,,,
+001Hr000028Zdb1,"Albany County, WY",Wyoming,County,Catherine Silvestri,38257,,Tier 1,1.5,41.6384,-105.5943,07286b68-29db-45a6-93a6-bd0eae02a63f,,,,,,,,,5,2026-05-04,5,,,
+001Hr000028Zdba,"City Of Gillette, WY",Wyoming,Municipality,Catherine Silvestri,32884,Open Opportunity,Tier 1,1.5,44.2931,-105.4942,8b8fbe0c-89a2-4e20-bdf3-727528406938,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,5,2026-05-21,4,1,,
+001Hr000028ZdgV,"Fremont County, WY",Wyoming,County,Catherine Silvestri,,,Tier 3,0.75,43.012,-108.6176,d0bb9672-f741-4572-af13-a988eca6b4d3,,,,,,,,,,,,,,
+001Hr000028ZdhI,"City Of Cheyenne, WY",Wyoming,Municipality,Catherine Silvestri,65051,Open Opportunity,Tier S,2.0,41.1347,-104.8212,93207e4d-defc-48c2-9736-d1bfa08d9f4f,Open,Initial Interest,Top of Funnel,Catherine Silvestri,5/8/2026,4/24/2026,,,7,2026-05-06,7,,,
+001Hr000028ZdhS,"City Of Casper, WY",Wyoming,Municipality,Catherine Silvestri,58656,,Tier S,2.0,42.8487,-106.2981,9397110a-d73a-445d-aa2f-b1dd3bb78dad,,,,,,,,,9,2026-05-12,9,,,
+001cv00000AuWpA,"Town Of Lyman, WY",Wyoming,Municipality,Catherine Silvestri,2175,,Tier 3,0.75,41.3275,-110.2929,fc852ebd-c312-4e60-a483-cc005b11aa31,,,,,,,,,,,,,,
+001cv00000AuWr5,"Town Of Afton, WY",Wyoming,Municipality,Catherine Silvestri,2213,,Tier 3,0.75,42.7249,-110.9319,4ee27fe8-877a-4cc5-b3d3-adc6c0f8244b,,,,,,,,,,,,,,
+001cv00000AuX65,"Town Of Pinedale, WY",Wyoming,Municipality,Catherine Silvestri,2262,,Tier 3,0.75,42.8679,-109.8633,cd2a1758-1b44-4dbb-83df-f36dfff6f3a2,,,,,,,,,1,2026-04-28,,,1,
+001cv00000AuX6b,"Town Of Lovell, WY",Wyoming,Municipality,Catherine Silvestri,2271,,Tier 3,0.75,44.8375,-108.3896,52366ec5-0ae5-45a8-82ac-f2b71aa7d3c6,,,,,,,,,,,,,,
+001cv00000AuXf6,"Town Of Thermopolis, WY",Wyoming,Municipality,Catherine Silvestri,2706,,Tier 3,0.75,43.6461,-108.212,b60fad2b-1a81-47d1-b82f-4f8e0c731284,,,,,,,,,,,,,,
+001cv00000AuXgQ,"Town Of Evansville, WY",Wyoming,Municipality,Catherine Silvestri,2749,,Tier 3,0.75,42.8619,-106.2708,acb659ac-7041-4907-bda8-ecae5698fb4a,,,,,,,,,,,,,,
+001cv00000AuYEC,"Town Of Bar Nunn, WY",Wyoming,Municipality,Catherine Silvestri,2978,,Tier 3,0.75,42.914,-106.3423,5838dbff-f571-4e43-adfb-ba11a05304b9,,,,,,,,,,,,,,
+001cv00000AuYOJ,"City Of Newcastle, WY",Wyoming,Municipality,Catherine Silvestri,3204,,Tier 3,0.75,43.8547,-104.2049,9c76c586-fee5-467e-97c4-046319870918,,,,,,,,,,,,,,
+001cv00000AuYSM,"Town Of Wheatland, WY",Wyoming,Municipality,Catherine Silvestri,3597,,Tier 3,0.75,42.0544,-104.9527,c03d8dab-8456-40a2-9a28-8568094c8587,,,,,,,,,1,2025-07-09,,1,,
+001cv00000AuYpv,"Town Of Mills, WY",Wyoming,Municipality,Catherine Silvestri,4221,,Tier 3,0.75,42.852,-106.3853,c2db8d4a-75cb-4129-a2d0-feb388e89b58,,,,,,,,,,,,,,
+001cv00000AuYyi,"Town Of Buffalo, WY",Wyoming,Municipality,Catherine Silvestri,4469,,Tier 3,0.75,44.3482,-106.6991,98063995-3caf-4c4a-9744-380296046462,,,,,,,,,,,,,,
+001cv00000AuZCc,"County Of Weston, WY",Wyoming,County,Catherine Silvestri,6745,,Tier 3,0.75,43.927,-104.4723,320866cf-86ee-40f2-9888-1b17e7d09989,,,,,,,,,,,,,,
+001cv00000AuZQr,"County Of Crook, WY",Wyoming,County,Catherine Silvestri,7315,,Tier 3,0.75,44.4976,-104.6915,3d08080e-d285-492c-a507-a690cbe33945,,,,,,,,,1,2025-07-15,,1,,
+001cv00000AuZRm,"County Of Washakie, WY",Wyoming,County,Catherine Silvestri,7705,,Tier 3,0.75,43.8348,-107.7038,760ac89c-0d3d-4988-8b1a-6ce9cbea56a8,,,,,,,,,3,2025-07-15,,3,,
+001cv00000AuZYE,"County Of Johnson, WY",Wyoming,County,Catherine Silvestri,8623,,Tier 3,0.75,43.9557,-106.4273,cb887c36-bcea-4079-9c48-e1ca91a29181,,,,,,,,,9,2025-07-24,,9,,
+001cv00000AuZas,"County Of Big Horn, WY",Wyoming,County,Catherine Silvestri,11632,,Tier 2,1.0,44.6036,-108.0941,041b3d09-ce35-4264-9e9d-f4fe0d28b30c,,,,,,,,,2,2025-07-23,,2,,
+001cv00000AuZdG,"County Of Sublette, WY",Wyoming,County,Catherine Silvestri,8697,,Tier 3,0.75,42.8139,-109.7592,983b3f70-3c6c-4fda-a5ae-c42b3336d837,,,,,,,,,,,,,,
+001cv00000AuZdH,"County Of Platte, WY",Wyoming,County,Catherine Silvestri,8699,,Tier 3,0.75,42.0506,-104.8455,9e1ea393-aff4-4492-9ae1-54b70c887f1f,,,,,,,,,,,,,,
+001cv00000AuZhE,"County Of Carbon, WY",Wyoming,County,Catherine Silvestri,14649,,Tier 2,1.0,41.6032,-106.9123,35f1a92e-9efc-4128-a2e1-70a1e9e07432,,,,,,,,,,,,,,
+001cv00000AuZib,"County Of Goshen, WY",Wyoming,County,Catherine Silvestri,12537,Open Opportunity,Tier 2,1.0,42.0334,-104.3792,b335167f-61e3-416f-942f-a5ab1193df96,Open,Meeting Booked,Top of Funnel,Catherine Silvestri,6/24/2026,5/26/2026,,,16,2026-05-26,14,2,,
+001cv00000AuZmy,"County Of Converse, WY",Wyoming,County,Catherine Silvestri,13672,,Tier 2,1.0,43.0489,-105.4068,072ea765-cc23-4d3a-be0e-df9dffa4b1d0,,,,,,,,,,,,,,
+001cv00000Aua1B,"County Of Park, WY",Wyoming,County,Catherine Silvestri,30108,,Tier 1,1.5,44.6782,-109.458,af5cce91-0de2-4f1b-baf2-8669a412868a,,,,,,,,,3,2026-05-11,3,,,
+001cv00000Aua3V,"County Of Lincoln, WY",Wyoming,County,Catherine Silvestri,20153,,Tier 2,1.0,42.0703,-110.5215,65e4b7dc-91e9-417d-864f-50a214e077cb,,,,,,,,,,,,,,
+001cv00000Aua3w,"County Of Uinta, WY",Wyoming,County,Catherine Silvestri,20635,Nurture,Tier 2,1.0,41.2107,-110.6169,03e378ee-442f-440c-8a94-46a47bc7147f,Closed Lost,,,Joe del Rosario,8/18/2025,8/12/2025,,,3,2025-08-15,,3,,
+001cv00000Aua8P,"County Of Sheridan, WY",Wyoming,County,Catherine Silvestri,31646,,Tier 1,1.5,44.7879,-106.926,4819b6bd-2642-4565-b86f-46c6df2e89ca,,,,,,,,,7,2025-08-21,,7,,
+001cv00000AuaAT,"County Of Teton, WY",Wyoming,County,Catherine Silvestri,23575,,Tier 2,1.0,43.8536,-110.6314,f4775dde-ff7e-419a-8528-b78785e48668,,,,,,,,,2,2025-09-03,,2,,
+001cv00000AuaGB,"County Of Sweetwater, WY",Wyoming,County,Catherine Silvestri,41614,,Tier 1,1.5,41.8519,-109.188,f8ee3e08-7305-4f48-a461-2884564dbc99,,,,,,,,,4,2026-05-11,2,2,,
+001cv00000AuaJu,"County Of Campbell, WY",Wyoming,County,Catherine Silvestri,46401,,Tier 1,1.5,44.3956,-105.4489,1a142fa0-c48f-4c62-bffe-742e41d6d9bc,,,,,,,,,2,2026-04-24,1,1,,
+001cv00000AuaWw,"County Of Natrona, WY",Wyoming,County,Catherine Silvestri,79555,,Tier S,2.0,42.8314,-106.9123,1ae00512-7d37-48ee-ad1c-a50add42576f,,,,,,,,,2,2026-02-20,2,,,
+001cv00000B21qc,"Town Of Glenrock, WY",Wyoming,Municipality,Catherine Silvestri,2407,,Tier 3,0.75,42.8614,-105.8722,1a25aeb8-a01d-4d9c-bdd4-4b612288e26a,,,,,,,,,,,,,,
+001cv00000B21rI,"City Of Kemmerer, WY",Wyoming,Municipality,Catherine Silvestri,2422,,Tier 3,0.75,41.7924,-110.5377,31422f36-18fb-4ef9-99b0-728c4bd4c92e,,,,,,,,,,,,,,
+001cv00000B21rx,"County Of Niobrara, WY",Wyoming,County,Catherine Silvestri,2438,,Tier 3,0.75,43.0212,-104.4723,ea2193a8-4296-4592-8875-cd08adf7053c,,,,,,,,,,,,,,
+001cv00000B220N,"County Of Hot Springs, WY",Wyoming,County,Catherine Silvestri,4597,,Tier 3,0.75,43.6587,-108.3268,739934c1-acfb-4ea4-b8ff-54be5b41d367,,,,,,,,,,,,,,
+001cv00000bBVfo,Town of Dayton,Wyoming,Municipality,Asher Rosenfeld,829,,Tier 3,0.75,44.8752,-107.2623,80ec79b0-ec05-4602-a38f-08f0c0a7e72b,,,,,,,,,,,,,,
+001cv00000bBVhm,Town of Marbleton,Wyoming,Municipality,Asher Rosenfeld,845,,Tier 3,0.75,42.5536,-110.1093,e9054851-9f23-4eaa-887d-d654a377d825,,,,,,,,,,,,,,
+001cv00000bBVp9,Town of Pine Bluffs,Wyoming,Municipality,Asher Rosenfeld,1111,,Tier 3,0.75,41.1819,-104.0691,fa8226f2-e050-4418-8903-2104a6dc8671,,,,,,,,,,,,,,
+001cv00000bBVpO,City of Sundance,Wyoming,Municipality,Asher Rosenfeld,1123,,Tier 3,0.75,44.4064,-104.3758,a4bf03c3-6984-4bfd-bc86-22cb183b0c62,,,,,,,,,,,,,,
+001cv00000bBVwB,Town of Ranchester,Wyoming,Municipality,Asher Rosenfeld,1176,,Tier 3,0.75,44.9089,-107.1634,aa11153d-d0db-4ad7-82b7-87dd34328761,,,,,,,,,,,,,,
+001cv00000bBWIe,Town of Saratoga,Wyoming,Municipality,Asher Rosenfeld,1760,,Tier 3,0.75,41.455,-106.8064,e7e0a734-b027-4ce1-bcba-e27c54ae48ed,,,,,,,,,,,,,,
+001cv00000bBWPI,Town of Greybull,Wyoming,Municipality,Asher Rosenfeld,1715,,Tier 3,0.75,44.4891,-108.0562,a8675786-adea-4f5d-bb4f-ade89fa1f632,,,,,,,,,,,,,,
+001cv00000bBWQv,Town of Star Valley Ranch,Wyoming,Municipality,Asher Rosenfeld,2041,,Tier 3,0.75,42.9714,-110.9556,adebbf7e-d983-408c-9649-7986095600eb,,,,,,,,,,,,,,
+001cv00000bBWtj,Town of Lusk,Wyoming,Municipality,Asher Rosenfeld,1401,,Tier 3,0.75,42.7625,-104.4522,60c3d208-5acc-4de1-8a32-a098fbc777bb,,,,,,,,,,,,,,

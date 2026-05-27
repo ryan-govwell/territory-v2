@@ -1,565 +1,565 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Nick Martino,Calls - Leila Assil,Calls - Jenny Allison,Calls - Joe del Rosario,Calls - Quinzel Perry,Outreach ID
-001Hr000028Zbsc,"City Of Wausau, WI",Wisconsin,Municipality,Nick Martino,39575,,Tier 1,1.5,44.9591,-89.6301,39e82119-8d6c-4d09-8098-d004d7f9dbbb,,,,,,,,,7,2025-07-08,7,,,,,7178
-001Hr000028Zc2q,"Town Of Ledgeview, WI",Wisconsin,Municipality,Nick Martino,9120,,Tier 3,0.75,44.4284,-87.9629,b3cc4edf-51e2-452e-af4e-661dbc9a540e,,,,,,,,,20,2026-05-19,20,,,,,6563
-001Hr000028Zc2r,"City Of Cedarburg, WI",Wisconsin,Municipality,Nick Martino,12400,,Tier 2,1.0,43.2967,-87.9876,a02a6723-4c21-436a-be3b-004e6ea869d8,,,,,,,,,6,2025-07-29,6,,,,,6752
-001Hr000028ZcBo,"Town Of Lafayette, WI",Wisconsin,Municipality,Nick Martino,2079,,Tier 3,0.75,42.7174,-88.4985,eaa81094-a6f5-47e4-9977-77c8dcd187ab,,,,,,,,,,,,,,,,6339
-001Hr000028ZcD9,"Village Of Hobart, WI",Wisconsin,Municipality,Nick Martino,10351,,Tier 2,1.0,44.4883,-88.1584,b9d52c74-07b2-4fa3-9207-c80ba8e924aa,,,,,,,,,2,2025-09-18,2,,,,,6630
-001Hr000028ZcN8,"Town Of Delavan, WI",Wisconsin,Municipality,Nick Martino,5332,,Tier 3,0.75,42.6302,-88.5662,6797f19c-79e4-48ac-bf1d-4a48bc77baef,,,,,,,,,,,,,,,,6214
-001Hr000028ZcTx,"City Of Racine, WI",Wisconsin,Municipality,Nick Martino,77127,,Tier S,2.0,42.7261,-87.7829,44a040ad-4189-49a1-8917-2baf57417b89,,,,,,,,,,,,,,,,11735
-001Hr000028ZcYI,"Oconto County, WI",Wisconsin,County,Nick Martino,39775,,Tier 1,1.5,44.8333,-88.0118,bd23e8f0-681b-4a50-9083-872d326beeb9,,,,,,,,,1,2026-01-28,1,,,,,11902
-001Hr000028ZccK,"City Of Menasha, WI",Wisconsin,Municipality,Nick Martino,18107,Open Opportunity,Tier 2,1.0,44.2022,-88.4465,6d0390cc-47fe-42d1-9fc7-677a1cb2d1c2,Open,Demo,Mid Funnel,Nick Martino,11/3/2025,10/6/2025,,,15,2025-10-06,15,,,,,6942
-001Hr000028ZcgB,"City Of Ashland, WI",Wisconsin,Municipality,Nick Martino,7918,Nurture,Tier 3,0.75,46.5924,-90.8838,1e005e5a-c556-476e-9498-3e3445759857,Closed Lost,,,Liam Shaw,3/19/2024,1/5/2025,,,8,2026-05-01,5,,3,,,6498
-001Hr000028Zcha,"Town Of Fond Du Lac, WI",Wisconsin,Municipality,Nick Martino,3724,,Tier 3,0.75,43.7524,-88.5082,53e0b30a-368d-448e-bf3e-3233ddb4869d,,,,,,,,,,,,,,,,12003
-001Hr000028Zcix,"Town Of Oconomowoc, WI",Wisconsin,Municipality,Nick Martino,8832,,Tier 3,0.75,43.1123,-88.4398,23385d0b-e034-4292-8e3c-f6fdc856d7e7,,,,,,,,,,,,,,,,6573
-001Hr000028Zcj7,"City Of Manitowoc, WI",Wisconsin,Municipality,Nick Martino,34547,,Tier 1,1.5,44.0886,-87.6576,1092db17-3799-46f6-b15e-3391fe3cfecc,,,,,,,,,14,2026-04-23,14,,,,,7144
-001Hr000028ZcjM,"Village Of Harrison, WI",Wisconsin,Municipality,Nick Martino,13179,,Tier 2,1.0,44.2344,-88.3232,56419552-3d43-46bd-a0df-c7a5557a43e6,,,,,,,,,6,2025-07-29,6,,,,,6768
-001Hr000028Zcnm,"Walworth County, WI",Wisconsin,County,Nick Martino,105822,,Tier S,2.0,42.6203,-88.5565,e8a08411-e9c7-44cc-857b-fbbe6c1aaa19,,,,,,,,,45,2026-01-05,18,27,,,,11988
-001Hr000028Zcpy,"City Of Berlin, WI",Wisconsin,Municipality,Nick Martino,5614,,Tier 3,0.75,43.968,-88.9434,ccba0f2e-895e-4510-a3ef-75be3cf9c3a9,,,,,,,,,,,,,,,,6230
-001Hr000028Zcqv,"City Of Onalaska, WI",Wisconsin,Municipality,Nick Martino,18824,,Tier 2,1.0,43.8844,-91.2351,fa314503-a212-47f2-9221-aaae340da8f0,,,,,,,,,4,2025-07-08,4,,,,,6964
-001Hr000028Zcsi,"Village Of Rothschild, WI",Wisconsin,Municipality,Nick Martino,5546,,Tier 3,0.75,44.8872,-89.6201,1e134264-143f-4d38-9d10-3fe256bbf573,,,,,,,,,,,,,,,,6208
-001Hr000028Zct1,"Town Of Waterford, WI",Wisconsin,Municipality,Nick Martino,6474,,Tier 3,0.75,42.7922,-88.2656,0e8ca8c9-367c-4341-b084-24a4a42567ba,,,,,,,,,7,2025-07-16,7,,,,,6376
-001Hr000028ZctQ,"Village of DeForest, WI",Wisconsin,Municipality,Nick Martino,10884,,Tier 2,1.0,43.2478,-89.3437,f3a5a07c-ed65-4fe0-837e-49f8d984a6f8,,,,,,,,,3,2025-07-01,3,,,,,6680
-001Hr000028Zctq,"Town Of Middleton, WI",Wisconsin,Municipality,Nick Martino,6777,,Tier 3,0.75,43.0673,-89.5781,a3902788-f395-43c9-8221-db14f9f8357f,,,,,,,,,,,,,,,,6403
-001Hr000028ZcvH,"City Of Port Washington, WI",Wisconsin,Municipality,Nick Martino,12614,,Tier 2,1.0,43.3872,-87.8756,b72d0629-31b1-49b4-a8e6-2c676988f4bf,,,,,,,,,16,2025-08-08,16,,,,,6760
-001Hr000028Zcw1,"Menasha Town, WI",Wisconsin,Municipality,Nick Martino,18157,,Tier 2,1.0,44.2022,-88.4465,6d0390cc-47fe-42d1-9fc7-677a1cb2d1c2,,,,,,,,,,,,,,,,6943
-001Hr000028Zcww,"Town Of Mukwonago, WI",Wisconsin,Municipality,Nick Martino,7782,,Tier 3,0.75,42.8934,-88.3852,723e2358-d09a-48ec-9cb8-465ce2431d38,,,,,,,,,,,,,,,,6490
-001Hr000028ZcxM,"Village Of Brown Deer, WI",Wisconsin,Municipality,Nick Martino,12705,,Tier 2,1.0,43.1633,-87.9645,86cb442f-e13c-4446-b4b0-f7da0de63bf9,,,,,,,,,1,2025-07-01,1,,,,,6780
-001Hr000028ZczF,"Village Of Allouez, WI",Wisconsin,Municipality,Nick Martino,14004,,Tier 2,1.0,44.4775,-88.0162,f6cede00-7622-47b3-a6d8-a0540fb60669,,,,,,,,,6,2025-07-16,6,,,,,6843
-001Hr000028Zczv,"City Of Lake Mills, WI",Wisconsin,Municipality,Nick Martino,6433,Nurture,Tier 3,0.75,43.0814,-88.9118,f9ec70bd-9c69-4f60-8495-0f016729fadf,Closed Lost,,,Joe del Rosario,8/20/2025,3/26/2025,,,4,2025-08-18,,,,4,,6311
-001Hr000028Zd1t,"Town Of Buchanan, WI",Wisconsin,Municipality,Nick Martino,6880,,Tier 3,0.75,44.2625,-88.2169,43997818-7a32-4793-845b-d0b8236230bc,,,,,,,,,1,2026-03-13,1,,,,,6426
-001Hr000028Zd22,"City Of Oak Creek, WI",Wisconsin,Municipality,Nick Martino,36260,,Tier 1,1.5,42.8858,-87.8631,a8b5eb8a-a79b-4dcd-bed1-894f8111093b,,,,,,,,,3,2025-07-31,,3,,,,7160
-001Hr000028Zd37,"Village Of Lake Hallie, WI",Wisconsin,Municipality,Nick Martino,7263,,Tier 3,0.75,44.8758,-91.4407,b7fadda6-edfb-48fe-8ea6-ba6fee27482e,,,,,,,,,,,,,,,,6439
-001Hr000028Zd3M,"City Of Waupaca, WI",Wisconsin,Municipality,Nick Martino,6350,Open Opportunity,Tier 3,0.75,44.358,-89.0859,e9a83274-ee25-479e-815e-486dd1f6d780,Open,Demo,Mid Funnel,Nick Martino,3/11/2026,7/25/2025,,,44,2026-05-06,41,,3,,,6309
-001Hr000028Zd3e,"Village Of Kronenwetter, WI",Wisconsin,Municipality,Nick Martino,8455,,Tier 3,0.75,44.8222,-89.5904,6f80b4af-ef8c-48b2-8edf-b9fcef354248,,,,,,,,,,,,,,,,6533
-001Hr000028Zd4w,"City Of Stevens Point, WI",Wisconsin,Municipality,Nick Martino,25692,,Tier 1,1.5,44.5236,-89.5746,6f6553d5-6525-4494-bf18-070f4d596030,,,,,,,,,10,2025-08-29,10,,,,,7069
-001Hr000028Zd5g,"City Of Verona, WI",Wisconsin,Municipality,Nick Martino,14276,,Tier 2,1.0,42.9908,-89.5332,8fdcc22b-227a-4725-bf70-1ffe7d7c5cca,,,,,,,,,10,2025-08-05,10,,,,,6829
-001Hr000028Zd5k,"Village Of Fox Point, WI",Wisconsin,Municipality,Nick Martino,6837,,Tier 3,0.75,43.1575,-87.9018,cfc65cde-774a-44eb-bcce-fd785cc54cf8,,,,,,,,,12,2025-07-18,12,,,,,6394
-001Hr000028Zd6B,"City Of Kenosha, WI",Wisconsin,Municipality,Nick Martino,99286,,Tier S,2.0,42.5841,-87.8242,a193de61-1946-4297-81f0-9abf9eb6b7ab,,,,,,,,,6,2025-08-11,6,,,,,11716
-001Hr000028Zd7I,"City Of Monona, WI",Wisconsin,Municipality,Nick Martino,8779,,Tier 3,0.75,43.0623,-89.3335,845121b9-8d82-463d-a38b-23f4521291a2,,,,,,,,,,,,,,,,6553
-001Hr000028Zd7N,"Village Of Mount Horeb, WI",Wisconsin,Municipality,Nick Martino,7742,,Tier 3,0.75,43.0086,-89.7385,d2037d64-4406-4a92-889b-6c336ce1c8f1,,,,,,,,,2,2025-07-08,2,,,,,6486
-001Hr000028Zd7O,"City Of Tomah, WI",Wisconsin,Municipality,Nick Martino,9556,,Tier 3,0.75,43.9786,-90.504,069aed8b-592e-4abb-8ee0-c518172773c8,,,,,,,,,,,,,,,,6615
-001Hr000028Zd7V,"Town Of Merton, WI",Wisconsin,Municipality,Nick Martino,8279,Nurture,Tier 3,0.75,43.1414,-88.3073,ec8c5042-3154-4353-ad0e-32db3d49c97c,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,5,2025-09-17,5,,,,,6532
-001Hr000028Zd7b,"Town Of Saratoga, WI",Wisconsin,Municipality,Nick Martino,5092,,Tier 3,0.75,44.3045,-89.7943,f54010b8-4280-4122-82f5-de0e676d26c4,,,,,,,,,10,2025-07-30,10,,,,,6175
-001Hr000028Zd7c,"Village Of Waterford, WI",Wisconsin,Municipality,Nick Martino,5612,,Tier 3,0.75,42.7631,-88.2143,2040714a-c653-49cf-ae82-b5aa42091d34,,,,,,,,,5,2025-10-07,5,,,,,6246
-001Hr000028Zd7h,"Village Of Jackson, WI",Wisconsin,Municipality,Nick Martino,7198,,Tier 3,0.75,43.3239,-88.1668,dda33186-e272-4944-8121-52ea52148077,,,,,,,,,6,2025-08-13,6,,,,,6443
-001Hr000028Zd9K,"City Of Shawano, WI",Wisconsin,Municipality,Nick Martino,9244,,Tier 3,0.75,44.7822,-88.609,fb8ec86d-159a-468d-8878-e893eae76d00,,,,,,,,,14,2025-09-03,14,,,,,6606
-001Hr000028Zd9o,"City Of Greenfield, WI",Wisconsin,Municipality,Nick Martino,37352,,Tier 1,1.5,42.9614,-88.0126,3d686105-cf4b-4d65-b249-789eccaebdd0,,,,,,,,,7,2026-04-15,7,,,,,7171
-001Hr000028ZdA5,"City Of De Pere, WI",Wisconsin,Municipality,Nick Martino,25335,Open Opportunity,Tier 1,1.5,44.4489,-88.0604,6eb2e6cc-d43a-4c73-92a7-2859adf66f9a,Open,Meeting Booked,Top of Funnel,Alicia Gopal,6/12/2026,4/30/2026,,,10,2025-08-25,10,,,,,7061
-001Hr000028ZdAa,"Town Of Onalaska, WI",Wisconsin,Municipality,Nick Martino,5821,,Tier 3,0.75,43.9467,-91.2217,b9feda90-eabd-4ec3-b8e7-7b6799efc546,,,,,,,,,8,2025-07-29,8,,,,,6286
-001Hr000028ZdAz,"Town Of Genesee, WI",Wisconsin,Municipality,Nick Martino,7142,,Tier 3,0.75,42.9581,-88.3602,55a9e2f3-51b6-4c92-a806-f9e82b706389,,,,,,,,,6,2025-07-07,,6,,,,6447
-001Hr000028ZdB8,"City Of Evansville, WI",Wisconsin,Municipality,Nick Martino,5791,,Tier 3,0.75,42.7803,-89.2993,24bba41b-1321-4d16-baa3-e8aad54e7ffb,,,,,,,,,,,,,,,,6223
-001Hr000028ZdBa,"City Of Waukesha, WI",Wisconsin,Municipality,Nick Martino,71256,,Tier S,2.0,43.0108,-88.2292,bd2f635e-173a-4cfe-9d76-d906caef7c20,,,,,,,,,7,2025-08-12,7,,,,,11714
-001Hr000028ZdBo,"City Of Delavan, WI",Wisconsin,Municipality,Nick Martino,8594,,Tier 3,0.75,42.6331,-88.6437,7112626d-2a96-4e42-a454-88bfcf29bcae,,,,,,,,,2,2025-08-14,2,,,,,6555
-001Hr000028ZdCI,"City Of Watertown, WI",Wisconsin,Municipality,Nick Martino,22885,Open Opportunity,Tier 2,1.0,43.1947,-88.729,63a94e20-645a-4575-abf7-99af6ebdf7db,Open,Initial Interest,Top of Funnel,Leila Assil,1/30/2025,1/5/2025,,,,,,,,,,7028
-001Hr000028ZdCW,"County of Calumet, WI",Wisconsin,County,Nick Martino,53199,,Tier S,2.0,44.1586,-88.2461,9865647f-f192-47ea-b9b3-f46c1d03b5ab,,,,,,,,,12,2025-08-28,12,,,,,11924
-001Hr000028ZdCh,"City Of Hartford, WI",Wisconsin,Municipality,Nick Martino,15747,,Tier 2,1.0,43.3178,-88.379,14614740-fd99-492f-a905-33d86f564df4,,,,,,,,,17,2025-09-10,17,,,,,6878
-001Hr000028ZdCn,"Village Of Menomonee Falls, WI",Wisconsin,Municipality,Nick Martino,38906,,Tier 1,1.5,43.1789,-88.1175,9195faac-f8c1-49f3-9b98-bbef80b79454,,,,,,,,,14,2025-07-15,14,,,,,7174
-001Hr000028ZdCq,"City Of Fort Atkinson, WI",Wisconsin,Municipality,Nick Martino,12489,,Tier 2,1.0,42.9289,-88.8371,20907811-9717-4e91-9830-94376ea2f615,,,,,,,,,10,2025-09-04,10,,,,,6773
-001Hr000028ZdDA,"Village Of Waukesha, WI",Wisconsin,Municipality,Nick Martino,8430,,Tier 3,0.75,42.9595,-88.2279,dc820c15-52f9-4810-84a7-652c0bb444ea,,,,,,,,,11,2025-07-29,11,,,,,6546
-001Hr000028ZdDj,"City Of Prairie Du Chien, WI",Wisconsin,Municipality,Nick Martino,5487,,Tier 3,0.75,43.0517,-91.1412,783057e8-3bc7-4ab5-897a-2943c13b5728,,,,,,,,,,,,,,,,6259
-001Hr000028ZdEJ,"City Of Neenah, WI",Wisconsin,Municipality,Nick Martino,27525,,Tier 1,1.5,44.1858,-88.4626,52ce7f46-9912-4b36-93c1-fa0cfb86cbe9,,,,,,,,,14,2026-05-11,14,,,,,7087
-001Hr000028ZdEY,"Town Of Freedom, WI",Wisconsin,Municipality,Nick Martino,6209,,Tier 3,0.75,44.3866,-88.2884,70b2e247-608f-4b9d-bd8d-37e8c2f21208,,,,,,,,,9,2025-07-30,9,,,,,6346
-001Hr000028ZdF1,"City Of New London, WI",Wisconsin,Municipality,Nick Martino,7524,,Tier 3,0.75,44.3928,-88.7398,1af2a353-7ae2-4797-836e-687a5fabc409,,,,,,,,,1,2025-07-01,1,,,,,6449
-001Hr000028ZdFI,"City Of Jefferson, WI",Wisconsin,Municipality,Nick Martino,7753,,Tier 3,0.75,43.0056,-88.8073,dea14452-43f4-4658-bc3d-773639de94c4,,,,,,,,,1,2025-07-08,1,,,,,6492
-001Hr000028ZdFb,"Village Of Bellevue, WI",Wisconsin,Municipality,Nick Martino,16122,,Tier 2,1.0,44.4643,-87.9563,546b50d0-bff7-4615-a39f-f4eb39e7ae10,,,,,,,,,6,2025-07-18,6,,,,,6886
-001Hr000028ZdFc,"City Of Brookfield, WI",Wisconsin,Municipality,Nick Martino,41464,Nurture,Tier 1,1.5,43.0609,-88.1261,e25b50ea-d58a-42a7-b932-25e2f74b7a6f,Closed Lost,,,Troy LeCaire,,1/5/2025,,,11,2026-04-23,11,,,,,7190
-001Hr000028ZdG5,"City Of Columbus, WI",Wisconsin,Municipality,Nick Martino,5505,,Tier 3,0.75,43.338,-89.0154,431190a4-c955-4382-87fb-92c0f169457e,,,,,,,,,,,,,,,,6171
-001Hr000028ZdGG,"City Of Platteville, WI",Wisconsin,Municipality,Nick Martino,11764,,Tier 2,1.0,42.7342,-90.4785,08cb587b-ed96-4961-95a2-00c8b3acb772,,,,,,,,,3,2025-08-13,3,,,,,6739
-001Hr000028ZdGy,"Town Of Grand Rapids, WI",Wisconsin,Municipality,Nick Martino,7613,Nurture,Tier 3,0.75,44.3731,-89.7656,828d4a86-7bed-42b2-9e59-3073ceb1282e,Closed Lost,,,Liam Shaw,3/13/2024,1/5/2025,,,,,,,,,,6475
-001Hr000028ZdHC,"Town Of Milton, WI",Wisconsin,Municipality,Nick Martino,3110,,Tier 3,0.75,42.8102,-88.951,1899b2eb-98d2-4cc1-9dde-8a7ed5df47d9,,,,,,,,,2,2025-07-01,2,,,,,6255
-001Hr000028ZdHD,"City Of New Richmond, WI",Wisconsin,Municipality,Nick Martino,10350,,Tier 2,1.0,45.123,-92.5366,8cf937be-c335-4628-a90e-ea6367d5f03a,,,,,,,,,6,2026-04-15,6,,,,,6632
-001Hr000028ZdHE,"City Of La Crosse, WI",Wisconsin,Municipality,Nick Martino,52185,,Tier S,2.0,43.8138,-91.2519,b471d7d8-46e0-4aa9-91d2-85390423e1ae,,,,,,,,,18,2025-08-26,18,,,,,11728
-001Hr000028ZdHJ,"Village Of Somers, WI",Wisconsin,Municipality,Nick Martino,8330,,Tier 3,0.75,42.6403,-87.9104,3d1b9482-05c6-4f47-9465-da63082d11e7,,,,,,,,,9,2025-10-06,9,,,,,6539
-001Hr000028ZdHR,"City Of Oconomowoc, WI",Wisconsin,Municipality,Nick Martino,18379,,Tier 2,1.0,43.1114,-88.4995,a0a3aa15-6c13-4fb7-94e3-d091cbadcc69,,,,,,,,,2,2025-07-01,2,,,,,6935
-001Hr000028ZdHW,"City Of Rhinelander, WI",Wisconsin,Municipality,Nick Martino,8308,,Tier 3,0.75,45.6366,-89.4121,c4a24675-bc98-43a8-b373-cc04a26aed2a,,,,,,,,,6,2025-07-10,6,,,,,6521
-001Hr000028ZdHg,"Dunn County, WI",Wisconsin,County,Nick Martino,,,Tier 3,0.75,44.9094,-91.9099,93fb63e7-dabe-4afb-8664-db1bef764e82,,,,,,,,,,,,,,,,11918
-001Hr000028ZdIb,"Village Of Cottage Grove, WI",Wisconsin,Municipality,Nick Martino,7338,,Tier 3,0.75,43.0746,-89.1515,737bc02d-c16b-4929-b7ac-f9c90b8087c1,,,,,,,,,,,,,,,,6451
-001Hr000028ZdIg,"City Of Beaver Dam, WI",Wisconsin,Municipality,Nick Martino,16647,,Tier 2,1.0,43.4578,-88.8373,49365c36-b0e2-4acd-a16d-ad327928b87b,,,,,,,,,1,2025-07-11,1,,,,,6904
-001Hr000028ZdIu,"City Of Lake Geneva, WI",Wisconsin,Municipality,Nick Martino,8504,,Tier 3,0.75,42.5917,-88.4334,1fd535a9-923b-4afd-b4ab-41adf0a4341e,,,,,,,,,2,2025-07-18,2,,,,,6537
-001Hr000028ZdIx,"Village Of West Salem, WI",Wisconsin,Municipality,Nick Martino,5273,,Tier 3,0.75,43.8991,-91.0812,5449b31a-4c85-43bb-997f-84d6af65f142,,,,,,,,,1,2025-07-01,1,,,,,6162
-001Hr000028ZdJM,"Village Of Bristol, WI",Wisconsin,Municipality,Nick Martino,5217,,Tier 3,0.75,42.5588,-88.0505,e033324c-a89d-447e-b1ca-ee260af8f803,,,,,,,,,,,,,,,,6172
-001Hr000028ZdJO,"Village Of Howard, WI",Wisconsin,Municipality,Nick Martino,20229,,Tier 2,1.0,44.5624,-88.0803,31ce8c29-ac0c-49ad-b0f9-7e872d56ef9e,,,,,,,,,1,2025-08-12,1,,,,,6981
-001Hr000028ZdJW,"Village Of Twin Lakes, WI",Wisconsin,Municipality,Nick Martino,6388,,Tier 3,0.75,42.5311,-88.2481,70bb3f84-4b07-4920-a18d-33ad7be91c31,,,,,,,,,9,2025-07-30,9,,,,,6336
-001Hr000028ZdJX,"City Of Cudahy, WI",Wisconsin,Municipality,Nick Martino,17946,,Tier 2,1.0,42.9597,-87.8615,e0bc45d4-dd25-4228-9cd2-fa5bf674fa73,,,,,,,,,1,2025-07-15,,1,,,,6945
-001Hr000028ZdJY,"Village Of Fox Crossing, WI",Wisconsin,Municipality,Nick Martino,18925,,Tier 2,1.0,44.2291,-88.4695,27f44fb7-71ce-4082-9044-66ec92d133f9,,,,,,,,,8,2025-08-05,8,,,,,6969
-001Hr000028ZdKW,"Village of Salem Lake, WI",Wisconsin,Municipality,Nick Martino,14630,,Tier 2,1.0,42.5542,-88.1105,7c2d8e20-fdd8-4aa0-b2dd-ceef9cc54855,,,,,,,,,13,2025-08-08,13,,,,,6863
-001Hr000028ZdKu,"Town Of Delafield, WI",Wisconsin,Municipality,Nick Martino,8157,,Tier 3,0.75,43.0622,-88.3543,2581db7b-86e8-4c85-9c2a-d05c490a2cbe,,,,,,,,,4,2025-07-15,4,,,,,6518
-001Hr000028ZdKw,"City Of Stoughton, WI",Wisconsin,Municipality,Nick Martino,13085,,Tier 2,1.0,42.9169,-89.2179,06491639-0086-4ef3-af2c-e88020532084,,,,,,,,,12,2026-04-08,11,,1,,,6803
-001Hr000028ZdLE,"Village Of Whitefish Bay, WI",Wisconsin,Municipality,Nick Martino,14747,Nurture,Tier 2,1.0,43.1133,-87.9001,aaefb8f3-3108-4fde-9b09-afeada60d51f,Closed Lost,,,Liam Shaw,3/12/2024,1/5/2025,,,,,,,,,,6868
-001Hr000028ZdLJ,"Town Of Brookfield, WI",Wisconsin,Municipality,Nick Martino,6447,,Tier 3,0.75,43.0361,-88.1668,92bb917f-e609-44a0-b44e-bedbe2d279bb,,,,,,,,,17,2026-04-08,17,,,,,6367
-001Hr000028ZdLY,"City Of Edgerton, WI",Wisconsin,Municipality,Nick Martino,5952,,Tier 3,0.75,42.8353,-89.0676,98135732-fa2c-4db4-b32d-535b8a7154a6,,,,,,,,,,,,,,,,6254
-001Hr000028ZdLj,"Winnebago County, WI",Wisconsin,County,Nick Martino,173307,,Tier S,2.0,44.0127,-88.7109,b95b6115-4562-4a3c-bc27-5b506fa31f0a,,,,,,,,,19,2026-03-18,19,,,,,11996
-001Hr000028ZdMB,"City Of Hudson, WI",Wisconsin,Municipality,Nick Martino,15149,Recent Competitor Purchase,Tier 2,1.0,44.9747,-92.7569,625bb9f0-9e21-45a7-b112-fdda7a4032a1,Closed Lost,,,Liam Shaw,7/30/2024,1/5/2025,"$21,000",,9,2026-01-27,9,,,,,6859
-001Hr000028ZdMF,"Village Of Union Grove, WI",Wisconsin,Municipality,Nick Martino,4925,Nurture,Tier 3,0.75,42.6881,-88.0515,bc0686cd-2cfb-49fd-aac7-e7520c487dce,Closed Lost,,,Liam Shaw,3/8/2024,1/5/2025,"$15,000",,,,,,,,,6164
-001Hr000028ZdMP,"Village Of North Fond Du Lac, WI",Wisconsin,Municipality,Nick Martino,5406,Open Opportunity,Tier 3,0.75,43.8114,-88.4834,248f0ca2-b651-435b-81dc-2f9c0dddda70,Open,Sales Qualified,Mid Funnel,Nick Martino,3/31/2026,3/19/2026,,Yes,7,2026-03-19,7,,,,,6170
-001Hr000028ZdMS,"City Of Glendale, WI",Wisconsin,Municipality,Nick Martino,13178,,Tier 2,1.0,43.1353,-87.9356,9d6bc5c6-879a-489e-ab77-54445eafa697,,,,,,,,,1,2025-07-01,1,,,,,6808
-001Hr000028ZdMY,"City Of Sturgeon Bay, WI",Wisconsin,Municipality,Nick Martino,10015,Open Opportunity,Tier 2,1.0,44.8342,-87.377,1d1101bb-da39-4746-b6ec-d5e42e53960b,Open,Proposal,Mid Funnel,Nick Martino,9/8/2025,9/4/2025,"$38,000",,4,2025-09-04,4,,,,,6617
-001Hr000028ZdMy,"Town Of Troy, WI",Wisconsin,Municipality,Nick Martino,2392,,Tier 3,0.75,43.2328,-89.9066,31138d4b-afb2-4d8b-bf12-4ef0667fef7b,,,,,,,,,3,2025-07-09,3,,,,,6231
-001Hr000028ZdN3,"Town Of Little Suamico, WI",Wisconsin,Municipality,Nick Martino,5628,,Tier 3,0.75,44.721,-88.0465,ec57776c-95c5-43b5-a685-2310815eb873,,,,,,,,,10,2025-07-30,10,,,,,6236
-001Hr000028ZdN8,"Town Of Hull, WI",Wisconsin,Municipality,Nick Martino,5274,,Tier 3,0.75,44.9064,-90.2432,5d8cee22-5dd8-4190-b669-2865ce4c12b2,,,,,,,,,6,2025-07-14,6,,,,,6209
-001Hr000028ZdNX,"Town Of Geneva, WI",Wisconsin,Municipality,Nick Martino,5468,,Tier 3,0.75,42.6386,-88.4598,9c9a9d08-52d6-4abb-aa67-7308604cd2c6,,,,,,,,,2,2025-07-08,2,,,,,6224
-001Hr000028ZdNY,"Village Of Elm Grove, WI",Wisconsin,Municipality,Nick Martino,6524,,Tier 3,0.75,43.0428,-88.0794,2a74c81a-f11d-48d5-89bc-f3d62278b3a9,,,,,,,,,3,2026-03-18,3,,,,,6341
-001Hr000028ZdNc,"Village Of Slinger, WI",Wisconsin,Municipality,Nick Martino,6116,,Tier 3,0.75,43.3336,-88.2862,3a5141dd-8013-453c-b95a-4e83911480c6,,,,,,,,,11,2025-09-04,11,,,,,6240
-001Hr000028ZdNn,"Village Of Ashwaubenon, WI",Wisconsin,Municipality,Nick Martino,16913,,Tier 2,1.0,44.4822,-88.0701,42666fc0-e4bf-4d0d-951a-0bc970a22c74,,,,,,,,,4,2025-07-14,4,,,,,6913
-001Hr000028ZdNx,"City Of Altoona, WI",Wisconsin,Municipality,Nick Martino,8817,,Tier 3,0.75,44.8047,-91.4432,ef5dedd0-0f62-49e6-9553-30e654f6868e,,,,,,,,,3,2025-08-12,3,,,,,6530
-001Hr000028ZdNy,"City Of Two Rivers, WI",Wisconsin,Municipality,Nick Martino,11270,Open Opportunity,Tier 2,1.0,44.1539,-87.5692,3ea88816-99cb-4c78-bdbc-88ee2aa40bff,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,,,,,,,,6714
-001Hr000028ZdO0,"City Of Muskego, WI",Wisconsin,Municipality,Nick Martino,25242,,Tier 1,1.5,42.9016,-88.1493,b50912d2-05a2-42fd-b485-86fcad97a8d8,,,,,,,,,10,2025-08-29,10,,,,,7056
-001Hr000028ZdO7,"Town Of Algoma, WI",Wisconsin,Municipality,Nick Martino,6912,,Tier 3,0.75,44.0402,-88.6241,ffd97d77-5f71-4ce0-9982-a68ac1fbf07a,,,,,,,,,1,2025-07-09,1,,,,,6421
-001Hr000028ZdO8,"City Of Waupun, WI",Wisconsin,Municipality,Nick Martino,11515,,Tier 2,1.0,43.6333,-88.7296,e432c683-040a-4443-bab6-bf94444da68b,,,,,,,,,3,2025-08-20,3,,,,,6722
-001Hr000028ZdO9,"Village of Grafton, WI",Wisconsin,Municipality,Nick Martino,12298,,Tier 2,1.0,43.3197,-87.9534,793dfe58-2073-430a-8e9a-e01a078c9dfb,,,,,,,,,12,2025-08-12,12,,,,,6750
-001Hr000028ZdOX,"Village Of Waunakee, WI",Wisconsin,Municipality,Nick Martino,14950,,Tier 2,1.0,43.1919,-89.4557,92f08fcc-11f8-49c7-87fb-af7172c74d6e,,,,,,,,,2,2025-07-17,2,,,,,6864
-001Hr000028ZdOl,"City Of Antigo, WI",Wisconsin,Municipality,Nick Martino,8006,Nurture,Tier 3,0.75,45.1402,-89.1523,a24bc857-bc44-482d-b423-67980b923f90,Closed Lost,,,Leila Assil,,1/8/2025,,,,,,,,,,6512
-001Hr000028ZdOm,"Village Of Greendale, WI",Wisconsin,Municipality,Nick Martino,14652,,Tier 2,1.0,42.9406,-87.9959,52e11a8b-7e31-4040-89ed-1749983da12b,,,,,,,,,10,2025-09-04,10,,,,,6867
-001Hr000028ZdP0,"Village Of Sturtevant, WI",Wisconsin,Municipality,Nick Martino,6995,Open Opportunity,Tier 3,0.75,42.6981,-87.8945,b6f4b57c-4bc7-4b73-9dd0-4d03fe0f3c7b,Open,Initial Interest,Top of Funnel,Nick Martino,,1/6/2026,,,4,2026-03-04,4,,,,,6391
-001Hr000028ZdP1,"City Of Ripon, WI",Wisconsin,Municipality,Nick Martino,7792,,Tier 3,0.75,43.8422,-88.8359,2f3d3236-f342-43f8-b067-3f82c3af76b1,,,,,,,,,2,2025-06-26,,2,,,,6489
-001Hr000028ZdP4,"Town Of Cedarburg, WI",Wisconsin,Municipality,Nick Martino,6228,,Tier 3,0.75,43.3319,-88.0314,d0666ae4-27d6-4c1d-8582-f82188697c96,,,,,,,,,1,2025-07-01,1,,,,,6333
-001Hr000028ZdP9,"Town Of Lawrence, WI",Wisconsin,Municipality,Nick Martino,6468,,Tier 3,0.75,43.8843,-89.544,b611e1f8-d2b2-4257-ac3c-3f0a9f45d9ad,,,,,,,,,9,2025-07-29,9,,,,,6340
-001Hr000028ZdPS,"City Of Superior, WI",Wisconsin,Municipality,Nick Martino,26561,,Tier 1,1.5,46.7208,-92.1041,0049c951-8258-4e9e-a7e4-f10c0a8bb1e4,,,,,,,,,18,2025-07-24,18,,,,,7075
-001Hr000028ZdPf,"Town Of Burlington, WI",Wisconsin,Municipality,Nick Martino,6431,,Tier 3,0.75,42.6276,-88.2929,dea571d9-7823-45f8-b346-06b7a6974010,,,,,,,,,1,2025-07-08,1,,,,,6369
-001Hr000028ZdQ3,"Village Of Sussex, WI",Wisconsin,Municipality,Nick Martino,11597,,Tier 2,1.0,43.1336,-88.2095,d8bc8a76-9ed6-4bea-998d-1d85c303fa3e,,,,,,,,,2,2025-07-08,2,,,,,6719
-001Hr000028ZdQ8,"Village Of Mukwonago, WI",Wisconsin,Municipality,Nick Martino,8373,,Tier 3,0.75,42.8631,-88.3323,9695a274-7baa-45e0-b29b-f7c8a2e9968b,,,,,,,,,6,2025-08-13,6,,,,,6534
-001Hr000028ZdQY,"Town Of Sheboygan, WI",Wisconsin,Municipality,Nick Martino,8120,,Tier 3,0.75,43.779,-87.7862,3419a0e2-9723-4bf1-b0e3-be7bc78f1218,,,,,,,,,3,2026-04-13,3,,,,,6508
-001Hr000028ZdQh,"City Of Burlington, WI",Wisconsin,Municipality,Nick Martino,11008,,Tier 2,1.0,42.6781,-88.2762,fb7a4d46-9c39-40c6-90a6-f4534c392475,,,,,,,,,,,,,,,,6697
-001Hr000028ZdR5,"City Of Delafield, WI",Wisconsin,Municipality,Nick Martino,7193,,Tier 3,0.75,43.06,-88.4042,a900c660-d9a8-48ef-ba24-f85a41812cb5,,,,,,,,,,,,,,,,6448
-001Hr000028ZdR8,"Village Of Plover, WI",Wisconsin,Municipality,Nick Martino,13701,,Tier 2,1.0,44.4564,-89.544,205f0501-2dfd-4bc4-aeec-7176df010aba,,,,,,,,,7,2025-08-21,7,,,,,6811
-001Hr000028ZdRB,"Shawano County, WI",Wisconsin,County,Nick Martino,41299,Open Opportunity,Tier 1,1.5,44.7684,-88.7109,6cc52a54-0f61-4416-814c-37f2d02cea40,Open,Proposal,Mid Funnel,Nick Martino,3/10/2026,3/5/2026,"$17,000",,3,2026-03-05,3,,,,,11925
-001Hr000028ZdRI,"Village Of Germantown, WI",Wisconsin,Municipality,Nick Martino,20914,,Tier 2,1.0,43.2286,-88.1104,61062acd-4bc5-42da-b1e4-162e811f9f72,,,,,,,,,9,2025-07-30,9,,,,,6999
-001Hr000028ZdRP,"Town Of Rib Mountain, WI",Wisconsin,Municipality,Nick Martino,7286,Open Opportunity,Tier 3,0.75,44.909,-89.6542,752a81e6-d1a5-4840-942e-89a4a7b83afc,Open,Initial Interest,Top of Funnel,Jenny Allison,,10/29/2025,,,1,2025-11-04,,,1,,,6453
-001Hr000028ZdRZ,"Village Of Kimberly, WI",Wisconsin,Municipality,Nick Martino,7465,,Tier 3,0.75,44.2722,-88.339,d3811519-5bab-44c4-98fa-06c743107ed3,,,,,,,,,2,2025-08-12,2,,,,,6455
-001Hr000028ZdRa,"Town Of Beloit, WI",Wisconsin,Municipality,Nick Martino,7822,,Tier 3,0.75,42.5571,-89.0848,e5a6afed-3358-414b-b4b1-db679f406bde,,,,,,,,,,,,,,,,6487
-001Hr000028ZdRf,"City Of Sheboygan Falls, WI",Wisconsin,Municipality,Nick Martino,8165,,Tier 3,0.75,43.7292,-87.8106,6b687a89-f3d1-44d3-b44f-aa5026d5596a,,,,,,,,,2,2025-08-12,2,,,,,6517
-001Hr000028ZdRp,"Clark County, WI",Wisconsin,County,Nick Martino,34801,,Tier 1,1.5,44.8481,-90.7533,82f472c7-64e9-41e1-bdc4-37f6acb728dc,,,,,,,,,2,2026-02-23,2,,,,,11903
-001Hr000028ZdS3,"Village Of Vernon, WI",Wisconsin,Municipality,Nick Martino,7449,,Tier 3,0.75,42.9044,-88.2482,552a50f7-2e4e-4832-8c03-63b809a1fbb8,,,,,,,,,2,2026-03-12,2,,,,,6464
-001Hr000028ZdS8,"Town Of Washington, WI",Wisconsin,Municipality,Nick Martino,7742,,Tier 3,0.75,45.3948,-86.9313,576a804a-6f42-4079-be9b-73637ccae044,,,,,,,,,,,,,,,,6479
-001Hr000028ZdSJ,"City Of Beloit, WI",Wisconsin,Municipality,Nick Martino,36609,,Tier 1,1.5,42.5083,-89.0318,78e3e606-0de9-4306-8762-33ad8fac88b9,,,,,,,,,21,2026-05-11,21,,,,,7164
-001Hr000028ZdSN,"Village Of Hales Corners, WI",Wisconsin,Municipality,Nick Martino,7617,,Tier 3,0.75,42.9375,-88.0487,fa209f52-9135-4159-bc0d-e410f2c1d26f,,,,,,,,,5,2026-03-18,5,,,,,6485
-001Hr000028ZdSQ,"Marathon County, WI",Wisconsin,County,Nick Martino,138612,,Tier S,2.0,44.8505,-89.8505,041629d1-1ab2-486c-ae88-2df8519a933d,,,,,,,,,20,2025-08-15,,20,,,,11992
-001Hr000028ZdSc,"Town Of Norway, WI",Wisconsin,Municipality,Nick Martino,7873,,Tier 3,0.75,42.7904,-88.1487,42c66328-7ad9-4c31-95e3-0e5defe0e702,,,,,,,,,9,2025-07-30,9,,,,,6501
-001Hr000028ZdSt,"City Of Portage, WI",Wisconsin,Municipality,Nick Martino,10327,Nurture,Tier 2,1.0,43.5391,-89.4626,c824ed8e-bb74-40da-932e-b47e4ce67af6,Open,Initial Interest,Top of Funnel,Leila Assil,10/9/2024,1/5/2025,,Yes,15,2025-09-16,13,2,,,,6659
-001Hr000028ZdSu,"City Of Whitewater, WI",Wisconsin,Municipality,Nick Martino,14351,,Tier 2,1.0,42.8336,-88.7323,327e3203-02e6-457c-8605-d8eab605f763,,,,,,,,,3,2025-08-20,3,,,,,6855
-001Hr000028ZdSx,"Village Of Holmen, WI",Wisconsin,Municipality,Nick Martino,10896,,Tier 2,1.0,43.9633,-91.2563,7ead32fd-de4e-4426-bc81-9cb827eda32a,,,,,,,,,5,2025-07-24,5,,,,,6674
-001Hr000028ZdSy,"Portage County, WI",Wisconsin,County,Nick Martino,71024,,Tier S,2.0,44.4736,-89.4742,e6130506-d9f8-4ea1-b51c-a7cc6de5b046,,,,,,,,,4,2026-04-09,4,,,,,11910
-001Hr000028ZdTG,"Village Of Windsor, WI",Wisconsin,Municipality,Nick Martino,6345,,Tier 3,0.75,43.2164,-89.3433,78b6ff1e-1e79-4fe4-9cc5-0c9662d10ccc,,,,,,,,,1,2025-07-09,1,,,,,6557
-001Hr000028ZdTH,"Village Of Richfield, WI",Wisconsin,Municipality,Nick Martino,11810,,Tier 2,1.0,43.2369,-88.2618,029cefa5-1614-45a6-8c58-bc6ce1f5cd17,,,,,,,,,13,2025-08-12,13,,,,,6735
-001Hr000028ZdTL,"Village Of Pewaukee, WI",Wisconsin,Municipality,Nick Martino,8195,Nurture,Tier 3,0.75,43.0824,-88.2628,9424b555-d77b-413b-b613-9b6e443d614e,Closed Lost,,,Nick Martino,8/27/2025,8/22/2025,,,8,2025-08-26,8,,,,,6526
-001Hr000028ZdTM,"City Of Baraboo, WI",Wisconsin,Municipality,Nick Martino,12398,Nurture,Tier 2,1.0,43.4711,-89.7443,ffc53451-297c-4df0-999c-f768a23174af,Closed Lost,,,Liam Shaw,3/12/2024,1/5/2025,,,11,2025-08-04,11,,,,,6769
-001Hr000028ZdTg,"Town Of Lisbon, WI",Wisconsin,Municipality,Nick Martino,10561,,Tier 2,1.0,43.1631,-88.2429,45d9b155-6a8e-44f5-8da9-67df5b4892b2,,,,,,,,,3,2025-07-17,3,,,,,6664
-001Hr000028ZdTh,"Village Of Little Chute, WI",Wisconsin,Municipality,Nick Martino,12170,,Tier 2,1.0,44.28,-88.3184,bbd5da92-9d15-40a3-999f-862c13f42aec,,,,,,,,,1,2025-07-01,1,,,,,6730
-001Hr000028ZdTp,"Village Of Mcfarland, WI",Wisconsin,Municipality,Nick Martino,9325,,Tier 3,0.75,43.0125,-89.2898,1f51947b-9660-4af2-b2fd-670735cefc74,,,,,,,,,10,2025-08-21,10,,,,,6586
-001Hr000028ZdTs,"City Of Chippewa Falls, WI",Wisconsin,Municipality,Nick Martino,14778,,Tier 2,1.0,44.9369,-91.3929,ad5765c6-353e-46e0-a560-162a7e18b461,,,,,,,,,4,2025-08-14,4,,,,,6862
-001Hr000028ZdTz,"City Of Plymouth, WI",Wisconsin,Municipality,Nick Martino,8913,,Tier 3,0.75,43.7486,-87.977,6a6bb56f-4d89-42d2-8976-68dbbda20735,,,,,,,,,,,,,,,,6581
-001Hr000028ZdU1,"City Of New Berlin, WI",Wisconsin,Municipality,Nick Martino,40375,,Tier 1,1.5,42.9765,-88.1084,58438913-a983-40ba-929e-82d17ac0bfe9,,,,,,,,,22,2026-04-23,22,,,,,7183
-001Hr000028ZdU4,"City Of Rice Lake, WI",Wisconsin,Municipality,Nick Martino,8939,,Tier 3,0.75,45.5061,-91.7382,9e63f287-646d-4940-8a4c-318d1253e3cd,,,,,,,,,10,2025-09-04,10,,,,,6580
-001Hr000028ZdU9,"City Of St Francis, WI",Wisconsin,Municipality,Nick Martino,9457,,Tier 3,0.75,42.9716,-87.8759,b74e5daf-805a-467b-8559-0557842d8c46,,,,,,,,,22,2025-10-10,22,,,,,6595
-001Hr000028ZdUE,"Village Of Hartland, WI",Wisconsin,Municipality,Nick Martino,9566,,Tier 3,0.75,43.1046,-88.3475,d3731290-baa0-47d0-9370-1798aaadccce,,,,,,,,,2,2025-08-12,2,,,,,6611
-001Hr000028ZdUJ,"City Of Merrill, WI",Wisconsin,Municipality,Nick Martino,9337,,Tier 3,0.75,45.1805,-89.6835,f4865597-0e59-4c28-b48c-e372fa7bc8c2,,,,,,,,,11,2025-08-28,11,,,,,6602
-001Hr000028ZdUO,"City Of Sparta, WI",Wisconsin,Municipality,Nick Martino,9972,,Tier 3,0.75,43.9441,-90.8129,aa40e233-e446-4b63-9184-dc8ca3e3e489,,,,,,,,,,,,,,,,6637
-001Hr000028ZdUZ,"City Of Monroe, WI",Wisconsin,Municipality,Nick Martino,10537,,Tier 2,1.0,42.6011,-89.6385,8614c918-e859-4639-a327-8ba001c888b6,,,,,,,,,7,2025-08-25,7,,,,,6677
-001Hr000028ZdUa,"City Of Mequon, WI",Wisconsin,Municipality,Nick Martino,25200,Nurture,Tier 1,1.5,43.2159,-88.0314,c61eb368-2548-4ab3-8709-df9dcf1f0ea6,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,11,2025-09-23,11,,,,,7052
-001Hr000028ZdUd,"City Of Reedsburg, WI",Wisconsin,Municipality,Nick Martino,10043,,Tier 2,1.0,43.5325,-90.0026,49f58b58-d98d-43a0-ba3b-cdd035096481,,,,,,,,,1,2025-06-23,,1,,,,6635
-001Hr000028ZdV4,"Sheboygan County, WI",Wisconsin,County,Nick Martino,117752,,Tier S,2.0,43.6982,-87.725,2ca3be7a-0250-4737-8d27-fd22b356e098,,,,,,,,,8,2025-07-02,,8,,,,11983
-001Hr000028ZdV7,"City Of Elkhorn, WI",Wisconsin,Municipality,Nick Martino,10330,,Tier 2,1.0,42.6728,-88.5445,c46b37f9-a1f5-40b3-b6e9-9e17a0708f32,,,,,,,,,19,2025-09-12,19,,,,,6656
-001Hr000028ZdV9,"City Of Kaukauna, WI",Wisconsin,Municipality,Nick Martino,17170,Nurture,Tier 2,1.0,44.278,-88.272,fff7cd2a-d47a-4cf2-a4c1-a6f9e94d62b7,Closed Lost,,,Nick Martino,9/30/2025,8/6/2025,,,22,2025-09-24,22,,,,,6911
-001Hr000028ZdVB,"City Of Sun Prairie, WI",Wisconsin,Municipality,Nick Martino,36189,Open Opportunity,Tier 1,1.5,43.1836,-89.2137,80f8085c-8170-4ade-9ca6-5d4e90f78a6f,Open,Initial Interest,Top of Funnel,Nick Martino,9/5/2025,7/1/2025,,,31,2026-02-13,31,,,,,7152
-001Hr000028ZdVE,"Village Of Suamico, WI",Wisconsin,Municipality,Nick Martino,13078,,Tier 2,1.0,44.6319,-88.0393,7bed177b-f171-45f8-86c4-7671d26f7a51,,,,,,,,,1,2025-07-15,1,,,,,6782
-001Hr000028ZdVT,"City Of Wisconsin Rapids, WI",Wisconsin,Municipality,Nick Martino,18738,,Tier 2,1.0,44.3836,-89.8173,bb8824b9-97e9-4719-a50b-60d493eabfda,,,,,,,,,9,2026-04-17,9,,,,,6962
-001Hr000028ZdVp,"Oneida County, WI",Wisconsin,County,Nick Martino,38147,Open Opportunity,Tier 1,1.5,45.6751,-89.4617,d5420d21-80f2-49a1-9b9d-e1d10b8aceed,Open,Meeting Booked,Top of Funnel,Nick Martino,4/14/2026,3/9/2026,,,10,2026-04-09,10,,,,,11916
-001Hr000028ZdVq,"City Of Marinette, WI",Wisconsin,Municipality,Nick Martino,11048,,Tier 2,1.0,45.1,-87.6307,c4898c7b-2250-4c1b-9923-a0ce9e2c6594,,,,,,,,,6,2025-07-23,6,,,,,6701
-001Hr000028ZdVr,"Village Of Pleasant Prairie, WI",Wisconsin,Municipality,Nick Martino,21392,,Tier 2,1.0,42.5531,-87.9334,b0dc268e-0d74-4306-9288-d1587bb4a083,,,,,,,,,8,2025-07-11,8,,,,,7001
-001Hr000028ZdVx,"City Of River Falls, WI",Wisconsin,Municipality,Nick Martino,16618,,Tier 2,1.0,44.8596,-92.6255,34b5d5c9-c55b-4fa5-ab44-43d51dfcb423,,,,,,,,,31,2026-05-11,25,6,,,,6893
-001Hr000028ZdW1,"City Of Menomonie, WI",Wisconsin,Municipality,Nick Martino,16794,,Tier 2,1.0,44.8755,-91.9193,4fe435c3-0c91-4825-a7e3-318ea46a689a,,,,,,,,,9,2025-08-11,9,,,,,6907
-001Hr000028ZdWF,"Village Of Oregon, WI",Wisconsin,Municipality,Nick Martino,11407,Open Opportunity,Tier 2,1.0,42.9261,-89.3846,de1f3d49-c2db-43a8-8b30-498a40126c51,Open,Sales Qualified,Mid Funnel,Nick Martino,5/5/2026,4/22/2026,,,10,2026-05-08,8,,2,,,6707
-001Hr000028ZdX8,"Town Of Greenville, WI",Wisconsin,Municipality,Nick Martino,2982,Unviable,Tier 3,0.75,44.3003,-88.5365,ff9a8c45-4ffc-4f49-8155-6ddbd0ce9448,,,,,,,,,,,,,,,,6775
-001Hr000028ZdXw,"Village Of Shorewood, WI",Wisconsin,Municipality,Nick Martino,13648,Nurture,Tier 2,1.0,43.0892,-87.8876,767797d6-829d-4b74-a4d9-fb5bd7f92c4a,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,16,2025-09-04,16,,,,,6826
-001Hr000028ZdXx,"Village Of Caledonia, WI",Wisconsin,Municipality,Nick Martino,25229,Open Opportunity,Tier 1,1.5,42.8078,-87.9242,e5b16654-6db1-401b-8e16-8f3c885272c2,Open,Proposal,Mid Funnel,Nick Martino,4/23/2026,4/14/2026,"$24,000",,5,2026-04-14,5,,,,,7062
-001Hr000028ZdYC,"City Of South Milwaukee, WI",Wisconsin,Municipality,Nick Martino,20517,,Tier 2,1.0,42.9106,-87.8606,e0ac716f-86c1-495e-8b95-7901bbc1cbef,,,,,,,,,15,2025-07-18,15,,,,,7000
-001Hr000028ZdYa,"City Of Pewaukee, WI",Wisconsin,Municipality,Nick Martino,15945,,Tier 2,1.0,43.0655,-88.2058,af5b867c-6d64-40a0-90d5-bb60b36b2826,,,,,,,,,3,2025-07-01,3,,,,,6880
-001Hr000028ZdYf,"Village Of Weston, WI",Wisconsin,Municipality,Nick Martino,15688,,Tier 2,1.0,44.8908,-89.5476,8214f124-ed31-449c-a176-ab1828ddfd92,,,,,,,,,2,2026-04-13,2,,,,,6881
-001Hr000028ZdZg,"City Of Wauwatosa, WI",Wisconsin,Municipality,Nick Martino,47752,,Tier 1,1.5,43.0495,-88.0076,b5a237d5-0759-4792-8ed7-15f818ce1a8f,,,,,,,,,23,2025-09-05,23,,,,,7223
-001Hr000028ZdZi,"City Of Marshfield, WI",Wisconsin,Municipality,Nick Martino,18815,,Tier 2,1.0,44.6689,-90.1718,b03c0393-6480-424d-b166-0d64313c3a4d,,,,,,,,,14,2025-09-29,14,,,,,6960
-001Hr000028ZdaC,"City Of Middleton, WI",Wisconsin,Municipality,Nick Martino,22636,Nurture,Tier 2,1.0,43.0972,-89.5043,11ed2cd6-c0b8-44b0-ba0f-3d5aa8416211,Closed Lost,,,Quinzel Perry,10/30/2024,1/5/2025,,,5,2026-04-13,3,,,,2,7007
-001Hr000028Zdav,"Village Of Mount Pleasant, WI",Wisconsin,Municipality,Nick Martino,27646,,Tier 1,1.5,42.7266,-87.895,5c373183-6d99-4e35-8bee-e47377bd98ff,,,,,,,,,6,2025-09-16,6,,,,,7089
-001Hr000028Zdb0,"Town Of Grand Chute, WI",Wisconsin,Municipality,Nick Martino,23876,,Tier 2,1.0,44.2816,-88.4384,0b90f091-e798-40b9-b259-ecdfc2a05da5,,,,,,,,,7,2025-07-10,7,,,,,7037
-001Hr000028ZdbL,"City Of Fitchburg, WI",Wisconsin,Municipality,Nick Martino,30674,,Tier 1,1.5,43.0023,-89.4241,941683b1-169c-4dbd-a69f-f0861696fa2e,,,,,,,,,11,2025-07-30,11,,,,,7105
-001Hr000028ZdbP,"City Of West Bend, WI",Wisconsin,Municipality,Nick Martino,31727,Nurture,Tier 1,1.5,43.4253,-88.1834,2059ea41-381a-4443-9261-46be77fdcb60,Closed Lost,,,Nick Martino,3/12/2026,3/10/2026,,,31,2026-04-13,31,,,,,7124
-001Hr000028Zdbc,"Wood County, WI",Wisconsin,County,Nick Martino,74207,,Tier S,2.0,44.4748,-90.0747,2a27b7d2-c1ab-4061-9275-8112fcbaa99a,,,,,,,,,19,2026-03-18,19,,,,,11898
-001Hr000028Zdbm,"City Of West Allis, WI",Wisconsin,Municipality,Nick Martino,59484,,Tier S,2.0,43.0167,-88.007,c691b86a-64c4-4e05-babf-996476b934ed,,,,,,,,,8,2025-08-11,8,,,,,11713
-001Hr000028ZdcB,"La Crosse County, WI",Wisconsin,County,Nick Martino,121060,,Tier S,2.0,43.8617,-91.1353,9fbd4e79-126d-4af2-9195-042a36474643,,,,,,,,,19,2026-03-27,19,,,,,12001
-001Hr000028ZdcN,"City Of Franklin, WI",Wisconsin,Municipality,Nick Martino,36624,Open Opportunity,Tier 1,1.5,42.8886,-88.0384,77dd25cf-88b0-4fe2-a63f-7fabaef997cf,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,7,2026-01-14,7,,,,,7165
-001Hr000028Zdcr,"City Of Fond Du Lac, WI",Wisconsin,Municipality,Nick Martino,44595,,Tier 1,1.5,43.773,-88.4471,f0fca341-4bb2-454c-8a5c-a8e9d071027e,,,,,,,,,3,2025-07-08,3,,,,,7207
-001Hr000028Zdd2,"City Of Sheboygan, WI",Wisconsin,Municipality,Nick Martino,49931,,Tier 1,1.5,43.7508,-87.7145,cc784ade-a6e6-4e51-8df0-312627d5e159,,,,,,,,,29,2025-09-02,29,,,,,7230
-001Hr000028Zddu,"Kenosha County, WI",Wisconsin,County,Nick Martino,167817,,Tier S,2.0,42.537,-87.8279,6a951e67-8b39-4024-a45b-70fa04bffd95,,,,,,,,,11,2025-12-23,11,,,,,11391
-001Hr000028Zde3,"Ozaukee County, WI",Wisconsin,County,Nick Martino,93956,,Tier S,2.0,43.4702,-87.8256,c53cc562-5987-4e8d-a689-62cf6ad1d9e6,,,,,,,,,2,2026-02-25,2,,,,,11911
-001Hr000028ZdfK,"City Of Oshkosh, WI",Wisconsin,Municipality,Nick Martino,66607,,Tier S,2.0,44.0247,-88.5426,be081e8c-6488-4791-ae3c-16d703068815,,,,,,,,,33,2025-08-27,33,,,,,11725
-001Hr000028ZdhY,"Dodge County, WI",Wisconsin,County,Nick Martino,89396,,Tier S,2.0,43.3994,-88.7109,7d3e697a-98ed-4950-8b0f-b5d24489c280,,,,,,,,,10,2026-03-18,10,,,,,11917
-001Hr000028Zdj4,"City Of Appleton, WI",Wisconsin,Municipality,Nick Martino,74854,,Tier S,2.0,44.2623,-88.4071,eba4d484-284f-448a-b14b-d58d1cc74a96,,,,,,,,,4,2025-09-12,4,,,,,11720
-001Hr000028ZdjJ,"City Of Eau Claire, WI",Wisconsin,Municipality,Nick Martino,69441,,Tier S,2.0,44.8113,-91.4985,ba1e80c8-3679-4a1d-9f28-d28ff2ca25b8,,,,,,,,,6,2025-08-14,6,,,,,11745
-001Hr000028Zdjt,"Vernon County, WI",Wisconsin,County,Nick Martino,,,Tier 3,0.75,43.5577,-90.8294,bb631471-22d6-4d2c-8750-5d1a194eb133,,,,,,,,,,,,,,,,11897
-001Hr000028Zdkr,"Rock County, WI",Wisconsin,County,Nick Martino,165461,,Tier S,2.0,42.6252,-89.0179,f729405d-2f6b-4f9a-8ee6-d23fb594db28,,,,,,,,,18,2026-03-23,18,,,,,11994
-001Hr000028Zdlt,"County Of Sauk, WI",Wisconsin,County,Nick Martino,65697,,Tier S,2.0,43.4066,-89.9253,b4a8565d-9892-4498-a116-fa3a14496f24,,,,,,,,,4,2026-04-14,4,,,,,11900
-001Hr000028Zdly,"Chippewa County, WI",Wisconsin,County,Nick Martino,68071,,Tier S,2.0,45.0674,-91.2925,8a70a645-6f1a-4481-8bab-3cc9d95b14e9,,,,,,,,,10,2026-03-18,10,,,,,11905
-001Hr000028Zdm3,"Saint Croix County, WI",Wisconsin,County,Nick Martino,97954,,Tier S,2.0,45.0498,-92.3876,7bdd4b2a-f539-49c0-bf35-e4cca9cbf50f,,,,,,,,,,,,,,,,11901
-001Hr000028Zdmc,"Waupaca County, WI",Wisconsin,County,Nick Martino,51171,,Tier S,2.0,44.4706,-89.0179,e4bd0cc0-d5b7-4565-a294-ef6cc911ba8c,,,,,,,,,6,2026-03-06,6,,,,,11904
-001Hr000028ZdnQ,"Washington County, WI",Wisconsin,County,Nick Martino,138727,,Tier S,2.0,43.3933,-88.2461,fe27c87b-0657-4b58-b5e6-c5669a693be6,,,,,,,,,1,2026-02-25,1,,,,,11999
-001Hr000028Zdnk,"Eau Claire County, WI",Wisconsin,County,Nick Martino,107903,,Tier S,2.0,44.7684,-91.2891,ca4d19fe-af78-49e3-a978-827014ab3df5,,,,,,,,,10,2025-07-08,,10,,,,11993
-001Hr000028ZjSC,"Town Of Scott, WI",Wisconsin,Municipality,Nick Martino,3651,Nurture,Tier 3,0.75,44.1145,-90.356,cc580278-06d7-45df-a4c7-518fb1dcdf4d,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,,,,,,,,12630
-001cv000006t1JR,"City Of Wisconsin Dells, WI",Wisconsin,Municipality,Nick Martino,3198,,Tier 3,0.75,43.6249,-89.7749,5878abdb-1a2a-4d5b-87ef-d0e690ee66f6,,,,,,,,,,,,,,,,12705
-001cv00000AuWNt,"Village Of Roberts, WI",Wisconsin,Municipality,Nick Martino,2005,,Tier 3,0.75,44.9839,-92.556,9b02c9a0-6381-4b3d-bdbd-cfe7a5042b16,,,,,,,,,,,,,,,,12926
-001cv00000AuWNw,"Town Of Nasewaupee, WI",Wisconsin,Municipality,Nick Martino,2006,,Tier 3,0.75,44.8356,-87.4304,9ff2ca26-91f1-4cf5-9975-f991c0da06ec,,,,,,,,,,,,,,,,12867
-001cv00000AuWOC,"Town Of Crescent, WI",Wisconsin,Municipality,Nick Martino,2011,,Tier 3,0.75,45.0677,-91.1468,06ff1a03-a96e-4ee1-9f82-0c8dfbdc2cb9,,,,,,,,,,,,,,,,12898
-001cv00000AuWPE,"Village Of Redgranite, WI",Wisconsin,Municipality,Nick Martino,2029,,Tier 3,0.75,44.0419,-89.0984,6fd65383-2de5-4031-8ff5-481f19acb983,,,,,,,,,,,,,,,,12938
-001cv00000AuWQ6,"Town Of West Point, WI",Wisconsin,Municipality,Nick Martino,2039,,Tier 3,0.75,43.3192,-89.6346,ced2a0f5-fcf2-440e-914a-65a3367efc8e,,,,,,,,,,,,,,,,13051
-001cv00000AuWQl,"Town Of Springdale, WI",Wisconsin,Municipality,Nick Martino,2050,,Tier 3,0.75,42.9995,-89.644,f78de8df-e3e9-4727-bdb5-6a37116acc12,,,,,,,,,,,,,,,,12965
-001cv00000AuWVf,"Town Of Albion, WI",Wisconsin,Municipality,Nick Martino,2052,,Tier 3,0.75,42.8794,-89.0698,3c974506-9558-46c7-8764-0df254d78a4e,,,,,,,,,,,,,,,,13182
-001cv00000AuWXQ,"Town Of Jefferson, WI",Wisconsin,Municipality,Nick Martino,2054,,Tier 3,0.75,42.9646,-88.7975,b3614a9b-294a-4c91-97d7-0a0aa5bf22a9,,,,,,,,,,,,,,,,13201
-001cv00000AuWXX,"City Of Washburn, WI",Wisconsin,Municipality,Nick Martino,2055,,Tier 3,0.75,46.6733,-90.8949,1b07d7bd-b514-42a0-b41c-f8df8f42977b,,,,,,,,,,,,,,,,13274
-001cv00000AuWXY,"Town Of Marion, WI",Wisconsin,Municipality,Nick Martino,2055,,Tier 3,0.75,44.6708,-88.8893,d242452e-b0af-4141-9340-8d2fa77e1e80,,,,,,,,,,,,,,,,13393
-001cv00000AuWY8,"Village Of Pardeeville, WI",Wisconsin,Municipality,Nick Martino,2067,,Tier 3,0.75,43.5378,-89.3001,cce2e3f6-8cb6-4b5b-bfae-175aa3779bbc,,,,,,,,,,,,,,,,13186
-001cv00000AuWYg,"Town Of Mcmillan, WI",Wisconsin,Municipality,Nick Martino,2077,,Tier 3,0.75,44.7423,-90.1632,a3d0d09f-5b1f-468b-835a-e56f676f134b,,,,,,,,,,,,,,,,13268
-001cv00000AuWYh,"Town Of Woodruff, WI",Wisconsin,Municipality,Nick Martino,2077,,Tier 3,0.75,45.8966,-89.6978,105b2c8a-2375-4771-b4c7-b03d1f0572c1,,,,,,,,,,,,,,,,13339
-001cv00000AuWZ1,"Town Of Herman, WI",Wisconsin,Municipality,Nick Martino,2084,,Tier 3,0.75,43.8667,-87.8746,c1c99241-1ddb-4615-986a-91bdbec74341,,,,,,,,,,,,,,,,13397
-001cv00000AuWZF,"Town Of Fredonia, WI",Wisconsin,Municipality,Nick Martino,2090,,Tier 3,0.75,43.4949,-87.9825,fc0869b9-2fca-447f-b699-f2f2135acd30,,,,,,,,,,,,,,,,13380
-001cv00000AuWZZ,"Village Of Eagle, WI",Wisconsin,Municipality,Nick Martino,2095,,Tier 3,0.75,42.879,-88.4745,13d6aa4a-9794-4823-8146-c4bb5f2a05b4,,,,,,,,,,,,,,,,13416
-001cv00000AuWZl,"Village Of Cedar Grove, WI",Wisconsin,Municipality,Nick Martino,2100,,Tier 3,0.75,43.5697,-87.8234,21566130-5729-4a33-ab84-4c23c0048665,,,,,,,,,,,,,,,,13378
-001cv00000AuWa5,"Town Of Rubicon, WI",Wisconsin,Municipality,Nick Martino,2107,,Tier 3,0.75,43.34,-88.4582,fe531e7d-1ae6-4f0c-a6d7-5ff89957bd66,,,,,,,,,,,,,,,,13444
-001cv00000AuWaD,"Town Of Union, WI",Wisconsin,Municipality,Nick Martino,2109,,Tier 3,0.75,42.8244,-89.3018,e68816c5-7220-4f00-9944-91b3e8faa346,,,,,,,,,,,,,,,,13423
-001cv00000AuWal,"Town Of Liberty Grove, WI",Wisconsin,Municipality,Nick Martino,2116,,Tier 3,0.75,45.212,-87.0925,11e87b01-244b-4fb5-baf6-d48c65559004,,,,,,,,,,,,,,,,13069
-001cv00000AuWam,"Town Of Sharon, WI",Wisconsin,Municipality,Nick Martino,2117,,Tier 3,0.75,42.5025,-88.729,288efeb7-2e47-4456-9ad5-83362fd4938a,,,,,,,,,,,,,,,,13042
-001cv00000AuWaq,"Town Of Florence, WI",Wisconsin,Municipality,Nick Martino,2118,,Tier 3,0.75,45.9224,-88.252,39f36dd1-2239-4584-95c0-a4092882f48a,,,,,,,,,,,,,,,,13077
-001cv00000AuWax,"Town Of St Germain, WI",Wisconsin,Municipality,Nick Martino,2120,,Tier 3,0.75,45.9128,-89.4875,66479f1b-44ca-413c-b788-07176c63cf90,,,,,,,,,,,,,,,,13132
-001cv00000AuWb1,"Town Of Manitowoc Rapids, WI",Wisconsin,Municipality,Nick Martino,2121,,Tier 3,0.75,44.0992,-87.7009,12ad0140-9e64-465b-a838-6e8595262f21,,,,,,,,,,,,,,,,12979
-001cv00000AuWbY,"Town Of Newton, WI",Wisconsin,Municipality,Nick Martino,2132,,Tier 3,0.75,43.9937,-87.7263,7786a249-ad60-4eff-acf3-8991dc531c41,,,,,,,,,,,,,,,,13119
-001cv00000AuWbe,"Town Of Lincoln, WI",Wisconsin,Municipality,Nick Martino,2134,,Tier 3,0.75,46.3556,-90.9658,d178074b-c215-4a28-b6eb-25c4dbf3c88e,,,,,,,,,,,,,,,,13095
-001cv00000AuWbf,"Town Of Farmington, WI",Wisconsin,Municipality,Nick Martino,2135,,Tier 3,0.75,43.4874,-88.1096,75bb1feb-be19-4147-8f78-442d95719b6e,,,,,,,,,,,,,,,,13090
-001cv00000AuWc6,"City Of Schofield, WI",Wisconsin,Municipality,Nick Martino,2143,,Tier 3,0.75,44.9097,-89.6046,6f7952a9-78b5-4480-8934-09d05ea0a8f5,,,,,,,,,,,,,,,,13113
-001cv00000AuWcL,"Village Of Shorewood Hills, WI",Wisconsin,Municipality,Nick Martino,2146,,Tier 3,0.75,43.0775,-89.4457,7af9ca6f-b1c8-4fcc-b823-fc1d00c22c8d,,,,,,,,,,,,,,,,13254
-001cv00000AuWcM,"Town Of Rhine, WI",Wisconsin,Municipality,Nick Martino,2146,,Tier 3,0.75,43.8688,-87.9923,0c02d501-13af-47b1-adc4-a7f6a849f1f4,,,,,,,,,,,,,,,,13218
-001cv00000AuWcz,"Town Of Spring Prairie, WI",Wisconsin,Municipality,Nick Martino,2158,,Tier 3,0.75,42.6914,-88.4043,8abcd456-4606-4c57-9eee-40a25b342a21,,,,,,,,,,,,,,,,13164
-001cv00000AuWd5,"City Of Cuba City, WI",Wisconsin,Municipality,Nick Martino,2159,,Tier 3,0.75,42.6056,-90.4299,1a7e5e50-3162-4823-b836-40bedab5edf6,,,,,,,,,,,,,,,,13187
-001cv00000AuWd6,"Town Of Wausau, WI",Wisconsin,Municipality,Nick Martino,2160,,Tier 3,0.75,44.9804,-89.5309,da7902d2-e806-4414-8945-55b2f84c51ca,,,,,,,,,,,,,,,,13250
-001cv00000AuWdB,"City Of Chetek, WI",Wisconsin,Municipality,Nick Martino,2161,,Tier 3,0.75,45.3141,-91.651,52775d29-c766-422e-873f-43d66046edb0,,,,,,,,,,,,,,,,13247
-001cv00000AuWpD,"Town Of Exeter, WI",Wisconsin,Municipality,Nick Martino,2176,,Tier 3,0.75,42.7906,-89.5832,4208d5ff-8aef-4fd6-92cb-c9add14faf9c,,,,,,,,,,,,,,,,13528
-001cv00000AuWpf,"Town Of Greenfield, WI",Wisconsin,Municipality,Nick Martino,2184,,Tier 3,0.75,42.9614,-88.0126,ff2ff41a-9c0b-43db-b712-f8d90aad5060,,,,,,,,,,,,,,,,13469
-001cv00000AuWpk,"Village Of Clinton, WI",Wisconsin,Municipality,Nick Martino,2185,,Tier 3,0.75,42.5578,-88.8651,61dbace5-2723-467f-9922-a21a3b6af20c,,,,,,,,,,,,,,,,13489
-001cv00000AuWq3,"Town Of Green Bay, WI",Wisconsin,Municipality,Nick Martino,2190,,Tier 3,0.75,44.6231,-87.796,d576526d-e337-4297-979e-9db527d0c2c8,,,,,,,,,,,,,,,,13457
-001cv00000AuWqA,"Village Of Kohler, WI",Wisconsin,Municipality,Nick Martino,2192,,Tier 3,0.75,43.7392,-87.7818,93c92f29-e67f-4f59-af06-bb13eeb4bdab,,,,,,,,,,,,,,,,13539
-001cv00000AuWqE,"Town Of Lake Mills, WI",Wisconsin,Municipality,Nick Martino,2193,,Tier 3,0.75,43.0731,-88.9605,833fae4b-3048-4aad-9f05-750402f43012,,,,,,,,,,,,,,,,13476
-001cv00000AuWqF,"Town Of Clifton, WI",Wisconsin,Municipality,Nick Martino,2193,,Tier 3,0.75,42.9017,-90.488,c0fd53ec-5fde-4843-b3e0-e95861dab284,,,,,,,,,,,,,,,,13517
-001cv00000AuWqP,"Village Of North Prairie, WI",Wisconsin,Municipality,Nick Martino,2198,,Tier 3,0.75,42.932,-88.4056,fcff3221-0b7a-4515-ae6a-33f7ef62ef58,,,,,,,,,,,,,,,,13481
-001cv00000AuWqe,"Town Of Wayne, WI",Wisconsin,Municipality,Nick Martino,2202,,Tier 3,0.75,43.5142,-88.3215,f4a42f1a-0520-4876-9c0b-59c00ed240a1,,,,,,,,,,,,,,,,13485
-001cv00000AuWqn,"Town Of Jamestown, WI",Wisconsin,Municipality,Nick Martino,2207,,Tier 3,0.75,42.5878,-90.5485,888933d9-7317-4848-891e-9d792665693d,,,,,,,,,,,,,,,,13581
-001cv00000AuWrV,"Town Of River Falls, WI",Wisconsin,Municipality,Nick Martino,2221,,Tier 3,0.75,44.8332,-92.5968,62badb14-d46b-49d1-9089-1e471d991d63,,,,,,,,,,,,,,,,13628
-001cv00000AuWra,"City Of St Croix Falls, WI",Wisconsin,Municipality,Nick Martino,2224,,Tier 3,0.75,45.41,-92.6397,e6c18c21-6245-4b76-b456-77b5158b7b20,,,,,,,,,,,,,,,,13604
-001cv00000AuWrl,"City Of Wautoma, WI",Wisconsin,Municipality,Nick Martino,2229,,Tier 3,0.75,44.0747,-89.2879,4f937845-4d89-4156-84b0-59842da5aae6,,,,,,,,,,,,,,,,13680
-001cv00000AuWrt,"Village Of New Glarus, WI",Wisconsin,Municipality,Nick Martino,2234,,Tier 3,0.75,42.8144,-89.6351,1b989127-2dcd-4f77-9b7e-ccaa63888c14,,,,,,,,,,,,,,,,13656
-001cv00000AuWs1,"Town Of Bridge Creek, WI",Wisconsin,Municipality,Nick Martino,2238,,Tier 3,0.75,44.7143,-91.0778,f6ff4eaa-b0e6-4348-95c2-ce4edc7f2e67,,,,,,,,,,,,,,,,13642
-001cv00000AuX5B,"Town Of Mosinee, WI",Wisconsin,Municipality,Nick Martino,2244,,Tier 3,0.75,44.792,-89.769,8b7f74e3-4b72-401b-80b9-52c39d10622e,,,,,,,,,,,,,,,,13707
-001cv00000AuX6R,"City Of Cumberland, WI",Wisconsin,Municipality,Nick Martino,2268,,Tier 3,0.75,45.5322,-92.0193,c85c6455-a93b-46f1-be00-6297a60e428d,,,,,,,,,,,,,,,,13705
-001cv00000AuX6a,"Town Of Holland, WI",Wisconsin,Municipality,Nick Martino,2271,,Tier 3,0.75,43.5986,-87.8746,181f6f36-2ff3-4611-9260-b22ab38c0843,,,,,,,,,,,,,,,,13644
-001cv00000AuX6v,"Town Of Superior, WI",Wisconsin,Municipality,Nick Martino,2276,,Tier 3,0.75,46.5974,-92.1287,cf982210-6fc2-4fec-b226-2605f10b99a6,,,,,,,,,,,,,,,,13805
-001cv00000AuX7V,"Town Of Sullivan, WI",Wisconsin,Municipality,Nick Martino,2290,,Tier 3,0.75,42.9528,-88.6145,05afe794-8c95-42d5-91c9-9b5a191e7e35,,,,,,,,,,,,,,,,13771
-001cv00000AuX8X,"Town Of Omro, WI",Wisconsin,Municipality,Nick Martino,2309,,Tier 3,0.75,44.0315,-88.6916,a645535e-d659-432f-ac78-23209b42f256,,,,,,,,,,,,,,,,13780
-001cv00000AuX98,"City Of Abbotsford, WI",Wisconsin,Municipality,Nick Martino,2325,,Tier 3,0.75,44.9464,-90.316,09540cd9-ddff-493d-b2ff-f4a47c05246f,,,,,,,,,,,,,,,,13940
-001cv00000AuX9Z,"Town Of Anson, WI",Wisconsin,Municipality,Nick Martino,2333,,Tier 3,0.75,44.9808,-91.2868,a8cc0775-d7d4-46d0-8c64-b0a1e730e583,,,,,,,,,,,,,,,,13850
-001cv00000AuX9m,"Village Of Maine, WI",Wisconsin,Municipality,Nick Martino,2337,,Tier 3,0.75,45.0273,-89.6904,7aa87d0e-6d78-4a13-9604-8dcf7c268832,,,,,,,,,,,,,,,,13897
-001cv00000AuXAB,"City Of Westby, WI",Wisconsin,Municipality,Nick Martino,2350,,Tier 3,0.75,43.6569,-90.8543,e4d3aecc-e9d1-4354-9bb3-7013ff92b0c6,,,,,,,,,,,,,,,,13878
-001cv00000AuXAf,"City Of Neillsville, WI",Wisconsin,Municipality,Nick Martino,2363,,Tier 3,0.75,44.56,-90.5962,6eae333e-3c74-48e2-b3e8-5a36d70783b4,,,,,,,,,,,,,,,,13976
-001cv00000AuXAy,"Town Of Oak Grove, WI",Wisconsin,Municipality,Nick Martino,2370,,Tier 3,0.75,43.3861,-88.7457,a01e72b3-55c8-4e8c-957d-d4f472a4b1a4,,,,,,,,,,,,,,,,14070
-001cv00000AuXEc,"Town Of Three Lakes, WI",Wisconsin,Municipality,Nick Martino,2448,,Tier 3,0.75,45.7982,-89.1626,3bd47ce5-d0f7-467b-b9c7-61d997b1f8ac,,,,,,,,,,,,,,,,13954
-001cv00000AuXNN,"Town Of Necedah, WI",Wisconsin,Municipality,Nick Martino,2466,,Tier 3,0.75,44.1478,-90.1316,f1ec193e-4af0-4228-a6f6-782b56fe3042,,,,,,,,,,,,,,,,14201
-001cv00000AuXNf,"Town Of Delton, WI",Wisconsin,Municipality,Nick Martino,2472,,Tier 3,0.75,43.5413,-89.7943,39c5f2c1-28e1-45da-8d72-6ac3c6c61049,,,,,,,,,,,,,,,,14088
-001cv00000AuXOC,"City Of Spooner, WI",Wisconsin,Municipality,Nick Martino,2482,,Tier 3,0.75,45.8224,-91.8893,0f6594c4-eefe-4f99-8c7d-8746c589d280,,,,,,,,,,,,,,,,14098
-001cv00000AuXOm,"Town Of Dekorra, WI",Wisconsin,Municipality,Nick Martino,2494,,Tier 3,0.75,43.4583,-89.4666,75f332bb-5465-4e52-bba0-c9a06a4076c6,,,,,,,,,,,,,,,,14139
-001cv00000AuXOn,"Town Of Medford, WI",Wisconsin,Municipality,Nick Martino,2494,,Tier 3,0.75,45.1628,-90.375,3e0e7bbc-f666-4c29-a2c8-b0b88e449a64,,,,,,,,,,,,,,,,14203
-001cv00000AuXP6,"Town Of La Grange, WI",Wisconsin,Municipality,Nick Martino,2504,,Tier 3,0.75,42.7997,-88.6023,52bab9a4-9991-4870-a08f-4acb83419047,,,,,,,,,,,,,,,,14177
-001cv00000AuXPE,"Village Of Deerfield, WI",Wisconsin,Municipality,Nick Martino,2508,,Tier 3,0.75,43.0519,-89.0757,72e0d357-def1-48b0-a5db-2640a03bab8f,,,,,,,,,,,,,,,,14165
-001cv00000AuXPP,"Village Of Dousman, WI",Wisconsin,Municipality,Nick Martino,2512,,Tier 3,0.75,43.0105,-88.473,cfbd1e24-47d1-480e-a640-cd0197b4f5d2,,,,,,,,,,,,,,,,14150
-001cv00000AuXTP,"Village Of Winneconne, WI",Wisconsin,Municipality,Nick Martino,2526,,Tier 3,0.75,44.1108,-88.7126,b782dbae-77e4-4461-8bd0-3a34a862b8b8,,,,,,,,,,,,,,,,14231
-001cv00000AuXTn,"City Of Hayward, WI",Wisconsin,Municipality,Nick Martino,2539,,Tier 3,0.75,46.013,-91.4846,51f433c8-d8e9-4806-92ee-0dd712be55fe,,,,,,,,,4,2026-04-22,4,,,,,14162
-001cv00000AuXUX,"Village Of Belleville, WI",Wisconsin,Municipality,Nick Martino,2559,,Tier 3,0.75,42.8597,-89.5382,e7807cb4-ae93-4e78-81d8-a182b73f1389,,,,,,,,,,,,,,,,14291
-001cv00000AuXUk,"City Of Mineral Point, WI",Wisconsin,Municipality,Nick Martino,2565,,Tier 3,0.75,42.86,-90.1798,05dbc706-b569-49e3-8060-49b742973dd4,,,,,,,,,,,,,,,,14214
-001cv00000AuXVA,"Town Of Harmony, WI",Wisconsin,Municipality,Nick Martino,2574,,Tier 3,0.75,42.732,-88.9318,556674c7-5a9b-4912-b236-3386f641f66c,,,,,,,,,,,,,,,,14346
-001cv00000AuXVK,"Town Of Stettin, WI",Wisconsin,Municipality,Nick Martino,2579,,Tier 3,0.75,44.9812,-89.7943,b66ef3f5-1337-4004-9937-3c8dbce0d5fc,,,,,,,,,,,,,,,,14320
-001cv00000AuXVR,"Town Of Stanley, WI",Wisconsin,Municipality,Nick Martino,2582,,Tier 3,0.75,45.4276,-91.7119,6ada0f24-bce4-43c9-afe4-06ab7b6f5a9b,,,,,,,,,,,,,,,,14381
-001cv00000AuXW3,"Village Of Poynette, WI",Wisconsin,Municipality,Nick Martino,2598,,Tier 3,0.75,43.3903,-89.4029,713c6e0a-99f9-4453-8b92-da9c8958176a,,,,,,,,,,,,,,,,14397
-001cv00000AuXW8,"Town Of Winneconne, WI",Wisconsin,Municipality,Nick Martino,2600,,Tier 3,0.75,44.1108,-88.7126,71c0b86a-5f48-4e44-bd64-6c701db94f3e,,,,,,,,,,,,,,,,14494
-001cv00000AuXfk,"Town Of Linn, WI",Wisconsin,Municipality,Nick Martino,2727,,Tier 3,0.75,42.5215,-88.4985,ac1c3eff-4773-48e5-8651-43fe44104c13,,,,,,,,,,,,,,,,14467
-001cv00000AuXh2,"Town Of Pine Lake, WI",Wisconsin,Municipality,Nick Martino,2764,,Tier 3,0.75,45.6631,-89.401,f0f07a2d-6d5e-4a03-869b-9fb71f75a160,,,,,,,,,,,,,,,,14557
-001cv00000AuXh4,"Town Of Barton, WI",Wisconsin,Municipality,Nick Martino,2766,,Tier 3,0.75,43.4606,-88.2364,1e741cd2-c5ba-4698-a4a5-f29d793f59c7,,,,,,,,,,,,,,,,14603
-001cv00000AuXhG,"Village Of Fontana, WI",Wisconsin,Municipality,Nick Martino,2772,,Tier 3,0.75,42.5514,-88.5752,1d2859be-b098-4941-b66b-af208a240df6,,,,,,,,,,,,,,,,14622
-001cv00000AuXhH,"Town Of Friendship, WI",Wisconsin,Municipality,Nick Martino,2772,,Tier 3,0.75,43.8476,-88.4695,b8e52292-85cf-49f1-a8ef-f48b3fc202ac,,,,,,,,,,,,,,,,14518
-001cv00000AuXhK,"City Of Fennimore, WI",Wisconsin,Municipality,Nick Martino,2773,,Tier 3,0.75,42.9836,-90.6554,ccc52c85-555e-490f-b8e3-5f8939293938,,,,,,,,,,,,,,,,14688
-001cv00000AuXi2,"Village Of Walworth, WI",Wisconsin,Municipality,Nick Martino,2785,,Tier 3,0.75,42.5311,-88.5995,1a4c840b-ce65-4e8d-b9b5-a81d9f75eb40,,,,,,,,,,,,,,,,14535
-001cv00000AuXi9,"City Of Kewaunee, WI",Wisconsin,Municipality,Nick Martino,2787,,Tier 3,0.75,44.4583,-87.5031,d15d303f-e9d4-4d0e-ae3b-0b1397f6caae,,,,,,,,,,,,,,,,14714
-001cv00000AuXiD,"Town Of Empire, WI",Wisconsin,Municipality,Nick Martino,2789,,Tier 3,0.75,43.7401,-88.3932,a35fd57e-1bff-45c6-80d6-4cbbb0c66f52,,,,,,,,,,,,,,,,14584
-001cv00000AuXiU,"Town Of Pacific, WI",Wisconsin,Municipality,Nick Martino,2795,,Tier 3,0.75,43.5111,-89.408,01589f5d-8759-4bce-b044-6162ab4087d0,,,,,,,,,,,,,,,,14531
-001cv00000AuXif,"Town Of Wheaton, WI",Wisconsin,Municipality,Nick Martino,2798,,Tier 3,0.75,44.8963,-91.5402,8f1ca28c-ae8f-47c4-a11f-374eb8636823,,,,,,,,,,,,,,,,14590
-001cv00000AuXio,"City Of Mondovi, WI",Wisconsin,Municipality,Nick Martino,2801,,Tier 3,0.75,44.5679,-91.6705,80b3454d-804b-4fa6-85a6-e79caf42385e,,,,,,,,,,,,,,,,14665
-001cv00000AuXiu,"Town Of Pittsfield, WI",Wisconsin,Municipality,Nick Martino,2804,,Tier 3,0.75,44.5994,-88.2451,61c230bd-754d-422f-865c-b5142efc62bc,,,,,,,,,,,,,,,,14673
-001cv00000AuXj0,"Village Of Osceola, WI",Wisconsin,Municipality,Nick Martino,2809,,Tier 3,0.75,45.3205,-92.7049,56f373c5-d66b-46d5-92ce-cea380e132c8,,,,,,,,,,,,,,,,14709
-001cv00000AuXjE,"Town Of Mukwa, WI",Wisconsin,Municipality,Nick Martino,2819,,Tier 3,0.75,44.3742,-88.8071,61bb4a66-a062-4280-8a1b-10859facc715,,,,,,,,,,,,,,,,14660
-001cv00000AuXjJ,"Town Of Bass Lake, WI",Wisconsin,Municipality,Nick Martino,2820,,Tier 3,0.75,45.9144,-91.4973,513bbd42-47d6-49b0-b5d8-dd6ff673b04b,,,,,,,,,,,,,,,,14667
-001cv00000AuXk6,"Town Of Rice Lake, WI",Wisconsin,Municipality,Nick Martino,2844,,Tier 3,0.75,45.5312,-91.7308,79253f98-e2e5-4f67-9509-cd24045dc487,,,,,,,,,,,,,,,,14680
-001cv00000AuXkD,"Town Of Pelican, WI",Wisconsin,Municipality,Nick Martino,2845,,Tier 3,0.75,45.6018,-89.3504,d12e7005-4bb5-4fbf-8033-ea92b8b8a3d8,,,,,,,,,,,,,,,,14786
-001cv00000AuXlB,"Town Of Sevastopol, WI",Wisconsin,Municipality,Nick Martino,2864,,Tier 3,0.75,44.8936,-87.2878,03aa52af-d427-48e0-a1b2-ad63c338717e,,,,,,,,,,,,,,,,14710
-001cv00000AuXlE,"Village Of Wales, WI",Wisconsin,Municipality,Nick Martino,2867,,Tier 3,0.75,43.0058,-88.384,b4fed056-e427-4f12-93ad-0693d09cb824,,,,,,,,,,,,,,,,14785
-001cv00000AuXlO,"Town Of Newbold, WI",Wisconsin,Municipality,Nick Martino,2873,,Tier 3,0.75,45.698,-89.5101,69fc6bc5-db0f-4d2c-bec8-2ed718fcd75c,,,,,,,,,,,,,,,,14778
-001cv00000AuXlx,"Town Of Merrill, WI",Wisconsin,Municipality,Nick Martino,2891,,Tier 3,0.75,45.2358,-89.6617,e9186799-b502-4816-9b47-3ea6b0c544ed,,,,,,,,,,,,,,,,14741
-001cv00000AuXm4,"Town Of Dale, WI",Wisconsin,Municipality,Nick Martino,2896,,Tier 3,0.75,44.273,-88.6784,5c4009d5-04fa-4edb-81bd-b7c9f8669db6,,,,,,,,,,,,,,,,14767
-001cv00000AuXmm,"Town Of Springfield, WI",Wisconsin,Municipality,Nick Martino,2915,,Tier 3,0.75,43.1544,-89.5309,cd486d39-2118-4a47-ad62-b1d83bfb4eb1,,,,,,,,,,,,,,,,14901
-001cv00000AuXmx,"City Of Amery, WI",Wisconsin,Municipality,Nick Martino,2925,,Tier 3,0.75,45.3069,-92.3621,3252ae81-ee70-4ddc-b213-7c6e86411ad9,,,,,,,,,,,,,,,,14885
-001cv00000AuXnQ,"City Of Oconto Falls, WI",Wisconsin,Municipality,Nick Martino,2946,,Tier 3,0.75,44.8739,-88.1429,2afe129c-1708-4620-a3af-cab0b741b767,,,,,,,,,,,,,,,,14940
-001cv00000AuXne,"Town Of Lima, WI",Wisconsin,Municipality,Nick Martino,2953,,Tier 3,0.75,42.8043,-90.4691,7097dbfd-dcca-47f1-8166-011e80afdbee,,,,,,,,,,,,,,,,14875
-001cv00000AuXnz,"Town Of Alden, WI",Wisconsin,Municipality,Nick Martino,2966,,Tier 3,0.75,45.2532,-92.5046,c4ac0833-2fec-4ec3-be41-32eb704eeb4e,,,,,,,,,,,,,,,,14988
-001cv00000AuXzJ,"Town Of Pleasant Springs, WI",Wisconsin,Municipality,Nick Martino,3071,,Tier 3,0.75,42.9972,-89.1896,3508c16f-cbb2-44a5-b027-5d440edf6b57,,,,,,,,,,,,,,,,14906
-001cv00000AuXzO,"Town Of Osceola, WI",Wisconsin,Municipality,Nick Martino,3073,,Tier 3,0.75,43.6814,-88.2266,4b4a0e36-ceea-425b-9128-40205381994d,,,,,,,,,,,,,,,,14933
-001cv00000AuXzW,"Town Of Plymouth, WI",Wisconsin,Municipality,Nick Martino,3076,,Tier 3,0.75,43.7714,-90.2432,2d9e5a1a-aae0-4158-b486-1e74a6fe2253,,,,,,,,,,,,,,,,15001
-001cv00000AuXzc,"Village Of Oostburg, WI",Wisconsin,Municipality,Nick Martino,3080,,Tier 3,0.75,43.6228,-87.7945,c7e013a5-c385-4e4b-925e-b702cc57c370,,,,,,,,,,,,,,,,14946
-001cv00000AuY19,"Village Of Paddock Lake, WI",Wisconsin,Municipality,Nick Martino,2976,,Tier 3,0.75,42.5775,-88.1051,e069d31e-3f38-4ce4-8530-514767e507e3,,,,,,,,,,,,,,,,15136
-001cv00000AuY5p,"Town Of Hartford, WI",Wisconsin,Municipality,Nick Martino,3397,,Tier 3,0.75,43.3178,-88.379,e660615d-2261-4b88-a07d-1ed172a55f28,,,,,,,,,,,,,,,,15523
-001cv00000AuYB3,"Village Of Hortonville, WI",Wisconsin,Municipality,Nick Martino,3085,,Tier 3,0.75,44.3347,-88.6382,91683e95-8056-4dce-9eb7-73a432592d2c,,,,,,,,,,,,,,,,15071
-001cv00000AuYBh,"Town Of Rome, WI",Wisconsin,Municipality,Nick Martino,3102,,Tier 3,0.75,44.1989,-89.8203,a6a49f64-9f54-47c7-8ad5-6df19e0896a6,,,,,,,,,,,,,,,,15212
-001cv00000AuYBm,"City Of New Holstein, WI",Wisconsin,Municipality,Nick Martino,3106,,Tier 3,0.75,43.95,-88.0843,146ea10b-8d2b-4d1a-a534-01050b1acebf,,,,,,,,,,,,,,,,15186
-001cv00000AuYC2,"Town Of Oregon, WI",Wisconsin,Municipality,Nick Martino,3115,,Tier 3,0.75,42.8818,-89.4175,6a6249f3-d49d-44e7-ac34-d396f8243583,,,,,,,,,,,,,,,,15117
-001cv00000AuYCo,"Village Of Yorkville, WI",Wisconsin,Municipality,Nick Martino,3143,,Tier 3,0.75,42.7289,-87.9664,2b734539-9031-446d-b25e-54468c638408,,,,,,,,,,,,,,,,15214
-001cv00000AuYCr,"City Of Ladysmith, WI",Wisconsin,Municipality,Nick Martino,3146,,Tier 3,0.75,45.463,-91.104,452e1b78-8c7e-4fa5-8911-02823907670c,,,,,,,,,,,,,,,,15126
-001cv00000AuYEJ,"Town Of Rock, WI",Wisconsin,Municipality,Nick Martino,2984,,Tier 3,0.75,42.606,-89.0752,848364d7-69cf-4e3d-aabc-c5170d250626,,,,,,,,,,,,,,,,15229
-001cv00000AuYEW,"Town Of Brockway, WI",Wisconsin,Municipality,Nick Martino,2992,,Tier 3,0.75,44.2844,-90.8421,6e01c1ff-3b69-41b8-b41d-66f7b92fbdd3,,,,,,,,,,,,,,,,15236
-001cv00000AuYEy,"Village Of Williams Bay, WI",Wisconsin,Municipality,Nick Martino,3001,,Tier 3,0.75,42.5781,-88.5409,e59aa6d3-2bd0-4622-8651-bd90e4cbf60f,,,,,,,,,,,,,,,,14968
-001cv00000AuYF9,"Village Of Genoa City, WI",Wisconsin,Municipality,Nick Martino,3007,,Tier 3,0.75,42.4984,-88.3281,31f56be1-9026-4569-97e8-5a616fa98e64,,,,,,,,,,,,,,,,15017
-001cv00000AuYFA,"Town Of Stockton, WI",Wisconsin,Municipality,Nick Martino,3007,,Tier 3,0.75,44.5114,-89.4671,8a830b09-4e4c-4ac0-9e7d-ce19dc6e6996,,,,,,,,,,,,,,,,14992
-001cv00000AuYGa,"Village Of Somerset, WI",Wisconsin,Municipality,Nick Martino,3057,,Tier 3,0.75,45.1244,-92.6735,4ae3849f-fa72-4876-8ae8-5d91296c5799,,,,,,,,,,,,,,,,15148
-001cv00000AuYHQ,"Town Of Eagle Point, WI",Wisconsin,Municipality,Nick Martino,3288,,Tier 3,0.75,43.2318,-90.4691,50706c07-4286-46cd-a86f-36e66648356b,,,,,,,,,,,,,,,,15693
-001cv00000AuYHU,"City Of Boscobel, WI",Wisconsin,Municipality,Nick Martino,3290,,Tier 3,0.75,43.1344,-90.7054,28149b27-0361-4981-aaeb-4c55cd378f7e,,,,,,,,,,,,,,,,15669
-001cv00000AuYHc,"Village Of Thiensville, WI",Wisconsin,Municipality,Nick Martino,3298,,Tier 3,0.75,43.2375,-87.9787,c7758b0d-72f7-40e1-8629-e97b0d013e1c,,,,,,,,,,,,,,,,15667
-001cv00000AuYHd,"Town Of Lodi, WI",Wisconsin,Municipality,Nick Martino,3298,,Tier 3,0.75,43.348,-89.5408,a475165a-a755-4dd1-b300-5b5626801ec0,,,,,,,,,,,,,,,,15660
-001cv00000AuYHr,"Town Of Randall, WI",Wisconsin,Municipality,Nick Martino,3304,,Tier 3,0.75,45.6958,-92.835,947a8ef4-8155-443c-bba9-39682ecef6d4,,,,,,,,,,,,,,,,15677
-001cv00000AuYIR,"City Of Brillion, WI",Wisconsin,Municipality,Nick Martino,3326,,Tier 3,0.75,44.1772,-88.0643,2f52bea1-d6a4-4e6e-8880-13a73d7787c2,,,,,,,,,,,,,,,,15783
-001cv00000AuYIh,"Village Of Ellsworth, WI",Wisconsin,Municipality,Nick Martino,3333,,Tier 3,0.75,44.7322,-92.4874,78911d95-485f-49fe-baaa-659fcbdb41ba,,,,,,,,,,,,,,,,15799
-001cv00000AuYJK,"Town Of Seymour, WI",Wisconsin,Municipality,Nick Martino,3363,,Tier 3,0.75,44.515,-88.3304,37bcaa90-864e-44ae-bf63-08c43ced92dc,,,,,,,,,,,,,,,,15749
-001cv00000AuYJW,"City Of Peshtigo, WI",Wisconsin,Municipality,Nick Martino,3369,,Tier 3,0.75,45.0544,-87.7493,c8e2992b-a8f3-4bc6-93a1-27bc5e1c457b,,,,,,,,,,,,,,,,15832
-001cv00000AuYK0,"Town Of Wheatland, WI",Wisconsin,Municipality,Nick Martino,3387,,Tier 3,0.75,43.4587,-91.1545,5e652f03-fab7-44bd-9b04-512e450d23f3,,,,,,,,,,,,,,,,16035
-001cv00000AuYKf,"Village Of Johnson Creek, WI",Wisconsin,Municipality,Nick Martino,3406,,Tier 3,0.75,43.0761,-88.7743,ba2218db-4fd5-49d4-907a-4d5e1084a5df,,,,,,,,,,,,,,,,15911
-001cv00000AuYLR,"City Of Tomahawk, WI",Wisconsin,Municipality,Nick Martino,3432,,Tier 3,0.75,45.4711,-89.7299,3b82193a-7cc4-432f-a740-133d14366673,,,,,,,,,,,,,,,,15898
-001cv00000AuYLf,"Town Of Menomonie, WI",Wisconsin,Municipality,Nick Martino,3441,,Tier 3,0.75,44.8792,-91.9757,81346cce-2b65-4b59-8396-f3b0c330df1a,,,,,,,,,,,,,,,,15871
-001cv00000AuYLm,"Village Of Merton, WI",Wisconsin,Municipality,Nick Martino,3450,,Tier 3,0.75,43.1414,-88.3073,12567232-a59a-4539-b9e3-a691ed6abe9e,,,,,,,,,,,,,,,,15923
-001cv00000AuYLn,"Town Of Addison, WI",Wisconsin,Municipality,Nick Martino,3452,,Tier 3,0.75,43.4228,-88.3745,f56255c5-7f37-4f94-b07b-5340c066d87c,,,,,,,,,,,,,,,,15859
-001cv00000AuYLw,"Village Of Lake Delton, WI",Wisconsin,Municipality,Nick Martino,3459,,Tier 3,0.75,43.6011,-89.7937,deecac81-9a43-47ef-9d64-6140813b7072,,,,,,,,,,,,,,,,15991
-001cv00000AuYM7,"Town Of Wilson, WI",Wisconsin,Municipality,Nick Martino,3471,,Tier 3,0.75,43.6829,-87.7665,ab872a21-377d-4712-b505-3ecd72c7682d,,,,,,,,,,,,,,,,16007
-001cv00000AuYMC,"Town Of Arbor Vitae, WI",Wisconsin,Municipality,Nick Martino,3474,,Tier 3,0.75,45.9205,-89.6635,f35a9a26-aaae-48ae-86b8-2da5e18d17f4,,,,,,,,,,,,,,,,16030
-001cv00000AuYMM,"City Of Waterloo, WI",Wisconsin,Municipality,Nick Martino,3479,,Tier 3,0.75,43.1839,-88.9884,caed293b-ede6-4ec0-99e7-9a474321fb05,,,,,,,,,,,,,,,,15994
-001cv00000AuYMZ,"Village Of Sauk City, WI",Wisconsin,Municipality,Nick Martino,3490,,Tier 3,0.75,43.2708,-89.7221,86a270db-fe7c-4065-9d80-0452cef376e3,,,,,,,,,,,,,,,,15299
-001cv00000AuYMy,"Town Of Eagle, WI",Wisconsin,Municipality,Nick Martino,3501,,Tier 3,0.75,43.2318,-90.4691,7c236d95-f121-496e-bd0e-a1c496c65ae8,,,,,,,,,,,,,,,,15508
-001cv00000AuYN4,"City Of Black River Falls, WI",Wisconsin,Municipality,Nick Martino,3504,,Tier 3,0.75,44.2947,-90.8515,424513ac-d956-4fc3-9f81-ee7fe9a90705,,,,,,,,,,,,,,,,15400
-001cv00000AuYOS,"City Of Lodi, WI",Wisconsin,Municipality,Nick Martino,3209,,Tier 3,0.75,43.3139,-89.5265,66b4d918-1c7d-44a0-bf08-593a09e98a9b,,,,,,,,,,,,,,,,15385
-001cv00000AuYOa,"Town Of Oakland, WI",Wisconsin,Municipality,Nick Martino,3213,,Tier 3,0.75,42.9767,-88.9557,e5c40c37-d8df-4bac-af4f-a373b09a5422,,,,,,,,,,,,,,,,15467
-001cv00000AuYOi,"City Of Algoma, WI",Wisconsin,Municipality,Nick Martino,3219,,Tier 3,0.75,44.6089,-87.4326,f24bd4e6-c1b8-44f4-99b0-cc88601fee02,,,,,,,,,10,2026-05-18,10,,,,,15368
-001cv00000AuYOr,"Village Of Sherwood, WI",Wisconsin,Municipality,Nick Martino,3231,,Tier 3,0.75,44.1736,-88.2598,3c7845b0-145d-4e22-9316-27fc23d109b3,,,,,,,,,,,,,,,,15345
-001cv00000AuYOt,"Town Of Chase, WI",Wisconsin,Municipality,Nick Martino,3232,,Tier 3,0.75,44.718,-88.1568,018002a2-52f5-4dba-b20c-80e920ce87ef,,,,,,,,,,,,,,,,15415
-001cv00000AuYP2,"Village Of Wrightstown, WI",Wisconsin,Municipality,Nick Martino,3237,,Tier 3,0.75,44.3258,-88.1629,2249950a-b244-4f1a-8c82-47f0ff226979,,,,,,,,,,,,,,,,15482
-001cv00000AuYP3,"Town Of Ellington, WI",Wisconsin,Municipality,Nick Martino,3237,,Tier 3,0.75,44.3711,-88.5372,59c8398a-32a6-4ba2-95eb-53f51aac2c59,,,,,,,,,,,,,,,,15580
-001cv00000AuYPH,"City Of Brodhead, WI",Wisconsin,Municipality,Nick Martino,3249,,Tier 3,0.75,42.6183,-89.3762,3d3238a3-8afe-4dcd-a322-f6bd3441935e,,,,,,,,,,,,,,,,15559
-001cv00000AuYPK,"Village Of Howards Grove, WI",Wisconsin,Municipality,Nick Martino,3252,,Tier 3,0.75,43.8339,-87.8201,90e87cd9-8e55-41b4-9f39-a2b7725c5622,,,,,,,,,,,,,,,,15540
-001cv00000AuYPS,"Town Of Wescott, WI",Wisconsin,Municipality,Nick Martino,3256,,Tier 3,0.75,44.8178,-88.5667,0ececaa6-5757-45d2-855e-f2089dfa8494,,,,,,,,,,,,,,,,15491
-001cv00000AuYPX,"Town Of Sparta, WI",Wisconsin,Municipality,Nick Martino,3259,,Tier 3,0.75,43.9307,-90.8905,27172de9-de1e-4d34-9e99-1a55d9d4f855,,,,,,,,,,,,,,,,15498
-001cv00000AuYPg,"Town Of Burke, WI",Wisconsin,Municipality,Nick Martino,3265,,Tier 3,0.75,43.1358,-89.2762,41ccc7e4-ad29-4278-9a31-f9f6d48d20ec,,,,,,,,,,,,,,,,15595
-001cv00000AuYR3,"City Of Seymour, WI",Wisconsin,Municipality,Nick Martino,3533,,Tier 3,0.75,44.515,-88.3304,3d9819fd-26ac-469a-b227-65cc08155b17,,,,,,,,,,,,,,,,15500
-001cv00000AuYR4,"Town Of Stephenson, WI",Wisconsin,Municipality,Nick Martino,3535,,Tier 3,0.75,45.2476,-88.1907,a7f7441b-b419-4cc1-aeee-f72b2517a081,,,,,,,,,,,,,,,,15510
-001cv00000AuYSz,"Town Of Fulton, WI",Wisconsin,Municipality,Nick Martino,3627,,Tier 3,0.75,42.8081,-89.1276,afd761f1-a6c1-48ed-8cf5-285fd6da1ee8,,,,,,,,,2,2026-04-22,2,,,,,15987
-001cv00000AuYT3,"Town Of Lac Du Flambeau, WI",Wisconsin,Municipality,Nick Martino,3630,,Tier 3,0.75,45.942,-89.8842,91035eab-add3-4b3c-bab4-e73d4a4a7dde,,,,,,,,,,,,,,,,16096
-001cv00000AuYTF,"Town Of Ottawa, WI",Wisconsin,Municipality,Nick Martino,3636,,Tier 3,0.75,42.9761,-88.4498,847acc98-a449-4068-a244-ec703d1df8f6,,,,,,,,,,,,,,,,15959
-001cv00000AuYTL,"Village Of Combined Locks, WI",Wisconsin,Municipality,Nick Martino,3641,,Tier 3,0.75,44.2658,-88.3143,a1bf5872-7f00-4a8c-9726-376d60e4bbee,,,,,,,,,,,,,,,,16000
-001cv00000AuYXN,"Town Of Hayward, WI",Wisconsin,Municipality,Nick Martino,3787,Open Opportunity,Tier 3,0.75,45.9972,-91.3838,1be41ef5-ad8e-418c-a633-d5ac8395bac5,Open,Meeting Booked,Top of Funnel,Nick Martino,5/28/2026,5/18/2026,,,6,2026-05-18,6,,,,,16125
-001cv00000AuYdX,"City Of Omro, WI",Wisconsin,Municipality,Nick Martino,3658,,Tier 3,0.75,44.0394,-88.7443,7448662d-34a9-4e80-a221-0d1c5397ff8a,,,,,,,,,,,,,,,,16305
-001cv00000AuYdY,"City Of Barron, WI",Wisconsin,Municipality,Nick Martino,3659,,Tier 3,0.75,45.4013,-91.8491,0530a7d8-8e5c-451e-ace4-2b8c4e7141e7,,,,,,,,,,,,,,,,16338
-001cv00000AuYdq,"Town Of Center, WI",Wisconsin,Municipality,Nick Martino,3666,,Tier 3,0.75,44.3695,-88.421,b78c1d8a-4a17-4e00-8f7c-57975eb05082,,,,,,,,,,,,,,,,16361
-001cv00000AuYfQ,"Town Of Campbell, WI",Wisconsin,Municipality,Nick Martino,4236,,Tier 3,0.75,43.858,-91.2599,741d01c1-1ac6-4727-a77a-993bbffe5c39,,,,,,,,,,,,,,,,16758
-001cv00000AuYfh,"City Of Horicon, WI",Wisconsin,Municipality,Nick Martino,3800,,Tier 3,0.75,43.4514,-88.6312,057c8596-fbf8-48d2-8b27-bf667f590bb4,,,,,,,,,,,,,,,,16040
-001cv00000AuYgD,"Village Of Marshall, WI",Wisconsin,Municipality,Nick Martino,3823,,Tier 3,0.75,43.1683,-89.0668,a45a2bf0-a151-4b7e-a9ae-e05fc9ca096b,,,,,,,,,,,,,,,,16144
-001cv00000AuYgJ,"Town Of Pleasant Valley, WI",Wisconsin,Municipality,Nick Martino,3828,,Tier 3,0.75,44.6535,-91.4821,7fffc023-f93f-4c76-bebd-9c34e580654f,,,,,,,,,,,,,,,,16078
-001cv00000AuYgO,"Town Of Erin, WI",Wisconsin,Municipality,Nick Martino,3831,,Tier 3,0.75,43.2208,-88.3434,5f76417b-aaf0-4965-9cab-a390d7df5a1e,,,,,,,,,,,,,,,,16089
-001cv00000AuYhM,"Village Of North Hudson, WI",Wisconsin,Municipality,Nick Martino,3886,,Tier 3,0.75,44.993,-92.7569,4f112bf3-c6ef-4781-82e2-8bdc7102dca7,,,,,,,,,,,,,,,,16161
-001cv00000AuYhj,"Village Of Raymond, WI",Wisconsin,Municipality,Nick Martino,3903,,Tier 3,0.75,42.8009,-88.0126,463f8fd8-4520-499e-aadb-8b5a4b524552,,,,,,,,,,,,,,,,16230
-001cv00000AuYi4,"City Of Lancaster, WI",Wisconsin,Municipality,Nick Martino,3914,,Tier 3,0.75,42.8475,-90.7107,d0ef84ac-a46a-4d37-bd61-18968e9fe7eb,,,,,,,,,,,,,,,,16135
-001cv00000AuYkf,"Village Of Pulaski, WI",Wisconsin,Municipality,Nick Martino,3952,,Tier 3,0.75,44.6722,-88.2426,291645c6-76e8-4d64-bebf-3376a28c79fe,,,,,,,,,,,,,,,,16455
-001cv00000AuYkp,"Town Of Sugar Creek, WI",Wisconsin,Municipality,Nick Martino,3958,,Tier 3,0.75,42.7188,-88.6145,93c323e4-df28-410d-ad40-44e862c30416,,,,,,,,,,,,,,,,16521
-001cv00000AuYks,"City Of Kiel, WI",Wisconsin,Municipality,Nick Martino,3961,,Tier 3,0.75,43.9125,-88.0357,7fbd7f4f-d2e9-4df7-bd6a-0c657394aeb0,,,,,,,,,,,,,,,,16506
-001cv00000AuYlK,"Town Of Polk, WI",Wisconsin,Municipality,Nick Martino,3984,,Tier 3,0.75,43.3253,-88.2169,2e3cd3c8-5aa5-41d4-9ff1-732e7eb753c9,,,,,,,,,,,,,,,,16426
-001cv00000AuYlQ,"City Of Chilton, WI",Wisconsin,Municipality,Nick Martino,3990,,Tier 3,0.75,44.0289,-88.1629,740454cc-3187-405a-9d56-4d67a7071ddd,,,,,,,,,,,,,,,,16553
-001cv00000AuYmB,"Town Of Peshtigo, WI",Wisconsin,Municipality,Nick Martino,4024,,Tier 3,0.75,45.0133,-87.6551,fd29933e-8259-4e24-bd6b-0dd0634c091b,,,,,,,,,,,,,,,,16539
-001cv00000AuYmc,"Town Of Beaver Dam, WI",Wisconsin,Municipality,Nick Martino,4044,,Tier 3,0.75,43.4197,-88.8071,067f4298-2c77-447b-aa84-97550c7d1483,,,,,,,,,,,,,,,,16546
-001cv00000AuYmo,"Village Of West Milwaukee, WI",Wisconsin,Municipality,Nick Martino,4054,,Tier 3,0.75,43.0125,-87.9726,90c17fdd-4b08-4d05-b81f-9225e9c9d333,,,,,,,,,,,,,,,,16590
-001cv00000AuYmq,"Town Of East Troy, WI",Wisconsin,Municipality,Nick Martino,4058,,Tier 3,0.75,42.7837,-88.3531,79524ab3-4358-414a-9e1d-b4eb657c3e6a,,,,,,,,,,,,,,,,16678
-001cv00000AuYn0,"Village Of Cross Plains, WI",Wisconsin,Municipality,Nick Martino,4067,,Tier 3,0.75,43.1144,-89.6557,ff906231-7acd-42b2-8cd9-d6053318ecb6,,,,,,,,,,,,,,,,16768
-001cv00000AuYp3,"Town Of Richmond, WI",Wisconsin,Municipality,Nick Martino,4173,,Tier 3,0.75,45.0646,-92.5678,d7a7670d-b7c7-424d-8ef5-20f7f1aa6ab6,,,,,,,,,,,,,,,,16813
-001cv00000AuYp8,"Town Of Westport, WI",Wisconsin,Municipality,Nick Martino,4177,,Tier 3,0.75,43.1592,-89.426,806ce141-53a8-427d-9887-591caea80632,,,,,,,,,,,,,,,,16834
-001cv00000AuYrQ,"City Of Arcadia, WI",Wisconsin,Municipality,Nick Martino,3692,,Tier 3,0.75,44.2527,-91.5015,73c70879-4be3-4891-86bd-ef4a95333647,,,,,,,,,,,,,,,,16403
-001cv00000AuYrc,"Town Of Lyons, WI",Wisconsin,Municipality,Nick Martino,3701,,Tier 3,0.75,42.6511,-88.3584,7c8203c0-efa1-4897-b9d1-39f6601b8eef,,,,,,,,,,,,,,,,16446
-001cv00000AuYru,"City Of Bloomer, WI",Wisconsin,Municipality,Nick Martino,3711,,Tier 3,0.75,45.1002,-91.4888,595cf675-82ef-4ab0-8a31-be82c190a41f,,,,,,,,,,,,,,,,16478
-001cv00000AuYs8,"Town Of Janesville, WI",Wisconsin,Municipality,Nick Martino,3725,,Tier 3,0.75,42.7137,-89.0848,eb6952cc-a4ed-48d2-be11-00bc4d9039ce,,,,,,,,,,,,,,,,16317
-001cv00000AuYsB,"Town Of Neenah, WI",Wisconsin,Municipality,Nick Martino,3726,,Tier 3,0.75,44.185,-88.5049,136be427-73f4-4d69-bf2b-5af280bfa442,,,,,,,,,,,,,,,,16374
-001cv00000AuYsQ,"Town Of Koshkonong, WI",Wisconsin,Municipality,Nick Martino,3747,,Tier 3,0.75,42.8461,-88.9193,cc63c08a-890f-4708-b3b3-2b8c152d8e13,,,,,,,,,,,,,,,,16370
-001cv00000AuYsT,"Town Of Star Prairie, WI",Wisconsin,Municipality,Nick Martino,3748,,Tier 3,0.75,45.1766,-92.5778,4bae57be-37bb-478a-88b4-f84e9cb51232,,,,,,,,,,,,,,,,16424
-001cv00000AuYsw,"Village Of Rochester, WI",Wisconsin,Municipality,Nick Martino,3767,,Tier 3,0.75,42.7424,-88.2254,898bdd50-f377-4017-97b1-4b2229d32b05,,,,,,,,,,,,,,,,16540
-001cv00000AuYt6,"City Of Stanley, WI",Wisconsin,Municipality,Nick Martino,3774,,Tier 3,0.75,44.96,-90.9371,02e1c18c-f649-4272-9a61-e44a6427156b,,,,,,,,,,,,,,,,16505
-001cv00000AuYuC,"Town Of St Joseph, WI",Wisconsin,Municipality,Nick Martino,4248,,Tier 3,0.75,45.0523,-92.6963,ee19dffd-9df0-4d83-b1a9-695f70f870c8,,,,,,,,,,,,,,,,16896
-001cv00000AuYuh,"Village Of Saukville, WI",Wisconsin,Municipality,Nick Martino,4276,,Tier 3,0.75,43.3817,-87.9406,449613f1-000d-40b2-8598-3098b959e872,,,,,,,,,,,,,,,,16829
-001cv00000AuYur,"Village Of Baldwin, WI",Wisconsin,Municipality,Nick Martino,4288,,Tier 3,0.75,44.9666,-92.3744,61915db8-7fef-447e-9d52-baf4f784480f,,,,,,,,,,,,,,,,16811
-001cv00000AuYuu,"County Of Menominee, WI",Wisconsin,County,Nick Martino,4289,,Tier 3,0.75,45.0305,-88.7478,9864d098-c45d-4f6e-85af-762e7ee913ac,,,,,,,,,,,,,,,,16838
-001cv00000AuYuv,"Town Of Menominee, WI",Wisconsin,Municipality,Nick Martino,4289,,Tier 3,0.75,44.8792,-91.9757,9855444e-b8b4-43df-8788-8553a6c1e60e,,,,,,,,,,,,,,,,16844
-001cv00000AuYvJ,"City Of Medford, WI",Wisconsin,Municipality,Nick Martino,4312,,Tier 3,0.75,45.1386,-90.3401,356bed81-eff0-4f2d-9c63-ea94343192b4,,,,,,,,,,,,,,,,16948
-001cv00000AuYvO,"City Of Mauston, WI",Wisconsin,Municipality,Nick Martino,4316,,Tier 3,0.75,43.7972,-90.0773,13b89377-1ed5-4af3-b531-ecc4193792fd,,,,,,,,,,,,,,,,16929
-001cv00000AuYvT,"Town Of Dover, WI",Wisconsin,Municipality,Nick Martino,4324,,Tier 3,0.75,42.7122,-88.1487,079ce19a-28c7-46f3-9f7f-337d2276c803,,,,,,,,,,,,,,,,16902
-001cv00000AuYvy,"City Of Prescott, WI",Wisconsin,Municipality,Nick Martino,4346,,Tier 3,0.75,44.7489,-92.8021,dcd2e374-bc47-4755-bc87-37de9d6c8e74,,,,,,,,,,,,,,,,16899
-001cv00000AuYvz,"Town Of Somerset, WI",Wisconsin,Municipality,Nick Martino,4346,,Tier 3,0.75,45.1739,-92.6978,b5246b63-c1a5-4a43-8425-2007a397b588,,,,,,,,,1,2025-06-24,,,,1,,16841
-001cv00000AuYwH,"Village Of Kewaskum, WI",Wisconsin,Municipality,Nick Martino,4372,,Tier 3,0.75,43.5208,-88.229,61c74260-f18f-4525-85e5-b2b4be4f83a3,,,,,,,,,,,,,,,,16913
-001cv00000AuYwf,"Town Of Grafton, WI",Wisconsin,Municipality,Nick Martino,4391,,Tier 3,0.75,43.32,-87.9041,9eae1ea2-020e-4ad1-98d7-bd83252af71d,,,,,,,,,,,,,,,,16891
-001cv00000AuYxb,"Village Of Prairie Du Sac, WI",Wisconsin,Municipality,Nick Martino,4409,,Tier 3,0.75,43.2869,-89.724,8dc187b1-1161-432e-a668-ed163c8dbd09,,,,,,,,,,,,,,,,19997
-001cv00000AuYxr,"City Of Viroqua, WI",Wisconsin,Municipality,Nick Martino,4419,,Tier 3,0.75,43.5569,-90.8887,ad6fdf21-b28d-4e3a-a987-4dac7abf9190,,,,,,,,,,,,,,,,20043
-001cv00000AuYxt,"Village Of Bayside, WI",Wisconsin,Municipality,Nick Martino,4421,,Tier 3,0.75,43.1806,-87.9006,5e2a4b16-75e9-4d94-9ea1-815c0f021aca,,,,,,,,,,,,,,,,19954
-001cv00000AuYyH,"Town Of Bristol, WI",Wisconsin,Municipality,Nick Martino,4442,,Tier 3,0.75,43.2297,-89.1515,a2d94f03-6d17-439f-9794-6948abb0aa4c,,,,,,,,,,,,,,,,20075
-001cv00000AuYyQ,"Town Of West Bend, WI",Wisconsin,Municipality,Nick Martino,4452,,Tier 3,0.75,43.4027,-88.2364,000c8adf-5dfc-4cb0-a81d-ece4da20ed8a,,,,,,,,,,,,,,,,19990
-001cv00000AuYz3,"City Of Mosinee, WI",Wisconsin,Municipality,Nick Martino,4498,,Tier 3,0.75,44.793,-89.7032,bda17984-5783-4030-8e28-e5c5ff47766e,,,,,,,,,,,,,,,,20065
-001cv00000AuYzg,"City Of Clintonville, WI",Wisconsin,Municipality,Nick Martino,4534,,Tier 3,0.75,44.6205,-88.7623,1b3e6f3d-4205-4501-9690-1638e58b24ce,,,,,,,,,,,,,,,,20109
-001cv00000AuYzj,"Town Of Trenton, WI",Wisconsin,Municipality,Nick Martino,4537,,Tier 3,0.75,43.4006,-88.0998,907e6b4f-e925-406c-ba64-02f1eb4bcb78,,,,,,,,,,,,,,,,20039
-001cv00000AuZ02,"Town Of Oneida, WI",Wisconsin,Municipality,Nick Martino,4558,,Tier 3,0.75,44.4733,-88.251,6f624e78-bdc6-42b6-82f3-d415e4c50e04,,,,,,,,,,,,,,,,20059
-001cv00000AuZBX,"County Of Iron, WI",Wisconsin,County,Nick Martino,6178,,Tier 3,0.75,46.2855,-90.2348,fb96f90d-e60a-43f6-963d-f3818219a6ca,,,,,,,,,7,2026-02-05,7,,,,,17096
-001cv00000AuZBb,"Town Of Madison, WI",Wisconsin,Municipality,Nick Martino,6220,Unviable,Tier 3,0.75,43.0722,-89.4008,03fedd3d-02cb-4934-8387-b49b2c7daa1c,,,,,,,,,,,,,,,,17051
-001cv00000AuZLZ,"Town Of Shelby, WI",Wisconsin,Municipality,Nick Martino,4790,,Tier 3,0.75,43.7691,-91.161,dae8fdc2-a2c1-4215-9fe0-47f30c42afaa,,,,,,,,,,,,,,,,17398
-001cv00000AuZMi,"Village Of Bloomfield, WI",Wisconsin,Municipality,Nick Martino,4857,,Tier 3,0.75,42.5385,-88.3643,82bfa67b-bcbf-4002-a59b-fd8ef75c6cef,,,,,,,,,,,,,,,,17463
-001cv00000AuZN3,"Town Of Dunn, WI",Wisconsin,Municipality,Nick Martino,4880,,Tier 3,0.75,42.959,-89.3037,073ab8f8-0656-40f2-a83e-ae5398b5808f,,,,,,,,,,,,,,,,17370
-001cv00000AuZQx,"County Of Pepin, WI",Wisconsin,County,Nick Martino,7364,,Tier 3,0.75,44.6451,-92.0273,6cbf58e2-953d-41ca-9705-6dc16f195c58,,,,,,,,,2,2026-01-29,2,,,,,17598
-001cv00000AuZS4,"City Of Dodgeville, WI",Wisconsin,Municipality,Nick Martino,4978,,Tier 3,0.75,42.9603,-90.1301,d7552753-ef8f-406a-b062-3f1b64552521,,,,,,,,,,,,,,,,17573
-001cv00000AuZST,"Village Of Summit, WI",Wisconsin,Municipality,Nick Martino,5028,,Tier 3,0.75,43.0404,-88.4851,3c6e0ac4-641e-4e67-999e-2fbf7eda1687,,,,,,,,,,,,,,,,17633
-001cv00000AuZSf,"City Of Richland Center, WI",Wisconsin,Municipality,Nick Martino,5041,,Tier 3,0.75,43.3347,-90.3868,4076ae44-08c7-4205-8027-abc6e73634ac,,,,,,,,,,,,,,,,17630
-001cv00000AuZT4,"Town Of Ixonia, WI",Wisconsin,Municipality,Nick Martino,5098,,Tier 3,0.75,43.1439,-88.5973,fb9b571d-e169-4e36-8a03-af6fb9ecde4e,,,,,,,,,,,,,,,,17525
-001cv00000AuZTF,"Town Of Minocqua, WI",Wisconsin,Municipality,Nick Martino,5120,,Tier 3,0.75,45.8711,-89.7093,872148da-2272-4b08-a6b1-9bf129e6473d,,,,,,,,,,,,,,,,17563
-001cv00000AuZTV,"City Of Mayville, WI",Wisconsin,Municipality,Nick Martino,5144,,Tier 3,0.75,43.4957,-88.5441,cc3557fa-d6c7-4018-988d-e3015e9040ac,,,,,,,,,,,,,,,,17575
-001cv00000AuZZO,"County Of Forest, WI",Wisconsin,County,Nick Martino,9258,,Tier 3,0.75,45.6705,-88.8376,7b8b138e-af79-4248-bebe-eff6a598a167,,,,,,,,,,,,,,,,18400
-001cv00000AuZdP,"Town Of Hudson, WI",Wisconsin,Municipality,Nick Martino,8724,,Tier 3,0.75,44.9873,-92.6803,82a65e14-cf7d-41e5-ae2a-9036b714eaaa,,,,,,,,,,,,,,,,17887
-001cv00000AuZgB,"County Of Buffalo, WI",Wisconsin,County,Nick Martino,13302,Recent Competitor Purchase,Tier 2,1.0,44.0709,-91.6149,ccd058f4-6643-4917-ba78-a2e380269234,Closed Lost,,,Nick Martino,7/15/2025,7/14/2025,,,1,2025-07-14,1,,,,,18382
-001cv00000AuZjj,"Village Of Greenville, WI",Wisconsin,Municipality,Nick Martino,13414,,Tier 2,1.0,44.3003,-88.5365,55c3260d-2509-4676-8144-c97802b6ff1a,,,,,,,,,12,2025-12-31,12,,,,,18092
-001cv00000AuZnX,"County Of Price, WI",Wisconsin,County,Nick Martino,14050,,Tier 2,1.0,45.7512,-90.4622,efa30ede-e8a4-4d2c-8f2b-1aee1ca0b900,,,,,,,,,4,2025-07-18,4,,,,,17931
-001cv00000AuZnf,"County Of Rusk, WI",Wisconsin,County,Nick Martino,14123,,Tier 2,1.0,45.5194,-91.1563,b916ce7b-b9b8-4c3b-b89a-a1dddb78d102,,,,,,,,,3,2025-07-16,3,,,,,17949
-001cv00000AuZov,"County Of Marquette, WI",Wisconsin,County,Nick Martino,15792,,Tier 2,1.0,43.8653,-89.3227,fed3871d-413e-421b-8c67-31d60e94e26e,,,,,,,,,1,2025-07-11,1,,,,,17814
-001cv00000AuZpA,"County Of Crawford, WI",Wisconsin,County,Nick Martino,16075,,Tier 2,1.0,43.2492,-90.8294,9021dacc-b13d-4222-9ba1-3da85d679294,,,,,,,,,6,2025-07-23,6,,,,,17822
-001cv00000AuZpC,"County Of Ashland, WI",Wisconsin,County,Nick Martino,16107,,Tier 2,1.0,47.0291,-90.4344,fae87963-ae09-40b4-849b-95e6a767642e,,,,,,,,,6,2025-07-14,6,,,,,17785
-001cv00000AuZqm,"County Of Bayfield, WI",Wisconsin,County,Nick Martino,16320,,Tier 2,1.0,46.665,-91.1222,126f3ce9-2ac5-4eff-89e7-337e07f3fe5b,,,,,,,,,,,,,,,,18604
-001cv00000AuZrA,"County Of Burnett, WI",Wisconsin,County,Nick Martino,16744,,Tier 2,1.0,45.8051,-92.2888,f6f3a3e6-c36d-4026-a70a-67567a052732,,,,,,,,,10,2025-08-04,10,,,,,18509
-001cv00000AuZrB,"County Of Washburn, WI",Wisconsin,County,Nick Martino,16752,,Tier 2,1.0,46.6733,-90.8949,3ae89553-511b-4c51-92db-e2466989aac2,,,,,,,,,2,2025-07-14,2,,,,,18495
-001cv00000AuZrF,"County Of Lafayette, WI",Wisconsin,County,Nick Martino,16784,,Tier 2,1.0,42.6293,-90.0747,7e17076e-fba8-470d-8f35-2dbfad02c325,,,,,,,,,5,2025-12-11,5,,,,,18528
-001cv00000AuZsx,"County Of Green Lake, WI",Wisconsin,County,Nick Martino,19229,Open Opportunity,Tier 2,1.0,43.8631,-89.0179,8ffa589b-7c3c-4948-92db-50c7c7be672c,Open,Initial Interest,Top of Funnel,Nick Martino,11/17/2025,11/10/2025,,,5,2026-01-26,5,,,,,18648
-001cv00000AuZtA,"County Of Langlade, WI",Wisconsin,County,Nick Martino,19502,,Tier 2,1.0,45.2201,-89.0102,b6597817-0b7c-4e0a-b3e4-850d71806d5a,,,,,,,,,,,,,,,,18652
-001cv00000AuZtQ,"County Of Richland, WI",Wisconsin,County,Nick Martino,17212,,Tier 2,1.0,43.4061,-90.3748,fd16a0b2-fff2-4245-b899-c0b1d76425be,,,,,,,,,4,2025-07-18,4,,,,,18468
-001cv00000AuZuP,"County Of Sawyer, WI",Wisconsin,County,Nick Martino,18295,Open Opportunity,Tier 2,1.0,45.822,-91.1686,55d37feb-5cc2-4a87-95af-500b225427da,Open,Demo,Mid Funnel,Nick Martino,4/22/2026,4/10/2026,,,7,2026-04-21,7,,,,,18541
-001cv00000AuZxM,"County Of Adams, WI",Wisconsin,County,Nick Martino,20875,,Tier 2,1.0,44.0197,-89.7755,23c75c36-9666-45fa-9ee7-7324412cb81e,,,,,,,,,4,2025-07-17,4,,,,,18696
-001cv00000AuZxY,"County Of Jackson, WI",Wisconsin,County,Nick Martino,21121,,Tier 2,1.0,43.3239,-88.1668,22792cf1-cd14-404a-b212-9afd7b5fb5d5,,,,,,,,,2,2025-07-16,2,,,,,19034
-001cv00000Aua0X,"County Of Lincoln, WI",Wisconsin,County,Nick Martino,28541,,Tier 1,1.5,45.3743,-89.7726,7aa7935d-d53e-4c85-9a7a-3dbaa0c9d1f7,,,,,,,,,,,,,,,,18778
-001cv00000Aua1N,"County Of Door, WI",Wisconsin,County,Nick Martino,30369,,Tier 1,1.5,45.1114,-87.0471,ff7fec0d-dae2-457b-beaf-56e23ee2dc13,,,,,,,,,15,2025-12-23,15,,,,,18692
-001cv00000Aua2H,"County Of Waushara, WI",Wisconsin,County,Nick Martino,24828,,Tier 2,1.0,44.1313,-89.2087,5d3d1358-5e7c-454e-8f38-7140582c1923,,,,,,,,,1,2025-07-11,1,,,,,19394
-001cv00000Aua3O,"County Of Taylor, WI",Wisconsin,County,Nick Martino,19923,Open Opportunity,Tier 2,1.0,45.2231,-90.5299,def32be4-2d92-438f-bd75-9d755dcc163a,Open,Proposal,Mid Funnel,Nick Martino,1/13/2026,1/12/2026,"$8,000",,,,,,,,,18585
-001cv00000Aua3q,"County Of Kewaunee, WI",Wisconsin,County,Nick Martino,20543,,Tier 2,1.0,44.5783,-87.4768,4d394adf-518f-4f9a-9276-64d8f74a37a1,,,,,,,,,1,2025-07-16,1,,,,,18711
-001cv00000Aua7O,"County Of Oconto, WI",Wisconsin,County,Nick Martino,39356,,Tier 1,1.5,44.8333,-88.0118,bd23e8f0-681b-4a50-9083-872d326beeb9,,,,,,,,,,,,,,,,19327
-001cv00000Aua80,"County Of Trempealeau, WI",Wisconsin,County,Nick Martino,30724,,Tier 1,1.5,44.2398,-91.3662,256d922e-1c19-479d-bc82-3234f2471928,,,,,,,,,,,,,,,,18897
-001cv00000Aua89,"County Of Vernon, WI",Wisconsin,County,Nick Martino,30915,,Tier 1,1.5,43.5577,-90.8294,bb631471-22d6-4d2c-8750-5d1a194eb133,,,,,,,,,3,2026-02-24,3,,,,,18951
-001cv00000AuaAR,"County Of Vilas, WI",Wisconsin,County,Nick Martino,23520,,Tier 2,1.0,45.9788,-89.4559,13ff7db4-e97b-4b76-bea8-a9cae5f48a03,,,,,,,,,8,2025-08-01,8,,,,,18896
-001cv00000AuaAa,"County Of Iowa, WI",Wisconsin,County,Nick Martino,23756,,Tier 2,1.0,42.9417,-90.0747,be17e41c-6455-4aa1-8b45-7d78dbf6b487,,,,,,,,,4,2025-07-23,4,,,,,18903
-001cv00000AuaBc,"County Of Juneau, WI",Wisconsin,County,Nick Martino,26802,,Tier 1,1.5,43.4081,-88.7088,9ac9e9da-9051-4829-b821-5359005ac092,,,,,,,,,,,,,,,,19090
-001cv00000AuaDi,"County Of Green, WI",Wisconsin,County,Nick Martino,36988,,Tier 1,1.5,42.6287,-89.6252,e66f4aab-0995-4cb5-815a-7c11179af970,,,,,,,,,3,2026-01-30,3,,,,,19170
-001cv00000AuaGH,"County Of Marinette, WI",Wisconsin,County,Nick Martino,41875,,Tier 1,1.5,45.3582,-88.065,0e31b3a7-14ba-487d-9588-67fc7c391020,,,,,,,,,6,2025-12-11,6,,,,,19012
-001cv00000AuaGT,"County Of Pierce, WI",Wisconsin,County,Nick Martino,42587,,Tier 1,1.5,44.7509,-92.3814,08ddd00f-50af-4559-88f5-a12d5727b406,,,,,,,,,3,2026-02-05,3,,,,,19117
-001cv00000AuaHA,"County Of Douglas, WI",Wisconsin,County,Nick Martino,44203,,Tier 1,1.5,43.6943,-89.5686,1b4476c2-1b83-40c1-aabf-5ee2d3f7bfb4,,,,,,,,,2,2025-08-12,2,,,,,19152
-001cv00000AuaHY,"County Of Polk, WI",Wisconsin,County,Nick Martino,45431,Nurture,Tier 1,1.5,45.4259,-92.3388,a0bd4e7c-9f30-4918-a165-c9bf93dd4f23,Closed Lost,,,Nick Martino,2/23/2026,2/10/2026,,,9,2026-02-10,9,,,,,19387
-001cv00000AuaHb,"County Of Dunn, WI",Wisconsin,County,Nick Martino,45547,,Tier 1,1.5,42.959,-89.3037,93fb63e7-dabe-4afb-8664-db1bef764e82,,,,,,,,,11,2026-02-17,11,,,,,19446
-001cv00000AuaJp,"County Of Monroe, WI",Wisconsin,County,Nick Martino,46193,,Tier 1,1.5,43.9412,-90.7533,049e08e4-75df-4013-af1d-d25a0d39d384,,,,,,,,,3,2026-05-07,3,,,,,19511
-001cv00000AuaJy,"County Of Barron, WI",Wisconsin,County,Nick Martino,46719,,Tier 1,1.5,45.3608,-91.7769,cb05b45d-49cf-4211-86c4-542db8375f45,,,,,,,,,6,2026-02-17,6,,,,,19486
-001cv00000AuaLK,"County Of Grant, WI",Wisconsin,County,Nick Martino,52110,,Tier S,2.0,42.9397,-90.6773,3d570f84-7fa2-48c4-a430-2df178a3be4c,,,,,,,,,,,,,,,,19445
-001cv00000AuaO0,"County Of Columbia, WI",Wisconsin,County,Nick Martino,58488,,Tier S,2.0,43.4047,-89.3227,d8aba159-9c9f-4c30-8069-34b9e76e5ab9,,,,,,,,,3,2026-02-18,3,,,,,19628
-001cv00000AuaPI,"City Of Janesville, WI",Wisconsin,Municipality,Nick Martino,65942,,Tier S,2.0,42.6821,-89.0275,9401d50e-4199-41aa-b9b1-14befefc876c,,,,,,,,,22,2025-08-29,22,,,,,19679
-001cv00000AuaUr,"County Of St Croix, WI",Wisconsin,County,Nick Martino,95044,,Tier S,2.0,45.0498,-92.3876,7bdd4b2a-f539-49c0-bf35-e4cca9cbf50f,,,,,,,,,4,2025-12-09,4,,,,,19858
-001cv00000AuaXB,"County Of Manitowoc, WI",Wisconsin,County,Nick Martino,81505,,Tier S,2.0,44.19,-87.5388,51b3de79-0b65-436a-9f27-82329a56958f,,,,,,,,,13,2026-01-06,13,,,,,19891
-001cv00000B1sL4,"Town Of Auburn, WI",Wisconsin,Municipality,Nick Martino,2379,,Tier 3,0.75,45.1572,-91.5883,59061bc6-8052-429a-a878-28156fd06ac6,,,,,,,,,,,,,,,,20134
-001cv00000B21pg,"Town Of Red Cedar, WI",Wisconsin,Municipality,Nick Martino,2380,,Tier 3,0.75,44.6891,-91.8843,12ae073f-31d1-4979-bb0e-7fa04ab0ba35,,,,,,,,,,,,,,,,20155
-001cv00000B21pv,"City Of Park Falls, WI",Wisconsin,Municipality,Nick Martino,2387,,Tier 3,0.75,45.9344,-90.4416,2a155b1b-a9c0-4d00-b1c3-90f2e9497636,,,,,,,,,,,,,,,,20215
-001cv00000B21pw,"Town Of Sun Prairie, WI",Wisconsin,Municipality,Nick Martino,2387,,Tier 3,0.75,43.1522,-89.1515,6c21d396-616d-4952-8198-31006a309fd0,,,,,,,,,,,,,,,,20143
-001cv00000B21qi,"Town Of Black Wolf, WI",Wisconsin,Municipality,Nick Martino,2409,,Tier 3,0.75,43.9231,-88.5149,d4ce3f86-48d6-488b-980f-566976f1b85d,,,,,,,,,,,,,,,,20147
-001cv00000B21ql,"Town Of Turtle, WI",Wisconsin,Municipality,Nick Martino,2411,,Tier 3,0.75,42.5263,-88.9222,bee6adf2-25bc-4378-b102-44aea5aa5f11,,,,,,,,,,,,,,,,20160
-001cv00000B21qp,"Village Of Denmark, WI",Wisconsin,Municipality,Nick Martino,2412,,Tier 3,0.75,44.3478,-87.8273,19bb3faf-f75e-4b2f-860a-232c9f66e195,,,,,,,,,,,,,,,,20140
-001cv00000B21rB,"Town Of Hamilton, WI",Wisconsin,Municipality,Nick Martino,2420,,Tier 3,0.75,43.9128,-91.1014,8c510a2c-41f9-4053-928d-3cafb90e51ad,,,,,,,,,,,,,,,,20287
-001cv00000B21rC,"Town Of Bradley, WI",Wisconsin,Municipality,Nick Martino,2420,,Tier 3,0.75,45.5361,-89.755,59202d64-fd10-4c7e-96ab-4db9ca9bbe9c,,,,,,,,,,,,,,,,20301
-001cv00000B21s0,"Village Of Belgium, WI",Wisconsin,Municipality,Nick Martino,2439,,Tier 3,0.75,43.4997,-87.8504,115d1497-1b28-4015-a886-b06aadd2640d,,,,,,,,,,,,,,,,20213
-001cv00000B21s9,"Town Of Oshkosh, WI",Wisconsin,Municipality,Nick Martino,2441,,Tier 3,0.75,44.0286,-88.4598,0e41e621-81e3-4b10-a20d-3fcd40b4ae3f,,,,,,,,,,,,,,,,20261
-001cv00000B21sF,"City Of Nekoosa, WI",Wisconsin,Municipality,Nick Martino,2444,,Tier 3,0.75,44.3125,-89.9043,51b50de4-5b7f-4839-a702-a1c2629dab9b,,,,,,,,,,,,,,,,20376
-001cv00000B21sJ,"City Of Darlington, WI",Wisconsin,Municipality,Nick Martino,2445,,Tier 3,0.75,42.6831,-90.1176,4aa6e717-8ac8-4c02-a3ad-06c342bbf955,,,,,,,,,,,,,,,,20197
-001cv00000B21wX,"Town Of Wrightstown, WI",Wisconsin,Municipality,Nick Martino,2621,,Tier 3,0.75,44.328,-88.1009,d891f65f-5200-4ded-8eec-29b0a9da965c,,,,,,,,,,,,,,,,20407
-001cv00000B21wf,"Town Of Dayton, WI",Wisconsin,Municipality,Nick Martino,2623,,Tier 3,0.75,44.3127,-89.1528,dfe725ab-057c-4eaf-838f-ba1fe6a53c55,,,,,,,,,,,,,,,,20364
-001cv00000B21xH,"Town Of Hammond, WI",Wisconsin,Municipality,Nick Martino,2644,,Tier 3,0.75,44.9789,-92.4357,be517af9-258a-46bb-84f6-1060cf45eda7,,,,,,,,,,,,,,,,20338
-001cv00000B21xh,"Town Of Tainter, WI",Wisconsin,Municipality,Nick Martino,2655,,Tier 3,0.75,45.0037,-91.8525,c748aaac-18e0-415c-b2a2-aafcd05f0516,,,,,,,,,,,,,,,,20292
-001cv00000B21xq,"Town Of Ashippun, WI",Wisconsin,Municipality,Nick Martino,2659,,Tier 3,0.75,43.2128,-88.5151,6d42bf7a-b688-4f56-84ea-6c19adfa5020,,,,,,,,,,,,,,,,20457
-001cv00000B21y8,"City Of Juneau, WI",Wisconsin,Municipality,Nick Martino,2665,,Tier 3,0.75,43.4081,-88.7088,a5ee2f4f-b66b-4183-925a-f829f35ee237,,,,,,,,,,,,,,,,20508
-001cv00000B21yR,"Town Of Fox Lake, WI",Wisconsin,Municipality,Nick Martino,2672,,Tier 3,0.75,43.5752,-88.9605,f9c87a5c-4322-483c-8816-5b743b9a2056,,,,,,,,,,,,,,,,20441
-001cv00000B21yX,"Village Of Lomira, WI",Wisconsin,Municipality,Nick Martino,2675,,Tier 3,0.75,43.5914,-88.4437,a28083b4-f1f1-4c9b-993e-9fe79e483eee,,,,,,,,,,,,,,,,20574
-001cv00000B21ys,"Village Of Luxemburg, WI",Wisconsin,Municipality,Nick Martino,2685,,Tier 3,0.75,44.5386,-87.704,e060260f-71d1-4d87-a602-0ca854b09355,,,,,,,,,,,,,,,,20440
-001cv00000B21zA,"City Of Oconto, WI",Wisconsin,Municipality,Nick Martino,4575,,Tier 3,0.75,44.8872,-87.8645,f0a20f5a-585e-4a4d-8021-24f20c37512b,,,,,,,,,,,,,,,,20481
-001cv00000B220I,"County Of Florence, WI",Wisconsin,County,Nick Martino,4593,,Tier 3,0.75,45.9224,-88.252,51830b59-6a62-44be-a3cd-31329b68299f,,,,,,,,,,,,,,,,20430
-001cv00000B220h,"Town Of Taycheedah, WI",Wisconsin,Municipality,Nick Martino,4621,,Tier 3,0.75,43.8089,-88.3951,aef872d7-df1d-42d8-b609-a2a1d549c2ff,,,,,,,,,,,,,,,,20579
-001cv00000B220r,"Town Of Jackson, WI",Wisconsin,Municipality,Nick Martino,4630,,Tier 3,0.75,43.7712,-89.644,ae2fdf7a-3eaa-4e91-b734-a621f8c3e849,,,,,,,,,,,,,,,,20637
-001cv00000B222P,"Village Of East Troy, WI",Wisconsin,Municipality,Nick Martino,4739,,Tier 3,0.75,42.7853,-88.4051,c43e6eb3-0248-484c-9928-47433907893a,,,,,,,,,,,,,,,,20642
-001cv00000bB8Pk,Town of Arena,Wisconsin,Municipality,Asher Rosenfeld,1504,,Tier 3,0.75,43.1165,-89.944,d74f3e9f-a7c0-4d1e-812c-c469464a1739,,,,,,,,,,,,,,,,22705
-001cv00000bBVej,Town of Rosendale,Wisconsin,Municipality,Asher Rosenfeld,735,,Tier 3,0.75,43.8407,-88.6916,72887551-188d-4cf8-b1ae-9e5dc061cfe2,,,,,,,,,,,,,,,,21222
-001cv00000bBVep,Town of Clifton,Wisconsin,Municipality,Asher Rosenfeld,745,,Tier 3,0.75,42.9017,-90.488,7641b29b-bb0b-4571-b901-b769ef080d8c,,,,,,,,,,,,,,,,13517
-001cv00000bBVex,Village of Bloomington,Wisconsin,Municipality,Asher Rosenfeld,752,,Tier 3,0.75,42.8853,-90.9235,9386623f-ee6f-4405-af2d-c5e5f0afb6db,,,,,,,,,,,,,,,,21146
-001cv00000bBVf3,Town of Hull,Wisconsin,Municipality,Asher Rosenfeld,757,,Tier 3,0.75,44.9064,-90.2432,693ddad8-b460-4b15-a65b-26ebc2dec3fd,,,,,,,,,,,,,,,,6209
-001cv00000bBVfS,Town of Howard,Wisconsin,Municipality,Asher Rosenfeld,793,,Tier 3,0.75,44.9705,-91.579,2506ca46-4fc8-4fc4-a0df-1e950cdd6a86,,,,,,,,,,,,,,,,21153
-001cv00000bBVii,Town of Lisbon,Wisconsin,Municipality,Asher Rosenfeld,914,,Tier 3,0.75,43.1631,-88.2429,4d505164-9c2f-465c-9af7-043b6e35040d,,,,,,,,,,,,,,,,6664
-001cv00000bBViy,Town of Caledonia,Wisconsin,Municipality,Asher Rosenfeld,929,,Tier 3,0.75,43.4735,-89.5224,65f65541-8af1-4b44-8439-d17ba8373949,,,,,,,,,,,,,,,,21325
-001cv00000bBVj0,Town of Poy Sippi,Wisconsin,Municipality,Asher Rosenfeld,932,,Tier 3,0.75,44.1103,-88.9605,8b190834-7d98-434e-bf00-c758356032bd,,,,,,,,,,,,,,,,21305
-001cv00000bBVl5,Town of Somers,Wisconsin,Municipality,Asher Rosenfeld,951,,Tier 3,0.75,42.6403,-87.9104,84589bbb-0fe0-46aa-a785-9cf0d023b5b6,,,,,,,,,,,,,,,,21329
-001cv00000bBVlT,Town of Porter,Wisconsin,Municipality,Asher Rosenfeld,977,,Tier 3,0.75,42.8024,-89.1896,f206d73d-06d4-4a80-98d6-19d8705aa061,,,,,,,,,,,,,,,,21366
-001cv00000bBVm4,Town of Oakland,Wisconsin,Municipality,Asher Rosenfeld,1019,,Tier 3,0.75,42.9767,-88.9557,f45e74d8-6b09-4721-954e-a3d749ed2c2d,,,,,,,,,,,,,,,,15467
-001cv00000bBVoE,Town of Summit,Wisconsin,Municipality,Asher Rosenfeld,1049,,Tier 3,0.75,43.0404,-88.4851,69a681e4-1b35-4aa0-ba62-c8cee0d77130,,,,,,,,,,,,,,,,21462
-001cv00000bBVoV,Town of Baldwin,Wisconsin,Municipality,Asher Rosenfeld,1069,,Tier 3,0.75,44.9951,-92.3237,3ee66930-a59e-400b-8413-73f86fd04004,,,,,,,,,,,,,,,,21446
-001cv00000bBVoq,Town of Boulder Junction,Wisconsin,Municipality,Asher Rosenfeld,1090,,Tier 3,0.75,46.1129,-89.6439,fba43385-ec18-44d7-8cc8-fc53570e2066,,,,,,,,,,,,,,,,21476
-001cv00000bBVp1,Village of Elkhart Lake,Wisconsin,Municipality,Asher Rosenfeld,1102,,Tier 3,0.75,43.8333,-88.0179,80b74c5c-d340-4d9c-bcc8-707440ca6390,,,,,,,,,,,,,,,,21483
-001cv00000bBVp7,Town of Cedar Lake,Wisconsin,Municipality,Asher Rosenfeld,1109,,Tier 3,0.75,43.3539,-88.2925,23b0c6a0-92db-446d-b8ce-26be763ca729,,,,,,,,,,,,,,,,21501
-001cv00000bBVsP,Town of Clarno,Wisconsin,Municipality,Asher Rosenfeld,1132,,Tier 3,0.75,42.5186,-89.6479,9a33e21a-7d93-43ce-9f0c-34fa9c73ad94,,,,,,,,,,,,,,,,21524
-001cv00000bBVsa,Town of Montello,Wisconsin,Municipality,Asher Rosenfeld,1151,,Tier 3,0.75,43.7603,-89.3022,dd4f630c-3154-4748-9f94-c1d9fbfba283,,,,,,,,,,,,,,,,21532
-001cv00000bBVse,Town of Lowell,Wisconsin,Municipality,Asher Rosenfeld,1155,,Tier 3,0.75,43.3403,-88.817,104b8020-eb84-4668-9a19-3d217abcda37,,,,,,,,,,,,,,,,21543
-001cv00000bBVw5,Village of Sister Bay,Wisconsin,Municipality,Asher Rosenfeld,1170,,Tier 3,0.75,45.1872,-87.1209,d3ede91a-3541-4b96-ab97-4e2d20689d6a,,,,,,,,,,,,,,,,21550
-001cv00000bBVw7,Town of Plymouth,Wisconsin,Municipality,Asher Rosenfeld,1172,,Tier 3,0.75,43.7714,-90.2432,57e77c8c-0f98-48c9-bec6-637103865817,,,,,,,,,,,,,,,,15001
-001cv00000bBVwG,Village of Monticello,Wisconsin,Municipality,Asher Rosenfeld,1179,,Tier 3,0.75,42.7456,-89.5948,3e134a3c-15e2-436a-9560-7080be084532,,,,,,,,,,,,,,,,21568
-001cv00000bBVxo,Town of Brothertown,Wisconsin,Municipality,Asher Rosenfeld,1279,,Tier 3,0.75,43.9683,-88.3084,107c0dfb-3018-478e-8f3e-5fa952eede1f,,,,,,,,,,,,,,,,21677
-001cv00000bBVxu,Town of Gibraltar,Wisconsin,Municipality,Asher Rosenfeld,1285,,Tier 3,0.75,45.1276,-87.2464,db1ff07e-3cd3-426b-bf94-d38ca0562742,,,,,,,,,,,,,,,,21674
-001cv00000bBVyA,Town of Nashville,Wisconsin,Municipality,Asher Rosenfeld,1302,,Tier 3,0.75,45.5227,-89.0248,ca2e7af7-9c57-42eb-b1e4-c949351c6693,,,,,,,,,,,,,,,,21702
-001cv00000bBWBe,Village of River Hills,Wisconsin,Municipality,Asher Rosenfeld,1541,,Tier 3,0.75,43.1742,-87.9243,4bf006c4-ddf0-450a-8219-088cababb452,,,,,,,,,,,,,,,,21903
-001cv00000bBWEk,"City of Green Bay, WI",Wisconsin,Municipality,Nick Martino,106311,Open Opportunity,Tier S,2.0,,,e8ffac7c-eeb7-44c9-ad47-2a45b3e4690f,Open,Meeting Booked,Top of Funnel,Nick Martino,5/29/2026,5/15/2026,,,13,2026-05-18,13,,,,,22284
-001cv00000bBWIk,Village of Butler,Wisconsin,Municipality,Asher Rosenfeld,1769,,Tier 3,0.75,43.1048,-88.0695,84dd9143-9e5f-4089-9c7d-5821acff3fab,,,,,,,,,,,,,,,,21723
-001cv00000bBWJi,Town of Richmond,Wisconsin,Municipality,Asher Rosenfeld,1838,,Tier 3,0.75,45.0646,-92.5678,fa289d65-7d97-46dd-a8e9-48ec0fe127dc,,,,,,,,,,,,,,,,16813
-001cv00000bBWK2,Village of Trempealeau,Wisconsin,Municipality,Asher Rosenfeld,1856,,Tier 3,0.75,44.0055,-91.4421,3b073d21-5a43-4286-9705-83b3c4e1b4d5,,,,,,,,,,,,,,,,21824
-001cv00000bBWKS,Town of Richmond,Wisconsin,Municipality,Asher Rosenfeld,1890,,Tier 3,0.75,45.0646,-92.5678,09a2e71a-39ec-4a52-8685-beb9899c4510,,,,,,,,,,,,,,,,16813
-001cv00000bBWLv,Town of Holland,Wisconsin,Municipality,Asher Rosenfeld,4525,,Tier 3,0.75,43.5986,-87.8746,b7b69963-1ba8-4cfd-83b9-ee8feba8d56b,,,,,,,,,,,,,,,,13644
-001cv00000bBWM6,City of Milton,Wisconsin,Municipality,Asher Rosenfeld,5778,,Tier 3,0.75,42.7756,-88.944,2ea7ff66-7bde-4668-bfb1-7961a91532e5,,,,,,,,,,,,,,,,21926
-001cv00000bBWM9,Town of Lafayette,Wisconsin,Municipality,Asher Rosenfeld,6405,,Tier 3,0.75,42.7174,-88.4985,e766ce12-5cdb-4266-a508-76ed2f1f32e5,,,,,,,,,,,,,,,,6339
-001cv00000bBWMt,Jefferson County,Wisconsin,County,Asher Rosenfeld,86245,,Tier S,2.0,43.0899,-88.7109,46f12ac0-1375-4d32-a99d-f469f3ed4a85,,,,,,,,,,,,,,,,21964
-001cv00000bBWNn,Town of Excelsior,Wisconsin,Municipality,Asher Rosenfeld,1615,,Tier 3,0.75,43.5029,-89.8692,ab3b459b-b2d8-4701-8664-c7aa28b49f95,,,,,,,,,,,,,,,,22065
-001cv00000bBWNp,Town of Dodgeville,Wisconsin,Municipality,Asher Rosenfeld,1616,,Tier 3,0.75,42.9925,-90.1398,73ea71b6-1932-4e7f-9b65-e95cf49fb32f,,,,,,,,,,,,,,,,22076
-001cv00000bBWNq,City of Whitehall,Wisconsin,Municipality,Asher Rosenfeld,1618,,Tier 3,0.75,44.3675,-91.3165,b748d35d-5f10-42f2-8acc-3c7943748837,,,,,,,,,,,,,,,,22081
-001cv00000bBWOF,Village of Whiting,Wisconsin,Municipality,Asher Rosenfeld,1647,,Tier 3,0.75,44.4936,-89.5587,cf44e84b-1798-4958-a6f2-105316f0ce36,,,,,,,,,,,,,,,,22090
-001cv00000bBWOc,Town of Dell Prairie,Wisconsin,Municipality,Asher Rosenfeld,1678,,Tier 3,0.75,43.7091,-89.7922,c294e81a-789c-4fa3-a29a-1078c37d598c,,,,,,,,,,,,,,,,22125
-001cv00000bBWPU,Town of Trimbelle,Wisconsin,Municipality,Asher Rosenfeld,1722,,Tier 3,0.75,44.7316,-92.5799,0ceaa838-aefa-4d23-95d4-cf886df812e7,,,,,,,,,,,,,,,,22180
-001cv00000bBWQj,Village of Campbellsport,Wisconsin,Municipality,Asher Rosenfeld,1997,,Tier 3,0.75,43.5978,-88.279,d2ee5391-a25c-4198-8974-1e6df1c99ec1,,,,,,,,,,,,,,,,22249
-001cv00000bBWRQ,Village of Fredonia,Wisconsin,Municipality,Asher Rosenfeld,2281,,Tier 3,0.75,43.4706,-87.9506,1246dfd8-5749-40ee-aa4d-f49186c7803c,,,,,,,,,,,,,,,,22239
-001cv00000bBWU5,Outagamie County,Wisconsin,County,Asher Rosenfeld,195390,,Tier S,2.0,44.4637,-88.4016,d6df9447-77ac-43aa-8455-682158b21051,,,,,,,,,,,,,,,,22427
-001cv00000bBWU7,Racine County,Wisconsin,County,Asher Rosenfeld,198651,,Tier S,2.0,42.7771,-87.7893,627213be-3edf-4082-a213-f65a7ab35059,,,,,,,,,,,,,,,,22431
-001cv00000bBWY4,City of Milwaukee,Wisconsin,Municipality,Asher Rosenfeld,563531,,Tier S,2.0,43.041,-87.9097,d9eeef65-7c15-4ff8-9e2d-16143ca0f6ed,,,,,,,,,,,,,,,,22444
-001cv00000bBWY6,County of Dane,Wisconsin,County,Asher Rosenfeld,588347,,Tier S,2.0,43.0186,-89.5498,3ba1414c-f5be-435e-9361-4e6154badb52,,,,,,,,,,,,,,,,22452
-001cv00000bBWYu,Milwaukee County,Wisconsin,County,Asher Rosenfeld,924740,,Tier S,2.0,42.9544,-87.8665,d38b0af0-c9eb-45bb-9191-d5800f73d548,,,,,,,,,,,,,,,,22503
-001cv00000bBWsh,Village of Maple Bluff,Wisconsin,Municipality,Asher Rosenfeld,1327,,Tier 3,0.75,43.1183,-89.3796,2ab02f93-3038-4bfc-afc8-c52a899f7564,,,,,,,,,,,,,,,,22600
-001cv00000bBWsl,Town of Royalton,Wisconsin,Municipality,Asher Rosenfeld,1334,,Tier 3,0.75,44.3753,-88.9222,8a889ed2-9020-4d53-a4e2-852cf84452f2,,,,,,,,,,,,,,,,22584
-001cv00000bBWtF,Town of Paris,Wisconsin,Municipality,Asher Rosenfeld,1370,,Tier 3,0.75,42.6336,-88.0515,52859d6e-60fe-4cb8-882e-55598702f8ee,,,,,,,,,,,,,,,,22611
-001cv00000bBWte,Village of Fall Creek,Wisconsin,Municipality,Asher Rosenfeld,1391,,Tier 3,0.75,44.7636,-91.2771,303765ea-98b5-4d73-b29e-c4ce7bd6d9c2,,,,,,,,,,,,,,,,22662
-001cv00000bBWti,Town of Adams,Wisconsin,Municipality,Asher Rosenfeld,1399,,Tier 3,0.75,43.9244,-89.7943,570ba768-e800-46cd-9ef0-557252b5e823,,,,,,,,,,,,,,,,22638
-001cv00000bBWuc,Town of Dunn,Wisconsin,Municipality,Asher Rosenfeld,1484,,Tier 3,0.75,42.959,-89.3037,1fa85cda-c606-4e1a-ab88-c8ba460291c9,,,,,,,,,,,,,,,,17370
-001cv00000bBX12,Waukesha County,Wisconsin,County,Asher Rosenfeld,417029,,Tier S,2.0,43.0073,-88.3239,9dd09bd2-1523-44f7-b545-cd2999a7d09f,,,,,,,,,,,,,,,,22873
-001cv00000eSdfK,"City of Madison, WI",Wisconsin,Municipality,Nick Martino,285300,,Tier S,2.0,43.0722,-89.4008,,,,,,,,,,24,2026-04-23,24,,,,,24376
-001cv00000iJQC0,"County of Brown, WI",Wisconsin,County,Nick Martino,275803,,Tier S,2.0,44.2685,-89.6165,,,,,,,,,,15,2026-05-18,15,,,,,24427
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Nick Martino,Calls - Leila Assil,Calls - Jenny Allison,Calls - Joe del Rosario,Salesforce ID
+001Hr000028Zbsc,"City Of Wausau, WI",Wisconsin,Municipality,Nick Martino,39575,,Tier 1,1.5,44.9591,-89.6301,39e82119-8d6c-4d09-8098-d004d7f9dbbb,,,,,,,,,7,2025-07-08,7,,,,
+001Hr000028Zc2q,"Town Of Ledgeview, WI",Wisconsin,Municipality,Nick Martino,9120,,Tier 3,0.75,44.4284,-87.9629,b3cc4edf-51e2-452e-af4e-661dbc9a540e,,,,,,,,,23,2026-05-26,23,,,,
+001Hr000028Zc2r,"City Of Cedarburg, WI",Wisconsin,Municipality,Nick Martino,12400,,Tier 2,1.0,43.2967,-87.9876,a02a6723-4c21-436a-be3b-004e6ea869d8,,,,,,,,,6,2025-07-29,6,,,,
+001Hr000028ZcBo,"Town Of Lafayette, WI",Wisconsin,Municipality,Nick Martino,2079,,Tier 3,0.75,42.7174,-88.4985,eaa81094-a6f5-47e4-9977-77c8dcd187ab,,,,,,,,,,,,,,,
+001Hr000028ZcD9,"Village Of Hobart, WI",Wisconsin,Municipality,Nick Martino,10351,,Tier 2,1.0,44.4883,-88.1584,b9d52c74-07b2-4fa3-9207-c80ba8e924aa,,,,,,,,,2,2025-09-18,2,,,,
+001Hr000028ZcN8,"Town Of Delavan, WI",Wisconsin,Municipality,Nick Martino,5332,,Tier 3,0.75,42.6302,-88.5662,6797f19c-79e4-48ac-bf1d-4a48bc77baef,,,,,,,,,,,,,,,
+001Hr000028ZcTx,"City Of Racine, WI",Wisconsin,Municipality,Nick Martino,77127,,Tier S,2.0,42.7261,-87.7829,44a040ad-4189-49a1-8917-2baf57417b89,,,,,,,,,,,,,,,
+001Hr000028ZcYI,"Oconto County, WI",Wisconsin,County,Nick Martino,39775,,Tier 1,1.5,44.8333,-88.0118,bd23e8f0-681b-4a50-9083-872d326beeb9,,,,,,,,,1,2026-01-28,1,,,,
+001Hr000028ZccK,"City Of Menasha, WI",Wisconsin,Municipality,Nick Martino,18107,Open Opportunity,Tier 2,1.0,44.2022,-88.4465,6d0390cc-47fe-42d1-9fc7-677a1cb2d1c2,Open,Demo,Mid Funnel,Nick Martino,11/3/2025,10/6/2025,,,15,2025-10-06,15,,,,
+001Hr000028ZcgB,"City Of Ashland, WI",Wisconsin,Municipality,Nick Martino,7918,Nurture,Tier 3,0.75,46.5924,-90.8838,1e005e5a-c556-476e-9498-3e3445759857,Closed Lost,,,Liam Shaw,3/19/2024,1/5/2025,,,8,2026-05-01,5,,3,,
+001Hr000028Zcha,"Town Of Fond Du Lac, WI",Wisconsin,Municipality,Nick Martino,3724,,Tier 3,0.75,43.7524,-88.5082,53e0b30a-368d-448e-bf3e-3233ddb4869d,,,,,,,,,,,,,,,
+001Hr000028Zcix,"Town Of Oconomowoc, WI",Wisconsin,Municipality,Nick Martino,8832,,Tier 3,0.75,43.1123,-88.4398,23385d0b-e034-4292-8e3c-f6fdc856d7e7,,,,,,,,,,,,,,,
+001Hr000028Zcj7,"City Of Manitowoc, WI",Wisconsin,Municipality,Nick Martino,34547,,Tier 1,1.5,44.0886,-87.6576,1092db17-3799-46f6-b15e-3391fe3cfecc,,,,,,,,,14,2026-04-23,14,,,,
+001Hr000028ZcjM,"Village Of Harrison, WI",Wisconsin,Municipality,Nick Martino,13179,,Tier 2,1.0,44.2344,-88.3232,56419552-3d43-46bd-a0df-c7a5557a43e6,,,,,,,,,6,2025-07-29,6,,,,
+001Hr000028Zcnm,"Walworth County, WI",Wisconsin,County,Nick Martino,105822,,Tier S,2.0,42.6203,-88.5565,e8a08411-e9c7-44cc-857b-fbbe6c1aaa19,,,,,,,,,45,2026-01-05,18,27,,,
+001Hr000028Zcpy,"City Of Berlin, WI",Wisconsin,Municipality,Nick Martino,5614,,Tier 3,0.75,43.968,-88.9434,ccba0f2e-895e-4510-a3ef-75be3cf9c3a9,,,,,,,,,,,,,,,
+001Hr000028Zcqv,"City Of Onalaska, WI",Wisconsin,Municipality,Nick Martino,18824,,Tier 2,1.0,43.8844,-91.2351,fa314503-a212-47f2-9221-aaae340da8f0,,,,,,,,,4,2025-07-08,4,,,,
+001Hr000028Zcsi,"Village Of Rothschild, WI",Wisconsin,Municipality,Nick Martino,5546,,Tier 3,0.75,44.8872,-89.6201,1e134264-143f-4d38-9d10-3fe256bbf573,,,,,,,,,,,,,,,
+001Hr000028Zct1,"Town Of Waterford, WI",Wisconsin,Municipality,Nick Martino,6474,,Tier 3,0.75,42.7922,-88.2656,0e8ca8c9-367c-4341-b084-24a4a42567ba,,,,,,,,,7,2025-07-16,7,,,,
+001Hr000028ZctQ,"Village of DeForest, WI",Wisconsin,Municipality,Nick Martino,10884,,Tier 2,1.0,43.2478,-89.3437,f3a5a07c-ed65-4fe0-837e-49f8d984a6f8,,,,,,,,,3,2025-07-01,3,,,,
+001Hr000028Zctq,"Town Of Middleton, WI",Wisconsin,Municipality,Nick Martino,6777,,Tier 3,0.75,43.0673,-89.5781,a3902788-f395-43c9-8221-db14f9f8357f,,,,,,,,,,,,,,,
+001Hr000028ZcvH,"City Of Port Washington, WI",Wisconsin,Municipality,Nick Martino,12614,,Tier 2,1.0,43.3872,-87.8756,b72d0629-31b1-49b4-a8e6-2c676988f4bf,,,,,,,,,16,2025-08-08,16,,,,
+001Hr000028Zcw1,"Menasha Town, WI",Wisconsin,Municipality,Nick Martino,18157,,Tier 2,1.0,44.2022,-88.4465,6d0390cc-47fe-42d1-9fc7-677a1cb2d1c2,,,,,,,,,,,,,,,
+001Hr000028Zcww,"Town Of Mukwonago, WI",Wisconsin,Municipality,Nick Martino,7782,,Tier 3,0.75,42.8934,-88.3852,723e2358-d09a-48ec-9cb8-465ce2431d38,,,,,,,,,,,,,,,
+001Hr000028ZcxM,"Village Of Brown Deer, WI",Wisconsin,Municipality,Nick Martino,12705,,Tier 2,1.0,43.1633,-87.9645,86cb442f-e13c-4446-b4b0-f7da0de63bf9,,,,,,,,,1,2025-07-01,1,,,,
+001Hr000028ZczF,"Village Of Allouez, WI",Wisconsin,Municipality,Nick Martino,14004,,Tier 2,1.0,44.4775,-88.0162,f6cede00-7622-47b3-a6d8-a0540fb60669,,,,,,,,,6,2025-07-16,6,,,,
+001Hr000028Zczv,"City Of Lake Mills, WI",Wisconsin,Municipality,Nick Martino,6433,Nurture,Tier 3,0.75,43.0814,-88.9118,f9ec70bd-9c69-4f60-8495-0f016729fadf,Closed Lost,,,Joe del Rosario,8/20/2025,3/26/2025,,,4,2025-08-18,,,,4,
+001Hr000028Zd1t,"Town Of Buchanan, WI",Wisconsin,Municipality,Nick Martino,6880,,Tier 3,0.75,44.2625,-88.2169,43997818-7a32-4793-845b-d0b8236230bc,,,,,,,,,1,2026-03-13,1,,,,
+001Hr000028Zd22,"City Of Oak Creek, WI",Wisconsin,Municipality,Nick Martino,36260,,Tier 1,1.5,42.8858,-87.8631,a8b5eb8a-a79b-4dcd-bed1-894f8111093b,,,,,,,,,6,2026-05-26,3,3,,,
+001Hr000028Zd37,"Village Of Lake Hallie, WI",Wisconsin,Municipality,Nick Martino,7263,,Tier 3,0.75,44.8758,-91.4407,b7fadda6-edfb-48fe-8ea6-ba6fee27482e,,,,,,,,,,,,,,,
+001Hr000028Zd3M,"City Of Waupaca, WI",Wisconsin,Municipality,Nick Martino,6350,Open Opportunity,Tier 3,0.75,44.358,-89.0859,e9a83274-ee25-479e-815e-486dd1f6d780,Open,Demo,Mid Funnel,Nick Martino,3/11/2026,7/25/2025,,,44,2026-05-06,41,,3,,
+001Hr000028Zd3e,"Village Of Kronenwetter, WI",Wisconsin,Municipality,Nick Martino,8455,,Tier 3,0.75,44.8222,-89.5904,6f80b4af-ef8c-48b2-8edf-b9fcef354248,,,,,,,,,,,,,,,
+001Hr000028Zd4w,"City Of Stevens Point, WI",Wisconsin,Municipality,Nick Martino,25692,,Tier 1,1.5,44.5236,-89.5746,6f6553d5-6525-4494-bf18-070f4d596030,,,,,,,,,10,2025-08-29,10,,,,
+001Hr000028Zd5g,"City Of Verona, WI",Wisconsin,Municipality,Nick Martino,14276,,Tier 2,1.0,42.9908,-89.5332,8fdcc22b-227a-4725-bf70-1ffe7d7c5cca,,,,,,,,,10,2025-08-05,10,,,,
+001Hr000028Zd5k,"Village Of Fox Point, WI",Wisconsin,Municipality,Nick Martino,6837,,Tier 3,0.75,43.1575,-87.9018,cfc65cde-774a-44eb-bcce-fd785cc54cf8,,,,,,,,,12,2025-07-18,12,,,,
+001Hr000028Zd6B,"City Of Kenosha, WI",Wisconsin,Municipality,Nick Martino,99286,,Tier S,2.0,42.5841,-87.8242,a193de61-1946-4297-81f0-9abf9eb6b7ab,,,,,,,,,6,2025-08-11,6,,,,
+001Hr000028Zd7I,"City Of Monona, WI",Wisconsin,Municipality,Nick Martino,8779,,Tier 3,0.75,43.0623,-89.3335,845121b9-8d82-463d-a38b-23f4521291a2,,,,,,,,,,,,,,,
+001Hr000028Zd7N,"Village Of Mount Horeb, WI",Wisconsin,Municipality,Nick Martino,7742,,Tier 3,0.75,43.0086,-89.7385,d2037d64-4406-4a92-889b-6c336ce1c8f1,,,,,,,,,2,2025-07-08,2,,,,
+001Hr000028Zd7O,"City Of Tomah, WI",Wisconsin,Municipality,Nick Martino,9556,,Tier 3,0.75,43.9786,-90.504,069aed8b-592e-4abb-8ee0-c518172773c8,,,,,,,,,,,,,,,
+001Hr000028Zd7V,"Town Of Merton, WI",Wisconsin,Municipality,Nick Martino,8279,Nurture,Tier 3,0.75,43.1414,-88.3073,ec8c5042-3154-4353-ad0e-32db3d49c97c,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,5,2025-09-17,5,,,,
+001Hr000028Zd7b,"Town Of Saratoga, WI",Wisconsin,Municipality,Nick Martino,5092,,Tier 3,0.75,44.3045,-89.7943,f54010b8-4280-4122-82f5-de0e676d26c4,,,,,,,,,10,2025-07-30,10,,,,
+001Hr000028Zd7c,"Village Of Waterford, WI",Wisconsin,Municipality,Nick Martino,5612,,Tier 3,0.75,42.7631,-88.2143,2040714a-c653-49cf-ae82-b5aa42091d34,,,,,,,,,5,2025-10-07,5,,,,
+001Hr000028Zd7h,"Village Of Jackson, WI",Wisconsin,Municipality,Nick Martino,7198,,Tier 3,0.75,43.3239,-88.1668,dda33186-e272-4944-8121-52ea52148077,,,,,,,,,6,2025-08-13,6,,,,
+001Hr000028Zd9K,"City Of Shawano, WI",Wisconsin,Municipality,Nick Martino,9244,,Tier 3,0.75,44.7822,-88.609,fb8ec86d-159a-468d-8878-e893eae76d00,,,,,,,,,14,2025-09-03,14,,,,
+001Hr000028Zd9o,"City Of Greenfield, WI",Wisconsin,Municipality,Nick Martino,37352,,Tier 1,1.5,42.9614,-88.0126,3d686105-cf4b-4d65-b249-789eccaebdd0,,,,,,,,,7,2026-04-15,7,,,,
+001Hr000028ZdA5,"City Of De Pere, WI",Wisconsin,Municipality,Nick Martino,25335,Open Opportunity,Tier 1,1.5,44.4489,-88.0604,6eb2e6cc-d43a-4c73-92a7-2859adf66f9a,Open,Meeting Booked,Top of Funnel,Alicia Gopal,6/12/2026,4/30/2026,,,10,2025-08-25,10,,,,
+001Hr000028ZdAa,"Town Of Onalaska, WI",Wisconsin,Municipality,Nick Martino,5821,,Tier 3,0.75,43.9467,-91.2217,b9feda90-eabd-4ec3-b8e7-7b6799efc546,,,,,,,,,8,2025-07-29,8,,,,
+001Hr000028ZdAz,"Town Of Genesee, WI",Wisconsin,Municipality,Nick Martino,7142,,Tier 3,0.75,42.9581,-88.3602,55a9e2f3-51b6-4c92-a806-f9e82b706389,,,,,,,,,6,2025-07-07,,6,,,
+001Hr000028ZdB8,"City Of Evansville, WI",Wisconsin,Municipality,Nick Martino,5791,,Tier 3,0.75,42.7803,-89.2993,24bba41b-1321-4d16-baa3-e8aad54e7ffb,,,,,,,,,,,,,,,
+001Hr000028ZdBa,"City Of Waukesha, WI",Wisconsin,Municipality,Nick Martino,71256,,Tier S,2.0,43.0108,-88.2292,bd2f635e-173a-4cfe-9d76-d906caef7c20,,,,,,,,,7,2025-08-12,7,,,,
+001Hr000028ZdBo,"City Of Delavan, WI",Wisconsin,Municipality,Nick Martino,8594,,Tier 3,0.75,42.6331,-88.6437,7112626d-2a96-4e42-a454-88bfcf29bcae,,,,,,,,,2,2025-08-14,2,,,,
+001Hr000028ZdCI,"City Of Watertown, WI",Wisconsin,Municipality,Nick Martino,22885,Open Opportunity,Tier 2,1.0,43.1947,-88.729,63a94e20-645a-4575-abf7-99af6ebdf7db,Open,Initial Interest,Top of Funnel,Leila Assil,1/30/2025,1/5/2025,,,,,,,,,
+001Hr000028ZdCW,"County of Calumet, WI",Wisconsin,County,Nick Martino,53199,,Tier S,2.0,44.1586,-88.2461,9865647f-f192-47ea-b9b3-f46c1d03b5ab,,,,,,,,,12,2025-08-28,12,,,,
+001Hr000028ZdCh,"City Of Hartford, WI",Wisconsin,Municipality,Nick Martino,15747,,Tier 2,1.0,43.3178,-88.379,14614740-fd99-492f-a905-33d86f564df4,,,,,,,,,17,2025-09-10,17,,,,
+001Hr000028ZdCn,"Village Of Menomonee Falls, WI",Wisconsin,Municipality,Nick Martino,38906,,Tier 1,1.5,43.1789,-88.1175,9195faac-f8c1-49f3-9b98-bbef80b79454,,,,,,,,,14,2025-07-15,14,,,,
+001Hr000028ZdCq,"City Of Fort Atkinson, WI",Wisconsin,Municipality,Nick Martino,12489,,Tier 2,1.0,42.9289,-88.8371,20907811-9717-4e91-9830-94376ea2f615,,,,,,,,,10,2025-09-04,10,,,,
+001Hr000028ZdDA,"Village Of Waukesha, WI",Wisconsin,Municipality,Nick Martino,8430,,Tier 3,0.75,42.9595,-88.2279,dc820c15-52f9-4810-84a7-652c0bb444ea,,,,,,,,,11,2025-07-29,11,,,,
+001Hr000028ZdDj,"City Of Prairie Du Chien, WI",Wisconsin,Municipality,Nick Martino,5487,,Tier 3,0.75,43.0517,-91.1412,783057e8-3bc7-4ab5-897a-2943c13b5728,,,,,,,,,,,,,,,
+001Hr000028ZdEJ,"City Of Neenah, WI",Wisconsin,Municipality,Nick Martino,27525,,Tier 1,1.5,44.1858,-88.4626,52ce7f46-9912-4b36-93c1-fa0cfb86cbe9,,,,,,,,,14,2026-05-11,14,,,,
+001Hr000028ZdEY,"Town Of Freedom, WI",Wisconsin,Municipality,Nick Martino,6209,,Tier 3,0.75,44.3866,-88.2884,70b2e247-608f-4b9d-bd8d-37e8c2f21208,,,,,,,,,9,2025-07-30,9,,,,
+001Hr000028ZdF1,"City Of New London, WI",Wisconsin,Municipality,Nick Martino,7524,,Tier 3,0.75,44.3928,-88.7398,1af2a353-7ae2-4797-836e-687a5fabc409,,,,,,,,,1,2025-07-01,1,,,,
+001Hr000028ZdFI,"City Of Jefferson, WI",Wisconsin,Municipality,Nick Martino,7753,,Tier 3,0.75,43.0056,-88.8073,dea14452-43f4-4658-bc3d-773639de94c4,,,,,,,,,1,2025-07-08,1,,,,
+001Hr000028ZdFb,"Village Of Bellevue, WI",Wisconsin,Municipality,Nick Martino,16122,,Tier 2,1.0,44.4643,-87.9563,546b50d0-bff7-4615-a39f-f4eb39e7ae10,,,,,,,,,6,2025-07-18,6,,,,
+001Hr000028ZdFc,"City Of Brookfield, WI",Wisconsin,Municipality,Nick Martino,41464,Nurture,Tier 1,1.5,43.0609,-88.1261,e25b50ea-d58a-42a7-b932-25e2f74b7a6f,Closed Lost,,,Troy LeCaire,,1/5/2025,,,11,2026-04-23,11,,,,
+001Hr000028ZdG5,"City Of Columbus, WI",Wisconsin,Municipality,Nick Martino,5505,,Tier 3,0.75,43.338,-89.0154,431190a4-c955-4382-87fb-92c0f169457e,,,,,,,,,,,,,,,
+001Hr000028ZdGG,"City Of Platteville, WI",Wisconsin,Municipality,Nick Martino,11764,,Tier 2,1.0,42.7342,-90.4785,08cb587b-ed96-4961-95a2-00c8b3acb772,,,,,,,,,3,2025-08-13,3,,,,
+001Hr000028ZdGy,"Town Of Grand Rapids, WI",Wisconsin,Municipality,Nick Martino,7613,Nurture,Tier 3,0.75,44.3731,-89.7656,828d4a86-7bed-42b2-9e59-3073ceb1282e,Closed Lost,,,Liam Shaw,3/13/2024,1/5/2025,,,,,,,,,
+001Hr000028ZdHC,"Town Of Milton, WI",Wisconsin,Municipality,Nick Martino,3110,,Tier 3,0.75,42.8102,-88.951,1899b2eb-98d2-4cc1-9dde-8a7ed5df47d9,,,,,,,,,2,2025-07-01,2,,,,
+001Hr000028ZdHD,"City Of New Richmond, WI",Wisconsin,Municipality,Nick Martino,10350,,Tier 2,1.0,45.123,-92.5366,8cf937be-c335-4628-a90e-ea6367d5f03a,,,,,,,,,6,2026-04-15,6,,,,
+001Hr000028ZdHE,"City Of La Crosse, WI",Wisconsin,Municipality,Nick Martino,52185,,Tier S,2.0,43.8138,-91.2519,b471d7d8-46e0-4aa9-91d2-85390423e1ae,,,,,,,,,18,2025-08-26,18,,,,
+001Hr000028ZdHJ,"Village Of Somers, WI",Wisconsin,Municipality,Nick Martino,8330,,Tier 3,0.75,42.6403,-87.9104,3d1b9482-05c6-4f47-9465-da63082d11e7,,,,,,,,,9,2025-10-06,9,,,,
+001Hr000028ZdHR,"City Of Oconomowoc, WI",Wisconsin,Municipality,Nick Martino,18379,,Tier 2,1.0,43.1114,-88.4995,a0a3aa15-6c13-4fb7-94e3-d091cbadcc69,,,,,,,,,2,2025-07-01,2,,,,
+001Hr000028ZdHW,"City Of Rhinelander, WI",Wisconsin,Municipality,Nick Martino,8308,,Tier 3,0.75,45.6366,-89.4121,c4a24675-bc98-43a8-b373-cc04a26aed2a,,,,,,,,,6,2025-07-10,6,,,,
+001Hr000028ZdHg,"Dunn County, WI",Wisconsin,County,Nick Martino,,,Tier 3,0.75,44.9094,-91.9099,93fb63e7-dabe-4afb-8664-db1bef764e82,,,,,,,,,,,,,,,
+001Hr000028ZdIb,"Village Of Cottage Grove, WI",Wisconsin,Municipality,Nick Martino,7338,,Tier 3,0.75,43.0746,-89.1515,737bc02d-c16b-4929-b7ac-f9c90b8087c1,,,,,,,,,,,,,,,
+001Hr000028ZdIg,"City Of Beaver Dam, WI",Wisconsin,Municipality,Nick Martino,16647,,Tier 2,1.0,43.4578,-88.8373,49365c36-b0e2-4acd-a16d-ad327928b87b,,,,,,,,,1,2025-07-11,1,,,,
+001Hr000028ZdIu,"City Of Lake Geneva, WI",Wisconsin,Municipality,Nick Martino,8504,,Tier 3,0.75,42.5917,-88.4334,1fd535a9-923b-4afd-b4ab-41adf0a4341e,,,,,,,,,2,2025-07-18,2,,,,
+001Hr000028ZdIx,"Village Of West Salem, WI",Wisconsin,Municipality,Nick Martino,5273,,Tier 3,0.75,43.8991,-91.0812,5449b31a-4c85-43bb-997f-84d6af65f142,,,,,,,,,1,2025-07-01,1,,,,
+001Hr000028ZdJM,"Village Of Bristol, WI",Wisconsin,Municipality,Nick Martino,5217,,Tier 3,0.75,42.5588,-88.0505,e033324c-a89d-447e-b1ca-ee260af8f803,,,,,,,,,,,,,,,
+001Hr000028ZdJO,"Village Of Howard, WI",Wisconsin,Municipality,Nick Martino,20229,,Tier 2,1.0,44.5624,-88.0803,31ce8c29-ac0c-49ad-b0f9-7e872d56ef9e,,,,,,,,,1,2025-08-12,1,,,,
+001Hr000028ZdJW,"Village Of Twin Lakes, WI",Wisconsin,Municipality,Nick Martino,6388,,Tier 3,0.75,42.5311,-88.2481,70bb3f84-4b07-4920-a18d-33ad7be91c31,,,,,,,,,9,2025-07-30,9,,,,
+001Hr000028ZdJX,"City Of Cudahy, WI",Wisconsin,Municipality,Nick Martino,17946,,Tier 2,1.0,42.9597,-87.8615,e0bc45d4-dd25-4228-9cd2-fa5bf674fa73,,,,,,,,,1,2025-07-15,,1,,,
+001Hr000028ZdJY,"Village Of Fox Crossing, WI",Wisconsin,Municipality,Nick Martino,18925,,Tier 2,1.0,44.2291,-88.4695,27f44fb7-71ce-4082-9044-66ec92d133f9,,,,,,,,,8,2025-08-05,8,,,,
+001Hr000028ZdKW,"Village of Salem Lake, WI",Wisconsin,Municipality,Nick Martino,14630,,Tier 2,1.0,42.5542,-88.1105,7c2d8e20-fdd8-4aa0-b2dd-ceef9cc54855,,,,,,,,,13,2025-08-08,13,,,,
+001Hr000028ZdKu,"Town Of Delafield, WI",Wisconsin,Municipality,Nick Martino,8157,,Tier 3,0.75,43.0622,-88.3543,2581db7b-86e8-4c85-9c2a-d05c490a2cbe,,,,,,,,,4,2025-07-15,4,,,,
+001Hr000028ZdKw,"City Of Stoughton, WI",Wisconsin,Municipality,Nick Martino,13085,,Tier 2,1.0,42.9169,-89.2179,06491639-0086-4ef3-af2c-e88020532084,,,,,,,,,12,2026-04-08,11,,1,,
+001Hr000028ZdLE,"Village Of Whitefish Bay, WI",Wisconsin,Municipality,Nick Martino,14747,Nurture,Tier 2,1.0,43.1133,-87.9001,aaefb8f3-3108-4fde-9b09-afeada60d51f,Closed Lost,,,Liam Shaw,3/12/2024,1/5/2025,,,,,,,,,
+001Hr000028ZdLJ,"Town Of Brookfield, WI",Wisconsin,Municipality,Nick Martino,6447,,Tier 3,0.75,43.0361,-88.1668,92bb917f-e609-44a0-b44e-bedbe2d279bb,,,,,,,,,17,2026-04-08,17,,,,
+001Hr000028ZdLY,"City Of Edgerton, WI",Wisconsin,Municipality,Nick Martino,5952,,Tier 3,0.75,42.8353,-89.0676,98135732-fa2c-4db4-b32d-535b8a7154a6,,,,,,,,,,,,,,,
+001Hr000028ZdLj,"Winnebago County, WI",Wisconsin,County,Nick Martino,173307,,Tier S,2.0,44.0127,-88.7109,b95b6115-4562-4a3c-bc27-5b506fa31f0a,,,,,,,,,19,2026-03-18,19,,,,
+001Hr000028ZdMB,"City Of Hudson, WI",Wisconsin,Municipality,Nick Martino,15149,Recent Competitor Purchase,Tier 2,1.0,44.9747,-92.7569,625bb9f0-9e21-45a7-b112-fdda7a4032a1,Closed Lost,,,Liam Shaw,7/30/2024,1/5/2025,"$21,000",,9,2026-01-27,9,,,,
+001Hr000028ZdMF,"Village Of Union Grove, WI",Wisconsin,Municipality,Nick Martino,4925,Nurture,Tier 3,0.75,42.6881,-88.0515,bc0686cd-2cfb-49fd-aac7-e7520c487dce,Closed Lost,,,Liam Shaw,3/8/2024,1/5/2025,"$15,000",,,,,,,,
+001Hr000028ZdMP,"Village Of North Fond Du Lac, WI",Wisconsin,Municipality,Nick Martino,5406,Nurture,Tier 3,0.75,43.8114,-88.4834,248f0ca2-b651-435b-81dc-2f9c0dddda70,Closed Lost,,,Liam Shaw,3/27/2024,1/5/2025,"$15,000",,7,2026-03-19,7,,,,
+001Hr000028ZdMS,"City Of Glendale, WI",Wisconsin,Municipality,Nick Martino,13178,,Tier 2,1.0,43.1353,-87.9356,9d6bc5c6-879a-489e-ab77-54445eafa697,,,,,,,,,1,2025-07-01,1,,,,
+001Hr000028ZdMY,"City Of Sturgeon Bay, WI",Wisconsin,Municipality,Nick Martino,10015,Open Opportunity,Tier 2,1.0,44.8342,-87.377,1d1101bb-da39-4746-b6ec-d5e42e53960b,Open,Proposal,Mid Funnel,Nick Martino,9/8/2025,9/4/2025,"$38,000",,4,2025-09-04,4,,,,
+001Hr000028ZdMy,"Town Of Troy, WI",Wisconsin,Municipality,Nick Martino,2392,,Tier 3,0.75,43.2328,-89.9066,31138d4b-afb2-4d8b-bf12-4ef0667fef7b,,,,,,,,,3,2025-07-09,3,,,,
+001Hr000028ZdN3,"Town Of Little Suamico, WI",Wisconsin,Municipality,Nick Martino,5628,,Tier 3,0.75,44.721,-88.0465,ec57776c-95c5-43b5-a685-2310815eb873,,,,,,,,,10,2025-07-30,10,,,,
+001Hr000028ZdN8,"Town Of Hull, WI",Wisconsin,Municipality,Nick Martino,5274,,Tier 3,0.75,44.9064,-90.2432,5d8cee22-5dd8-4190-b669-2865ce4c12b2,,,,,,,,,6,2025-07-14,6,,,,
+001Hr000028ZdNX,"Town Of Geneva, WI",Wisconsin,Municipality,Nick Martino,5468,,Tier 3,0.75,42.6386,-88.4598,9c9a9d08-52d6-4abb-aa67-7308604cd2c6,,,,,,,,,2,2025-07-08,2,,,,
+001Hr000028ZdNY,"Village Of Elm Grove, WI",Wisconsin,Municipality,Nick Martino,6524,,Tier 3,0.75,43.0428,-88.0794,2a74c81a-f11d-48d5-89bc-f3d62278b3a9,,,,,,,,,3,2026-03-18,3,,,,
+001Hr000028ZdNc,"Village Of Slinger, WI",Wisconsin,Municipality,Nick Martino,6116,,Tier 3,0.75,43.3336,-88.2862,3a5141dd-8013-453c-b95a-4e83911480c6,,,,,,,,,11,2025-09-04,11,,,,
+001Hr000028ZdNn,"Village Of Ashwaubenon, WI",Wisconsin,Municipality,Nick Martino,16913,,Tier 2,1.0,44.4822,-88.0701,42666fc0-e4bf-4d0d-951a-0bc970a22c74,,,,,,,,,4,2025-07-14,4,,,,
+001Hr000028ZdNx,"City Of Altoona, WI",Wisconsin,Municipality,Nick Martino,8817,,Tier 3,0.75,44.8047,-91.4432,ef5dedd0-0f62-49e6-9553-30e654f6868e,,,,,,,,,3,2025-08-12,3,,,,
+001Hr000028ZdNy,"City Of Two Rivers, WI",Wisconsin,Municipality,Nick Martino,11270,Open Opportunity,Tier 2,1.0,44.1539,-87.5692,3ea88816-99cb-4c78-bdbc-88ee2aa40bff,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,,,,,,,
+001Hr000028ZdO0,"City Of Muskego, WI",Wisconsin,Municipality,Nick Martino,25242,,Tier 1,1.5,42.9016,-88.1493,b50912d2-05a2-42fd-b485-86fcad97a8d8,,,,,,,,,10,2025-08-29,10,,,,
+001Hr000028ZdO7,"Town Of Algoma, WI",Wisconsin,Municipality,Nick Martino,6912,,Tier 3,0.75,44.0402,-88.6241,ffd97d77-5f71-4ce0-9982-a68ac1fbf07a,,,,,,,,,1,2025-07-09,1,,,,
+001Hr000028ZdO8,"City Of Waupun, WI",Wisconsin,Municipality,Nick Martino,11515,,Tier 2,1.0,43.6333,-88.7296,e432c683-040a-4443-bab6-bf94444da68b,,,,,,,,,3,2025-08-20,3,,,,
+001Hr000028ZdO9,"Village of Grafton, WI",Wisconsin,Municipality,Nick Martino,12298,,Tier 2,1.0,43.3197,-87.9534,793dfe58-2073-430a-8e9a-e01a078c9dfb,,,,,,,,,12,2025-08-12,12,,,,
+001Hr000028ZdOX,"Village Of Waunakee, WI",Wisconsin,Municipality,Nick Martino,14950,,Tier 2,1.0,43.1919,-89.4557,92f08fcc-11f8-49c7-87fb-af7172c74d6e,,,,,,,,,2,2025-07-17,2,,,,
+001Hr000028ZdOl,"City Of Antigo, WI",Wisconsin,Municipality,Nick Martino,8006,Nurture,Tier 3,0.75,45.1402,-89.1523,a24bc857-bc44-482d-b423-67980b923f90,Closed Lost,,,Leila Assil,,1/8/2025,,,,,,,,,
+001Hr000028ZdOm,"Village Of Greendale, WI",Wisconsin,Municipality,Nick Martino,14652,,Tier 2,1.0,42.9406,-87.9959,52e11a8b-7e31-4040-89ed-1749983da12b,,,,,,,,,10,2025-09-04,10,,,,
+001Hr000028ZdP0,"Village Of Sturtevant, WI",Wisconsin,Municipality,Nick Martino,6995,Open Opportunity,Tier 3,0.75,42.6981,-87.8945,b6f4b57c-4bc7-4b73-9dd0-4d03fe0f3c7b,Open,Initial Interest,Top of Funnel,Nick Martino,,1/6/2026,,,4,2026-03-04,4,,,,
+001Hr000028ZdP1,"City Of Ripon, WI",Wisconsin,Municipality,Nick Martino,7792,,Tier 3,0.75,43.8422,-88.8359,2f3d3236-f342-43f8-b067-3f82c3af76b1,,,,,,,,,2,2025-06-26,,2,,,
+001Hr000028ZdP4,"Town Of Cedarburg, WI",Wisconsin,Municipality,Nick Martino,6228,,Tier 3,0.75,43.3319,-88.0314,d0666ae4-27d6-4c1d-8582-f82188697c96,,,,,,,,,1,2025-07-01,1,,,,
+001Hr000028ZdP9,"Town Of Lawrence, WI",Wisconsin,Municipality,Nick Martino,6468,,Tier 3,0.75,43.8843,-89.544,b611e1f8-d2b2-4257-ac3c-3f0a9f45d9ad,,,,,,,,,9,2025-07-29,9,,,,
+001Hr000028ZdPS,"City Of Superior, WI",Wisconsin,Municipality,Nick Martino,26561,,Tier 1,1.5,46.7208,-92.1041,0049c951-8258-4e9e-a7e4-f10c0a8bb1e4,,,,,,,,,18,2025-07-24,18,,,,
+001Hr000028ZdPf,"Town Of Burlington, WI",Wisconsin,Municipality,Nick Martino,6431,,Tier 3,0.75,42.6276,-88.2929,dea571d9-7823-45f8-b346-06b7a6974010,,,,,,,,,1,2025-07-08,1,,,,
+001Hr000028ZdQ3,"Village Of Sussex, WI",Wisconsin,Municipality,Nick Martino,11597,,Tier 2,1.0,43.1336,-88.2095,d8bc8a76-9ed6-4bea-998d-1d85c303fa3e,,,,,,,,,2,2025-07-08,2,,,,
+001Hr000028ZdQ8,"Village Of Mukwonago, WI",Wisconsin,Municipality,Nick Martino,8373,,Tier 3,0.75,42.8631,-88.3323,9695a274-7baa-45e0-b29b-f7c8a2e9968b,,,,,,,,,6,2025-08-13,6,,,,
+001Hr000028ZdQY,"Town Of Sheboygan, WI",Wisconsin,Municipality,Nick Martino,8120,,Tier 3,0.75,43.779,-87.7862,3419a0e2-9723-4bf1-b0e3-be7bc78f1218,,,,,,,,,3,2026-04-13,3,,,,
+001Hr000028ZdQh,"City Of Burlington, WI",Wisconsin,Municipality,Nick Martino,11008,,Tier 2,1.0,42.6781,-88.2762,fb7a4d46-9c39-40c6-90a6-f4534c392475,,,,,,,,,,,,,,,
+001Hr000028ZdR5,"City Of Delafield, WI",Wisconsin,Municipality,Nick Martino,7193,,Tier 3,0.75,43.06,-88.4042,a900c660-d9a8-48ef-ba24-f85a41812cb5,,,,,,,,,,,,,,,
+001Hr000028ZdR8,"Village Of Plover, WI",Wisconsin,Municipality,Nick Martino,13701,,Tier 2,1.0,44.4564,-89.544,205f0501-2dfd-4bc4-aeec-7176df010aba,,,,,,,,,7,2025-08-21,7,,,,
+001Hr000028ZdRB,"Shawano County, WI",Wisconsin,County,Nick Martino,41299,Open Opportunity,Tier 1,1.5,44.7684,-88.7109,6cc52a54-0f61-4416-814c-37f2d02cea40,Open,Proposal,Mid Funnel,Nick Martino,3/10/2026,3/5/2026,"$17,000",,3,2026-03-05,3,,,,
+001Hr000028ZdRI,"Village Of Germantown, WI",Wisconsin,Municipality,Nick Martino,20914,,Tier 2,1.0,43.2286,-88.1104,61062acd-4bc5-42da-b1e4-162e811f9f72,,,,,,,,,9,2025-07-30,9,,,,
+001Hr000028ZdRP,"Town Of Rib Mountain, WI",Wisconsin,Municipality,Nick Martino,7286,Open Opportunity,Tier 3,0.75,44.909,-89.6542,752a81e6-d1a5-4840-942e-89a4a7b83afc,Open,Initial Interest,Top of Funnel,Jenny Allison,,10/29/2025,,,1,2025-11-04,,,1,,
+001Hr000028ZdRZ,"Village Of Kimberly, WI",Wisconsin,Municipality,Nick Martino,7465,,Tier 3,0.75,44.2722,-88.339,d3811519-5bab-44c4-98fa-06c743107ed3,,,,,,,,,2,2025-08-12,2,,,,
+001Hr000028ZdRa,"Town Of Beloit, WI",Wisconsin,Municipality,Nick Martino,7822,,Tier 3,0.75,42.5571,-89.0848,e5a6afed-3358-414b-b4b1-db679f406bde,,,,,,,,,,,,,,,
+001Hr000028ZdRf,"City Of Sheboygan Falls, WI",Wisconsin,Municipality,Nick Martino,8165,,Tier 3,0.75,43.7292,-87.8106,6b687a89-f3d1-44d3-b44f-aa5026d5596a,,,,,,,,,2,2025-08-12,2,,,,
+001Hr000028ZdRp,"Clark County, WI",Wisconsin,County,Nick Martino,34801,,Tier 1,1.5,44.8481,-90.7533,82f472c7-64e9-41e1-bdc4-37f6acb728dc,,,,,,,,,2,2026-02-23,2,,,,
+001Hr000028ZdS3,"Village Of Vernon, WI",Wisconsin,Municipality,Nick Martino,7449,,Tier 3,0.75,42.9044,-88.2482,552a50f7-2e4e-4832-8c03-63b809a1fbb8,,,,,,,,,2,2026-03-12,2,,,,
+001Hr000028ZdS8,"Town Of Washington, WI",Wisconsin,Municipality,Nick Martino,7742,,Tier 3,0.75,45.3948,-86.9313,576a804a-6f42-4079-be9b-73637ccae044,,,,,,,,,,,,,,,
+001Hr000028ZdSJ,"City Of Beloit, WI",Wisconsin,Municipality,Nick Martino,36609,,Tier 1,1.5,42.5083,-89.0318,78e3e606-0de9-4306-8762-33ad8fac88b9,,,,,,,,,21,2026-05-11,21,,,,
+001Hr000028ZdSN,"Village Of Hales Corners, WI",Wisconsin,Municipality,Nick Martino,7617,,Tier 3,0.75,42.9375,-88.0487,fa209f52-9135-4159-bc0d-e410f2c1d26f,,,,,,,,,5,2026-03-18,5,,,,
+001Hr000028ZdSQ,"Marathon County, WI",Wisconsin,County,Nick Martino,138612,,Tier S,2.0,44.8505,-89.8505,041629d1-1ab2-486c-ae88-2df8519a933d,,,,,,,,,20,2025-08-15,,20,,,
+001Hr000028ZdSc,"Town Of Norway, WI",Wisconsin,Municipality,Nick Martino,7873,,Tier 3,0.75,42.7904,-88.1487,42c66328-7ad9-4c31-95e3-0e5defe0e702,,,,,,,,,9,2025-07-30,9,,,,
+001Hr000028ZdSt,"City Of Portage, WI",Wisconsin,Municipality,Nick Martino,10327,Nurture,Tier 2,1.0,43.5391,-89.4626,c824ed8e-bb74-40da-932e-b47e4ce67af6,Open,Initial Interest,Top of Funnel,Leila Assil,10/9/2024,1/5/2025,,Yes,15,2025-09-16,13,2,,,
+001Hr000028ZdSu,"City Of Whitewater, WI",Wisconsin,Municipality,Nick Martino,14351,,Tier 2,1.0,42.8336,-88.7323,327e3203-02e6-457c-8605-d8eab605f763,,,,,,,,,3,2025-08-20,3,,,,
+001Hr000028ZdSx,"Village Of Holmen, WI",Wisconsin,Municipality,Nick Martino,10896,,Tier 2,1.0,43.9633,-91.2563,7ead32fd-de4e-4426-bc81-9cb827eda32a,,,,,,,,,5,2025-07-24,5,,,,
+001Hr000028ZdSy,"Portage County, WI",Wisconsin,County,Nick Martino,71024,,Tier S,2.0,44.4736,-89.4742,e6130506-d9f8-4ea1-b51c-a7cc6de5b046,,,,,,,,,4,2026-04-09,4,,,,
+001Hr000028ZdTG,"Village Of Windsor, WI",Wisconsin,Municipality,Nick Martino,6345,,Tier 3,0.75,43.2164,-89.3433,78b6ff1e-1e79-4fe4-9cc5-0c9662d10ccc,,,,,,,,,1,2025-07-09,1,,,,
+001Hr000028ZdTH,"Village Of Richfield, WI",Wisconsin,Municipality,Nick Martino,11810,,Tier 2,1.0,43.2369,-88.2618,029cefa5-1614-45a6-8c58-bc6ce1f5cd17,,,,,,,,,13,2025-08-12,13,,,,
+001Hr000028ZdTL,"Village Of Pewaukee, WI",Wisconsin,Municipality,Nick Martino,8195,Nurture,Tier 3,0.75,43.0824,-88.2628,9424b555-d77b-413b-b613-9b6e443d614e,Closed Lost,,,Nick Martino,8/27/2025,8/22/2025,,,8,2025-08-26,8,,,,
+001Hr000028ZdTM,"City Of Baraboo, WI",Wisconsin,Municipality,Nick Martino,12398,Nurture,Tier 2,1.0,43.4711,-89.7443,ffc53451-297c-4df0-999c-f768a23174af,Closed Lost,,,Liam Shaw,3/12/2024,1/5/2025,,,11,2025-08-04,11,,,,
+001Hr000028ZdTg,"Town Of Lisbon, WI",Wisconsin,Municipality,Nick Martino,10561,,Tier 2,1.0,43.1631,-88.2429,45d9b155-6a8e-44f5-8da9-67df5b4892b2,,,,,,,,,3,2025-07-17,3,,,,
+001Hr000028ZdTh,"Village Of Little Chute, WI",Wisconsin,Municipality,Nick Martino,12170,,Tier 2,1.0,44.28,-88.3184,bbd5da92-9d15-40a3-999f-862c13f42aec,,,,,,,,,1,2025-07-01,1,,,,
+001Hr000028ZdTp,"Village Of Mcfarland, WI",Wisconsin,Municipality,Nick Martino,9325,,Tier 3,0.75,43.0125,-89.2898,1f51947b-9660-4af2-b2fd-670735cefc74,,,,,,,,,10,2025-08-21,10,,,,
+001Hr000028ZdTs,"City Of Chippewa Falls, WI",Wisconsin,Municipality,Nick Martino,14778,,Tier 2,1.0,44.9369,-91.3929,ad5765c6-353e-46e0-a560-162a7e18b461,,,,,,,,,4,2025-08-14,4,,,,
+001Hr000028ZdTz,"City Of Plymouth, WI",Wisconsin,Municipality,Nick Martino,8913,,Tier 3,0.75,43.7486,-87.977,6a6bb56f-4d89-42d2-8976-68dbbda20735,,,,,,,,,,,,,,,
+001Hr000028ZdU1,"City Of New Berlin, WI",Wisconsin,Municipality,Nick Martino,40375,,Tier 1,1.5,42.9765,-88.1084,58438913-a983-40ba-929e-82d17ac0bfe9,,,,,,,,,22,2026-04-23,22,,,,
+001Hr000028ZdU4,"City Of Rice Lake, WI",Wisconsin,Municipality,Nick Martino,8939,,Tier 3,0.75,45.5061,-91.7382,9e63f287-646d-4940-8a4c-318d1253e3cd,,,,,,,,,10,2025-09-04,10,,,,
+001Hr000028ZdU9,"City Of St Francis, WI",Wisconsin,Municipality,Nick Martino,9457,,Tier 3,0.75,42.9716,-87.8759,b74e5daf-805a-467b-8559-0557842d8c46,,,,,,,,,22,2025-10-10,22,,,,
+001Hr000028ZdUE,"Village Of Hartland, WI",Wisconsin,Municipality,Nick Martino,9566,,Tier 3,0.75,43.1046,-88.3475,d3731290-baa0-47d0-9370-1798aaadccce,,,,,,,,,2,2025-08-12,2,,,,
+001Hr000028ZdUJ,"City Of Merrill, WI",Wisconsin,Municipality,Nick Martino,9337,,Tier 3,0.75,45.1805,-89.6835,f4865597-0e59-4c28-b48c-e372fa7bc8c2,,,,,,,,,11,2025-08-28,11,,,,
+001Hr000028ZdUO,"City Of Sparta, WI",Wisconsin,Municipality,Nick Martino,9972,,Tier 3,0.75,43.9441,-90.8129,aa40e233-e446-4b63-9184-dc8ca3e3e489,,,,,,,,,,,,,,,
+001Hr000028ZdUZ,"City Of Monroe, WI",Wisconsin,Municipality,Nick Martino,10537,,Tier 2,1.0,42.6011,-89.6385,8614c918-e859-4639-a327-8ba001c888b6,,,,,,,,,7,2025-08-25,7,,,,
+001Hr000028ZdUa,"City Of Mequon, WI",Wisconsin,Municipality,Nick Martino,25200,Nurture,Tier 1,1.5,43.2159,-88.0314,c61eb368-2548-4ab3-8709-df9dcf1f0ea6,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,11,2025-09-23,11,,,,
+001Hr000028ZdUd,"City Of Reedsburg, WI",Wisconsin,Municipality,Nick Martino,10043,,Tier 2,1.0,43.5325,-90.0026,49f58b58-d98d-43a0-ba3b-cdd035096481,,,,,,,,,1,2025-06-23,,1,,,
+001Hr000028ZdV4,"Sheboygan County, WI",Wisconsin,County,Nick Martino,117752,,Tier S,2.0,43.6982,-87.725,2ca3be7a-0250-4737-8d27-fd22b356e098,,,,,,,,,8,2025-07-02,,8,,,
+001Hr000028ZdV7,"City Of Elkhorn, WI",Wisconsin,Municipality,Nick Martino,10330,,Tier 2,1.0,42.6728,-88.5445,c46b37f9-a1f5-40b3-b6e9-9e17a0708f32,,,,,,,,,19,2025-09-12,19,,,,
+001Hr000028ZdV9,"City Of Kaukauna, WI",Wisconsin,Municipality,Nick Martino,17170,Nurture,Tier 2,1.0,44.278,-88.272,fff7cd2a-d47a-4cf2-a4c1-a6f9e94d62b7,Closed Lost,,,Nick Martino,9/30/2025,8/6/2025,,,22,2025-09-24,22,,,,
+001Hr000028ZdVB,"City Of Sun Prairie, WI",Wisconsin,Municipality,Nick Martino,36189,Open Opportunity,Tier 1,1.5,43.1836,-89.2137,80f8085c-8170-4ade-9ca6-5d4e90f78a6f,Open,Initial Interest,Top of Funnel,Nick Martino,9/5/2025,7/1/2025,,,31,2026-02-13,31,,,,
+001Hr000028ZdVE,"Village Of Suamico, WI",Wisconsin,Municipality,Nick Martino,13078,,Tier 2,1.0,44.6319,-88.0393,7bed177b-f171-45f8-86c4-7671d26f7a51,,,,,,,,,1,2025-07-15,1,,,,
+001Hr000028ZdVT,"City Of Wisconsin Rapids, WI",Wisconsin,Municipality,Nick Martino,18738,,Tier 2,1.0,44.3836,-89.8173,bb8824b9-97e9-4719-a50b-60d493eabfda,,,,,,,,,9,2026-04-17,9,,,,
+001Hr000028ZdVp,"Oneida County, WI",Wisconsin,County,Nick Martino,38147,Open Opportunity,Tier 1,1.5,45.6751,-89.4617,d5420d21-80f2-49a1-9b9d-e1d10b8aceed,Open,Initial Interest,Top of Funnel,Nick Martino,4/14/2026,3/9/2026,,,10,2026-04-09,10,,,,
+001Hr000028ZdVq,"City Of Marinette, WI",Wisconsin,Municipality,Nick Martino,11048,,Tier 2,1.0,45.1,-87.6307,c4898c7b-2250-4c1b-9923-a0ce9e2c6594,,,,,,,,,6,2025-07-23,6,,,,
+001Hr000028ZdVr,"Village Of Pleasant Prairie, WI",Wisconsin,Municipality,Nick Martino,21392,,Tier 2,1.0,42.5531,-87.9334,b0dc268e-0d74-4306-9288-d1587bb4a083,,,,,,,,,8,2025-07-11,8,,,,
+001Hr000028ZdVx,"City Of River Falls, WI",Wisconsin,Municipality,Nick Martino,16618,,Tier 2,1.0,44.8596,-92.6255,34b5d5c9-c55b-4fa5-ab44-43d51dfcb423,,,,,,,,,31,2026-05-11,25,6,,,
+001Hr000028ZdW1,"City Of Menomonie, WI",Wisconsin,Municipality,Nick Martino,16794,,Tier 2,1.0,44.8755,-91.9193,4fe435c3-0c91-4825-a7e3-318ea46a689a,,,,,,,,,9,2025-08-11,9,,,,
+001Hr000028ZdWF,"Village Of Oregon, WI",Wisconsin,Municipality,Nick Martino,11407,Open Opportunity,Tier 2,1.0,42.9261,-89.3846,de1f3d49-c2db-43a8-8b30-498a40126c51,Open,Sales Qualified,Mid Funnel,Nick Martino,5/5/2026,4/22/2026,,,10,2026-05-08,8,,2,,
+001Hr000028ZdX8,"Town Of Greenville, WI",Wisconsin,Municipality,Nick Martino,2982,Unviable,Tier 3,0.75,44.3003,-88.5365,ff9a8c45-4ffc-4f49-8155-6ddbd0ce9448,,,,,,,,,,,,,,,
+001Hr000028ZdXw,"Village Of Shorewood, WI",Wisconsin,Municipality,Nick Martino,13648,Nurture,Tier 2,1.0,43.0892,-87.8876,767797d6-829d-4b74-a4d9-fb5bd7f92c4a,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,16,2025-09-04,16,,,,
+001Hr000028ZdXx,"Village Of Caledonia, WI",Wisconsin,Municipality,Nick Martino,25229,Open Opportunity,Tier 1,1.5,42.8078,-87.9242,e5b16654-6db1-401b-8e16-8f3c885272c2,Open,Proposal,Mid Funnel,Nick Martino,4/23/2026,4/14/2026,"$24,000",,5,2026-04-14,5,,,,
+001Hr000028ZdYC,"City Of South Milwaukee, WI",Wisconsin,Municipality,Nick Martino,20517,,Tier 2,1.0,42.9106,-87.8606,e0ac716f-86c1-495e-8b95-7901bbc1cbef,,,,,,,,,15,2025-07-18,15,,,,
+001Hr000028ZdYa,"City Of Pewaukee, WI",Wisconsin,Municipality,Nick Martino,15945,,Tier 2,1.0,43.0655,-88.2058,af5b867c-6d64-40a0-90d5-bb60b36b2826,,,,,,,,,3,2025-07-01,3,,,,
+001Hr000028ZdYf,"Village Of Weston, WI",Wisconsin,Municipality,Nick Martino,15688,,Tier 2,1.0,44.8908,-89.5476,8214f124-ed31-449c-a176-ab1828ddfd92,,,,,,,,,2,2026-04-13,2,,,,
+001Hr000028ZdZg,"City Of Wauwatosa, WI",Wisconsin,Municipality,Nick Martino,47752,,Tier 1,1.5,43.0495,-88.0076,b5a237d5-0759-4792-8ed7-15f818ce1a8f,,,,,,,,,23,2025-09-05,23,,,,
+001Hr000028ZdZi,"City Of Marshfield, WI",Wisconsin,Municipality,Nick Martino,18815,,Tier 2,1.0,44.6689,-90.1718,b03c0393-6480-424d-b166-0d64313c3a4d,,,,,,,,,14,2025-09-29,14,,,,
+001Hr000028ZdaC,"City Of Middleton, WI",Wisconsin,Municipality,Nick Martino,22636,Nurture,Tier 2,1.0,43.0972,-89.5043,11ed2cd6-c0b8-44b0-ba0f-3d5aa8416211,Closed Lost,,,Quinzel Perry,10/30/2024,1/5/2025,,,3,2026-04-13,3,,,,
+001Hr000028Zdav,"Village Of Mount Pleasant, WI",Wisconsin,Municipality,Nick Martino,27646,,Tier 1,1.5,42.7266,-87.895,5c373183-6d99-4e35-8bee-e47377bd98ff,,,,,,,,,6,2025-09-16,6,,,,
+001Hr000028Zdb0,"Town Of Grand Chute, WI",Wisconsin,Municipality,Nick Martino,23876,,Tier 2,1.0,44.2816,-88.4384,0b90f091-e798-40b9-b259-ecdfc2a05da5,,,,,,,,,7,2025-07-10,7,,,,
+001Hr000028ZdbL,"City Of Fitchburg, WI",Wisconsin,Municipality,Nick Martino,30674,,Tier 1,1.5,43.0023,-89.4241,941683b1-169c-4dbd-a69f-f0861696fa2e,,,,,,,,,11,2025-07-30,11,,,,
+001Hr000028ZdbP,"City Of West Bend, WI",Wisconsin,Municipality,Nick Martino,31727,Nurture,Tier 1,1.5,43.4253,-88.1834,2059ea41-381a-4443-9261-46be77fdcb60,Closed Lost,,,Nick Martino,3/12/2026,3/10/2026,,,31,2026-04-13,31,,,,
+001Hr000028Zdbc,"Wood County, WI",Wisconsin,County,Nick Martino,74207,,Tier S,2.0,44.4748,-90.0747,2a27b7d2-c1ab-4061-9275-8112fcbaa99a,,,,,,,,,19,2026-03-18,19,,,,
+001Hr000028Zdbm,"City Of West Allis, WI",Wisconsin,Municipality,Nick Martino,59484,,Tier S,2.0,43.0167,-88.007,c691b86a-64c4-4e05-babf-996476b934ed,,,,,,,,,8,2025-08-11,8,,,,
+001Hr000028ZdcB,"La Crosse County, WI",Wisconsin,County,Nick Martino,121060,,Tier S,2.0,43.8617,-91.1353,9fbd4e79-126d-4af2-9195-042a36474643,,,,,,,,,19,2026-03-27,19,,,,
+001Hr000028ZdcN,"City Of Franklin, WI",Wisconsin,Municipality,Nick Martino,36624,Open Opportunity,Tier 1,1.5,42.8886,-88.0384,77dd25cf-88b0-4fe2-a63f-7fabaef997cf,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,7,2026-01-14,7,,,,
+001Hr000028Zdcr,"City Of Fond Du Lac, WI",Wisconsin,Municipality,Nick Martino,44595,,Tier 1,1.5,43.773,-88.4471,f0fca341-4bb2-454c-8a5c-a8e9d071027e,,,,,,,,,3,2025-07-08,3,,,,
+001Hr000028Zdd2,"City Of Sheboygan, WI",Wisconsin,Municipality,Nick Martino,49931,,Tier 1,1.5,43.7508,-87.7145,cc784ade-a6e6-4e51-8df0-312627d5e159,,,,,,,,,29,2025-09-02,29,,,,
+001Hr000028Zddu,"Kenosha County, WI",Wisconsin,County,Nick Martino,167817,,Tier S,2.0,42.537,-87.8279,6a951e67-8b39-4024-a45b-70fa04bffd95,,,,,,,,,11,2025-12-23,11,,,,
+001Hr000028Zde3,"Ozaukee County, WI",Wisconsin,County,Nick Martino,93956,,Tier S,2.0,43.4702,-87.8256,c53cc562-5987-4e8d-a689-62cf6ad1d9e6,,,,,,,,,2,2026-02-25,2,,,,
+001Hr000028ZdfK,"City Of Oshkosh, WI",Wisconsin,Municipality,Nick Martino,66607,,Tier S,2.0,44.0247,-88.5426,be081e8c-6488-4791-ae3c-16d703068815,,,,,,,,,33,2025-08-27,33,,,,
+001Hr000028ZdhY,"Dodge County, WI",Wisconsin,County,Nick Martino,89396,,Tier S,2.0,43.3994,-88.7109,7d3e697a-98ed-4950-8b0f-b5d24489c280,,,,,,,,,10,2026-03-18,10,,,,
+001Hr000028Zdj4,"City Of Appleton, WI",Wisconsin,Municipality,Nick Martino,74854,,Tier S,2.0,44.2623,-88.4071,eba4d484-284f-448a-b14b-d58d1cc74a96,,,,,,,,,4,2025-09-12,4,,,,
+001Hr000028ZdjJ,"City Of Eau Claire, WI",Wisconsin,Municipality,Nick Martino,69441,,Tier S,2.0,44.8113,-91.4985,ba1e80c8-3679-4a1d-9f28-d28ff2ca25b8,,,,,,,,,6,2025-08-14,6,,,,
+001Hr000028Zdjt,"Vernon County, WI",Wisconsin,County,Nick Martino,,,Tier 3,0.75,43.5577,-90.8294,bb631471-22d6-4d2c-8750-5d1a194eb133,,,,,,,,,,,,,,,
+001Hr000028Zdkr,"Rock County, WI",Wisconsin,County,Nick Martino,165461,,Tier S,2.0,42.6252,-89.0179,f729405d-2f6b-4f9a-8ee6-d23fb594db28,,,,,,,,,18,2026-03-23,18,,,,
+001Hr000028Zdlt,"County Of Sauk, WI",Wisconsin,County,Nick Martino,65697,,Tier S,2.0,43.4066,-89.9253,b4a8565d-9892-4498-a116-fa3a14496f24,,,,,,,,,4,2026-04-14,4,,,,
+001Hr000028Zdly,"Chippewa County, WI",Wisconsin,County,Nick Martino,68071,,Tier S,2.0,45.0674,-91.2925,8a70a645-6f1a-4481-8bab-3cc9d95b14e9,,,,,,,,,10,2026-03-18,10,,,,
+001Hr000028Zdm3,"Saint Croix County, WI",Wisconsin,County,Nick Martino,97954,,Tier S,2.0,45.0498,-92.3876,7bdd4b2a-f539-49c0-bf35-e4cca9cbf50f,,,,,,,,,,,,,,,
+001Hr000028Zdmc,"Waupaca County, WI",Wisconsin,County,Nick Martino,51171,,Tier S,2.0,44.4706,-89.0179,e4bd0cc0-d5b7-4565-a294-ef6cc911ba8c,,,,,,,,,6,2026-03-06,6,,,,
+001Hr000028ZdnQ,"Washington County, WI",Wisconsin,County,Nick Martino,138727,,Tier S,2.0,43.3933,-88.2461,fe27c87b-0657-4b58-b5e6-c5669a693be6,,,,,,,,,1,2026-02-25,1,,,,
+001Hr000028Zdnk,"Eau Claire County, WI",Wisconsin,County,Nick Martino,107903,,Tier S,2.0,44.7684,-91.2891,ca4d19fe-af78-49e3-a978-827014ab3df5,,,,,,,,,10,2025-07-08,,10,,,
+001Hr000028ZjSC,"Town Of Scott, WI",Wisconsin,Municipality,Nick Martino,3651,Nurture,Tier 3,0.75,44.1145,-90.356,cc580278-06d7-45df-a4c7-518fb1dcdf4d,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,,,,,,,
+001cv000006t1JR,"City Of Wisconsin Dells, WI",Wisconsin,Municipality,Nick Martino,3198,,Tier 3,0.75,43.6249,-89.7749,5878abdb-1a2a-4d5b-87ef-d0e690ee66f6,,,,,,,,,,,,,,,
+001cv00000AuWNt,"Village Of Roberts, WI",Wisconsin,Municipality,Nick Martino,2005,,Tier 3,0.75,44.9839,-92.556,9b02c9a0-6381-4b3d-bdbd-cfe7a5042b16,,,,,,,,,,,,,,,
+001cv00000AuWNw,"Town Of Nasewaupee, WI",Wisconsin,Municipality,Nick Martino,2006,,Tier 3,0.75,44.8356,-87.4304,9ff2ca26-91f1-4cf5-9975-f991c0da06ec,,,,,,,,,,,,,,,
+001cv00000AuWOC,"Town Of Crescent, WI",Wisconsin,Municipality,Nick Martino,2011,,Tier 3,0.75,45.0677,-91.1468,06ff1a03-a96e-4ee1-9f82-0c8dfbdc2cb9,,,,,,,,,,,,,,,
+001cv00000AuWPE,"Village Of Redgranite, WI",Wisconsin,Municipality,Nick Martino,2029,,Tier 3,0.75,44.0419,-89.0984,6fd65383-2de5-4031-8ff5-481f19acb983,,,,,,,,,,,,,,,
+001cv00000AuWQ6,"Town Of West Point, WI",Wisconsin,Municipality,Nick Martino,2039,,Tier 3,0.75,43.3192,-89.6346,ced2a0f5-fcf2-440e-914a-65a3367efc8e,,,,,,,,,,,,,,,
+001cv00000AuWQl,"Town Of Springdale, WI",Wisconsin,Municipality,Nick Martino,2050,,Tier 3,0.75,42.9995,-89.644,f78de8df-e3e9-4727-bdb5-6a37116acc12,,,,,,,,,,,,,,,
+001cv00000AuWVf,"Town Of Albion, WI",Wisconsin,Municipality,Nick Martino,2052,,Tier 3,0.75,42.8794,-89.0698,3c974506-9558-46c7-8764-0df254d78a4e,,,,,,,,,,,,,,,
+001cv00000AuWXQ,"Town Of Jefferson, WI",Wisconsin,Municipality,Nick Martino,2054,,Tier 3,0.75,42.9646,-88.7975,b3614a9b-294a-4c91-97d7-0a0aa5bf22a9,,,,,,,,,,,,,,,
+001cv00000AuWXX,"City Of Washburn, WI",Wisconsin,Municipality,Nick Martino,2055,,Tier 3,0.75,46.6733,-90.8949,1b07d7bd-b514-42a0-b41c-f8df8f42977b,,,,,,,,,,,,,,,
+001cv00000AuWXY,"Town Of Marion, WI",Wisconsin,Municipality,Nick Martino,2055,,Tier 3,0.75,44.6708,-88.8893,d242452e-b0af-4141-9340-8d2fa77e1e80,,,,,,,,,,,,,,,
+001cv00000AuWY8,"Village Of Pardeeville, WI",Wisconsin,Municipality,Nick Martino,2067,,Tier 3,0.75,43.5378,-89.3001,cce2e3f6-8cb6-4b5b-bfae-175aa3779bbc,,,,,,,,,,,,,,,
+001cv00000AuWYg,"Town Of Mcmillan, WI",Wisconsin,Municipality,Nick Martino,2077,,Tier 3,0.75,44.7423,-90.1632,a3d0d09f-5b1f-468b-835a-e56f676f134b,,,,,,,,,,,,,,,
+001cv00000AuWYh,"Town Of Woodruff, WI",Wisconsin,Municipality,Nick Martino,2077,,Tier 3,0.75,45.8966,-89.6978,105b2c8a-2375-4771-b4c7-b03d1f0572c1,,,,,,,,,,,,,,,
+001cv00000AuWZ1,"Town Of Herman, WI",Wisconsin,Municipality,Nick Martino,2084,,Tier 3,0.75,43.8667,-87.8746,c1c99241-1ddb-4615-986a-91bdbec74341,,,,,,,,,,,,,,,
+001cv00000AuWZF,"Town Of Fredonia, WI",Wisconsin,Municipality,Nick Martino,2090,,Tier 3,0.75,43.4949,-87.9825,fc0869b9-2fca-447f-b699-f2f2135acd30,,,,,,,,,,,,,,,
+001cv00000AuWZZ,"Village Of Eagle, WI",Wisconsin,Municipality,Nick Martino,2095,,Tier 3,0.75,42.879,-88.4745,13d6aa4a-9794-4823-8146-c4bb5f2a05b4,,,,,,,,,,,,,,,
+001cv00000AuWZl,"Village Of Cedar Grove, WI",Wisconsin,Municipality,Nick Martino,2100,,Tier 3,0.75,43.5697,-87.8234,21566130-5729-4a33-ab84-4c23c0048665,,,,,,,,,,,,,,,
+001cv00000AuWa5,"Town Of Rubicon, WI",Wisconsin,Municipality,Nick Martino,2107,,Tier 3,0.75,43.34,-88.4582,fe531e7d-1ae6-4f0c-a6d7-5ff89957bd66,,,,,,,,,,,,,,,
+001cv00000AuWaD,"Town Of Union, WI",Wisconsin,Municipality,Nick Martino,2109,,Tier 3,0.75,42.8244,-89.3018,e68816c5-7220-4f00-9944-91b3e8faa346,,,,,,,,,,,,,,,
+001cv00000AuWal,"Town Of Liberty Grove, WI",Wisconsin,Municipality,Nick Martino,2116,,Tier 3,0.75,45.212,-87.0925,11e87b01-244b-4fb5-baf6-d48c65559004,,,,,,,,,,,,,,,
+001cv00000AuWam,"Town Of Sharon, WI",Wisconsin,Municipality,Nick Martino,2117,,Tier 3,0.75,42.5025,-88.729,288efeb7-2e47-4456-9ad5-83362fd4938a,,,,,,,,,,,,,,,
+001cv00000AuWaq,"Town Of Florence, WI",Wisconsin,Municipality,Nick Martino,2118,,Tier 3,0.75,45.9224,-88.252,39f36dd1-2239-4584-95c0-a4092882f48a,,,,,,,,,,,,,,,
+001cv00000AuWax,"Town Of St Germain, WI",Wisconsin,Municipality,Nick Martino,2120,,Tier 3,0.75,45.9128,-89.4875,66479f1b-44ca-413c-b788-07176c63cf90,,,,,,,,,,,,,,,
+001cv00000AuWb1,"Town Of Manitowoc Rapids, WI",Wisconsin,Municipality,Nick Martino,2121,,Tier 3,0.75,44.0992,-87.7009,12ad0140-9e64-465b-a838-6e8595262f21,,,,,,,,,,,,,,,
+001cv00000AuWbY,"Town Of Newton, WI",Wisconsin,Municipality,Nick Martino,2132,,Tier 3,0.75,43.9937,-87.7263,7786a249-ad60-4eff-acf3-8991dc531c41,,,,,,,,,,,,,,,
+001cv00000AuWbe,"Town Of Lincoln, WI",Wisconsin,Municipality,Nick Martino,2134,,Tier 3,0.75,46.3556,-90.9658,d178074b-c215-4a28-b6eb-25c4dbf3c88e,,,,,,,,,,,,,,,
+001cv00000AuWbf,"Town Of Farmington, WI",Wisconsin,Municipality,Nick Martino,2135,,Tier 3,0.75,43.4874,-88.1096,75bb1feb-be19-4147-8f78-442d95719b6e,,,,,,,,,,,,,,,
+001cv00000AuWc6,"City Of Schofield, WI",Wisconsin,Municipality,Nick Martino,2143,,Tier 3,0.75,44.9097,-89.6046,6f7952a9-78b5-4480-8934-09d05ea0a8f5,,,,,,,,,,,,,,,
+001cv00000AuWcL,"Village Of Shorewood Hills, WI",Wisconsin,Municipality,Nick Martino,2146,,Tier 3,0.75,43.0775,-89.4457,7af9ca6f-b1c8-4fcc-b823-fc1d00c22c8d,,,,,,,,,,,,,,,
+001cv00000AuWcM,"Town Of Rhine, WI",Wisconsin,Municipality,Nick Martino,2146,,Tier 3,0.75,43.8688,-87.9923,0c02d501-13af-47b1-adc4-a7f6a849f1f4,,,,,,,,,,,,,,,
+001cv00000AuWcz,"Town Of Spring Prairie, WI",Wisconsin,Municipality,Nick Martino,2158,,Tier 3,0.75,42.6914,-88.4043,8abcd456-4606-4c57-9eee-40a25b342a21,,,,,,,,,,,,,,,
+001cv00000AuWd5,"City Of Cuba City, WI",Wisconsin,Municipality,Nick Martino,2159,,Tier 3,0.75,42.6056,-90.4299,1a7e5e50-3162-4823-b836-40bedab5edf6,,,,,,,,,,,,,,,
+001cv00000AuWd6,"Town Of Wausau, WI",Wisconsin,Municipality,Nick Martino,2160,,Tier 3,0.75,44.9804,-89.5309,da7902d2-e806-4414-8945-55b2f84c51ca,,,,,,,,,,,,,,,
+001cv00000AuWdB,"City Of Chetek, WI",Wisconsin,Municipality,Nick Martino,2161,,Tier 3,0.75,45.3141,-91.651,52775d29-c766-422e-873f-43d66046edb0,,,,,,,,,,,,,,,
+001cv00000AuWpD,"Town Of Exeter, WI",Wisconsin,Municipality,Nick Martino,2176,,Tier 3,0.75,42.7906,-89.5832,4208d5ff-8aef-4fd6-92cb-c9add14faf9c,,,,,,,,,,,,,,,
+001cv00000AuWpf,"Town Of Greenfield, WI",Wisconsin,Municipality,Nick Martino,2184,,Tier 3,0.75,42.9614,-88.0126,ff2ff41a-9c0b-43db-b712-f8d90aad5060,,,,,,,,,,,,,,,
+001cv00000AuWpk,"Village Of Clinton, WI",Wisconsin,Municipality,Nick Martino,2185,,Tier 3,0.75,42.5578,-88.8651,61dbace5-2723-467f-9922-a21a3b6af20c,,,,,,,,,,,,,,,
+001cv00000AuWq3,"Town Of Green Bay, WI",Wisconsin,Municipality,Nick Martino,2190,,Tier 3,0.75,44.6231,-87.796,d576526d-e337-4297-979e-9db527d0c2c8,,,,,,,,,,,,,,,
+001cv00000AuWqA,"Village Of Kohler, WI",Wisconsin,Municipality,Nick Martino,2192,,Tier 3,0.75,43.7392,-87.7818,93c92f29-e67f-4f59-af06-bb13eeb4bdab,,,,,,,,,,,,,,,
+001cv00000AuWqE,"Town Of Lake Mills, WI",Wisconsin,Municipality,Nick Martino,2193,,Tier 3,0.75,43.0731,-88.9605,833fae4b-3048-4aad-9f05-750402f43012,,,,,,,,,,,,,,,
+001cv00000AuWqF,"Town Of Clifton, WI",Wisconsin,Municipality,Nick Martino,2193,,Tier 3,0.75,42.9017,-90.488,c0fd53ec-5fde-4843-b3e0-e95861dab284,,,,,,,,,,,,,,,
+001cv00000AuWqP,"Village Of North Prairie, WI",Wisconsin,Municipality,Nick Martino,2198,,Tier 3,0.75,42.932,-88.4056,fcff3221-0b7a-4515-ae6a-33f7ef62ef58,,,,,,,,,,,,,,,
+001cv00000AuWqe,"Town Of Wayne, WI",Wisconsin,Municipality,Nick Martino,2202,,Tier 3,0.75,43.5142,-88.3215,f4a42f1a-0520-4876-9c0b-59c00ed240a1,,,,,,,,,,,,,,,
+001cv00000AuWqn,"Town Of Jamestown, WI",Wisconsin,Municipality,Nick Martino,2207,,Tier 3,0.75,42.5878,-90.5485,888933d9-7317-4848-891e-9d792665693d,,,,,,,,,,,,,,,
+001cv00000AuWrV,"Town Of River Falls, WI",Wisconsin,Municipality,Nick Martino,2221,,Tier 3,0.75,44.8332,-92.5968,62badb14-d46b-49d1-9089-1e471d991d63,,,,,,,,,,,,,,,
+001cv00000AuWra,"City Of St Croix Falls, WI",Wisconsin,Municipality,Nick Martino,2224,,Tier 3,0.75,45.41,-92.6397,e6c18c21-6245-4b76-b456-77b5158b7b20,,,,,,,,,,,,,,,
+001cv00000AuWrl,"City Of Wautoma, WI",Wisconsin,Municipality,Nick Martino,2229,,Tier 3,0.75,44.0747,-89.2879,4f937845-4d89-4156-84b0-59842da5aae6,,,,,,,,,,,,,,,
+001cv00000AuWrt,"Village Of New Glarus, WI",Wisconsin,Municipality,Nick Martino,2234,,Tier 3,0.75,42.8144,-89.6351,1b989127-2dcd-4f77-9b7e-ccaa63888c14,,,,,,,,,,,,,,,
+001cv00000AuWs1,"Town Of Bridge Creek, WI",Wisconsin,Municipality,Nick Martino,2238,,Tier 3,0.75,44.7143,-91.0778,f6ff4eaa-b0e6-4348-95c2-ce4edc7f2e67,,,,,,,,,,,,,,,
+001cv00000AuX5B,"Town Of Mosinee, WI",Wisconsin,Municipality,Nick Martino,2244,,Tier 3,0.75,44.792,-89.769,8b7f74e3-4b72-401b-80b9-52c39d10622e,,,,,,,,,,,,,,,
+001cv00000AuX6R,"City Of Cumberland, WI",Wisconsin,Municipality,Nick Martino,2268,,Tier 3,0.75,45.5322,-92.0193,c85c6455-a93b-46f1-be00-6297a60e428d,,,,,,,,,,,,,,,
+001cv00000AuX6a,"Town Of Holland, WI",Wisconsin,Municipality,Nick Martino,2271,,Tier 3,0.75,43.5986,-87.8746,181f6f36-2ff3-4611-9260-b22ab38c0843,,,,,,,,,,,,,,,
+001cv00000AuX6v,"Town Of Superior, WI",Wisconsin,Municipality,Nick Martino,2276,,Tier 3,0.75,46.5974,-92.1287,cf982210-6fc2-4fec-b226-2605f10b99a6,,,,,,,,,,,,,,,
+001cv00000AuX7V,"Town Of Sullivan, WI",Wisconsin,Municipality,Nick Martino,2290,,Tier 3,0.75,42.9528,-88.6145,05afe794-8c95-42d5-91c9-9b5a191e7e35,,,,,,,,,,,,,,,
+001cv00000AuX8X,"Town Of Omro, WI",Wisconsin,Municipality,Nick Martino,2309,,Tier 3,0.75,44.0315,-88.6916,a645535e-d659-432f-ac78-23209b42f256,,,,,,,,,,,,,,,
+001cv00000AuX98,"City Of Abbotsford, WI",Wisconsin,Municipality,Nick Martino,2325,,Tier 3,0.75,44.9464,-90.316,09540cd9-ddff-493d-b2ff-f4a47c05246f,,,,,,,,,,,,,,,
+001cv00000AuX9Z,"Town Of Anson, WI",Wisconsin,Municipality,Nick Martino,2333,,Tier 3,0.75,44.9808,-91.2868,a8cc0775-d7d4-46d0-8c64-b0a1e730e583,,,,,,,,,,,,,,,
+001cv00000AuX9m,"Village Of Maine, WI",Wisconsin,Municipality,Nick Martino,2337,,Tier 3,0.75,45.0273,-89.6904,7aa87d0e-6d78-4a13-9604-8dcf7c268832,,,,,,,,,,,,,,,
+001cv00000AuXAB,"City Of Westby, WI",Wisconsin,Municipality,Nick Martino,2350,,Tier 3,0.75,43.6569,-90.8543,e4d3aecc-e9d1-4354-9bb3-7013ff92b0c6,,,,,,,,,,,,,,,
+001cv00000AuXAf,"City Of Neillsville, WI",Wisconsin,Municipality,Nick Martino,2363,,Tier 3,0.75,44.56,-90.5962,6eae333e-3c74-48e2-b3e8-5a36d70783b4,,,,,,,,,,,,,,,
+001cv00000AuXAy,"Town Of Oak Grove, WI",Wisconsin,Municipality,Nick Martino,2370,,Tier 3,0.75,43.3861,-88.7457,a01e72b3-55c8-4e8c-957d-d4f472a4b1a4,,,,,,,,,,,,,,,
+001cv00000AuXEc,"Town Of Three Lakes, WI",Wisconsin,Municipality,Nick Martino,2448,,Tier 3,0.75,45.7982,-89.1626,3bd47ce5-d0f7-467b-b9c7-61d997b1f8ac,,,,,,,,,,,,,,,
+001cv00000AuXNN,"Town Of Necedah, WI",Wisconsin,Municipality,Nick Martino,2466,,Tier 3,0.75,44.1478,-90.1316,f1ec193e-4af0-4228-a6f6-782b56fe3042,,,,,,,,,,,,,,,
+001cv00000AuXNf,"Town Of Delton, WI",Wisconsin,Municipality,Nick Martino,2472,,Tier 3,0.75,43.5413,-89.7943,39c5f2c1-28e1-45da-8d72-6ac3c6c61049,,,,,,,,,,,,,,,
+001cv00000AuXOC,"City Of Spooner, WI",Wisconsin,Municipality,Nick Martino,2482,,Tier 3,0.75,45.8224,-91.8893,0f6594c4-eefe-4f99-8c7d-8746c589d280,,,,,,,,,,,,,,,
+001cv00000AuXOm,"Town Of Dekorra, WI",Wisconsin,Municipality,Nick Martino,2494,,Tier 3,0.75,43.4583,-89.4666,75f332bb-5465-4e52-bba0-c9a06a4076c6,,,,,,,,,,,,,,,
+001cv00000AuXOn,"Town Of Medford, WI",Wisconsin,Municipality,Nick Martino,2494,,Tier 3,0.75,45.1628,-90.375,3e0e7bbc-f666-4c29-a2c8-b0b88e449a64,,,,,,,,,,,,,,,
+001cv00000AuXP6,"Town Of La Grange, WI",Wisconsin,Municipality,Nick Martino,2504,,Tier 3,0.75,42.7997,-88.6023,52bab9a4-9991-4870-a08f-4acb83419047,,,,,,,,,,,,,,,
+001cv00000AuXPE,"Village Of Deerfield, WI",Wisconsin,Municipality,Nick Martino,2508,,Tier 3,0.75,43.0519,-89.0757,72e0d357-def1-48b0-a5db-2640a03bab8f,,,,,,,,,,,,,,,
+001cv00000AuXPP,"Village Of Dousman, WI",Wisconsin,Municipality,Nick Martino,2512,,Tier 3,0.75,43.0105,-88.473,cfbd1e24-47d1-480e-a640-cd0197b4f5d2,,,,,,,,,,,,,,,
+001cv00000AuXTP,"Village Of Winneconne, WI",Wisconsin,Municipality,Nick Martino,2526,,Tier 3,0.75,44.1108,-88.7126,b782dbae-77e4-4461-8bd0-3a34a862b8b8,,,,,,,,,,,,,,,
+001cv00000AuXTn,"City Of Hayward, WI",Wisconsin,Municipality,Nick Martino,2539,,Tier 3,0.75,46.013,-91.4846,51f433c8-d8e9-4806-92ee-0dd712be55fe,,,,,,,,,4,2026-04-22,4,,,,
+001cv00000AuXUX,"Village Of Belleville, WI",Wisconsin,Municipality,Nick Martino,2559,,Tier 3,0.75,42.8597,-89.5382,e7807cb4-ae93-4e78-81d8-a182b73f1389,,,,,,,,,1,2026-05-22,1,,,,
+001cv00000AuXUk,"City Of Mineral Point, WI",Wisconsin,Municipality,Nick Martino,2565,,Tier 3,0.75,42.86,-90.1798,05dbc706-b569-49e3-8060-49b742973dd4,,,,,,,,,,,,,,,
+001cv00000AuXVA,"Town Of Harmony, WI",Wisconsin,Municipality,Nick Martino,2574,,Tier 3,0.75,42.732,-88.9318,556674c7-5a9b-4912-b236-3386f641f66c,,,,,,,,,,,,,,,
+001cv00000AuXVK,"Town Of Stettin, WI",Wisconsin,Municipality,Nick Martino,2579,,Tier 3,0.75,44.9812,-89.7943,b66ef3f5-1337-4004-9937-3c8dbce0d5fc,,,,,,,,,,,,,,,
+001cv00000AuXVR,"Town Of Stanley, WI",Wisconsin,Municipality,Nick Martino,2582,,Tier 3,0.75,45.4276,-91.7119,6ada0f24-bce4-43c9-afe4-06ab7b6f5a9b,,,,,,,,,,,,,,,
+001cv00000AuXW3,"Village Of Poynette, WI",Wisconsin,Municipality,Nick Martino,2598,,Tier 3,0.75,43.3903,-89.4029,713c6e0a-99f9-4453-8b92-da9c8958176a,,,,,,,,,,,,,,,
+001cv00000AuXW8,"Town Of Winneconne, WI",Wisconsin,Municipality,Nick Martino,2600,,Tier 3,0.75,44.1108,-88.7126,71c0b86a-5f48-4e44-bd64-6c701db94f3e,,,,,,,,,,,,,,,
+001cv00000AuXfk,"Town Of Linn, WI",Wisconsin,Municipality,Nick Martino,2727,,Tier 3,0.75,42.5215,-88.4985,ac1c3eff-4773-48e5-8651-43fe44104c13,,,,,,,,,,,,,,,
+001cv00000AuXh2,"Town Of Pine Lake, WI",Wisconsin,Municipality,Nick Martino,2764,,Tier 3,0.75,45.6631,-89.401,f0f07a2d-6d5e-4a03-869b-9fb71f75a160,,,,,,,,,,,,,,,
+001cv00000AuXh4,"Town Of Barton, WI",Wisconsin,Municipality,Nick Martino,2766,,Tier 3,0.75,43.4606,-88.2364,1e741cd2-c5ba-4698-a4a5-f29d793f59c7,,,,,,,,,,,,,,,
+001cv00000AuXhG,"Village Of Fontana, WI",Wisconsin,Municipality,Nick Martino,2772,,Tier 3,0.75,42.5514,-88.5752,1d2859be-b098-4941-b66b-af208a240df6,,,,,,,,,,,,,,,
+001cv00000AuXhH,"Town Of Friendship, WI",Wisconsin,Municipality,Nick Martino,2772,,Tier 3,0.75,43.8476,-88.4695,b8e52292-85cf-49f1-a8ef-f48b3fc202ac,,,,,,,,,,,,,,,
+001cv00000AuXhK,"City Of Fennimore, WI",Wisconsin,Municipality,Nick Martino,2773,,Tier 3,0.75,42.9836,-90.6554,ccc52c85-555e-490f-b8e3-5f8939293938,,,,,,,,,,,,,,,
+001cv00000AuXi2,"Village Of Walworth, WI",Wisconsin,Municipality,Nick Martino,2785,,Tier 3,0.75,42.5311,-88.5995,1a4c840b-ce65-4e8d-b9b5-a81d9f75eb40,,,,,,,,,,,,,,,
+001cv00000AuXi9,"City Of Kewaunee, WI",Wisconsin,Municipality,Nick Martino,2787,,Tier 3,0.75,44.4583,-87.5031,d15d303f-e9d4-4d0e-ae3b-0b1397f6caae,,,,,,,,,,,,,,,
+001cv00000AuXiD,"Town Of Empire, WI",Wisconsin,Municipality,Nick Martino,2789,,Tier 3,0.75,43.7401,-88.3932,a35fd57e-1bff-45c6-80d6-4cbbb0c66f52,,,,,,,,,,,,,,,
+001cv00000AuXiU,"Town Of Pacific, WI",Wisconsin,Municipality,Nick Martino,2795,,Tier 3,0.75,43.5111,-89.408,01589f5d-8759-4bce-b044-6162ab4087d0,,,,,,,,,,,,,,,
+001cv00000AuXif,"Town Of Wheaton, WI",Wisconsin,Municipality,Nick Martino,2798,,Tier 3,0.75,44.8963,-91.5402,8f1ca28c-ae8f-47c4-a11f-374eb8636823,,,,,,,,,,,,,,,
+001cv00000AuXio,"City Of Mondovi, WI",Wisconsin,Municipality,Nick Martino,2801,,Tier 3,0.75,44.5679,-91.6705,80b3454d-804b-4fa6-85a6-e79caf42385e,,,,,,,,,,,,,,,
+001cv00000AuXiu,"Town Of Pittsfield, WI",Wisconsin,Municipality,Nick Martino,2804,,Tier 3,0.75,44.5994,-88.2451,61c230bd-754d-422f-865c-b5142efc62bc,,,,,,,,,,,,,,,
+001cv00000AuXj0,"Village Of Osceola, WI",Wisconsin,Municipality,Nick Martino,2809,,Tier 3,0.75,45.3205,-92.7049,56f373c5-d66b-46d5-92ce-cea380e132c8,,,,,,,,,,,,,,,
+001cv00000AuXjE,"Town Of Mukwa, WI",Wisconsin,Municipality,Nick Martino,2819,,Tier 3,0.75,44.3742,-88.8071,61bb4a66-a062-4280-8a1b-10859facc715,,,,,,,,,,,,,,,
+001cv00000AuXjJ,"Town Of Bass Lake, WI",Wisconsin,Municipality,Nick Martino,2820,,Tier 3,0.75,45.9144,-91.4973,513bbd42-47d6-49b0-b5d8-dd6ff673b04b,,,,,,,,,,,,,,,
+001cv00000AuXk6,"Town Of Rice Lake, WI",Wisconsin,Municipality,Nick Martino,2844,,Tier 3,0.75,45.5312,-91.7308,79253f98-e2e5-4f67-9509-cd24045dc487,,,,,,,,,,,,,,,
+001cv00000AuXkD,"Town Of Pelican, WI",Wisconsin,Municipality,Nick Martino,2845,,Tier 3,0.75,45.6018,-89.3504,d12e7005-4bb5-4fbf-8033-ea92b8b8a3d8,,,,,,,,,,,,,,,
+001cv00000AuXlB,"Town Of Sevastopol, WI",Wisconsin,Municipality,Nick Martino,2864,,Tier 3,0.75,44.8936,-87.2878,03aa52af-d427-48e0-a1b2-ad63c338717e,,,,,,,,,,,,,,,
+001cv00000AuXlE,"Village Of Wales, WI",Wisconsin,Municipality,Nick Martino,2867,,Tier 3,0.75,43.0058,-88.384,b4fed056-e427-4f12-93ad-0693d09cb824,,,,,,,,,,,,,,,
+001cv00000AuXlO,"Town Of Newbold, WI",Wisconsin,Municipality,Nick Martino,2873,,Tier 3,0.75,45.698,-89.5101,69fc6bc5-db0f-4d2c-bec8-2ed718fcd75c,,,,,,,,,,,,,,,
+001cv00000AuXlx,"Town Of Merrill, WI",Wisconsin,Municipality,Nick Martino,2891,,Tier 3,0.75,45.2358,-89.6617,e9186799-b502-4816-9b47-3ea6b0c544ed,,,,,,,,,,,,,,,
+001cv00000AuXm4,"Town Of Dale, WI",Wisconsin,Municipality,Nick Martino,2896,,Tier 3,0.75,44.273,-88.6784,5c4009d5-04fa-4edb-81bd-b7c9f8669db6,,,,,,,,,,,,,,,
+001cv00000AuXmm,"Town Of Springfield, WI",Wisconsin,Municipality,Nick Martino,2915,,Tier 3,0.75,43.1544,-89.5309,cd486d39-2118-4a47-ad62-b1d83bfb4eb1,,,,,,,,,,,,,,,
+001cv00000AuXmx,"City Of Amery, WI",Wisconsin,Municipality,Nick Martino,2925,,Tier 3,0.75,45.3069,-92.3621,3252ae81-ee70-4ddc-b213-7c6e86411ad9,,,,,,,,,,,,,,,
+001cv00000AuXnQ,"City Of Oconto Falls, WI",Wisconsin,Municipality,Nick Martino,2946,,Tier 3,0.75,44.8739,-88.1429,2afe129c-1708-4620-a3af-cab0b741b767,,,,,,,,,,,,,,,
+001cv00000AuXne,"Town Of Lima, WI",Wisconsin,Municipality,Nick Martino,2953,,Tier 3,0.75,42.8043,-90.4691,7097dbfd-dcca-47f1-8166-011e80afdbee,,,,,,,,,,,,,,,
+001cv00000AuXnz,"Town Of Alden, WI",Wisconsin,Municipality,Nick Martino,2966,,Tier 3,0.75,45.2532,-92.5046,c4ac0833-2fec-4ec3-be41-32eb704eeb4e,,,,,,,,,,,,,,,
+001cv00000AuXzJ,"Town Of Pleasant Springs, WI",Wisconsin,Municipality,Nick Martino,3071,,Tier 3,0.75,42.9972,-89.1896,3508c16f-cbb2-44a5-b027-5d440edf6b57,,,,,,,,,,,,,,,
+001cv00000AuXzO,"Town Of Osceola, WI",Wisconsin,Municipality,Nick Martino,3073,,Tier 3,0.75,43.6814,-88.2266,4b4a0e36-ceea-425b-9128-40205381994d,,,,,,,,,,,,,,,
+001cv00000AuXzW,"Town Of Plymouth, WI",Wisconsin,Municipality,Nick Martino,3076,,Tier 3,0.75,43.7714,-90.2432,2d9e5a1a-aae0-4158-b486-1e74a6fe2253,,,,,,,,,,,,,,,
+001cv00000AuXzc,"Village Of Oostburg, WI",Wisconsin,Municipality,Nick Martino,3080,,Tier 3,0.75,43.6228,-87.7945,c7e013a5-c385-4e4b-925e-b702cc57c370,,,,,,,,,,,,,,,
+001cv00000AuY19,"Village Of Paddock Lake, WI",Wisconsin,Municipality,Nick Martino,2976,,Tier 3,0.75,42.5775,-88.1051,e069d31e-3f38-4ce4-8530-514767e507e3,,,,,,,,,,,,,,,
+001cv00000AuY5p,"Town Of Hartford, WI",Wisconsin,Municipality,Nick Martino,3397,,Tier 3,0.75,43.3178,-88.379,e660615d-2261-4b88-a07d-1ed172a55f28,,,,,,,,,,,,,,,
+001cv00000AuYB3,"Village Of Hortonville, WI",Wisconsin,Municipality,Nick Martino,3085,,Tier 3,0.75,44.3347,-88.6382,91683e95-8056-4dce-9eb7-73a432592d2c,,,,,,,,,,,,,,,
+001cv00000AuYBh,"Town Of Rome, WI",Wisconsin,Municipality,Nick Martino,3102,,Tier 3,0.75,44.1989,-89.8203,a6a49f64-9f54-47c7-8ad5-6df19e0896a6,,,,,,,,,,,,,,,
+001cv00000AuYBm,"City Of New Holstein, WI",Wisconsin,Municipality,Nick Martino,3106,,Tier 3,0.75,43.95,-88.0843,146ea10b-8d2b-4d1a-a534-01050b1acebf,,,,,,,,,,,,,,,
+001cv00000AuYC2,"Town Of Oregon, WI",Wisconsin,Municipality,Nick Martino,3115,,Tier 3,0.75,42.8818,-89.4175,6a6249f3-d49d-44e7-ac34-d396f8243583,,,,,,,,,,,,,,,
+001cv00000AuYCo,"Village Of Yorkville, WI",Wisconsin,Municipality,Nick Martino,3143,,Tier 3,0.75,42.7289,-87.9664,2b734539-9031-446d-b25e-54468c638408,,,,,,,,,,,,,,,
+001cv00000AuYCr,"City Of Ladysmith, WI",Wisconsin,Municipality,Nick Martino,3146,,Tier 3,0.75,45.463,-91.104,452e1b78-8c7e-4fa5-8911-02823907670c,,,,,,,,,,,,,,,
+001cv00000AuYEJ,"Town Of Rock, WI",Wisconsin,Municipality,Nick Martino,2984,,Tier 3,0.75,42.606,-89.0752,848364d7-69cf-4e3d-aabc-c5170d250626,,,,,,,,,,,,,,,
+001cv00000AuYEW,"Town Of Brockway, WI",Wisconsin,Municipality,Nick Martino,2992,,Tier 3,0.75,44.2844,-90.8421,6e01c1ff-3b69-41b8-b41d-66f7b92fbdd3,,,,,,,,,,,,,,,
+001cv00000AuYEy,"Village Of Williams Bay, WI",Wisconsin,Municipality,Nick Martino,3001,,Tier 3,0.75,42.5781,-88.5409,e59aa6d3-2bd0-4622-8651-bd90e4cbf60f,,,,,,,,,,,,,,,
+001cv00000AuYF9,"Village Of Genoa City, WI",Wisconsin,Municipality,Nick Martino,3007,,Tier 3,0.75,42.4984,-88.3281,31f56be1-9026-4569-97e8-5a616fa98e64,,,,,,,,,,,,,,,
+001cv00000AuYFA,"Town Of Stockton, WI",Wisconsin,Municipality,Nick Martino,3007,,Tier 3,0.75,44.5114,-89.4671,8a830b09-4e4c-4ac0-9e7d-ce19dc6e6996,,,,,,,,,,,,,,,
+001cv00000AuYGa,"Village Of Somerset, WI",Wisconsin,Municipality,Nick Martino,3057,,Tier 3,0.75,45.1244,-92.6735,4ae3849f-fa72-4876-8ae8-5d91296c5799,,,,,,,,,,,,,,,
+001cv00000AuYHQ,"Town Of Eagle Point, WI",Wisconsin,Municipality,Nick Martino,3288,,Tier 3,0.75,43.2318,-90.4691,50706c07-4286-46cd-a86f-36e66648356b,,,,,,,,,,,,,,,
+001cv00000AuYHU,"City Of Boscobel, WI",Wisconsin,Municipality,Nick Martino,3290,,Tier 3,0.75,43.1344,-90.7054,28149b27-0361-4981-aaeb-4c55cd378f7e,,,,,,,,,,,,,,,
+001cv00000AuYHc,"Village Of Thiensville, WI",Wisconsin,Municipality,Nick Martino,3298,,Tier 3,0.75,43.2375,-87.9787,c7758b0d-72f7-40e1-8629-e97b0d013e1c,,,,,,,,,,,,,,,
+001cv00000AuYHd,"Town Of Lodi, WI",Wisconsin,Municipality,Nick Martino,3298,,Tier 3,0.75,43.348,-89.5408,a475165a-a755-4dd1-b300-5b5626801ec0,,,,,,,,,,,,,,,
+001cv00000AuYHr,"Town Of Randall, WI",Wisconsin,Municipality,Nick Martino,3304,,Tier 3,0.75,45.6958,-92.835,947a8ef4-8155-443c-bba9-39682ecef6d4,,,,,,,,,,,,,,,
+001cv00000AuYIR,"City Of Brillion, WI",Wisconsin,Municipality,Nick Martino,3326,,Tier 3,0.75,44.1772,-88.0643,2f52bea1-d6a4-4e6e-8880-13a73d7787c2,,,,,,,,,,,,,,,
+001cv00000AuYIh,"Village Of Ellsworth, WI",Wisconsin,Municipality,Nick Martino,3333,,Tier 3,0.75,44.7322,-92.4874,78911d95-485f-49fe-baaa-659fcbdb41ba,,,,,,,,,,,,,,,
+001cv00000AuYJK,"Town Of Seymour, WI",Wisconsin,Municipality,Nick Martino,3363,,Tier 3,0.75,44.515,-88.3304,37bcaa90-864e-44ae-bf63-08c43ced92dc,,,,,,,,,,,,,,,
+001cv00000AuYJW,"City Of Peshtigo, WI",Wisconsin,Municipality,Nick Martino,3369,,Tier 3,0.75,45.0544,-87.7493,c8e2992b-a8f3-4bc6-93a1-27bc5e1c457b,,,,,,,,,,,,,,,
+001cv00000AuYK0,"Town Of Wheatland, WI",Wisconsin,Municipality,Nick Martino,3387,,Tier 3,0.75,43.4587,-91.1545,5e652f03-fab7-44bd-9b04-512e450d23f3,,,,,,,,,,,,,,,
+001cv00000AuYKf,"Village Of Johnson Creek, WI",Wisconsin,Municipality,Nick Martino,3406,,Tier 3,0.75,43.0761,-88.7743,ba2218db-4fd5-49d4-907a-4d5e1084a5df,,,,,,,,,,,,,,,
+001cv00000AuYLR,"City Of Tomahawk, WI",Wisconsin,Municipality,Nick Martino,3432,,Tier 3,0.75,45.4711,-89.7299,3b82193a-7cc4-432f-a740-133d14366673,,,,,,,,,,,,,,,
+001cv00000AuYLf,"Town Of Menomonie, WI",Wisconsin,Municipality,Nick Martino,3441,,Tier 3,0.75,44.8792,-91.9757,81346cce-2b65-4b59-8396-f3b0c330df1a,,,,,,,,,,,,,,,
+001cv00000AuYLm,"Village Of Merton, WI",Wisconsin,Municipality,Nick Martino,3450,,Tier 3,0.75,43.1414,-88.3073,12567232-a59a-4539-b9e3-a691ed6abe9e,,,,,,,,,,,,,,,
+001cv00000AuYLn,"Town Of Addison, WI",Wisconsin,Municipality,Nick Martino,3452,,Tier 3,0.75,43.4228,-88.3745,f56255c5-7f37-4f94-b07b-5340c066d87c,,,,,,,,,,,,,,,
+001cv00000AuYLw,"Village Of Lake Delton, WI",Wisconsin,Municipality,Nick Martino,3459,,Tier 3,0.75,43.6011,-89.7937,deecac81-9a43-47ef-9d64-6140813b7072,,,,,,,,,,,,,,,
+001cv00000AuYM7,"Town Of Wilson, WI",Wisconsin,Municipality,Nick Martino,3471,,Tier 3,0.75,43.6829,-87.7665,ab872a21-377d-4712-b505-3ecd72c7682d,,,,,,,,,,,,,,,
+001cv00000AuYMC,"Town Of Arbor Vitae, WI",Wisconsin,Municipality,Nick Martino,3474,,Tier 3,0.75,45.9205,-89.6635,f35a9a26-aaae-48ae-86b8-2da5e18d17f4,,,,,,,,,,,,,,,
+001cv00000AuYMM,"City Of Waterloo, WI",Wisconsin,Municipality,Nick Martino,3479,,Tier 3,0.75,43.1839,-88.9884,caed293b-ede6-4ec0-99e7-9a474321fb05,,,,,,,,,,,,,,,
+001cv00000AuYMZ,"Village Of Sauk City, WI",Wisconsin,Municipality,Nick Martino,3490,,Tier 3,0.75,43.2708,-89.7221,86a270db-fe7c-4065-9d80-0452cef376e3,,,,,,,,,,,,,,,
+001cv00000AuYMy,"Town Of Eagle, WI",Wisconsin,Municipality,Nick Martino,3501,,Tier 3,0.75,43.2318,-90.4691,7c236d95-f121-496e-bd0e-a1c496c65ae8,,,,,,,,,,,,,,,
+001cv00000AuYN4,"City Of Black River Falls, WI",Wisconsin,Municipality,Nick Martino,3504,,Tier 3,0.75,44.2947,-90.8515,424513ac-d956-4fc3-9f81-ee7fe9a90705,,,,,,,,,,,,,,,
+001cv00000AuYOS,"City Of Lodi, WI",Wisconsin,Municipality,Nick Martino,3209,,Tier 3,0.75,43.3139,-89.5265,66b4d918-1c7d-44a0-bf08-593a09e98a9b,,,,,,,,,,,,,,,
+001cv00000AuYOa,"Town Of Oakland, WI",Wisconsin,Municipality,Nick Martino,3213,,Tier 3,0.75,42.9767,-88.9557,e5c40c37-d8df-4bac-af4f-a373b09a5422,,,,,,,,,,,,,,,
+001cv00000AuYOi,"City Of Algoma, WI",Wisconsin,Municipality,Nick Martino,3219,,Tier 3,0.75,44.6089,-87.4326,f24bd4e6-c1b8-44f4-99b0-cc88601fee02,,,,,,,,,10,2026-05-18,10,,,,
+001cv00000AuYOr,"Village Of Sherwood, WI",Wisconsin,Municipality,Nick Martino,3231,,Tier 3,0.75,44.1736,-88.2598,3c7845b0-145d-4e22-9316-27fc23d109b3,,,,,,,,,,,,,,,
+001cv00000AuYOt,"Town Of Chase, WI",Wisconsin,Municipality,Nick Martino,3232,,Tier 3,0.75,44.718,-88.1568,018002a2-52f5-4dba-b20c-80e920ce87ef,,,,,,,,,,,,,,,
+001cv00000AuYP2,"Village Of Wrightstown, WI",Wisconsin,Municipality,Nick Martino,3237,,Tier 3,0.75,44.3258,-88.1629,2249950a-b244-4f1a-8c82-47f0ff226979,,,,,,,,,,,,,,,
+001cv00000AuYP3,"Town Of Ellington, WI",Wisconsin,Municipality,Nick Martino,3237,,Tier 3,0.75,44.3711,-88.5372,59c8398a-32a6-4ba2-95eb-53f51aac2c59,,,,,,,,,,,,,,,
+001cv00000AuYPH,"City Of Brodhead, WI",Wisconsin,Municipality,Nick Martino,3249,,Tier 3,0.75,42.6183,-89.3762,3d3238a3-8afe-4dcd-a322-f6bd3441935e,,,,,,,,,,,,,,,
+001cv00000AuYPK,"Village Of Howards Grove, WI",Wisconsin,Municipality,Nick Martino,3252,,Tier 3,0.75,43.8339,-87.8201,90e87cd9-8e55-41b4-9f39-a2b7725c5622,,,,,,,,,,,,,,,
+001cv00000AuYPS,"Town Of Wescott, WI",Wisconsin,Municipality,Nick Martino,3256,,Tier 3,0.75,44.8178,-88.5667,0ececaa6-5757-45d2-855e-f2089dfa8494,,,,,,,,,,,,,,,
+001cv00000AuYPX,"Town Of Sparta, WI",Wisconsin,Municipality,Nick Martino,3259,,Tier 3,0.75,43.9307,-90.8905,27172de9-de1e-4d34-9e99-1a55d9d4f855,,,,,,,,,,,,,,,
+001cv00000AuYPg,"Town Of Burke, WI",Wisconsin,Municipality,Nick Martino,3265,,Tier 3,0.75,43.1358,-89.2762,41ccc7e4-ad29-4278-9a31-f9f6d48d20ec,,,,,,,,,,,,,,,
+001cv00000AuYR3,"City Of Seymour, WI",Wisconsin,Municipality,Nick Martino,3533,,Tier 3,0.75,44.515,-88.3304,3d9819fd-26ac-469a-b227-65cc08155b17,,,,,,,,,,,,,,,
+001cv00000AuYR4,"Town Of Stephenson, WI",Wisconsin,Municipality,Nick Martino,3535,,Tier 3,0.75,45.2476,-88.1907,a7f7441b-b419-4cc1-aeee-f72b2517a081,,,,,,,,,,,,,,,
+001cv00000AuYSz,"Town Of Fulton, WI",Wisconsin,Municipality,Nick Martino,3627,,Tier 3,0.75,42.8081,-89.1276,afd761f1-a6c1-48ed-8cf5-285fd6da1ee8,,,,,,,,,2,2026-04-22,2,,,,
+001cv00000AuYT3,"Town Of Lac Du Flambeau, WI",Wisconsin,Municipality,Nick Martino,3630,,Tier 3,0.75,45.942,-89.8842,91035eab-add3-4b3c-bab4-e73d4a4a7dde,,,,,,,,,,,,,,,
+001cv00000AuYTF,"Town Of Ottawa, WI",Wisconsin,Municipality,Nick Martino,3636,,Tier 3,0.75,42.9761,-88.4498,847acc98-a449-4068-a244-ec703d1df8f6,,,,,,,,,,,,,,,
+001cv00000AuYTL,"Village Of Combined Locks, WI",Wisconsin,Municipality,Nick Martino,3641,,Tier 3,0.75,44.2658,-88.3143,a1bf5872-7f00-4a8c-9726-376d60e4bbee,,,,,,,,,,,,,,,
+001cv00000AuYXN,"Town Of Hayward, WI",Wisconsin,Municipality,Nick Martino,3787,Open Opportunity,Tier 3,0.75,45.9972,-91.3838,1be41ef5-ad8e-418c-a633-d5ac8395bac5,Open,Meeting Booked,Top of Funnel,Nick Martino,5/28/2026,5/18/2026,,,6,2026-05-18,6,,,,
+001cv00000AuYdX,"City Of Omro, WI",Wisconsin,Municipality,Nick Martino,3658,,Tier 3,0.75,44.0394,-88.7443,7448662d-34a9-4e80-a221-0d1c5397ff8a,,,,,,,,,,,,,,,
+001cv00000AuYdY,"City Of Barron, WI",Wisconsin,Municipality,Nick Martino,3659,,Tier 3,0.75,45.4013,-91.8491,0530a7d8-8e5c-451e-ace4-2b8c4e7141e7,,,,,,,,,,,,,,,
+001cv00000AuYdq,"Town Of Center, WI",Wisconsin,Municipality,Nick Martino,3666,,Tier 3,0.75,44.3695,-88.421,b78c1d8a-4a17-4e00-8f7c-57975eb05082,,,,,,,,,,,,,,,
+001cv00000AuYfQ,"Town Of Campbell, WI",Wisconsin,Municipality,Nick Martino,4236,,Tier 3,0.75,43.858,-91.2599,741d01c1-1ac6-4727-a77a-993bbffe5c39,,,,,,,,,,,,,,,
+001cv00000AuYfh,"City Of Horicon, WI",Wisconsin,Municipality,Nick Martino,3800,,Tier 3,0.75,43.4514,-88.6312,057c8596-fbf8-48d2-8b27-bf667f590bb4,,,,,,,,,,,,,,,
+001cv00000AuYgD,"Village Of Marshall, WI",Wisconsin,Municipality,Nick Martino,3823,,Tier 3,0.75,43.1683,-89.0668,a45a2bf0-a151-4b7e-a9ae-e05fc9ca096b,,,,,,,,,,,,,,,
+001cv00000AuYgJ,"Town Of Pleasant Valley, WI",Wisconsin,Municipality,Nick Martino,3828,,Tier 3,0.75,44.6535,-91.4821,7fffc023-f93f-4c76-bebd-9c34e580654f,,,,,,,,,,,,,,,
+001cv00000AuYgO,"Town Of Erin, WI",Wisconsin,Municipality,Nick Martino,3831,,Tier 3,0.75,43.2208,-88.3434,5f76417b-aaf0-4965-9cab-a390d7df5a1e,,,,,,,,,,,,,,,
+001cv00000AuYhM,"Village Of North Hudson, WI",Wisconsin,Municipality,Nick Martino,3886,,Tier 3,0.75,44.993,-92.7569,4f112bf3-c6ef-4781-82e2-8bdc7102dca7,,,,,,,,,,,,,,,
+001cv00000AuYhj,"Village Of Raymond, WI",Wisconsin,Municipality,Nick Martino,3903,,Tier 3,0.75,42.8009,-88.0126,463f8fd8-4520-499e-aadb-8b5a4b524552,,,,,,,,,,,,,,,
+001cv00000AuYi4,"City Of Lancaster, WI",Wisconsin,Municipality,Nick Martino,3914,,Tier 3,0.75,42.8475,-90.7107,d0ef84ac-a46a-4d37-bd61-18968e9fe7eb,,,,,,,,,,,,,,,
+001cv00000AuYkf,"Village Of Pulaski, WI",Wisconsin,Municipality,Nick Martino,3952,,Tier 3,0.75,44.6722,-88.2426,291645c6-76e8-4d64-bebf-3376a28c79fe,,,,,,,,,,,,,,,
+001cv00000AuYkp,"Town Of Sugar Creek, WI",Wisconsin,Municipality,Nick Martino,3958,,Tier 3,0.75,42.7188,-88.6145,93c323e4-df28-410d-ad40-44e862c30416,,,,,,,,,,,,,,,
+001cv00000AuYks,"City Of Kiel, WI",Wisconsin,Municipality,Nick Martino,3961,,Tier 3,0.75,43.9125,-88.0357,7fbd7f4f-d2e9-4df7-bd6a-0c657394aeb0,,,,,,,,,,,,,,,
+001cv00000AuYlK,"Town Of Polk, WI",Wisconsin,Municipality,Nick Martino,3984,,Tier 3,0.75,43.3253,-88.2169,2e3cd3c8-5aa5-41d4-9ff1-732e7eb753c9,,,,,,,,,,,,,,,
+001cv00000AuYlQ,"City Of Chilton, WI",Wisconsin,Municipality,Nick Martino,3990,,Tier 3,0.75,44.0289,-88.1629,740454cc-3187-405a-9d56-4d67a7071ddd,,,,,,,,,,,,,,,
+001cv00000AuYmB,"Town Of Peshtigo, WI",Wisconsin,Municipality,Nick Martino,4024,,Tier 3,0.75,45.0133,-87.6551,fd29933e-8259-4e24-bd6b-0dd0634c091b,,,,,,,,,,,,,,,
+001cv00000AuYmc,"Town Of Beaver Dam, WI",Wisconsin,Municipality,Nick Martino,4044,,Tier 3,0.75,43.4197,-88.8071,067f4298-2c77-447b-aa84-97550c7d1483,,,,,,,,,,,,,,,
+001cv00000AuYmo,"Village Of West Milwaukee, WI",Wisconsin,Municipality,Nick Martino,4054,,Tier 3,0.75,43.0125,-87.9726,90c17fdd-4b08-4d05-b81f-9225e9c9d333,,,,,,,,,,,,,,,
+001cv00000AuYmq,"Town Of East Troy, WI",Wisconsin,Municipality,Nick Martino,4058,,Tier 3,0.75,42.7837,-88.3531,79524ab3-4358-414a-9e1d-b4eb657c3e6a,,,,,,,,,,,,,,,
+001cv00000AuYn0,"Village Of Cross Plains, WI",Wisconsin,Municipality,Nick Martino,4067,,Tier 3,0.75,43.1144,-89.6557,ff906231-7acd-42b2-8cd9-d6053318ecb6,,,,,,,,,,,,,,,
+001cv00000AuYp3,"Town Of Richmond, WI",Wisconsin,Municipality,Nick Martino,4173,,Tier 3,0.75,45.0646,-92.5678,d7a7670d-b7c7-424d-8ef5-20f7f1aa6ab6,,,,,,,,,,,,,,,
+001cv00000AuYp8,"Town Of Westport, WI",Wisconsin,Municipality,Nick Martino,4177,,Tier 3,0.75,43.1592,-89.426,806ce141-53a8-427d-9887-591caea80632,,,,,,,,,,,,,,,
+001cv00000AuYrQ,"City Of Arcadia, WI",Wisconsin,Municipality,Nick Martino,3692,,Tier 3,0.75,44.2527,-91.5015,73c70879-4be3-4891-86bd-ef4a95333647,,,,,,,,,,,,,,,
+001cv00000AuYrc,"Town Of Lyons, WI",Wisconsin,Municipality,Nick Martino,3701,,Tier 3,0.75,42.6511,-88.3584,7c8203c0-efa1-4897-b9d1-39f6601b8eef,,,,,,,,,,,,,,,
+001cv00000AuYru,"City Of Bloomer, WI",Wisconsin,Municipality,Nick Martino,3711,,Tier 3,0.75,45.1002,-91.4888,595cf675-82ef-4ab0-8a31-be82c190a41f,,,,,,,,,,,,,,,
+001cv00000AuYs8,"Town Of Janesville, WI",Wisconsin,Municipality,Nick Martino,3725,,Tier 3,0.75,42.7137,-89.0848,eb6952cc-a4ed-48d2-be11-00bc4d9039ce,,,,,,,,,,,,,,,
+001cv00000AuYsB,"Town Of Neenah, WI",Wisconsin,Municipality,Nick Martino,3726,,Tier 3,0.75,44.185,-88.5049,136be427-73f4-4d69-bf2b-5af280bfa442,,,,,,,,,,,,,,,
+001cv00000AuYsQ,"Town Of Koshkonong, WI",Wisconsin,Municipality,Nick Martino,3747,,Tier 3,0.75,42.8461,-88.9193,cc63c08a-890f-4708-b3b3-2b8c152d8e13,,,,,,,,,,,,,,,
+001cv00000AuYsT,"Town Of Star Prairie, WI",Wisconsin,Municipality,Nick Martino,3748,,Tier 3,0.75,45.1766,-92.5778,4bae57be-37bb-478a-88b4-f84e9cb51232,,,,,,,,,,,,,,,
+001cv00000AuYsw,"Village Of Rochester, WI",Wisconsin,Municipality,Nick Martino,3767,,Tier 3,0.75,42.7424,-88.2254,898bdd50-f377-4017-97b1-4b2229d32b05,,,,,,,,,,,,,,,
+001cv00000AuYt6,"City Of Stanley, WI",Wisconsin,Municipality,Nick Martino,3774,,Tier 3,0.75,44.96,-90.9371,02e1c18c-f649-4272-9a61-e44a6427156b,,,,,,,,,,,,,,,
+001cv00000AuYuC,"Town Of St Joseph, WI",Wisconsin,Municipality,Nick Martino,4248,,Tier 3,0.75,45.0523,-92.6963,ee19dffd-9df0-4d83-b1a9-695f70f870c8,,,,,,,,,,,,,,,
+001cv00000AuYuh,"Village Of Saukville, WI",Wisconsin,Municipality,Nick Martino,4276,,Tier 3,0.75,43.3817,-87.9406,449613f1-000d-40b2-8598-3098b959e872,,,,,,,,,,,,,,,
+001cv00000AuYur,"Village Of Baldwin, WI",Wisconsin,Municipality,Nick Martino,4288,,Tier 3,0.75,44.9666,-92.3744,61915db8-7fef-447e-9d52-baf4f784480f,,,,,,,,,,,,,,,
+001cv00000AuYuu,"County Of Menominee, WI",Wisconsin,County,Nick Martino,4289,,Tier 3,0.75,45.0305,-88.7478,9864d098-c45d-4f6e-85af-762e7ee913ac,,,,,,,,,,,,,,,
+001cv00000AuYuv,"Town Of Menominee, WI",Wisconsin,Municipality,Nick Martino,4289,,Tier 3,0.75,44.8792,-91.9757,9855444e-b8b4-43df-8788-8553a6c1e60e,,,,,,,,,,,,,,,
+001cv00000AuYvJ,"City Of Medford, WI",Wisconsin,Municipality,Nick Martino,4312,,Tier 3,0.75,45.1386,-90.3401,356bed81-eff0-4f2d-9c63-ea94343192b4,,,,,,,,,,,,,,,
+001cv00000AuYvO,"City Of Mauston, WI",Wisconsin,Municipality,Nick Martino,4316,,Tier 3,0.75,43.7972,-90.0773,13b89377-1ed5-4af3-b531-ecc4193792fd,,,,,,,,,,,,,,,
+001cv00000AuYvT,"Town Of Dover, WI",Wisconsin,Municipality,Nick Martino,4324,,Tier 3,0.75,42.7122,-88.1487,079ce19a-28c7-46f3-9f7f-337d2276c803,,,,,,,,,,,,,,,
+001cv00000AuYvy,"City Of Prescott, WI",Wisconsin,Municipality,Nick Martino,4346,,Tier 3,0.75,44.7489,-92.8021,dcd2e374-bc47-4755-bc87-37de9d6c8e74,,,,,,,,,,,,,,,
+001cv00000AuYvz,"Town Of Somerset, WI",Wisconsin,Municipality,Nick Martino,4346,,Tier 3,0.75,45.1739,-92.6978,b5246b63-c1a5-4a43-8425-2007a397b588,,,,,,,,,1,2025-06-24,,,,1,
+001cv00000AuYwH,"Village Of Kewaskum, WI",Wisconsin,Municipality,Nick Martino,4372,,Tier 3,0.75,43.5208,-88.229,61c74260-f18f-4525-85e5-b2b4be4f83a3,,,,,,,,,,,,,,,
+001cv00000AuYwf,"Town Of Grafton, WI",Wisconsin,Municipality,Nick Martino,4391,,Tier 3,0.75,43.32,-87.9041,9eae1ea2-020e-4ad1-98d7-bd83252af71d,,,,,,,,,,,,,,,
+001cv00000AuYxb,"Village Of Prairie Du Sac, WI",Wisconsin,Municipality,Nick Martino,4409,,Tier 3,0.75,43.2869,-89.724,8dc187b1-1161-432e-a668-ed163c8dbd09,,,,,,,,,,,,,,,
+001cv00000AuYxr,"City Of Viroqua, WI",Wisconsin,Municipality,Nick Martino,4419,,Tier 3,0.75,43.5569,-90.8887,ad6fdf21-b28d-4e3a-a987-4dac7abf9190,,,,,,,,,,,,,,,
+001cv00000AuYxt,"Village Of Bayside, WI",Wisconsin,Municipality,Nick Martino,4421,,Tier 3,0.75,43.1806,-87.9006,5e2a4b16-75e9-4d94-9ea1-815c0f021aca,,,,,,,,,,,,,,,
+001cv00000AuYyH,"Town Of Bristol, WI",Wisconsin,Municipality,Nick Martino,4442,,Tier 3,0.75,43.2297,-89.1515,a2d94f03-6d17-439f-9794-6948abb0aa4c,,,,,,,,,,,,,,,
+001cv00000AuYyQ,"Town Of West Bend, WI",Wisconsin,Municipality,Nick Martino,4452,,Tier 3,0.75,43.4027,-88.2364,000c8adf-5dfc-4cb0-a81d-ece4da20ed8a,,,,,,,,,,,,,,,
+001cv00000AuYz3,"City Of Mosinee, WI",Wisconsin,Municipality,Nick Martino,4498,,Tier 3,0.75,44.793,-89.7032,bda17984-5783-4030-8e28-e5c5ff47766e,,,,,,,,,,,,,,,
+001cv00000AuYzg,"City Of Clintonville, WI",Wisconsin,Municipality,Nick Martino,4534,,Tier 3,0.75,44.6205,-88.7623,1b3e6f3d-4205-4501-9690-1638e58b24ce,,,,,,,,,,,,,,,
+001cv00000AuYzj,"Town Of Trenton, WI",Wisconsin,Municipality,Nick Martino,4537,,Tier 3,0.75,43.4006,-88.0998,907e6b4f-e925-406c-ba64-02f1eb4bcb78,,,,,,,,,,,,,,,
+001cv00000AuZ02,"Town Of Oneida, WI",Wisconsin,Municipality,Nick Martino,4558,,Tier 3,0.75,44.4733,-88.251,6f624e78-bdc6-42b6-82f3-d415e4c50e04,,,,,,,,,,,,,,,
+001cv00000AuZBX,"County Of Iron, WI",Wisconsin,County,Nick Martino,6178,,Tier 3,0.75,46.2855,-90.2348,fb96f90d-e60a-43f6-963d-f3818219a6ca,,,,,,,,,7,2026-02-05,7,,,,
+001cv00000AuZBb,"Town Of Madison, WI",Wisconsin,Municipality,Nick Martino,6220,Unviable,Tier 3,0.75,43.0722,-89.4008,03fedd3d-02cb-4934-8387-b49b2c7daa1c,,,,,,,,,,,,,,,
+001cv00000AuZLZ,"Town Of Shelby, WI",Wisconsin,Municipality,Nick Martino,4790,,Tier 3,0.75,43.7691,-91.161,dae8fdc2-a2c1-4215-9fe0-47f30c42afaa,,,,,,,,,,,,,,,
+001cv00000AuZMi,"Village Of Bloomfield, WI",Wisconsin,Municipality,Nick Martino,4857,,Tier 3,0.75,42.5385,-88.3643,82bfa67b-bcbf-4002-a59b-fd8ef75c6cef,,,,,,,,,,,,,,,
+001cv00000AuZN3,"Town Of Dunn, WI",Wisconsin,Municipality,Nick Martino,4880,,Tier 3,0.75,42.959,-89.3037,073ab8f8-0656-40f2-a83e-ae5398b5808f,,,,,,,,,,,,,,,
+001cv00000AuZQx,"County Of Pepin, WI",Wisconsin,County,Nick Martino,7364,,Tier 3,0.75,44.6451,-92.0273,6cbf58e2-953d-41ca-9705-6dc16f195c58,,,,,,,,,2,2026-01-29,2,,,,
+001cv00000AuZS4,"City Of Dodgeville, WI",Wisconsin,Municipality,Nick Martino,4978,,Tier 3,0.75,42.9603,-90.1301,d7552753-ef8f-406a-b062-3f1b64552521,,,,,,,,,,,,,,,
+001cv00000AuZST,"Village Of Summit, WI",Wisconsin,Municipality,Nick Martino,5028,,Tier 3,0.75,43.0404,-88.4851,3c6e0ac4-641e-4e67-999e-2fbf7eda1687,,,,,,,,,,,,,,,
+001cv00000AuZSf,"City Of Richland Center, WI",Wisconsin,Municipality,Nick Martino,5041,,Tier 3,0.75,43.3347,-90.3868,4076ae44-08c7-4205-8027-abc6e73634ac,,,,,,,,,,,,,,,
+001cv00000AuZT4,"Town Of Ixonia, WI",Wisconsin,Municipality,Nick Martino,5098,,Tier 3,0.75,43.1439,-88.5973,fb9b571d-e169-4e36-8a03-af6fb9ecde4e,,,,,,,,,,,,,,,
+001cv00000AuZTF,"Town Of Minocqua, WI",Wisconsin,Municipality,Nick Martino,5120,,Tier 3,0.75,45.8711,-89.7093,872148da-2272-4b08-a6b1-9bf129e6473d,,,,,,,,,,,,,,,
+001cv00000AuZTV,"City Of Mayville, WI",Wisconsin,Municipality,Nick Martino,5144,,Tier 3,0.75,43.4957,-88.5441,cc3557fa-d6c7-4018-988d-e3015e9040ac,,,,,,,,,,,,,,,
+001cv00000AuZZO,"County Of Forest, WI",Wisconsin,County,Nick Martino,9258,,Tier 3,0.75,45.6705,-88.8376,7b8b138e-af79-4248-bebe-eff6a598a167,,,,,,,,,,,,,,,
+001cv00000AuZdP,"Town Of Hudson, WI",Wisconsin,Municipality,Nick Martino,8724,,Tier 3,0.75,44.9873,-92.6803,82a65e14-cf7d-41e5-ae2a-9036b714eaaa,,,,,,,,,,,,,,,
+001cv00000AuZgB,"County Of Buffalo, WI",Wisconsin,County,Nick Martino,13302,Recent Competitor Purchase,Tier 2,1.0,44.0709,-91.6149,ccd058f4-6643-4917-ba78-a2e380269234,Closed Lost,,,Nick Martino,7/15/2025,7/14/2025,,,1,2025-07-14,1,,,,
+001cv00000AuZjj,"Village Of Greenville, WI",Wisconsin,Municipality,Nick Martino,13414,,Tier 2,1.0,44.3003,-88.5365,55c3260d-2509-4676-8144-c97802b6ff1a,,,,,,,,,12,2025-12-31,12,,,,
+001cv00000AuZnX,"County Of Price, WI",Wisconsin,County,Nick Martino,14050,,Tier 2,1.0,45.7512,-90.4622,efa30ede-e8a4-4d2c-8f2b-1aee1ca0b900,,,,,,,,,4,2025-07-18,4,,,,
+001cv00000AuZnf,"County Of Rusk, WI",Wisconsin,County,Nick Martino,14123,,Tier 2,1.0,45.5194,-91.1563,b916ce7b-b9b8-4c3b-b89a-a1dddb78d102,,,,,,,,,3,2025-07-16,3,,,,
+001cv00000AuZov,"County Of Marquette, WI",Wisconsin,County,Nick Martino,15792,,Tier 2,1.0,43.8653,-89.3227,fed3871d-413e-421b-8c67-31d60e94e26e,,,,,,,,,1,2025-07-11,1,,,,
+001cv00000AuZpA,"County Of Crawford, WI",Wisconsin,County,Nick Martino,16075,,Tier 2,1.0,43.2492,-90.8294,9021dacc-b13d-4222-9ba1-3da85d679294,,,,,,,,,6,2025-07-23,6,,,,
+001cv00000AuZpC,"County Of Ashland, WI",Wisconsin,County,Nick Martino,16107,,Tier 2,1.0,47.0291,-90.4344,fae87963-ae09-40b4-849b-95e6a767642e,,,,,,,,,6,2025-07-14,6,,,,
+001cv00000AuZqm,"County Of Bayfield, WI",Wisconsin,County,Nick Martino,16320,,Tier 2,1.0,46.665,-91.1222,126f3ce9-2ac5-4eff-89e7-337e07f3fe5b,,,,,,,,,,,,,,,
+001cv00000AuZrA,"County Of Burnett, WI",Wisconsin,County,Nick Martino,16744,,Tier 2,1.0,45.8051,-92.2888,f6f3a3e6-c36d-4026-a70a-67567a052732,,,,,,,,,10,2025-08-04,10,,,,
+001cv00000AuZrB,"County Of Washburn, WI",Wisconsin,County,Nick Martino,16752,,Tier 2,1.0,46.6733,-90.8949,3ae89553-511b-4c51-92db-e2466989aac2,,,,,,,,,2,2025-07-14,2,,,,
+001cv00000AuZrF,"County Of Lafayette, WI",Wisconsin,County,Nick Martino,16784,,Tier 2,1.0,42.6293,-90.0747,7e17076e-fba8-470d-8f35-2dbfad02c325,,,,,,,,,5,2025-12-11,5,,,,
+001cv00000AuZsx,"County Of Green Lake, WI",Wisconsin,County,Nick Martino,19229,Open Opportunity,Tier 2,1.0,43.8631,-89.0179,8ffa589b-7c3c-4948-92db-50c7c7be672c,Open,Initial Interest,Top of Funnel,Nick Martino,11/17/2025,11/10/2025,,,5,2026-01-26,5,,,,
+001cv00000AuZtA,"County Of Langlade, WI",Wisconsin,County,Nick Martino,19502,,Tier 2,1.0,45.2201,-89.0102,b6597817-0b7c-4e0a-b3e4-850d71806d5a,,,,,,,,,,,,,,,
+001cv00000AuZtQ,"County Of Richland, WI",Wisconsin,County,Nick Martino,17212,,Tier 2,1.0,43.4061,-90.3748,fd16a0b2-fff2-4245-b899-c0b1d76425be,,,,,,,,,4,2025-07-18,4,,,,
+001cv00000AuZuP,"County Of Sawyer, WI",Wisconsin,County,Nick Martino,18295,Open Opportunity,Tier 2,1.0,45.822,-91.1686,55d37feb-5cc2-4a87-95af-500b225427da,Open,Proposal,Mid Funnel,Nick Martino,4/22/2026,4/10/2026,"$20,000",,7,2026-04-21,7,,,,
+001cv00000AuZxM,"County Of Adams, WI",Wisconsin,County,Nick Martino,20875,,Tier 2,1.0,44.0197,-89.7755,23c75c36-9666-45fa-9ee7-7324412cb81e,,,,,,,,,4,2025-07-17,4,,,,
+001cv00000AuZxY,"County Of Jackson, WI",Wisconsin,County,Nick Martino,21121,,Tier 2,1.0,43.3239,-88.1668,22792cf1-cd14-404a-b212-9afd7b5fb5d5,,,,,,,,,2,2025-07-16,2,,,,
+001cv00000Aua0X,"County Of Lincoln, WI",Wisconsin,County,Nick Martino,28541,,Tier 1,1.5,45.3743,-89.7726,7aa7935d-d53e-4c85-9a7a-3dbaa0c9d1f7,,,,,,,,,,,,,,,
+001cv00000Aua1N,"County Of Door, WI",Wisconsin,County,Nick Martino,30369,,Tier 1,1.5,45.1114,-87.0471,ff7fec0d-dae2-457b-beaf-56e23ee2dc13,,,,,,,,,15,2025-12-23,15,,,,
+001cv00000Aua2H,"County Of Waushara, WI",Wisconsin,County,Nick Martino,24828,,Tier 2,1.0,44.1313,-89.2087,5d3d1358-5e7c-454e-8f38-7140582c1923,,,,,,,,,1,2025-07-11,1,,,,
+001cv00000Aua3O,"County Of Taylor, WI",Wisconsin,County,Nick Martino,19923,Open Opportunity,Tier 2,1.0,45.2231,-90.5299,def32be4-2d92-438f-bd75-9d755dcc163a,Open,Proposal,Mid Funnel,Nick Martino,1/13/2026,1/12/2026,"$8,000",,,,,,,,
+001cv00000Aua3q,"County Of Kewaunee, WI",Wisconsin,County,Nick Martino,20543,,Tier 2,1.0,44.5783,-87.4768,4d394adf-518f-4f9a-9276-64d8f74a37a1,,,,,,,,,1,2025-07-16,1,,,,
+001cv00000Aua7O,"County Of Oconto, WI",Wisconsin,County,Nick Martino,39356,,Tier 1,1.5,44.8333,-88.0118,bd23e8f0-681b-4a50-9083-872d326beeb9,,,,,,,,,,,,,,,
+001cv00000Aua80,"County Of Trempealeau, WI",Wisconsin,County,Nick Martino,30724,,Tier 1,1.5,44.2398,-91.3662,256d922e-1c19-479d-bc82-3234f2471928,,,,,,,,,,,,,,,
+001cv00000Aua89,"County Of Vernon, WI",Wisconsin,County,Nick Martino,30915,,Tier 1,1.5,43.5577,-90.8294,bb631471-22d6-4d2c-8750-5d1a194eb133,,,,,,,,,3,2026-02-24,3,,,,
+001cv00000AuaAR,"County Of Vilas, WI",Wisconsin,County,Nick Martino,23520,,Tier 2,1.0,45.9788,-89.4559,13ff7db4-e97b-4b76-bea8-a9cae5f48a03,,,,,,,,,8,2025-08-01,8,,,,
+001cv00000AuaAa,"County Of Iowa, WI",Wisconsin,County,Nick Martino,23756,,Tier 2,1.0,42.9417,-90.0747,be17e41c-6455-4aa1-8b45-7d78dbf6b487,,,,,,,,,4,2025-07-23,4,,,,
+001cv00000AuaBc,"County Of Juneau, WI",Wisconsin,County,Nick Martino,26802,,Tier 1,1.5,43.4081,-88.7088,9ac9e9da-9051-4829-b821-5359005ac092,,,,,,,,,,,,,,,
+001cv00000AuaDi,"County Of Green, WI",Wisconsin,County,Nick Martino,36988,,Tier 1,1.5,42.6287,-89.6252,e66f4aab-0995-4cb5-815a-7c11179af970,,,,,,,,,3,2026-01-30,3,,,,
+001cv00000AuaGH,"County Of Marinette, WI",Wisconsin,County,Nick Martino,41875,,Tier 1,1.5,45.3582,-88.065,0e31b3a7-14ba-487d-9588-67fc7c391020,,,,,,,,,6,2025-12-11,6,,,,
+001cv00000AuaGT,"County Of Pierce, WI",Wisconsin,County,Nick Martino,42587,,Tier 1,1.5,44.7509,-92.3814,08ddd00f-50af-4559-88f5-a12d5727b406,,,,,,,,,3,2026-02-05,3,,,,
+001cv00000AuaHA,"County Of Douglas, WI",Wisconsin,County,Nick Martino,44203,,Tier 1,1.5,43.6943,-89.5686,1b4476c2-1b83-40c1-aabf-5ee2d3f7bfb4,,,,,,,,,2,2025-08-12,2,,,,
+001cv00000AuaHY,"County Of Polk, WI",Wisconsin,County,Nick Martino,45431,Nurture,Tier 1,1.5,45.4259,-92.3388,a0bd4e7c-9f30-4918-a165-c9bf93dd4f23,Closed Lost,,,Nick Martino,2/23/2026,2/10/2026,,,9,2026-02-10,9,,,,
+001cv00000AuaHb,"County Of Dunn, WI",Wisconsin,County,Nick Martino,45547,,Tier 1,1.5,42.959,-89.3037,93fb63e7-dabe-4afb-8664-db1bef764e82,,,,,,,,,11,2026-02-17,11,,,,
+001cv00000AuaJp,"County Of Monroe, WI",Wisconsin,County,Nick Martino,46193,,Tier 1,1.5,43.9412,-90.7533,049e08e4-75df-4013-af1d-d25a0d39d384,,,,,,,,,3,2026-05-07,3,,,,
+001cv00000AuaJy,"County Of Barron, WI",Wisconsin,County,Nick Martino,46719,,Tier 1,1.5,45.3608,-91.7769,cb05b45d-49cf-4211-86c4-542db8375f45,,,,,,,,,6,2026-02-17,6,,,,
+001cv00000AuaLK,"County Of Grant, WI",Wisconsin,County,Nick Martino,52110,,Tier S,2.0,42.9397,-90.6773,3d570f84-7fa2-48c4-a430-2df178a3be4c,,,,,,,,,,,,,,,
+001cv00000AuaO0,"County Of Columbia, WI",Wisconsin,County,Nick Martino,58488,,Tier S,2.0,43.4047,-89.3227,d8aba159-9c9f-4c30-8069-34b9e76e5ab9,,,,,,,,,3,2026-02-18,3,,,,
+001cv00000AuaPI,"City Of Janesville, WI",Wisconsin,Municipality,Nick Martino,65942,,Tier S,2.0,42.6821,-89.0275,9401d50e-4199-41aa-b9b1-14befefc876c,,,,,,,,,22,2025-08-29,22,,,,
+001cv00000AuaUr,"County Of St Croix, WI",Wisconsin,County,Nick Martino,95044,,Tier S,2.0,45.0498,-92.3876,7bdd4b2a-f539-49c0-bf35-e4cca9cbf50f,,,,,,,,,4,2025-12-09,4,,,,
+001cv00000AuaXB,"County Of Manitowoc, WI",Wisconsin,County,Nick Martino,81505,,Tier S,2.0,44.19,-87.5388,51b3de79-0b65-436a-9f27-82329a56958f,,,,,,,,,13,2026-01-06,13,,,,
+001cv00000B1sL4,"Town Of Auburn, WI",Wisconsin,Municipality,Nick Martino,2379,,Tier 3,0.75,45.1572,-91.5883,59061bc6-8052-429a-a878-28156fd06ac6,,,,,,,,,,,,,,,
+001cv00000B21pg,"Town Of Red Cedar, WI",Wisconsin,Municipality,Nick Martino,2380,,Tier 3,0.75,44.6891,-91.8843,12ae073f-31d1-4979-bb0e-7fa04ab0ba35,,,,,,,,,,,,,,,
+001cv00000B21pv,"City Of Park Falls, WI",Wisconsin,Municipality,Nick Martino,2387,,Tier 3,0.75,45.9344,-90.4416,2a155b1b-a9c0-4d00-b1c3-90f2e9497636,,,,,,,,,,,,,,,
+001cv00000B21pw,"Town Of Sun Prairie, WI",Wisconsin,Municipality,Nick Martino,2387,,Tier 3,0.75,43.1522,-89.1515,6c21d396-616d-4952-8198-31006a309fd0,,,,,,,,,,,,,,,
+001cv00000B21qi,"Town Of Black Wolf, WI",Wisconsin,Municipality,Nick Martino,2409,,Tier 3,0.75,43.9231,-88.5149,d4ce3f86-48d6-488b-980f-566976f1b85d,,,,,,,,,,,,,,,
+001cv00000B21ql,"Town Of Turtle, WI",Wisconsin,Municipality,Nick Martino,2411,,Tier 3,0.75,42.5263,-88.9222,bee6adf2-25bc-4378-b102-44aea5aa5f11,,,,,,,,,,,,,,,
+001cv00000B21qp,"Village Of Denmark, WI",Wisconsin,Municipality,Nick Martino,2412,,Tier 3,0.75,44.3478,-87.8273,19bb3faf-f75e-4b2f-860a-232c9f66e195,,,,,,,,,,,,,,,
+001cv00000B21rB,"Town Of Hamilton, WI",Wisconsin,Municipality,Nick Martino,2420,,Tier 3,0.75,43.9128,-91.1014,8c510a2c-41f9-4053-928d-3cafb90e51ad,,,,,,,,,,,,,,,
+001cv00000B21rC,"Town Of Bradley, WI",Wisconsin,Municipality,Nick Martino,2420,,Tier 3,0.75,45.5361,-89.755,59202d64-fd10-4c7e-96ab-4db9ca9bbe9c,,,,,,,,,,,,,,,
+001cv00000B21s0,"Village Of Belgium, WI",Wisconsin,Municipality,Nick Martino,2439,,Tier 3,0.75,43.4997,-87.8504,115d1497-1b28-4015-a886-b06aadd2640d,,,,,,,,,,,,,,,
+001cv00000B21s9,"Town Of Oshkosh, WI",Wisconsin,Municipality,Nick Martino,2441,,Tier 3,0.75,44.0286,-88.4598,0e41e621-81e3-4b10-a20d-3fcd40b4ae3f,,,,,,,,,,,,,,,
+001cv00000B21sF,"City Of Nekoosa, WI",Wisconsin,Municipality,Nick Martino,2444,,Tier 3,0.75,44.3125,-89.9043,51b50de4-5b7f-4839-a702-a1c2629dab9b,,,,,,,,,,,,,,,
+001cv00000B21sJ,"City Of Darlington, WI",Wisconsin,Municipality,Nick Martino,2445,,Tier 3,0.75,42.6831,-90.1176,4aa6e717-8ac8-4c02-a3ad-06c342bbf955,,,,,,,,,,,,,,,
+001cv00000B21wX,"Town Of Wrightstown, WI",Wisconsin,Municipality,Nick Martino,2621,,Tier 3,0.75,44.328,-88.1009,d891f65f-5200-4ded-8eec-29b0a9da965c,,,,,,,,,,,,,,,
+001cv00000B21wf,"Town Of Dayton, WI",Wisconsin,Municipality,Nick Martino,2623,,Tier 3,0.75,44.3127,-89.1528,dfe725ab-057c-4eaf-838f-ba1fe6a53c55,,,,,,,,,,,,,,,
+001cv00000B21xH,"Town Of Hammond, WI",Wisconsin,Municipality,Nick Martino,2644,,Tier 3,0.75,44.9789,-92.4357,be517af9-258a-46bb-84f6-1060cf45eda7,,,,,,,,,,,,,,,
+001cv00000B21xh,"Town Of Tainter, WI",Wisconsin,Municipality,Nick Martino,2655,,Tier 3,0.75,45.0037,-91.8525,c748aaac-18e0-415c-b2a2-aafcd05f0516,,,,,,,,,,,,,,,
+001cv00000B21xq,"Town Of Ashippun, WI",Wisconsin,Municipality,Nick Martino,2659,,Tier 3,0.75,43.2128,-88.5151,6d42bf7a-b688-4f56-84ea-6c19adfa5020,,,,,,,,,,,,,,,
+001cv00000B21y8,"City Of Juneau, WI",Wisconsin,Municipality,Nick Martino,2665,,Tier 3,0.75,43.4081,-88.7088,a5ee2f4f-b66b-4183-925a-f829f35ee237,,,,,,,,,,,,,,,
+001cv00000B21yR,"Town Of Fox Lake, WI",Wisconsin,Municipality,Nick Martino,2672,,Tier 3,0.75,43.5752,-88.9605,f9c87a5c-4322-483c-8816-5b743b9a2056,,,,,,,,,,,,,,,
+001cv00000B21yX,"Village Of Lomira, WI",Wisconsin,Municipality,Nick Martino,2675,,Tier 3,0.75,43.5914,-88.4437,a28083b4-f1f1-4c9b-993e-9fe79e483eee,,,,,,,,,,,,,,,
+001cv00000B21ys,"Village Of Luxemburg, WI",Wisconsin,Municipality,Nick Martino,2685,,Tier 3,0.75,44.5386,-87.704,e060260f-71d1-4d87-a602-0ca854b09355,,,,,,,,,,,,,,,
+001cv00000B21zA,"City Of Oconto, WI",Wisconsin,Municipality,Nick Martino,4575,,Tier 3,0.75,44.8872,-87.8645,f0a20f5a-585e-4a4d-8021-24f20c37512b,,,,,,,,,,,,,,,
+001cv00000B220I,"County Of Florence, WI",Wisconsin,County,Nick Martino,4593,,Tier 3,0.75,45.9224,-88.252,51830b59-6a62-44be-a3cd-31329b68299f,,,,,,,,,,,,,,,
+001cv00000B220h,"Town Of Taycheedah, WI",Wisconsin,Municipality,Nick Martino,4621,,Tier 3,0.75,43.8089,-88.3951,aef872d7-df1d-42d8-b609-a2a1d549c2ff,,,,,,,,,,,,,,,
+001cv00000B220r,"Town Of Jackson, WI",Wisconsin,Municipality,Nick Martino,4630,,Tier 3,0.75,43.7712,-89.644,ae2fdf7a-3eaa-4e91-b734-a621f8c3e849,,,,,,,,,,,,,,,
+001cv00000B222P,"Village Of East Troy, WI",Wisconsin,Municipality,Nick Martino,4739,,Tier 3,0.75,42.7853,-88.4051,c43e6eb3-0248-484c-9928-47433907893a,,,,,,,,,,,,,,,
+001cv00000bB8Pk,Town of Arena,Wisconsin,Municipality,Asher Rosenfeld,1504,,Tier 3,0.75,43.1165,-89.944,d74f3e9f-a7c0-4d1e-812c-c469464a1739,,,,,,,,,,,,,,,
+001cv00000bBVej,Town of Rosendale,Wisconsin,Municipality,Asher Rosenfeld,735,,Tier 3,0.75,43.8407,-88.6916,72887551-188d-4cf8-b1ae-9e5dc061cfe2,,,,,,,,,,,,,,,
+001cv00000bBVep,Town of Clifton,Wisconsin,Municipality,Asher Rosenfeld,745,,Tier 3,0.75,42.9017,-90.488,7641b29b-bb0b-4571-b901-b769ef080d8c,,,,,,,,,,,,,,,
+001cv00000bBVex,Village of Bloomington,Wisconsin,Municipality,Asher Rosenfeld,752,,Tier 3,0.75,42.8853,-90.9235,9386623f-ee6f-4405-af2d-c5e5f0afb6db,,,,,,,,,,,,,,,
+001cv00000bBVf3,Town of Hull,Wisconsin,Municipality,Asher Rosenfeld,757,,Tier 3,0.75,44.9064,-90.2432,693ddad8-b460-4b15-a65b-26ebc2dec3fd,,,,,,,,,,,,,,,
+001cv00000bBVfS,Town of Howard,Wisconsin,Municipality,Asher Rosenfeld,793,,Tier 3,0.75,44.9705,-91.579,2506ca46-4fc8-4fc4-a0df-1e950cdd6a86,,,,,,,,,,,,,,,
+001cv00000bBVii,Town of Lisbon,Wisconsin,Municipality,Asher Rosenfeld,914,,Tier 3,0.75,43.1631,-88.2429,4d505164-9c2f-465c-9af7-043b6e35040d,,,,,,,,,,,,,,,
+001cv00000bBViy,Town of Caledonia,Wisconsin,Municipality,Asher Rosenfeld,929,,Tier 3,0.75,43.4735,-89.5224,65f65541-8af1-4b44-8439-d17ba8373949,,,,,,,,,,,,,,,
+001cv00000bBVj0,Town of Poy Sippi,Wisconsin,Municipality,Asher Rosenfeld,932,,Tier 3,0.75,44.1103,-88.9605,8b190834-7d98-434e-bf00-c758356032bd,,,,,,,,,,,,,,,
+001cv00000bBVl5,Town of Somers,Wisconsin,Municipality,Asher Rosenfeld,951,,Tier 3,0.75,42.6403,-87.9104,84589bbb-0fe0-46aa-a785-9cf0d023b5b6,,,,,,,,,,,,,,,
+001cv00000bBVlT,Town of Porter,Wisconsin,Municipality,Asher Rosenfeld,977,,Tier 3,0.75,42.8024,-89.1896,f206d73d-06d4-4a80-98d6-19d8705aa061,,,,,,,,,,,,,,,
+001cv00000bBVm4,Town of Oakland,Wisconsin,Municipality,Asher Rosenfeld,1019,,Tier 3,0.75,42.9767,-88.9557,f45e74d8-6b09-4721-954e-a3d749ed2c2d,,,,,,,,,,,,,,,
+001cv00000bBVoE,Town of Summit,Wisconsin,Municipality,Asher Rosenfeld,1049,,Tier 3,0.75,43.0404,-88.4851,69a681e4-1b35-4aa0-ba62-c8cee0d77130,,,,,,,,,,,,,,,
+001cv00000bBVoV,Town of Baldwin,Wisconsin,Municipality,Asher Rosenfeld,1069,,Tier 3,0.75,44.9951,-92.3237,3ee66930-a59e-400b-8413-73f86fd04004,,,,,,,,,,,,,,,
+001cv00000bBVoq,Town of Boulder Junction,Wisconsin,Municipality,Asher Rosenfeld,1090,,Tier 3,0.75,46.1129,-89.6439,fba43385-ec18-44d7-8cc8-fc53570e2066,,,,,,,,,,,,,,,
+001cv00000bBVp1,Village of Elkhart Lake,Wisconsin,Municipality,Asher Rosenfeld,1102,,Tier 3,0.75,43.8333,-88.0179,80b74c5c-d340-4d9c-bcc8-707440ca6390,,,,,,,,,,,,,,,
+001cv00000bBVp7,Town of Cedar Lake,Wisconsin,Municipality,Asher Rosenfeld,1109,,Tier 3,0.75,43.3539,-88.2925,23b0c6a0-92db-446d-b8ce-26be763ca729,,,,,,,,,,,,,,,
+001cv00000bBVsP,Town of Clarno,Wisconsin,Municipality,Asher Rosenfeld,1132,,Tier 3,0.75,42.5186,-89.6479,9a33e21a-7d93-43ce-9f0c-34fa9c73ad94,,,,,,,,,,,,,,,
+001cv00000bBVsa,Town of Montello,Wisconsin,Municipality,Asher Rosenfeld,1151,,Tier 3,0.75,43.7603,-89.3022,dd4f630c-3154-4748-9f94-c1d9fbfba283,,,,,,,,,,,,,,,
+001cv00000bBVse,Town of Lowell,Wisconsin,Municipality,Asher Rosenfeld,1155,,Tier 3,0.75,43.3403,-88.817,104b8020-eb84-4668-9a19-3d217abcda37,,,,,,,,,,,,,,,
+001cv00000bBVw5,Village of Sister Bay,Wisconsin,Municipality,Asher Rosenfeld,1170,,Tier 3,0.75,45.1872,-87.1209,d3ede91a-3541-4b96-ab97-4e2d20689d6a,,,,,,,,,,,,,,,
+001cv00000bBVw7,Town of Plymouth,Wisconsin,Municipality,Asher Rosenfeld,1172,,Tier 3,0.75,43.7714,-90.2432,57e77c8c-0f98-48c9-bec6-637103865817,,,,,,,,,,,,,,,
+001cv00000bBVwG,Village of Monticello,Wisconsin,Municipality,Asher Rosenfeld,1179,,Tier 3,0.75,42.7456,-89.5948,3e134a3c-15e2-436a-9560-7080be084532,,,,,,,,,,,,,,,
+001cv00000bBVxo,Town of Brothertown,Wisconsin,Municipality,Asher Rosenfeld,1279,,Tier 3,0.75,43.9683,-88.3084,107c0dfb-3018-478e-8f3e-5fa952eede1f,,,,,,,,,,,,,,,
+001cv00000bBVxu,Town of Gibraltar,Wisconsin,Municipality,Asher Rosenfeld,1285,,Tier 3,0.75,45.1276,-87.2464,db1ff07e-3cd3-426b-bf94-d38ca0562742,,,,,,,,,,,,,,,
+001cv00000bBVyA,Town of Nashville,Wisconsin,Municipality,Asher Rosenfeld,1302,,Tier 3,0.75,45.5227,-89.0248,ca2e7af7-9c57-42eb-b1e4-c949351c6693,,,,,,,,,,,,,,,
+001cv00000bBWBe,Village of River Hills,Wisconsin,Municipality,Asher Rosenfeld,1541,,Tier 3,0.75,43.1742,-87.9243,4bf006c4-ddf0-450a-8219-088cababb452,,,,,,,,,,,,,,,
+001cv00000bBWEk,"City of Green Bay, WI",Wisconsin,Municipality,Nick Martino,106311,Open Opportunity,Tier S,2.0,,,e8ffac7c-eeb7-44c9-ad47-2a45b3e4690f,Open,Meeting Booked,Top of Funnel,Nick Martino,5/29/2026,5/15/2026,,,13,2026-05-18,13,,,,
+001cv00000bBWIk,Village of Butler,Wisconsin,Municipality,Asher Rosenfeld,1769,,Tier 3,0.75,43.1048,-88.0695,84dd9143-9e5f-4089-9c7d-5821acff3fab,,,,,,,,,,,,,,,
+001cv00000bBWJi,Town of Richmond,Wisconsin,Municipality,Asher Rosenfeld,1838,,Tier 3,0.75,45.0646,-92.5678,fa289d65-7d97-46dd-a8e9-48ec0fe127dc,,,,,,,,,,,,,,,
+001cv00000bBWK2,Village of Trempealeau,Wisconsin,Municipality,Asher Rosenfeld,1856,,Tier 3,0.75,44.0055,-91.4421,3b073d21-5a43-4286-9705-83b3c4e1b4d5,,,,,,,,,,,,,,,
+001cv00000bBWKS,Town of Richmond,Wisconsin,Municipality,Asher Rosenfeld,1890,,Tier 3,0.75,45.0646,-92.5678,09a2e71a-39ec-4a52-8685-beb9899c4510,,,,,,,,,,,,,,,
+001cv00000bBWLv,Town of Holland,Wisconsin,Municipality,Asher Rosenfeld,4525,,Tier 3,0.75,43.5986,-87.8746,b7b69963-1ba8-4cfd-83b9-ee8feba8d56b,,,,,,,,,,,,,,,
+001cv00000bBWM6,City of Milton,Wisconsin,Municipality,Asher Rosenfeld,5778,,Tier 3,0.75,42.7756,-88.944,2ea7ff66-7bde-4668-bfb1-7961a91532e5,,,,,,,,,,,,,,,
+001cv00000bBWM9,Town of Lafayette,Wisconsin,Municipality,Asher Rosenfeld,6405,,Tier 3,0.75,42.7174,-88.4985,e766ce12-5cdb-4266-a508-76ed2f1f32e5,,,,,,,,,,,,,,,
+001cv00000bBWMt,Jefferson County,Wisconsin,County,Asher Rosenfeld,86245,,Tier S,2.0,43.0899,-88.7109,46f12ac0-1375-4d32-a99d-f469f3ed4a85,,,,,,,,,,,,,,,
+001cv00000bBWNn,Town of Excelsior,Wisconsin,Municipality,Asher Rosenfeld,1615,,Tier 3,0.75,43.5029,-89.8692,ab3b459b-b2d8-4701-8664-c7aa28b49f95,,,,,,,,,,,,,,,
+001cv00000bBWNp,Town of Dodgeville,Wisconsin,Municipality,Asher Rosenfeld,1616,,Tier 3,0.75,42.9925,-90.1398,73ea71b6-1932-4e7f-9b65-e95cf49fb32f,,,,,,,,,,,,,,,
+001cv00000bBWNq,City of Whitehall,Wisconsin,Municipality,Asher Rosenfeld,1618,,Tier 3,0.75,44.3675,-91.3165,b748d35d-5f10-42f2-8acc-3c7943748837,,,,,,,,,,,,,,,
+001cv00000bBWOF,Village of Whiting,Wisconsin,Municipality,Asher Rosenfeld,1647,,Tier 3,0.75,44.4936,-89.5587,cf44e84b-1798-4958-a6f2-105316f0ce36,,,,,,,,,,,,,,,
+001cv00000bBWOc,Town of Dell Prairie,Wisconsin,Municipality,Asher Rosenfeld,1678,,Tier 3,0.75,43.7091,-89.7922,c294e81a-789c-4fa3-a29a-1078c37d598c,,,,,,,,,,,,,,,
+001cv00000bBWPU,Town of Trimbelle,Wisconsin,Municipality,Asher Rosenfeld,1722,,Tier 3,0.75,44.7316,-92.5799,0ceaa838-aefa-4d23-95d4-cf886df812e7,,,,,,,,,,,,,,,
+001cv00000bBWQj,Village of Campbellsport,Wisconsin,Municipality,Asher Rosenfeld,1997,,Tier 3,0.75,43.5978,-88.279,d2ee5391-a25c-4198-8974-1e6df1c99ec1,,,,,,,,,,,,,,,
+001cv00000bBWRQ,Village of Fredonia,Wisconsin,Municipality,Asher Rosenfeld,2281,,Tier 3,0.75,43.4706,-87.9506,1246dfd8-5749-40ee-aa4d-f49186c7803c,,,,,,,,,,,,,,,
+001cv00000bBWU5,Outagamie County,Wisconsin,County,Asher Rosenfeld,195390,,Tier S,2.0,44.4637,-88.4016,d6df9447-77ac-43aa-8455-682158b21051,,,,,,,,,,,,,,,
+001cv00000bBWU7,Racine County,Wisconsin,County,Asher Rosenfeld,198651,,Tier S,2.0,42.7771,-87.7893,627213be-3edf-4082-a213-f65a7ab35059,,,,,,,,,,,,,,,
+001cv00000bBWY4,City of Milwaukee,Wisconsin,Municipality,Asher Rosenfeld,563531,,Tier S,2.0,43.041,-87.9097,d9eeef65-7c15-4ff8-9e2d-16143ca0f6ed,,,,,,,,,,,,,,,
+001cv00000bBWY6,County of Dane,Wisconsin,County,Asher Rosenfeld,588347,,Tier S,2.0,43.0186,-89.5498,3ba1414c-f5be-435e-9361-4e6154badb52,,,,,,,,,,,,,,,
+001cv00000bBWYu,Milwaukee County,Wisconsin,County,Asher Rosenfeld,924740,,Tier S,2.0,42.9544,-87.8665,d38b0af0-c9eb-45bb-9191-d5800f73d548,,,,,,,,,,,,,,,
+001cv00000bBWsh,Village of Maple Bluff,Wisconsin,Municipality,Asher Rosenfeld,1327,,Tier 3,0.75,43.1183,-89.3796,2ab02f93-3038-4bfc-afc8-c52a899f7564,,,,,,,,,,,,,,,
+001cv00000bBWsl,Town of Royalton,Wisconsin,Municipality,Asher Rosenfeld,1334,,Tier 3,0.75,44.3753,-88.9222,8a889ed2-9020-4d53-a4e2-852cf84452f2,,,,,,,,,,,,,,,
+001cv00000bBWtF,Town of Paris,Wisconsin,Municipality,Asher Rosenfeld,1370,,Tier 3,0.75,42.6336,-88.0515,52859d6e-60fe-4cb8-882e-55598702f8ee,,,,,,,,,,,,,,,
+001cv00000bBWte,Village of Fall Creek,Wisconsin,Municipality,Asher Rosenfeld,1391,,Tier 3,0.75,44.7636,-91.2771,303765ea-98b5-4d73-b29e-c4ce7bd6d9c2,,,,,,,,,,,,,,,
+001cv00000bBWti,Town of Adams,Wisconsin,Municipality,Asher Rosenfeld,1399,,Tier 3,0.75,43.9244,-89.7943,570ba768-e800-46cd-9ef0-557252b5e823,,,,,,,,,,,,,,,
+001cv00000bBWuc,Town of Dunn,Wisconsin,Municipality,Asher Rosenfeld,1484,,Tier 3,0.75,42.959,-89.3037,1fa85cda-c606-4e1a-ab88-c8ba460291c9,,,,,,,,,,,,,,,
+001cv00000bBX12,Waukesha County,Wisconsin,County,Asher Rosenfeld,417029,,Tier S,2.0,43.0073,-88.3239,9dd09bd2-1523-44f7-b545-cd2999a7d09f,,,,,,,,,,,,,,,
+001cv00000eSdfK,"City of Madison, WI",Wisconsin,Municipality,Nick Martino,285300,,Tier S,2.0,43.0722,-89.4008,,,,,,,,,,24,2026-04-23,24,,,,
+001cv00000iJQC0,"County of Brown, WI",Wisconsin,County,Nick Martino,275803,,Tier S,2.0,44.2685,-89.6165,,,,,,,,,,24,2026-05-26,24,,,,

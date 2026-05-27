@@ -1,94 +1,94 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Joe del Rosario,Calls - Ali Cohen,Calls - Jenny Allison,Outreach ID
-001Hr000028Zbs2,"City Of Whitefish, MT",Montana,Municipality,Ali Cohen,8492,,Tier 3,0.75,48.4106,-114.3353,004a6719-8cc0-4122-919d-ea8b284e35ae,,,,,,,,,7,2026-01-12,3,4,,4159
-001Hr000028Zc8k,"City Of Glendive, MT",Montana,Municipality,Ali Cohen,4871,,Tier 3,0.75,47.1064,-104.7108,4d255d6f-7dd2-4795-ae16-a4d03555aa35,,,,,,,,,12,2025-11-13,,12,,3451
-001Hr000028ZcB0,"City Of Sidney, MT",Montana,Municipality,Ali Cohen,6197,Nurture,Tier 3,0.75,47.7167,-104.1563,932f7f96-506d-4c15-a726-185ee1aac333,Closed Lost,,,Liam Shaw,10/22/2024,1/5/2025,"$12,001",,1,2025-08-06,1,,,3843
-001Hr000028ZcDB,"City Of Great Falls, MT",Montana,Municipality,Joe del Rosario,60403,Open Opportunity,Tier S,2.0,47.5053,-111.3008,701cadbf-4a57-456b-bffb-fb41ddc562c9,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,19,2026-01-22,11,8,,11570
-001Hr000028ZcRG,"City Of Livingston, MT",Montana,Municipality,Ali Cohen,8386,,Tier 3,0.75,45.6614,-110.56,1210c474-9aee-4b02-a081-a7e4974e1105,,,,,,,,,21,2025-11-10,13,8,,4224
-001Hr000028ZcTN,"City Of Columbia Falls, MT",Montana,Municipality,Ali Cohen,5545,,Tier 3,0.75,48.38,-114.1804,ea5402cc-47e4-418b-9c9d-2f05da8bee30,,,,,,,,,4,2026-04-08,2,,2,3641
-001Hr000028ZcZo,"City Of Lewistown, MT",Montana,Municipality,Ali Cohen,6048,,Tier 3,0.75,47.0625,-109.4282,096d7d4c-3cc0-4d01-8274-fe306a62304f,,,,,,,,,7,2025-07-01,7,,,3732
-001Hr000028ZcdB,"City Of Polson, MT",Montana,Municipality,Ali Cohen,5357,1+ Module Live,Tier 3,0.75,47.6932,-114.1631,bf195972-1640-47ea-aaea-21e9193d6a3c,Closed Won,,,Liam Shaw,10/25/2024,1/5/2025,"$20,500",,,,,,,3452
-001Hr000028Zcgt,"City Of Laurel, MT",Montana,Municipality,Ali Cohen,7180,,Tier 3,0.75,45.6691,-108.7715,5b3c7bf0-9d9e-4c32-8f5c-1c4c17e49819,,,,,,,,,1,2025-05-21,1,,,4005
-001Hr000028Zcrl,"City Of Miles City, MT",Montana,Municipality,Ali Cohen,8397,,Tier 3,0.75,46.4083,-105.8406,430f1906-3bac-42f4-9a66-da3f2ad208c4,,,,,,,,,,,,,,4298
-001Hr000028ZcuM,"Anaconda-Deer Lodge County, MT",Montana,Municipality,Ali Cohen,9380,,Tier 3,0.75,46.1263,-112.9478,8985ef7c-5367-4d9b-b45b-ac6402bd855b,,,,,,,,,4,2025-08-21,4,,,4474
-001Hr000028ZcxF,"City Of Belgrade, MT",Montana,Municipality,Ali Cohen,11608,,Tier 2,1.0,45.7762,-111.1771,a65b7749-0e90-440a-b6b9-50b1ee492df2,,,,,,,,,,,,,,4644
-001Hr000028Zd6p,"City Of Helena, MT",Montana,Municipality,Ali Cohen,33120,,Tier 1,1.5,46.5891,-112.0391,2e74e532-5b2a-4ced-90c1-350630d7dc31,,,,,,,,,5,2025-10-30,1,4,,5902
-001Hr000028Zd7D,"City Of Kalispell, MT",Montana,Municipality,Ali Cohen,26110,,Tier 1,1.5,48.192,-114.3168,7a4eb5a6-a56f-445d-bb50-24f8d11bba21,,,,,,,,,22,2025-11-10,11,11,,5619
-001Hr000028Zd7X,"Lake County, MT",Montana,County,Ali Cohen,,,Tier 3,0.75,47.6714,-114.1339,c03e8176-9f22-4c0c-9e46-952779fdd9b7,,,,,,,,,,,,,,12302
-001Hr000028ZdAl,"City and County of Butte-Silver Bow, MT",Montana,Municipality,Ali Cohen,34368,All Modules Live,Tier 1,1.5,45.8804,-112.5843,43e5bf3f-9c48-4f53-97cf-916f6deb1863,Closed Won,,,Joe del Rosario,3/31/2025,1/5/2025,"$59,000",,,,,,,5950
-001Hr000028ZdT3,"City Of Missoula, MT",Montana,Municipality,Ali Cohen,74822,Nurture,Tier S,2.0,46.8721,-113.994,749d9be3-038b-470f-83a6-836c4f764684,Closed Lost,,,Joe del Rosario,9/26/2025,8/29/2025,,,10,2025-10-16,10,,,11564
-001Hr000028ZdhR,"Yellowstone County, MT",Montana,County,Ali Cohen,171583,Recent Competitor Purchase,Tier S,2.0,45.7857,-108.4344,8d34b8d3-9b4d-45ba-a493-58858169ed79,Closed Lost,,,Joe del Rosario,9/2/2025,8/22/2025,,,10,2025-11-24,8,2,,12444
-001Hr000028Zdkt,"Ravalli County, MT",Montana,County,Ali Cohen,48187,,Tier 1,1.5,46.0175,-114.1817,130caccb-922d-4455-a27e-a98c6caa03fa,,,,,,,,,5,2025-11-03,,5,,12333
-001Hr000028Zds1,"Cascade County, MT",Montana,County,Ali Cohen,84523,,Tier S,2.0,47.4688,-111.5453,8d723f26-a369-4afb-97d0-8c2b9cba538a,,,,,,,,,1,2025-11-13,,1,,12314
-001Hr000028ZdsM,"Flathead County, MT",Montana,County,Ali Cohen,114527,,Tier S,2.0,48.4242,-114.1531,c74b8348-1e3d-4453-a4f4-e726dc9ed250,,,,,,,,,5,2025-11-17,,5,,12453
-001Hr000028ZduM,"Gallatin County, MT",Montana,County,Ali Cohen,126409,,Tier S,2.0,45.5389,-111.1194,b0d75d1a-9c61-47d9-973c-73e61e9dea9f,,,,,,,,,,,,,,12458
-001cv00000AuWQQ,"County Of Judith Basin, MT",Montana,County,Ali Cohen,2044,,Tier 3,0.75,47.0609,-110.2577,2435b7b3-87b7-4d7b-a350-47a99b0ffc53,,,,,,,,,,,,,,13013
-001cv00000AuWVd,"City Of Colstrip, MT",Montana,Municipality,Ali Cohen,2052,,Tier 3,0.75,45.8842,-106.6236,afcdc295-e7fd-4cba-af26-d34d5b0b97b3,,,,,,,,,,,,,,13234
-001cv00000AuWXi,"County Of Wheatland, MT",Montana,County,Ali Cohen,2059,,Tier 3,0.75,46.4923,-109.8419,bb3789d8-df36-4e9d-ba5d-3b0e090beb11,,,,,,,,,,,,,,13269
-001cv00000AuWZO,"Town Of Stevensville, MT",Montana,Municipality,Ali Cohen,2092,,Tier 3,0.75,46.5099,-114.0932,ed87e400-3818-42c9-8291-b05f99d74cbc,,,,,,,,,,,,,,13372
-001cv00000AuWbJ,"Town Of Manhattan, MT",Montana,Municipality,Ali Cohen,2128,Open Opportunity,Tier 3,0.75,45.8578,-111.3311,77051fa8-7414-4374-93d1-c50c271a69a6,Closed Lost,,,Joe del Rosario,7/25/2025,7/8/2025,,,1,2025-07-08,1,,,13106
-001cv00000AuWc2,"City Of Ronan, MT",Montana,Municipality,Ali Cohen,2142,,Tier 3,0.75,47.5288,-114.1015,e4ae7481-8a72-4931-93f8-1a932bf120fe,,,,,,,,,,,,,,13085
-001cv00000AuX9o,"City Of Red Lodge, MT",Montana,Municipality,Ali Cohen,2339,,Tier 3,0.75,45.1869,-109.247,4e57fb69-fe1b-40e5-b631-72133589065f,,,,,,,,,3,2025-12-11,1,2,,13903
-001cv00000AuXAM,"City Of Conrad, MT",Montana,Municipality,Ali Cohen,2354,,Tier 3,0.75,48.1683,-111.9447,d452ebc1-017a-4a56-ac2e-d85cd5c72d86,,,,,,,,,3,2026-04-15,2,,1,14075
-001cv00000AuXmE,"City Of Libby, MT",Montana,Municipality,Ali Cohen,2903,,Tier 3,0.75,48.3883,-115.556,42f31564-4cb2-4f5d-89cf-8b1a4e4c7682,,,,,,,,,2,2025-09-23,2,,,14828
-001cv00000AuXn6,"City Of Deer Lodge, MT",Montana,Municipality,Ali Cohen,2935,,Tier 3,0.75,46.3991,-112.7384,53665384-a00d-4cbb-b088-3753f060fe35,,,,,,,,,2,2025-10-24,,2,,14859
-001cv00000AuY7V,"County Of Sheridan, MT",Montana,County,Ali Cohen,3527,,Tier 3,0.75,45.4555,-112.1969,69e4fcab-2bc7-4672-8be1-40c0164c535e,,,,,,,,,,,,,,15706
-001cv00000AuYAi,"City Of Glasgow, MT",Montana,Municipality,Ali Cohen,3180,,Tier 3,0.75,48.197,-106.6367,ddd170b7-23d2-4f95-a98d-53a0b26ad709,,,,,,,,,9,2025-07-24,9,,,15665
-001cv00000AuYD5,"City Of Shelby, MT",Montana,Municipality,Ali Cohen,3153,,Tier 3,0.75,48.5067,-111.8561,f5d797b2-9757-47b0-8c19-5aa2b6710db1,,,,,,,,,1,2025-09-04,1,,,15323
-001cv00000AuYFN,"County Of Fallon, MT",Montana,County,Ali Cohen,3017,,Tier 3,0.75,46.8349,-105.1214,9704b4e0-9c58-4e20-98d8-58a7dc63b52c,,,,,,,,,,,,,,14952
-001cv00000AuYGF,"City Of Cut Bank, MT",Montana,Municipality,Ali Cohen,3046,,Tier 3,0.75,48.633,-112.3262,b68ac7c8-14bd-4a4a-9739-62adfdb809c5,,,,,,,,,9,2025-12-12,3,6,,15163
-001cv00000AuYIw,"County Of Granite, MT",Montana,County,Ali Cohen,3344,,Tier 3,0.75,46.3174,-113.2445,f946693a-ce03-40af-be8e-9b057e449516,,,,,,,,,2,2025-12-08,,2,,15840
-001cv00000AuYlA,"City Of Dillon, MT",Montana,Municipality,Ryan Minter,3976,,Tier 3,0.75,45.2166,-112.6389,9f5cbad6-e0a7-4137-842e-99ddd786d9db,,,,,,,,,,,,,,16496
-001cv00000AuYpK,"County Of Phillips, MT",Montana,County,Ali Cohen,4192,,Tier 3,0.75,48.4519,-107.8778,92eaefb1-bea5-450e-b958-028bcca4da89,,,,,,,,,,,,,,16723
-001cv00000AuYrB,"City Of Hardin, MT",Montana,Municipality,Ali Cohen,3685,,Tier 3,0.75,45.7325,-107.612,20775d19-3571-4bd0-a699-9de8c15d40b3,,,,,,,,,,,,,,16422
-001cv00000AuYs5,"County Of Sweet Grass, MT",Montana,County,Ali Cohen,3723,,Tier 3,0.75,48.9961,-111.9676,2901ef94-baff-4fe9-a0dc-af76e3eb4eaa,,,,,,,,,,,,,,16315
-001cv00000AuZAm,"County Of Chouteau, MT",Montana,County,Ali Cohen,5916,,Tier 3,0.75,48.0033,-110.4738,d1286c31-58bc-4304-94e0-685453fa2d4a,,,,,,,,,9,2025-07-24,9,,,17124
-001cv00000AuZB3,"County Of Pondera, MT",Montana,County,Ali Cohen,5994,,Tier 3,0.75,48.2322,-112.2886,e177523b-edf5-4e14-8b6c-3525d6c6118c,,,,,,,,,,,,,,17072
-001cv00000AuZBl,"County Of Teton, MT",Montana,County,Ali Cohen,6269,,Tier 3,0.75,47.902,-112.2718,33149750-f0d1-4dc9-8899-33cd35ba1564,,,,,,,,,9,2025-07-24,9,,,17105
-001cv00000AuZCz,"County Of Blaine, MT",Montana,County,Ali Cohen,6980,,Tier 3,0.75,48.6065,-108.9462,ef525033-209a-41cb-a11c-bc3fd14626a4,,,,,,,,,1,2025-07-29,1,,,17196
-001cv00000AuZD3,"County Of Powell, MT",Montana,County,Ali Cohen,6999,,Tier 3,0.75,46.9311,-112.9745,f945f329-a9e6-4a4d-90f4-2fd61c3c38ac,,,,,,,,,3,2026-03-09,,3,,17140
-001cv00000AuZMm,"County Of Mineral, MT",Montana,County,Ali Cohen,4860,,Tier 3,0.75,47.1497,-114.9627,a5a1c8ed-a252-4620-bba0-0fd63839927a,,,,,,,,,,,,,,17395
-001cv00000AuZNJ,"County Of Musselshell, MT",Montana,County,Ali Cohen,4896,,Tier 3,0.75,46.4219,-108.4065,7e03b715-f97f-4e02-ac80-0293cf96fc89,,,,,,,,,6,2025-11-18,,6,,17328
-001cv00000AuZNU,"City Of Hamilton, MT",Montana,Municipality,Ali Cohen,4905,,Tier 3,0.75,46.2471,-114.1548,212727c2-37b4-4417-8769-9b275f618fc1,,,,,,,,,1,2026-04-08,,,1,17386
-001cv00000AuZQo,"County Of Broadwater, MT",Montana,County,Ali Cohen,7288,,Tier 3,0.75,46.2694,-111.452,cf04cf0c-a47d-4b0b-ac00-5189f705d0f8,,,,,,,,,2,2025-08-07,2,,,17720
-001cv00000AuZRN,"County Of Valley, MT",Montana,County,Ali Cohen,7537,,Tier 3,0.75,48.2856,-106.8305,430045a2-038e-4dd2-8ae9-69a6342d097a,,,,,,,,,,,,,,17706
-001cv00000AuZSL,"County Of Toole, MT",Montana,County,Ali Cohen,5011,,Tier 3,0.75,48.6974,-111.6408,ba0a1713-b3ca-4ed0-901f-0f8edc260308,,,,,,,,,,,,,,17699
-001cv00000AuZVk,"County Of Rosebud, MT",Montana,County,Ali Cohen,8124,,Tier 3,0.75,46.2744,-106.4447,be3a4daa-720d-45f9-9fd5-6b8cb6fe4d19,,,,,,,,,3,2026-04-08,,3,,17693
-001cv00000AuZZ4,"County Of Stillwater, MT",Montana,County,Ali Cohen,9044,,Tier 3,0.75,45.7001,-109.3922,1b4ca9a1-6a91-4724-8ae6-2358f9491f05,,,,,,,,,2,2025-07-29,2,,,18346
-001cv00000AuZZV,"City Of Havre, MT",Montana,Municipality,Ali Cohen,9314,,Tier 3,0.75,48.55,-109.6841,18704eb7-723a-44a0-bd9d-cf8acc918682,,,,,,,,,1,2025-07-29,1,,,18389
-001cv00000AuZZu,"County Of Beaverhead, MT",Montana,County,Ali Cohen,9524,,Tier 3,0.75,45.2135,-113.1093,58204739-9cc9-432d-9b96-3868f505796a,,,,,,,,,,,,,,18460
-001cv00000AuZaR,"County Of Richland, MT",Montana,County,Ali Cohen,11283,,Tier 2,1.0,47.9201,-104.8017,00c727d1-e8ec-4b89-96a9-88c6894da5dd,,,,,,,,,5,2025-08-20,5,,,18490
-001cv00000AuZar,"County Of Fergus, MT",Montana,County,Ali Cohen,11617,,Tier 2,1.0,47.2127,-109.4141,798de5db-6b08-47cd-b578-b3ab6f89c4b3,,,,,,,,,,,,,,18310
-001cv00000AuZbB,"County Of Custer, MT",Montana,County,Ali Cohen,11916,,Tier 2,1.0,46.2161,-105.6225,f930ebeb-c8f2-4f82-b270-a49e46259598,,,,,,,,,,,,,,18246
-001cv00000AuZdj,"County Of Dawson, MT",Montana,County,Ali Cohen,8904,,Tier 3,0.75,47.2649,-104.8939,075c43bc-9f47-48e4-b3e0-82798b577ad0,,,,,,,,,1,2025-07-29,1,,,17775
-001cv00000AuZdm,"County Of Madison, MT",Montana,County,Ali Cohen,8917,,Tier 3,0.75,45.4667,-111.8865,67f01796-f432-4134-910b-65bf8c344ae9,,,,,,,,,,,,,,17850
-001cv00000AuZfm,"County Of Big Horn, MT",Montana,County,Ali Cohen,12957,,Tier 2,1.0,45.3497,-107.2716,f387aead-ca9c-4fef-9f68-c26147d9c4d6,,,,,,,,,,,,,,18235
-001cv00000AuZfn,"County Of Sanders, MT",Montana,County,Ali Cohen,12959,,Tier 2,1.0,47.6109,-115.1317,9b36d8da-3c82-45ee-b454-ecff9309e7ae,,,,,,,,,4,2026-04-22,,4,,18181
-001cv00000AuZiX,"County Of Jefferson, MT",Montana,County,Ali Cohen,12470,,Tier 2,1.0,46.1451,-112.0753,bc4baa7b-61d4-448d-9971-ab9b8e46d88e,,,,,,,,,11,2025-08-27,11,,,18139
-001cv00000AuZlR,"County Of Roosevelt, MT",Montana,County,Ali Cohen,10821,,Tier 2,1.0,48.285,-105.1099,2680f7c3-3b40-4d15-ba3c-090b653b29b7,,,,,,,,,1,2026-03-03,,1,,17974
-001cv00000AuZlT,"County Of Carbon, MT",Montana,County,Ali Cohen,10847,Open Opportunity,Tier 2,1.0,45.282,-109.1003,97aa03f2-cc97-4e4b-8b1f-a7863b60614b,Open,Initial Interest,Top of Funnel,Ali Cohen,,4/8/2026,,,5,2026-04-14,,5,,17960
-001cv00000AuZn9,"County Of Glacier, MT",Montana,County,Ali Cohen,13785,,Tier 2,1.0,48.5217,-112.9197,2a3ef2b2-ad55-44b3-8910-fe58f14b5467,,,,,,,,,1,2025-11-04,,1,,17957
-001cv00000AuZpH,"County Of Hill, MT",Montana,County,Ali Cohen,16179,,Tier 2,1.0,48.7488,-110.0351,24e78447-d663-4d38-81c3-65a8460e1b15,,,,,,,,,4,2026-01-12,1,3,,17848
-001cv00000AuZth,"County Of Park, MT",Montana,County,Ali Cohen,17473,,Tier 2,1.0,45.4788,-110.6083,cc2f8df3-929a-4a5f-84f6-f92ef90f4829,,,,,,,,,5,2025-09-05,5,,,18550
-001cv00000Aua3p,"County Of Lincoln, MT",Montana,County,Ali Cohen,20525,,Tier 2,1.0,46.9549,-112.6817,a006f777-e555-48fb-8773-71fa311140dd,,,,,,,,,10,2026-02-11,1,9,,18752
-001cv00000AuaN9,"City Of Bozeman, MT",Montana,Municipality,Ali Cohen,54539,Open Opportunity,Tier S,2.0,45.6793,-111.0373,07171c3b-928b-41ae-a4e0-30eb1c7dcc4e,Open,Initial Interest,Top of Funnel,Emily Murnane,,5/6/2026,,,24,2025-11-21,,24,,19608
-001cv00000AuaWG,"County Of Lewis And Clark, MT",Montana,County,Ali Cohen,72223,Open Opportunity,Tier S,2.0,47.2964,-112.403,89587996-2179-4992-8657-4a6f6a1db4cd,Open,Initial Interest,Top of Funnel,Ali Cohen,,10/24/2025,,,8,2026-04-29,,8,,19921
-001cv00000B21sZ,"City Of Wolf Point, MT",Montana,Municipality,Ali Cohen,2611,,Tier 3,0.75,48.0906,-105.6406,f527ad94-7fa7-4e2d-abe2-9692e5e74eca,,,,,,,,,,,,,,20233
-001cv00000bBVeT,Town of Bridger,Montana,Municipality,Asher Rosenfeld,716,,Tier 3,0.75,45.2958,-108.9138,e40b39b2-8909-4e81-9c0b-53a5c9394021,,,,,,,,,,,,,,21183
-001cv00000bBVic,City of Troy,Montana,Municipality,Asher Rosenfeld,911,,Tier 3,0.75,48.4641,-115.8899,65368ab2-170e-4b33-a58b-f9dd8b95c296,,,,,,,,,,,,,,21328
-001cv00000bBVid,Wibaux County,Montana,County,Asher Rosenfeld,911,,Tier 3,0.75,46.7837,-104.3184,c1e973e3-7d44-4054-8b90-e576524cbd86,,,,,,,,,,,,,,21297
-001cv00000bBVif,Town of Philipsburg,Montana,Municipality,Asher Rosenfeld,913,,Tier 3,0.75,46.3325,-113.2944,36600207-c089-495e-a018-711b28fee688,,,,,,,,,,,,,,21302
-001cv00000bBVkr,Town of Superior,Montana,Municipality,Asher Rosenfeld,940,,Tier 3,0.75,47.1916,-114.8918,1253f73a-b840-4daf-9c30-9ea3e2b6740e,,,,,,,,,,,,,,21359
-001cv00000bBVpA,Prairie County,Montana,County,Asher Rosenfeld,1112,,Tier 3,0.75,46.7981,-105.4045,1fd23e80-3b1e-4cda-a091-cce13ab807aa,,,,,,,,,,,,,,21575
-001cv00000bBVwl,Town of West Yellowstone,Montana,Municipality,Asher Rosenfeld,1202,,Tier 3,0.75,44.6621,-111.1041,f9e01a5b-279c-4ea2-b401-3523af36bc37,,,,,,,,,,,,,,21594
-001cv00000bBW3m,Powder River County,Montana,County,Asher Rosenfeld,1734,,Tier 3,0.75,45.2968,-105.5347,6b0bef19-7613-4622-897a-6af9fc2b26e3,,,,,,,,,,,,,,21707
-001cv00000bBWD8,City of Three Forks,Montana,Municipality,Asher Rosenfeld,1945,,Tier 3,0.75,45.8924,-111.5522,80f4d98d-e640-460b-8a1b-50b1ffe9e9f0,,,,,,,,,,,,,,22022
-001cv00000bBWIi,City of Baker,Montana,Municipality,Asher Rosenfeld,1767,,Tier 3,0.75,46.3695,-104.2774,6a2597e6-8cfe-4547-9dca-2db60351b200,,,,,,,,,,,,,,21736
-001cv00000bBWJE,City of Choteau,Montana,Municipality,Asher Rosenfeld,1804,,Tier 3,0.75,47.8125,-112.1836,86a7f0c6-7430-452e-bfbb-dc3122f134b8,,,,,,,,,,,,,,21783
-001cv00000bBWNu,Daniels County,Montana,County,Asher Rosenfeld,1625,,Tier 3,0.75,48.7744,-105.7249,cfdcf05f-d3f3-4874-9438-5a1c1a24c8be,,,,,,,,,,,,,,22064
-001cv00000bBWPQ,McCone County,Montana,County,Asher Rosenfeld,1717,,Tier 3,0.75,47.4501,-105.8811,e229c566-2295-45af-a991-5b1a1f969bbd,,,,,,,,,,,,,,22182
-001cv00000bBWQq,City of Roundup,Montana,Municipality,Asher Rosenfeld,2017,,Tier 3,0.75,46.4452,-108.5418,ecf3ceb1-0bcb-4abe-ac63-e1171d012092,,,,,,,,,,,,,,22219
-001cv00000bBWR8,Meagher County,Montana,County,Asher Rosenfeld,2065,,Tier 3,0.75,46.6202,-110.8848,1250833a-fc4e-40f7-b4a5-6a2e6c9a5e88,,,,,,,,,,,,,,22191
-001cv00000bBWRO,City of Townsend,Montana,Municipality,Asher Rosenfeld,2209,,Tier 3,0.75,46.3191,-111.5208,c75a1741-8aaa-4d2b-9d53-8f5bfae31f20,,,,,,,,,,,,,,22233
-001cv00000bBWRP,City of East Helena,Montana,Municipality,Asher Rosenfeld,2239,,Tier 3,0.75,46.5897,-111.9155,0712c695-b9fa-4617-bc2b-1ec4c86ae3a4,,,,,,,,,,,,,,22242
-001cv00000bBWSO,City of Billings,Montana,Municipality,Asher Rosenfeld,121483,,Tier S,2.0,45.7828,-108.5046,d320c79a-398b-413a-bbca-08df6c444071,,,,,,,,,,,,,,22317
-001cv00000bBWth,Carter County,Montana,County,Asher Rosenfeld,1399,,Tier 3,0.75,45.4522,-104.3708,c0c14e4a-5eef-4fce-ac08-b5a9accf1f0b,,,,,,,,,,,,,,22636
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Ali Cohen,Calls - Joe del Rosario,Calls - Jenny Allison,Salesforce ID
+001Hr000028Zbs2,"City Of Whitefish, MT",Montana,Municipality,Ali Cohen,8492,,Tier 3,0.75,48.4106,-114.3353,004a6719-8cc0-4122-919d-ea8b284e35ae,,,,,,,,,7,2026-01-12,4,3,,
+001Hr000028Zc8k,"City Of Glendive, MT",Montana,Municipality,Ali Cohen,4871,,Tier 3,0.75,47.1064,-104.7108,4d255d6f-7dd2-4795-ae16-a4d03555aa35,,,,,,,,,12,2025-11-13,12,,,
+001Hr000028ZcB0,"City Of Sidney, MT",Montana,Municipality,Ali Cohen,6197,Nurture,Tier 3,0.75,47.7167,-104.1563,932f7f96-506d-4c15-a726-185ee1aac333,Closed Lost,,,Liam Shaw,10/22/2024,1/5/2025,"$12,001",,1,2025-08-06,,1,,
+001Hr000028ZcDB,"City Of Great Falls, MT",Montana,Municipality,Joe del Rosario,60403,Open Opportunity,Tier S,2.0,47.5053,-111.3008,701cadbf-4a57-456b-bffb-fb41ddc562c9,Open,Initial Interest,Top of Funnel,Asher Rosenfeld,,1/5/2025,,,19,2026-01-22,8,11,,
+001Hr000028ZcRG,"City Of Livingston, MT",Montana,Municipality,Ali Cohen,8386,,Tier 3,0.75,45.6614,-110.56,1210c474-9aee-4b02-a081-a7e4974e1105,,,,,,,,,21,2025-11-10,8,13,,
+001Hr000028ZcTN,"City Of Columbia Falls, MT",Montana,Municipality,Ali Cohen,5545,,Tier 3,0.75,48.38,-114.1804,ea5402cc-47e4-418b-9c9d-2f05da8bee30,,,,,,,,,4,2026-04-08,,2,2,
+001Hr000028ZcZo,"City Of Lewistown, MT",Montana,Municipality,Ali Cohen,6048,,Tier 3,0.75,47.0625,-109.4282,096d7d4c-3cc0-4d01-8274-fe306a62304f,,,,,,,,,4,2025-07-01,,4,,
+001Hr000028ZcdB,"City Of Polson, MT",Montana,Municipality,Ali Cohen,5357,1+ Module Live,Tier 3,0.75,47.6932,-114.1631,bf195972-1640-47ea-aaea-21e9193d6a3c,Closed Won,,,Liam Shaw,10/25/2024,1/5/2025,"$20,500",,,,,,,
+001Hr000028Zcgt,"City Of Laurel, MT",Montana,Municipality,Ali Cohen,7180,,Tier 3,0.75,45.6691,-108.7715,5b3c7bf0-9d9e-4c32-8f5c-1c4c17e49819,,,,,,,,,,,,,,
+001Hr000028Zcrl,"City Of Miles City, MT",Montana,Municipality,Ali Cohen,8397,,Tier 3,0.75,46.4083,-105.8406,430f1906-3bac-42f4-9a66-da3f2ad208c4,,,,,,,,,,,,,,
+001Hr000028ZcuM,"Anaconda-Deer Lodge County, MT",Montana,Municipality,Ali Cohen,9380,,Tier 3,0.75,46.1263,-112.9478,8985ef7c-5367-4d9b-b45b-ac6402bd855b,,,,,,,,,4,2025-08-21,,4,,
+001Hr000028ZcxF,"City Of Belgrade, MT",Montana,Municipality,Ali Cohen,11608,,Tier 2,1.0,45.7762,-111.1771,a65b7749-0e90-440a-b6b9-50b1ee492df2,,,,,,,,,,,,,,
+001Hr000028Zd6p,"City Of Helena, MT",Montana,Municipality,Ali Cohen,33120,,Tier 1,1.5,46.5891,-112.0391,2e74e532-5b2a-4ced-90c1-350630d7dc31,,,,,,,,,5,2025-10-30,4,1,,
+001Hr000028Zd7D,"City Of Kalispell, MT",Montana,Municipality,Ali Cohen,26110,,Tier 1,1.5,48.192,-114.3168,7a4eb5a6-a56f-445d-bb50-24f8d11bba21,,,,,,,,,22,2025-11-10,11,11,,
+001Hr000028Zd7X,"Lake County, MT",Montana,County,Ali Cohen,,,Tier 3,0.75,47.6714,-114.1339,c03e8176-9f22-4c0c-9e46-952779fdd9b7,,,,,,,,,,,,,,
+001Hr000028ZdAl,"City and County of Butte-Silver Bow, MT",Montana,Municipality,Ali Cohen,34368,All Modules Live,Tier 1,1.5,45.8804,-112.5843,43e5bf3f-9c48-4f53-97cf-916f6deb1863,Closed Won,,,Joe del Rosario,3/31/2025,1/5/2025,"$59,000",,,,,,,
+001Hr000028ZdT3,"City Of Missoula, MT",Montana,Municipality,Ali Cohen,74822,Nurture,Tier S,2.0,46.8721,-113.994,749d9be3-038b-470f-83a6-836c4f764684,Closed Lost,,,Joe del Rosario,9/26/2025,8/29/2025,,,10,2025-10-16,,10,,
+001Hr000028ZdhR,"Yellowstone County, MT",Montana,County,Ali Cohen,171583,Recent Competitor Purchase,Tier S,2.0,45.7857,-108.4344,8d34b8d3-9b4d-45ba-a493-58858169ed79,Closed Lost,,,Joe del Rosario,9/2/2025,8/22/2025,,,10,2025-11-24,2,8,,
+001Hr000028Zdkt,"Ravalli County, MT",Montana,County,Ali Cohen,48187,,Tier 1,1.5,46.0175,-114.1817,130caccb-922d-4455-a27e-a98c6caa03fa,,,,,,,,,5,2025-11-03,5,,,
+001Hr000028Zds1,"Cascade County, MT",Montana,County,Ali Cohen,84523,,Tier S,2.0,47.4688,-111.5453,8d723f26-a369-4afb-97d0-8c2b9cba538a,,,,,,,,,1,2025-11-13,1,,,
+001Hr000028ZdsM,"Flathead County, MT",Montana,County,Ali Cohen,114527,,Tier S,2.0,48.4242,-114.1531,c74b8348-1e3d-4453-a4f4-e726dc9ed250,,,,,,,,,5,2025-11-17,5,,,
+001Hr000028ZduM,"Gallatin County, MT",Montana,County,Ali Cohen,126409,,Tier S,2.0,45.5389,-111.1194,b0d75d1a-9c61-47d9-973c-73e61e9dea9f,,,,,,,,,,,,,,
+001cv00000AuWQQ,"County Of Judith Basin, MT",Montana,County,Ali Cohen,2044,,Tier 3,0.75,47.0609,-110.2577,2435b7b3-87b7-4d7b-a350-47a99b0ffc53,,,,,,,,,,,,,,
+001cv00000AuWVd,"City Of Colstrip, MT",Montana,Municipality,Ali Cohen,2052,,Tier 3,0.75,45.8842,-106.6236,afcdc295-e7fd-4cba-af26-d34d5b0b97b3,,,,,,,,,,,,,,
+001cv00000AuWXi,"County Of Wheatland, MT",Montana,County,Ali Cohen,2059,,Tier 3,0.75,46.4923,-109.8419,bb3789d8-df36-4e9d-ba5d-3b0e090beb11,,,,,,,,,,,,,,
+001cv00000AuWZO,"Town Of Stevensville, MT",Montana,Municipality,Ali Cohen,2092,,Tier 3,0.75,46.5099,-114.0932,ed87e400-3818-42c9-8291-b05f99d74cbc,,,,,,,,,,,,,,
+001cv00000AuWbJ,"Town Of Manhattan, MT",Montana,Municipality,Ali Cohen,2128,Open Opportunity,Tier 3,0.75,45.8578,-111.3311,77051fa8-7414-4374-93d1-c50c271a69a6,Closed Lost,,,Joe del Rosario,7/25/2025,7/8/2025,,,1,2025-07-08,,1,,
+001cv00000AuWc2,"City Of Ronan, MT",Montana,Municipality,Ali Cohen,2142,,Tier 3,0.75,47.5288,-114.1015,e4ae7481-8a72-4931-93f8-1a932bf120fe,,,,,,,,,,,,,,
+001cv00000AuX9o,"City Of Red Lodge, MT",Montana,Municipality,Ali Cohen,2339,,Tier 3,0.75,45.1869,-109.247,4e57fb69-fe1b-40e5-b631-72133589065f,,,,,,,,,3,2025-12-11,2,1,,
+001cv00000AuXAM,"City Of Conrad, MT",Montana,Municipality,Ali Cohen,2354,,Tier 3,0.75,48.1683,-111.9447,d452ebc1-017a-4a56-ac2e-d85cd5c72d86,,,,,,,,,3,2026-04-15,,2,1,
+001cv00000AuXmE,"City Of Libby, MT",Montana,Municipality,Ali Cohen,2903,,Tier 3,0.75,48.3883,-115.556,42f31564-4cb2-4f5d-89cf-8b1a4e4c7682,,,,,,,,,2,2025-09-23,,2,,
+001cv00000AuXn6,"City Of Deer Lodge, MT",Montana,Municipality,Ali Cohen,2935,,Tier 3,0.75,46.3991,-112.7384,53665384-a00d-4cbb-b088-3753f060fe35,,,,,,,,,2,2025-10-24,2,,,
+001cv00000AuY7V,"County Of Sheridan, MT",Montana,County,Ali Cohen,3527,,Tier 3,0.75,45.4555,-112.1969,69e4fcab-2bc7-4672-8be1-40c0164c535e,,,,,,,,,,,,,,
+001cv00000AuYAi,"City Of Glasgow, MT",Montana,Municipality,Ali Cohen,3180,,Tier 3,0.75,48.197,-106.6367,ddd170b7-23d2-4f95-a98d-53a0b26ad709,,,,,,,,,9,2025-07-24,,9,,
+001cv00000AuYD5,"City Of Shelby, MT",Montana,Municipality,Ali Cohen,3153,,Tier 3,0.75,48.5067,-111.8561,f5d797b2-9757-47b0-8c19-5aa2b6710db1,,,,,,,,,1,2025-09-04,,1,,
+001cv00000AuYFN,"County Of Fallon, MT",Montana,County,Ali Cohen,3017,,Tier 3,0.75,46.8349,-105.1214,9704b4e0-9c58-4e20-98d8-58a7dc63b52c,,,,,,,,,,,,,,
+001cv00000AuYGF,"City Of Cut Bank, MT",Montana,Municipality,Ali Cohen,3046,,Tier 3,0.75,48.633,-112.3262,b68ac7c8-14bd-4a4a-9739-62adfdb809c5,,,,,,,,,9,2025-12-12,6,3,,
+001cv00000AuYIw,"County Of Granite, MT",Montana,County,Ali Cohen,3344,,Tier 3,0.75,46.3174,-113.2445,f946693a-ce03-40af-be8e-9b057e449516,,,,,,,,,2,2025-12-08,2,,,
+001cv00000AuYlA,"City Of Dillon, MT",Montana,Municipality,Ryan Minter,3976,,Tier 3,0.75,45.2166,-112.6389,9f5cbad6-e0a7-4137-842e-99ddd786d9db,,,,,,,,,,,,,,
+001cv00000AuYpK,"County Of Phillips, MT",Montana,County,Ali Cohen,4192,,Tier 3,0.75,48.4519,-107.8778,92eaefb1-bea5-450e-b958-028bcca4da89,,,,,,,,,,,,,,
+001cv00000AuYrB,"City Of Hardin, MT",Montana,Municipality,Ali Cohen,3685,,Tier 3,0.75,45.7325,-107.612,20775d19-3571-4bd0-a699-9de8c15d40b3,,,,,,,,,,,,,,
+001cv00000AuYs5,"County Of Sweet Grass, MT",Montana,County,Ali Cohen,3723,,Tier 3,0.75,48.9961,-111.9676,2901ef94-baff-4fe9-a0dc-af76e3eb4eaa,,,,,,,,,,,,,,
+001cv00000AuZAm,"County Of Chouteau, MT",Montana,County,Ali Cohen,5916,,Tier 3,0.75,48.0033,-110.4738,d1286c31-58bc-4304-94e0-685453fa2d4a,,,,,,,,,9,2025-07-24,,9,,
+001cv00000AuZB3,"County Of Pondera, MT",Montana,County,Ali Cohen,5994,,Tier 3,0.75,48.2322,-112.2886,e177523b-edf5-4e14-8b6c-3525d6c6118c,,,,,,,,,,,,,,
+001cv00000AuZBl,"County Of Teton, MT",Montana,County,Ali Cohen,6269,,Tier 3,0.75,47.902,-112.2718,33149750-f0d1-4dc9-8899-33cd35ba1564,,,,,,,,,9,2025-07-24,,9,,
+001cv00000AuZCz,"County Of Blaine, MT",Montana,County,Ali Cohen,6980,,Tier 3,0.75,48.6065,-108.9462,ef525033-209a-41cb-a11c-bc3fd14626a4,,,,,,,,,1,2025-07-29,,1,,
+001cv00000AuZD3,"County Of Powell, MT",Montana,County,Ali Cohen,6999,,Tier 3,0.75,46.9311,-112.9745,f945f329-a9e6-4a4d-90f4-2fd61c3c38ac,,,,,,,,,3,2026-03-09,3,,,
+001cv00000AuZMm,"County Of Mineral, MT",Montana,County,Ali Cohen,4860,,Tier 3,0.75,47.1497,-114.9627,a5a1c8ed-a252-4620-bba0-0fd63839927a,,,,,,,,,,,,,,
+001cv00000AuZNJ,"County Of Musselshell, MT",Montana,County,Ali Cohen,4896,,Tier 3,0.75,46.4219,-108.4065,7e03b715-f97f-4e02-ac80-0293cf96fc89,,,,,,,,,6,2025-11-18,6,,,
+001cv00000AuZNU,"City Of Hamilton, MT",Montana,Municipality,Ali Cohen,4905,,Tier 3,0.75,46.2471,-114.1548,212727c2-37b4-4417-8769-9b275f618fc1,,,,,,,,,1,2026-04-08,,,1,
+001cv00000AuZQo,"County Of Broadwater, MT",Montana,County,Ali Cohen,7288,,Tier 3,0.75,46.2694,-111.452,cf04cf0c-a47d-4b0b-ac00-5189f705d0f8,,,,,,,,,2,2025-08-07,,2,,
+001cv00000AuZRN,"County Of Valley, MT",Montana,County,Ali Cohen,7537,,Tier 3,0.75,48.2856,-106.8305,430045a2-038e-4dd2-8ae9-69a6342d097a,,,,,,,,,,,,,,
+001cv00000AuZSL,"County Of Toole, MT",Montana,County,Ali Cohen,5011,,Tier 3,0.75,48.6974,-111.6408,ba0a1713-b3ca-4ed0-901f-0f8edc260308,,,,,,,,,,,,,,
+001cv00000AuZVk,"County Of Rosebud, MT",Montana,County,Ali Cohen,8124,,Tier 3,0.75,46.2744,-106.4447,be3a4daa-720d-45f9-9fd5-6b8cb6fe4d19,,,,,,,,,3,2026-04-08,3,,,
+001cv00000AuZZ4,"County Of Stillwater, MT",Montana,County,Ali Cohen,9044,,Tier 3,0.75,45.7001,-109.3922,1b4ca9a1-6a91-4724-8ae6-2358f9491f05,,,,,,,,,2,2025-07-29,,2,,
+001cv00000AuZZV,"City Of Havre, MT",Montana,Municipality,Ali Cohen,9314,,Tier 3,0.75,48.55,-109.6841,18704eb7-723a-44a0-bd9d-cf8acc918682,,,,,,,,,1,2025-07-29,,1,,
+001cv00000AuZZu,"County Of Beaverhead, MT",Montana,County,Ali Cohen,9524,,Tier 3,0.75,45.2135,-113.1093,58204739-9cc9-432d-9b96-3868f505796a,,,,,,,,,,,,,,
+001cv00000AuZaR,"County Of Richland, MT",Montana,County,Ali Cohen,11283,,Tier 2,1.0,47.9201,-104.8017,00c727d1-e8ec-4b89-96a9-88c6894da5dd,,,,,,,,,5,2025-08-20,,5,,
+001cv00000AuZar,"County Of Fergus, MT",Montana,County,Ali Cohen,11617,,Tier 2,1.0,47.2127,-109.4141,798de5db-6b08-47cd-b578-b3ab6f89c4b3,,,,,,,,,,,,,,
+001cv00000AuZbB,"County Of Custer, MT",Montana,County,Ali Cohen,11916,,Tier 2,1.0,46.2161,-105.6225,f930ebeb-c8f2-4f82-b270-a49e46259598,,,,,,,,,,,,,,
+001cv00000AuZdj,"County Of Dawson, MT",Montana,County,Ali Cohen,8904,,Tier 3,0.75,47.2649,-104.8939,075c43bc-9f47-48e4-b3e0-82798b577ad0,,,,,,,,,1,2025-07-29,,1,,
+001cv00000AuZdm,"County Of Madison, MT",Montana,County,Ali Cohen,8917,,Tier 3,0.75,45.4667,-111.8865,67f01796-f432-4134-910b-65bf8c344ae9,,,,,,,,,,,,,,
+001cv00000AuZfm,"County Of Big Horn, MT",Montana,County,Ali Cohen,12957,,Tier 2,1.0,45.3497,-107.2716,f387aead-ca9c-4fef-9f68-c26147d9c4d6,,,,,,,,,,,,,,
+001cv00000AuZfn,"County Of Sanders, MT",Montana,County,Ali Cohen,12959,,Tier 2,1.0,47.6109,-115.1317,9b36d8da-3c82-45ee-b454-ecff9309e7ae,,,,,,,,,4,2026-04-22,4,,,
+001cv00000AuZiX,"County Of Jefferson, MT",Montana,County,Ali Cohen,12470,,Tier 2,1.0,46.1451,-112.0753,bc4baa7b-61d4-448d-9971-ab9b8e46d88e,,,,,,,,,11,2025-08-27,,11,,
+001cv00000AuZlR,"County Of Roosevelt, MT",Montana,County,Ali Cohen,10821,,Tier 2,1.0,48.285,-105.1099,2680f7c3-3b40-4d15-ba3c-090b653b29b7,,,,,,,,,1,2026-03-03,1,,,
+001cv00000AuZlT,"County Of Carbon, MT",Montana,County,Ali Cohen,10847,Open Opportunity,Tier 2,1.0,45.282,-109.1003,97aa03f2-cc97-4e4b-8b1f-a7863b60614b,Open,Initial Interest,Top of Funnel,Ali Cohen,,4/8/2026,,,5,2026-04-14,5,,,
+001cv00000AuZn9,"County Of Glacier, MT",Montana,County,Ali Cohen,13785,,Tier 2,1.0,48.5217,-112.9197,2a3ef2b2-ad55-44b3-8910-fe58f14b5467,,,,,,,,,1,2025-11-04,1,,,
+001cv00000AuZpH,"County Of Hill, MT",Montana,County,Ali Cohen,16179,,Tier 2,1.0,48.7488,-110.0351,24e78447-d663-4d38-81c3-65a8460e1b15,,,,,,,,,4,2026-01-12,3,1,,
+001cv00000AuZth,"County Of Park, MT",Montana,County,Ali Cohen,17473,,Tier 2,1.0,45.4788,-110.6083,cc2f8df3-929a-4a5f-84f6-f92ef90f4829,,,,,,,,,5,2025-09-05,,5,,
+001cv00000Aua3p,"County Of Lincoln, MT",Montana,County,Ali Cohen,20525,,Tier 2,1.0,46.9549,-112.6817,a006f777-e555-48fb-8773-71fa311140dd,,,,,,,,,10,2026-02-11,9,1,,
+001cv00000AuaN9,"City Of Bozeman, MT",Montana,Municipality,Ali Cohen,54539,Open Opportunity,Tier S,2.0,45.6793,-111.0373,07171c3b-928b-41ae-a4e0-30eb1c7dcc4e,Open,Initial Interest,Top of Funnel,Emily Murnane,,5/6/2026,,,24,2025-11-21,24,,,
+001cv00000AuaWG,"County Of Lewis And Clark, MT",Montana,County,Ali Cohen,72223,Open Opportunity,Tier S,2.0,47.2964,-112.403,89587996-2179-4992-8657-4a6f6a1db4cd,Open,Initial Interest,Top of Funnel,Ali Cohen,,10/24/2025,,,8,2026-04-29,8,,,
+001cv00000B21sZ,"City Of Wolf Point, MT",Montana,Municipality,Ali Cohen,2611,,Tier 3,0.75,48.0906,-105.6406,f527ad94-7fa7-4e2d-abe2-9692e5e74eca,,,,,,,,,,,,,,
+001cv00000bBVeT,Town of Bridger,Montana,Municipality,Asher Rosenfeld,716,,Tier 3,0.75,45.2958,-108.9138,e40b39b2-8909-4e81-9c0b-53a5c9394021,,,,,,,,,,,,,,
+001cv00000bBVic,City of Troy,Montana,Municipality,Asher Rosenfeld,911,,Tier 3,0.75,48.4641,-115.8899,65368ab2-170e-4b33-a58b-f9dd8b95c296,,,,,,,,,,,,,,
+001cv00000bBVid,Wibaux County,Montana,County,Asher Rosenfeld,911,,Tier 3,0.75,46.7837,-104.3184,c1e973e3-7d44-4054-8b90-e576524cbd86,,,,,,,,,,,,,,
+001cv00000bBVif,Town of Philipsburg,Montana,Municipality,Asher Rosenfeld,913,,Tier 3,0.75,46.3325,-113.2944,36600207-c089-495e-a018-711b28fee688,,,,,,,,,,,,,,
+001cv00000bBVkr,Town of Superior,Montana,Municipality,Asher Rosenfeld,940,,Tier 3,0.75,47.1916,-114.8918,1253f73a-b840-4daf-9c30-9ea3e2b6740e,,,,,,,,,,,,,,
+001cv00000bBVpA,Prairie County,Montana,County,Asher Rosenfeld,1112,,Tier 3,0.75,46.7981,-105.4045,1fd23e80-3b1e-4cda-a091-cce13ab807aa,,,,,,,,,,,,,,
+001cv00000bBVwl,Town of West Yellowstone,Montana,Municipality,Asher Rosenfeld,1202,,Tier 3,0.75,44.6621,-111.1041,f9e01a5b-279c-4ea2-b401-3523af36bc37,,,,,,,,,,,,,,
+001cv00000bBW3m,Powder River County,Montana,County,Asher Rosenfeld,1734,,Tier 3,0.75,45.2968,-105.5347,6b0bef19-7613-4622-897a-6af9fc2b26e3,,,,,,,,,,,,,,
+001cv00000bBWD8,City of Three Forks,Montana,Municipality,Asher Rosenfeld,1945,,Tier 3,0.75,45.8924,-111.5522,80f4d98d-e640-460b-8a1b-50b1ffe9e9f0,,,,,,,,,,,,,,
+001cv00000bBWIi,City of Baker,Montana,Municipality,Asher Rosenfeld,1767,,Tier 3,0.75,46.3695,-104.2774,6a2597e6-8cfe-4547-9dca-2db60351b200,,,,,,,,,,,,,,
+001cv00000bBWJE,City of Choteau,Montana,Municipality,Asher Rosenfeld,1804,,Tier 3,0.75,47.8125,-112.1836,86a7f0c6-7430-452e-bfbb-dc3122f134b8,,,,,,,,,,,,,,
+001cv00000bBWNu,Daniels County,Montana,County,Asher Rosenfeld,1625,,Tier 3,0.75,48.7744,-105.7249,cfdcf05f-d3f3-4874-9438-5a1c1a24c8be,,,,,,,,,,,,,,
+001cv00000bBWPQ,McCone County,Montana,County,Asher Rosenfeld,1717,,Tier 3,0.75,47.4501,-105.8811,e229c566-2295-45af-a991-5b1a1f969bbd,,,,,,,,,,,,,,
+001cv00000bBWQq,City of Roundup,Montana,Municipality,Asher Rosenfeld,2017,,Tier 3,0.75,46.4452,-108.5418,ecf3ceb1-0bcb-4abe-ac63-e1171d012092,,,,,,,,,,,,,,
+001cv00000bBWR8,Meagher County,Montana,County,Asher Rosenfeld,2065,,Tier 3,0.75,46.6202,-110.8848,1250833a-fc4e-40f7-b4a5-6a2e6c9a5e88,,,,,,,,,,,,,,
+001cv00000bBWRO,City of Townsend,Montana,Municipality,Asher Rosenfeld,2209,,Tier 3,0.75,46.3191,-111.5208,c75a1741-8aaa-4d2b-9d53-8f5bfae31f20,,,,,,,,,,,,,,
+001cv00000bBWRP,City of East Helena,Montana,Municipality,Asher Rosenfeld,2239,,Tier 3,0.75,46.5897,-111.9155,0712c695-b9fa-4617-bc2b-1ec4c86ae3a4,,,,,,,,,,,,,,
+001cv00000bBWSO,City of Billings,Montana,Municipality,Asher Rosenfeld,121483,,Tier S,2.0,45.7828,-108.5046,d320c79a-398b-413a-bbca-08df6c444071,,,,,,,,,,,,,,
+001cv00000bBWth,Carter County,Montana,County,Asher Rosenfeld,1399,,Tier 3,0.75,45.4522,-104.3708,c0c14e4a-5eef-4fce-ac08-b5a9accf1f0b,,,,,,,,,,,,,,

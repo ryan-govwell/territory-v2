@@ -1,85 +1,85 @@
-Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Alicia Gopal,Calls - Joe del Rosario,Calls - Quinzel Perry,Calls - Jenny Allison,Outreach ID
-001Hr000028Zbte,"City Of Aztec, NM",New Mexico,Municipality,Alicia Gopal,6163,Nurture,Tier 3,0.75,36.8222,-107.9928,27dc2ed7-6850-4ee3-9563-658fca0dee98,Closed Lost,,,Alicia Gopal,2/5/2026,1/29/2026,,,16,2026-02-03,6,10,,,3868
-001Hr000028Zc22,"City Of Socorro, NM",New Mexico,Municipality,Alicia Gopal,8414,,Tier 3,0.75,34.0584,-106.8914,8927ab96-17f6-49cd-a21c-86f247c9c399,,,,,,,,,16,2026-02-09,7,9,,,4322
-001Hr000028ZcGq,"City Of Portales, NM",New Mexico,Municipality,Alicia Gopal,12042,,Tier 2,1.0,34.1862,-103.3344,2992239a-3b70-4001-ba69-2cb185d1da02,,,,,,,,,16,2026-03-16,12,4,,,4834
-001Hr000028ZcKq,"City Of Truth Or Consequences, NM",New Mexico,Municipality,Alicia Gopal,6062,Nurture,Tier 3,0.75,33.1284,-107.2528,5c5210d5-6bb1-46f0-8a05-00172e40cf8b,Closed Lost,,,Alicia Gopal,1/23/2026,1/21/2026,,,10,2026-01-21,10,,,,3700
-001Hr000028ZcVY,"City Of Belen, NM",New Mexico,Municipality,Alicia Gopal,7556,Nurture,Tier 3,0.75,34.6628,-106.7762,793a901c-23a9-4e49-8ef0-7258231a0b47,Closed Lost,,,Alicia Gopal,2/3/2026,1/12/2026,,,12,2026-05-12,8,,,4,4059
-001Hr000028ZcZt,"City Of Espanola, NM",New Mexico,Municipality,Alicia Gopal,10487,Nurture,Tier 2,1.0,35.991,-106.0818,50bc8b38-f30e-445a-b6a8-19b303f9ad3c,Closed Lost,,,Quinzel Perry,4/25/2025,4/17/2025,,,18,2026-01-27,7,,11,,4637
-001Hr000028Zcb8,"City Of Raton, NM",New Mexico,Municipality,Alicia Gopal,6047,Nurture,Tier 3,0.75,36.9034,-104.4392,b6c7c914-369c-48f0-825a-f56bb843d3a2,Closed Lost,,,Alicia Gopal,1/13/2026,12/19/2025,,,,,,,,,3756
-001Hr000028ZcdC,"Village Of Los Ranchos De Albuquerque, NM",New Mexico,Municipality,Alicia Gopal,5866,Open Opportunity,Tier 3,0.75,35.162,-106.6428,e90030ca-372a-4bb3-82cb-c6790992e0f7,Open,Initial Interest,Top of Funnel,Emily Murnane,,3/11/2026,,,5,2026-03-04,4,1,,,3788
-001Hr000028Zch9,"Village Of Ruidoso, NM",New Mexico,Municipality,Alicia Gopal,7769,Open Opportunity,Tier 3,0.75,33.3339,-105.6813,dd81f74a-2a94-43e4-8836-19a34284f0df,Open,Initial Interest,Top of Funnel,Quinzel Perry,,5/2/2025,,,13,2026-04-09,2,,11,,4122
-001Hr000028ZciD,"City Of Sunland Park, NM",New Mexico,Municipality,Alicia Gopal,17121,,Tier 2,1.0,31.7965,-106.58,d9f3ff47-86cb-4555-8b17-ac98adfc68d9,,,,,,,,,20,2025-12-18,10,10,,,5213
-001Hr000028Zcij,"Town Of Taos, NM",New Mexico,Municipality,Alicia Gopal,6595,Nurture,Tier 3,0.75,36.4072,-105.5734,6069ce88-df08-4881-aa1d-7af7c830ab71,Closed Lost,,,Alicia Gopal,,1/27/2026,,,6,2026-01-28,6,,,,3739
-001Hr000028ZcjI,"Town Of Edgewood, NM",New Mexico,Municipality,Alicia Gopal,6154,Recent Competitor Purchase,Tier 3,0.75,35.0614,-106.1914,d0f33230-5d78-49aa-aac1-99e428f1f3e4,Closed Lost,,,Granger West,9/18/2024,1/5/2025,,,24,2026-03-19,17,,1,6,3784
-001Hr000028ZcmI,"City Of Anthony, NM",New Mexico,Municipality,Alicia Gopal,8666,Nurture,Tier 3,0.75,32.004,-106.6058,c819caa5-0508-4aaa-9816-dcd5a7e077de,Closed Lost,,,Alicia Gopal,11/14/2025,11/10/2025,,,6,2025-11-13,6,,,,4354
-001Hr000028ZcoP,"Village Of Corrales, NM",New Mexico,Municipality,Alicia Gopal,8584,,Tier 3,0.75,35.2378,-106.6067,769745e2-475c-409d-b65b-699d8a1e14fe,,,,,,,,,2,2025-10-31,2,,,,4312
-001Hr000028ZcoT,"City Of Bloomfield, NM",New Mexico,Municipality,Alicia Gopal,7371,Nurture,Tier 3,0.75,36.7111,-107.9845,583ee02f-552e-454f-b888-79f30cb7bbba,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,5,2026-02-11,5,,,,4099
-001Hr000028Zcoe,"City Of Artesia, NM",New Mexico,Municipality,Alicia Gopal,12458,Open Opportunity,Tier 2,1.0,32.8423,-104.4033,8ffa84e4-f48a-46e5-a38b-d9b5fec267e0,Open,Initial Interest,Top of Funnel,Alicia Gopal,,2/10/2026,,,26,2026-02-10,25,1,,,4887
-001Hr000028Zcp2,"Town Of Bernalillo, NM",New Mexico,Municipality,Alicia Gopal,9520,Nurture,Tier 3,0.75,35.3,-106.5511,69675267-c483-4bb0-a00a-4bd6f33c189c,Closed Lost,,,Alicia Gopal,1/30/2026,1/26/2026,,,5,2026-01-26,5,,,,4409
-001Hr000028ZcqH,"Town Of Silver City, NM",New Mexico,Municipality,Alicia Gopal,9578,,Tier 3,0.75,32.7701,-108.2803,84fd3261-35bd-4f2f-a68d-efb453e16bdf,,,,,,,,,18,2026-01-20,8,10,,,4522
-001Hr000028Zcuf,"City Of Grants, NM",New Mexico,Municipality,Alicia Gopal,9170,All Modules Live,Tier 3,0.75,35.1473,-107.8514,5aaa82c2-d7cb-4c09-b347-435d9d9d8c06,Closed Won,,,Liam Shaw,10/30/2024,1/5/2025,"$18,000",,,,,,,,4443
-001Hr000028Zcws,"City Of Las Vegas, NM",New Mexico,Municipality,Alicia Gopal,13157,Open Opportunity,Tier 2,1.0,35.5942,-105.2228,8adc2b30-cb1b-4262-aec1-6b00a7a5e04a,Open,Meeting Booked,Top of Funnel,Alicia Gopal,4/2/2026,1/27/2026,,,9,2026-04-02,9,,,,4942
-001Hr000028Zcz6,"City Of Lovington, NM",New Mexico,Municipality,Alicia Gopal,11426,,Tier 2,1.0,32.944,-103.3486,1a6b99cf-7ff4-4a3a-82d6-075decf56b44,,,,,,,,,8,2026-02-05,4,4,,,4756
-001Hr000028Zd2N,"Village Of Los Lunas, NM",New Mexico,Municipality,Alicia Gopal,17861,Recent Competitor Purchase,Tier 2,1.0,34.8075,-106.7358,4e0ad13e-8666-41c3-98fc-8808939bff2e,,,,,,,,,23,2026-03-23,7,16,,,5254
-001Hr000028Zd5d,"City Of Deming, NM",New Mexico,Municipality,Alicia Gopal,14835,Nurture,Tier 2,1.0,32.2687,-107.7586,b118a563-f21d-4c31-8afe-65bf262c10e4,Closed Lost,,,Alicia Gopal,3/25/2026,2/2/2026,,,15,2026-02-25,15,,,,5074
-001Hr000028ZdAU,"City Of Gallup, NM",New Mexico,Municipality,Alicia Gopal,21495,,Tier 2,1.0,35.5263,-108.742,89a207c5-d2a8-4d4f-b8a9-77f9689ddd9f,,,,,,,,,13,2026-02-05,4,9,,,5515
-001Hr000028ZdAe,"City Of Alamogordo, NM",New Mexico,Municipality,Alicia Gopal,31652,Nurture,Tier 1,1.5,32.9008,-105.9602,662144b6-9848-4c5d-9cc1-a05dac074589,Closed Lost,,,Alicia Gopal,11/12/2025,11/6/2025,,,29,2025-11-13,20,9,,,5876
-001Hr000028ZdB3,"City Of Carlsbad, NM",New Mexico,Municipality,Alicia Gopal,31888,Open Opportunity,Tier 1,1.5,32.4203,-104.229,4c4384e3-357a-414c-b3e2-cc8f5d87ee35,Open,Initial Interest,Top of Funnel,Alicia Gopal,11/26/2025,11/12/2025,,Yes,8,2025-11-26,8,,,,5884
-001Hr000028ZdCV,"City Of Roswell, NM",New Mexico,Municipality,Alicia Gopal,48081,,Tier 1,1.5,33.3943,-104.5227,e9ca563e-b667-4e54-88de-36fb277cc3f0,,,,,,,,,8,2026-01-27,8,,,,6142
-001Hr000028ZdE2,"City Of Clovis, NM",New Mexico,Municipality,Alicia Gopal,37988,Open Opportunity,Tier 1,1.5,34.4015,-103.2078,4bff3e1c-ac18-4103-8011-7baa8844a79f,Open,Initial Interest,Top of Funnel,Alicia Gopal,2/17/2026,1/28/2026,,Yes,16,2026-03-19,16,,,,6017
-001Hr000028ZdE7,"City Of Hobbs, NM",New Mexico,Municipality,Alicia Gopal,39756,Nurture,Tier 1,1.5,32.7012,-103.1344,8865c2cb-1714-45a1-a425-e5f824ad40a4,Closed Lost,,,Alicia Gopal,2/24/2026,2/11/2026,,,10,2026-02-23,9,1,,,6031
-001Hr000028ZdFA,"City Of Farmington, NM",New Mexico,Municipality,Alicia Gopal,46422,,Tier 1,1.5,36.7281,-108.2187,548a8e97-e39e-4d5c-8fbc-683321be4dc9,,,,,,,,,4,2026-04-09,3,1,,,6123
-001Hr000028ZdOE,"Sandoval County, NM",New Mexico,County,Alicia Gopal,157757,,Tier S,2.0,35.6021,-106.7235,0182e45b-32d1-4a2b-9217-149a33c74427,,,,,,,,,1,2026-02-09,1,,,,12465
-001Hr000028ZdRu,"Santa Fe County, NM",New Mexico,County,Alicia Gopal,156105,,Tier S,2.0,35.3654,-105.97,9f4e89bf-fde2-448d-b641-edf3349e1164,,,,,,,,,7,2026-02-13,7,,,,12479
-001Hr000028Zdbg,"Rio Arriba County, NM",New Mexico,County,Alicia Gopal,39955,,Tier 1,1.5,36.6163,-106.7235,76ad1f8f-4205-42b2-99db-a16065e641e0,,,,,,,,,1,2026-02-09,1,,,,12361
-001Hr000028Zdgt,"City Of Santa Fe, NM",New Mexico,Municipality,Alicia Gopal,88193,,Tier S,2.0,35.6894,-105.9382,0b6e8f3d-226d-4575-a545-68081d7fa908,,,,,,,,,30,2026-02-19,18,,12,,11586
-001Hr000028Zdsa,"San Miguel County, NM",New Mexico,County,Alicia Gopal,,,Tier 3,0.75,35.5118,-104.8455,c9f037b3-f714-4528-b575-ecc737151410,,,,,,,,,12,2026-04-09,12,,,,12356
-001Hr000028Zdsw,"Doña Ana County, NM",New Mexico,County,Alicia Gopal,,,Tier 3,0.75,32.4858,-106.7235,,,,,,,,,,6,2026-02-11,5,1,,,12473
-001Hr000028Zdt9,"Cibola County, NM",New Mexico,County,Alicia Gopal,26686,,Tier 1,1.5,35.0948,-107.8584,39c4ce74-6f5c-46e5-8355-b58739e6b8c2,,,,,,,,,7,2026-02-12,7,,,,12347
-001Hr000028ZduR,"San Juan County, NM",New Mexico,County,Alicia Gopal,,,Tier 3,0.75,36.3882,-108.2378,37dc0f92-dfd2-4267-8ada-f60ad441a01d,,,,,,,,,1,2025-10-23,1,,,,12469
-001Hr000028ZjNF,"County Of Luna, NM",New Mexico,County,Alicia Gopal,25532,Recent Competitor Purchase,Tier 1,1.5,32.3259,-107.8584,136e36d3-5eb4-4188-a183-bb4ebae22b10,Open,Initial Interest,Top of Funnel,Harrison Peacock,10/11/2024,1/5/2025,,Yes,17,2025-12-02,17,,,,12623
-001cv00000AuWZc,"City Of Bayard, NM",New Mexico,Municipality,Alicia Gopal,2097,,Tier 3,0.75,32.7617,-108.1306,756cb753-6a3f-499f-a618-fe54f291a04e,,,,,,,,,,,,,,,13419
-001cv00000AuWcN,"City Of Jal, NM",New Mexico,Municipality,Alicia Gopal,2147,,Tier 3,0.75,32.1132,-103.1935,9ec659f4-0745-43e4-8d70-787a96472769,,,,,,,,,,,,,,,13241
-001cv00000AuX6i,"City Of Lordsburg, NM",New Mexico,Municipality,Alicia Gopal,2273,,Tier 3,0.75,32.3504,-108.7087,60f2fcfb-b97c-4af1-819a-9ae1d521d53e,,,,,,,,,,,,,,,13744
-001cv00000AuXU9,"Village Of Milan, NM",New Mexico,Municipality,Alicia Gopal,2549,,Tier 3,0.75,35.1754,-107.8955,52d86087-5452-44bc-962f-e44608e9cb85,,,,,,,,,,,,,,,14248
-001cv00000AuXgh,"Town Of Clayton, NM",New Mexico,Municipality,Alicia Gopal,2755,,Tier 3,0.75,36.4517,-103.1841,439e5d83-7bc6-4d9d-b1bb-a1698197f059,,,,,,,,,,,,,,,14516
-001cv00000AuXkF,"City Of Santa Rosa, NM",New Mexico,Municipality,Alicia Gopal,2846,,Tier 3,0.75,34.9387,-104.6825,6baaab6d-9088-40e0-aff2-e3221ebe0ae6,,,,,,,,,,,,,,,14734
-001cv00000AuYEk,"City Of Eunice, NM",New Mexico,Municipality,Alicia Gopal,2997,,Tier 3,0.75,32.4373,-103.1591,5dd821a6-0263-4198-be5a-5c8af8206148,,,,,,,,,,,,,,,15273
-001cv00000AuYKd,"Town Of Peralta, NM",New Mexico,Municipality,Alicia Gopal,3406,,Tier 3,0.75,34.837,-106.6906,f4298b9f-c009-4583-aec5-a650f0fc3666,,,,,,,,,,,,,,,15928
-001cv00000AuYaR,"County Of Hidalgo, NM",New Mexico,County,Alicia Gopal,4074,,Tier 3,0.75,31.9355,-108.7126,85bba2a8-222c-4640-8366-4aed5d54d603,,,,,,,,,,,,,,,16282
-001cv00000AuYaU,"Village Of Bosque Farms, NM",New Mexico,Municipality,Alicia Gopal,4076,,Tier 3,0.75,34.8543,-106.7061,628d39c5-2711-48e3-8181-bab657290676,,,,,,,,,,,,,,,16330
-001cv00000AuYnw,"County Of Union, NM",New Mexico,County,Alicia Gopal,4107,,Tier 3,0.75,36.3724,-103.3587,96a55f11-2261-4408-a2ae-1fde241c810c,,,,,,,,,,,,,,,16706
-001cv00000AuYpO,"County Of Mora, NM",New Mexico,County,Alicia Gopal,4196,,Tier 3,0.75,35.9272,-104.9389,74ac0511-3e5a-4faf-b49f-d8736dce6b79,,,,,,,,,,,,,,,16773
-001cv00000AuYsD,"County Of Catron, NM",New Mexico,County,Alicia Gopal,3731,,Tier 3,0.75,34.1515,-108.4276,549fbdf5-00f8-4dd9-a6a9-4ef9ce4659e9,,,,,,,,,,,,,,,16384
-001cv00000AuYyM,"County Of Guadalupe, NM",New Mexico,County,Alicia Gopal,4449,,Tier 3,0.75,34.8236,-104.8455,94cb032a-a107-459c-8aef-46ba81f70a41,,,,,,,,,,,,,,,20046
-001cv00000AuZS2,"City Of Rio Communities, NM",New Mexico,Municipality,Alicia Gopal,4977,,Tier 3,0.75,34.6448,-106.7304,da6a50df-4c06-43a4-9e73-0e4f3a800f8c,,,,,,,,,2,2026-02-09,1,,1,,17553
-001cv00000AuZTl,"City Of Tucumcari, NM",New Mexico,Municipality,Alicia Gopal,5207,,Tier 3,0.75,35.1717,-103.725,6080d9ce-9fcf-4f32-b369-6f05d0a3e019,,,,,,,,,1,2026-02-06,1,,,,17492
-001cv00000AuZYK,"County Of Quay, NM",New Mexico,County,Alicia Gopal,8656,,Tier 3,0.75,34.957,-103.7289,acba40de-f44b-433d-900c-84db486eec5a,,,,,,,,,1,2025-08-19,,,1,,17870
-001cv00000AuZah,"County Of Sierra, NM",New Mexico,County,Alicia Gopal,11502,,Tier 2,1.0,33.1346,-107.1012,e8ffa0de-9e17-4d41-a2a3-de36d19a8c4f,,,,,,,,,,,,,,,18443
-001cv00000AuZht,"County Of Torrance, NM",New Mexico,County,Alicia Gopal,15307,,Tier 2,1.0,34.6784,-105.97,94df6aed-38aa-491c-9136-8f176b273e0a,,,,,,,,,4,2025-08-05,,,4,,18090
-001cv00000AuZiQ,"County Of Colfax, NM",New Mexico,County,Alicia Gopal,12369,,Tier 2,1.0,36.58,-104.4723,14b20b16-6f02-444c-982a-607b3047972d,,,,,,,,,,,,,,,18112
-001cv00000AuZql,"County Of Socorro, NM",New Mexico,County,Alicia Gopal,16311,,Tier 2,1.0,33.8837,-106.7235,65b957dd-7a21-47a7-8d39-5ff8fa1b991f,,,,,,,,,,,,,,,18470
-001cv00000AuZss,"County Of Roosevelt, NM",New Mexico,County,Alicia Gopal,19019,,Tier 2,1.0,33.9538,-103.3587,b9d886bb-9669-43bc-b2d1-7101a57e0e85,,,,,,,,,,,,,,,18622
-001cv00000AuZt2,"County Of Los Alamos, NM",New Mexico,County,Alicia Gopal,19330,,Tier 2,1.0,35.8496,-106.3228,324c9fef-b6e7-4a28-b247-0472540bcdff,,,,,,,,,3,2026-02-09,3,,,,18637
-001cv00000Aua3j,"County Of Lincoln, NM",New Mexico,County,Alicia Gopal,20436,,Tier 2,1.0,33.8853,-105.4068,6083ae42-7bef-4886-89d9-0eaff142e6e5,,,,,,,,,3,2026-02-09,3,,,,18625
-001cv00000Aua6G,"County Of Taos, NM",New Mexico,County,Alicia Gopal,34623,Open Opportunity,Tier 1,1.5,36.4359,-105.5943,f7468764-406b-4ee3-9086-16f106703be3,Open,Meeting Booked,Top of Funnel,Alicia Gopal,11/4/2025,10/31/2025,,,42,2026-05-18,36,6,,,19336
-001cv00000AuaCE,"County Of Grant, NM",New Mexico,County,Alicia Gopal,27889,,Tier 1,1.5,32.9691,-108.2378,ab23ca08-8ee8-49a7-83a6-2d4577aa3d65,,,,,,,,,1,2025-07-29,,1,,,19153
-001cv00000AuaKK,"County Of Curry, NM",New Mexico,County,Alicia Gopal,47999,,Tier 1,1.5,34.5752,-103.2663,0d75dcae-9d16-4b4a-a7a6-338827657f8e,,,,,,,,,,,,,,,19367
-001cv00000AuaOI,"County Of Eddy, NM",New Mexico,County,Alicia Gopal,60911,Open Opportunity,Tier S,2.0,32.4171,-104.4723,967ff920-54f5-449c-b8d2-762c8a690935,Open,Sales Qualified,Mid Funnel,Alicia Gopal,3/31/2026,3/23/2026,,,5,2026-03-31,5,,,,19586
-001cv00000AuaOu,"County Of Chaves, NM",New Mexico,County,Alicia Gopal,64629,,Tier S,2.0,33.4757,-104.4723,edfa8480-9383-4f7f-8c39-68641de34040,,,,,,,,,7,2026-01-28,7,,,,19829
-001cv00000AuaWB,"County Of Mckinley, NM",New Mexico,County,Alicia Gopal,71780,,Tier S,2.0,35.7152,-108.2378,52aaccf6-8c0f-46b7-9a8a-86e21d5821ba,,,,,,,,,,,,,,,19725
-001cv00000AuaWJ,"County Of Lea, NM",New Mexico,County,Alicia Gopal,73004,Nurture,Tier S,2.0,32.8969,-103.3587,ef2dd2d1-6392-4605-b22d-58baad54ff1a,Closed Lost,,,Quinzel Perry,7/30/2025,7/23/2025,,,2,2025-07-30,,,2,,19752
-001cv00000AuaWk,"County Of Valencia, NM",New Mexico,County,Alicia Gopal,77190,,Tier S,2.0,34.6744,-106.6291,8b19d034-9411-4231-9055-5e73059432f8,,,,,,,,,9,2026-02-03,9,,,,19838
-001cv00000AuaXq,"County Of Otero, NM",New Mexico,County,Alicia Gopal,68537,,Tier S,2.0,32.6342,-105.5943,86658ea2-4aea-46fd-a18a-9e7cfe3467ac,,,,,,,,,1,2026-02-09,1,,,,19764
-001cv00000B21x4,"Village Of Tularosa, NM",New Mexico,Municipality,Alicia Gopal,2637,,Tier 3,0.75,33.074,-106.0186,db2d09dd-2403-4ea6-9c2f-09f52bf8dba7,,,,,,,,,,,,,,,20365
-001cv00000B21xN,"City Of Ruidoso Downs, NM",New Mexico,Municipality,Alicia Gopal,2648,,Tier 3,0.75,33.329,-105.6044,552acbc0-c8d2-4c7f-b313-1c6903a25cd2,,,,,,,,,,,,,,,20373
-001cv00000GpOP0,"City of Las Cruces, NM",New Mexico,Municipality,Alicia Gopal,116998,Open Opportunity,Tier S,2.0,32.3142,-106.7798,ef2508ec-fcf0-41b0-af15-3148fa9c831c,Open,Initial Interest,Top of Funnel,Alicia Gopal,,10/23/2025,,,17,2026-04-15,6,11,,,20782
-001cv00000bBVl3,Village of Logan,New Mexico,Municipality,Asher Rosenfeld,948,,Tier 3,0.75,35.3656,-103.4109,cac477e0-ca50-44cb-999d-82eaba76bb10,,,,,,,,,,,,,,,21355
-001cv00000bBVwO,Village of Angel Fire,New Mexico,Municipality,Asher Rosenfeld,1183,,Tier 3,0.75,36.3931,-105.285,98f603db-200f-4cc7-b061-a269d0c0531b,,,,,,,,,,,,,,,21569
-001cv00000bBWF6,City of Rio Rancho,New Mexico,Municipality,Asher Rosenfeld,112524,,Tier S,2.0,35.2328,-106.663,0d352e1c-9f00-487d-848f-22b5d61913aa,,,,,,,,,,,,,,,22297
-001cv00000bBWJC,Village of Questa,New Mexico,Municipality,Asher Rosenfeld,1801,,Tier 3,0.75,36.7042,-105.5958,a1a3ba47-2de9-4343-8734-4b7d46513ae6,,,,,,,,,,,,,,,21764
-001cv00000bBWNT,Village of Hatch,New Mexico,Municipality,Asher Rosenfeld,1590,,Tier 3,0.75,32.6654,-107.1531,893d3459-d162-46e9-a67f-e88581d1c238,,,,,,,,,,,,,,,22053
-001cv00000bBWOP,De Baca County,New Mexico,County,Asher Rosenfeld,1657,,Tier 3,0.75,34.2734,-104.3792,9a7c376c-6a45-47b6-a72e-efc7586f3463,,,,,,,,,,,,,,,22087
-001cv00000bBWR4,City of Moriarty,New Mexico,Municipality,Asher Rosenfeld,2059,,Tier 3,0.75,34.99,-106.0492,9908e890-d328-44d0-8bce-abf8c2e4d7bc,,,,,,,,,,,,,,,22230
-001cv00000bBWY1,City of Albuquerque,New Mexico,Municipality,Asher Rosenfeld,560326,,Tier S,2.0,35.0844,-106.6504,ca8fec79-2c30-4c03-a594-c5c596d2b871,,,,,,,,,,,,,,,22448
-001cv00000bBWYK,Bernalillo County,New Mexico,County,Asher Rosenfeld,671747,,Tier S,2.0,35.0178,-106.6291,f2c28994-a7b9-4538-9fe2-c1634c4741c9,,,,,,,,,,,,,,,22471
+Account ID,Account Name,State,Entity Type,Owner,Population,Account Status,Tier,SQO Points,Lat,Lng,Starbridge Buyer ID,Opp Status,Stage,Funnel Position,Sourced By,Discovery Call Date,Created Date,ARR,Previously Lost,Total Calls,Last Call Date,Calls - Alicia Gopal,Calls - Joe del Rosario,Calls - Quinzel Perry,Calls - Jenny Allison,Salesforce ID
+001Hr000028Zbte,"City Of Aztec, NM",New Mexico,Municipality,Alicia Gopal,6163,Nurture,Tier 3,0.75,36.8222,-107.9928,27dc2ed7-6850-4ee3-9563-658fca0dee98,Closed Lost,,,Alicia Gopal,2/5/2026,1/29/2026,,,16,2026-02-03,6,10,,,
+001Hr000028Zc22,"City Of Socorro, NM",New Mexico,Municipality,Alicia Gopal,8414,,Tier 3,0.75,34.0584,-106.8914,8927ab96-17f6-49cd-a21c-86f247c9c399,,,,,,,,,16,2026-02-09,7,9,,,
+001Hr000028ZcGq,"City Of Portales, NM",New Mexico,Municipality,Alicia Gopal,12042,,Tier 2,1.0,34.1862,-103.3344,2992239a-3b70-4001-ba69-2cb185d1da02,,,,,,,,,14,2026-03-16,12,2,,,
+001Hr000028ZcKq,"City Of Truth Or Consequences, NM",New Mexico,Municipality,Alicia Gopal,6062,Nurture,Tier 3,0.75,33.1284,-107.2528,5c5210d5-6bb1-46f0-8a05-00172e40cf8b,Closed Lost,,,Alicia Gopal,1/23/2026,1/21/2026,,,10,2026-01-21,10,,,,
+001Hr000028ZcVY,"City Of Belen, NM",New Mexico,Municipality,Alicia Gopal,7556,Nurture,Tier 3,0.75,34.6628,-106.7762,793a901c-23a9-4e49-8ef0-7258231a0b47,Closed Lost,,,Alicia Gopal,2/3/2026,1/12/2026,,,12,2026-05-12,8,,,4,
+001Hr000028ZcZt,"City Of Espanola, NM",New Mexico,Municipality,Alicia Gopal,10487,Nurture,Tier 2,1.0,35.991,-106.0818,50bc8b38-f30e-445a-b6a8-19b303f9ad3c,Closed Lost,,,Quinzel Perry,4/25/2025,4/17/2025,,,16,2026-01-27,7,,9,,
+001Hr000028Zcb8,"City Of Raton, NM",New Mexico,Municipality,Alicia Gopal,6047,Nurture,Tier 3,0.75,36.9034,-104.4392,b6c7c914-369c-48f0-825a-f56bb843d3a2,Closed Lost,,,Alicia Gopal,1/13/2026,12/19/2025,,,,,,,,,
+001Hr000028ZcdC,"Village Of Los Ranchos De Albuquerque, NM",New Mexico,Municipality,Alicia Gopal,5866,Open Opportunity,Tier 3,0.75,35.162,-106.6428,e90030ca-372a-4bb3-82cb-c6790992e0f7,Open,Initial Interest,Top of Funnel,Emily Murnane,,3/11/2026,,,5,2026-03-04,4,1,,,
+001Hr000028Zch9,"Village Of Ruidoso, NM",New Mexico,Municipality,Alicia Gopal,7769,Open Opportunity,Tier 3,0.75,33.3339,-105.6813,dd81f74a-2a94-43e4-8836-19a34284f0df,Open,Initial Interest,Top of Funnel,Quinzel Perry,,5/2/2025,,,11,2026-04-09,2,,9,,
+001Hr000028ZciD,"City Of Sunland Park, NM",New Mexico,Municipality,Alicia Gopal,17121,,Tier 2,1.0,31.7965,-106.58,d9f3ff47-86cb-4555-8b17-ac98adfc68d9,,,,,,,,,20,2025-12-18,10,10,,,
+001Hr000028Zcij,"Town Of Taos, NM",New Mexico,Municipality,Alicia Gopal,6595,Nurture,Tier 3,0.75,36.4072,-105.5734,6069ce88-df08-4881-aa1d-7af7c830ab71,Closed Lost,,,Alicia Gopal,,1/27/2026,,,6,2026-01-28,6,,,,
+001Hr000028ZcjI,"Town Of Edgewood, NM",New Mexico,Municipality,Alicia Gopal,6154,Recent Competitor Purchase,Tier 3,0.75,35.0614,-106.1914,d0f33230-5d78-49aa-aac1-99e428f1f3e4,Closed Lost,,,Granger West,9/18/2024,1/5/2025,,,24,2026-03-19,17,,1,6,
+001Hr000028ZcmI,"City Of Anthony, NM",New Mexico,Municipality,Alicia Gopal,8666,Nurture,Tier 3,0.75,32.004,-106.6058,c819caa5-0508-4aaa-9816-dcd5a7e077de,Closed Lost,,,Alicia Gopal,11/14/2025,11/10/2025,,,6,2025-11-13,6,,,,
+001Hr000028ZcoP,"Village Of Corrales, NM",New Mexico,Municipality,Alicia Gopal,8584,,Tier 3,0.75,35.2378,-106.6067,769745e2-475c-409d-b65b-699d8a1e14fe,,,,,,,,,2,2025-10-31,2,,,,
+001Hr000028ZcoT,"City Of Bloomfield, NM",New Mexico,Municipality,Alicia Gopal,7371,Nurture,Tier 3,0.75,36.7111,-107.9845,583ee02f-552e-454f-b888-79f30cb7bbba,Closed Lost,,,Asher Rosenfeld,,1/5/2025,,,5,2026-02-11,5,,,,
+001Hr000028Zcoe,"City Of Artesia, NM",New Mexico,Municipality,Alicia Gopal,12458,Open Opportunity,Tier 2,1.0,32.8423,-104.4033,8ffa84e4-f48a-46e5-a38b-d9b5fec267e0,Open,Initial Interest,Top of Funnel,Alicia Gopal,,2/10/2026,,,26,2026-02-10,25,1,,,
+001Hr000028Zcp2,"Town Of Bernalillo, NM",New Mexico,Municipality,Alicia Gopal,9520,Nurture,Tier 3,0.75,35.3,-106.5511,69675267-c483-4bb0-a00a-4bd6f33c189c,Closed Lost,,,Alicia Gopal,1/30/2026,1/26/2026,,,5,2026-01-26,5,,,,
+001Hr000028ZcqH,"Town Of Silver City, NM",New Mexico,Municipality,Alicia Gopal,9578,,Tier 3,0.75,32.7701,-108.2803,84fd3261-35bd-4f2f-a68d-efb453e16bdf,,,,,,,,,18,2026-01-20,8,10,,,
+001Hr000028Zcuf,"City Of Grants, NM",New Mexico,Municipality,Alicia Gopal,9170,All Modules Live,Tier 3,0.75,35.1473,-107.8514,5aaa82c2-d7cb-4c09-b347-435d9d9d8c06,Closed Won,,,Liam Shaw,10/30/2024,1/5/2025,"$18,000",,,,,,,,
+001Hr000028Zcws,"City Of Las Vegas, NM",New Mexico,Municipality,Alicia Gopal,13157,Open Opportunity,Tier 2,1.0,35.5942,-105.2228,8adc2b30-cb1b-4262-aec1-6b00a7a5e04a,Open,Initial Interest,Top of Funnel,Alicia Gopal,4/2/2026,1/27/2026,,,14,2026-05-22,14,,,,
+001Hr000028Zcz6,"City Of Lovington, NM",New Mexico,Municipality,Alicia Gopal,11426,,Tier 2,1.0,32.944,-103.3486,1a6b99cf-7ff4-4a3a-82d6-075decf56b44,,,,,,,,,8,2026-02-05,4,4,,,
+001Hr000028Zd2N,"Village Of Los Lunas, NM",New Mexico,Municipality,Alicia Gopal,17861,Recent Competitor Purchase,Tier 2,1.0,34.8075,-106.7358,4e0ad13e-8666-41c3-98fc-8808939bff2e,,,,,,,,,23,2026-03-23,7,16,,,
+001Hr000028Zd5d,"City Of Deming, NM",New Mexico,Municipality,Alicia Gopal,14835,Nurture,Tier 2,1.0,32.2687,-107.7586,b118a563-f21d-4c31-8afe-65bf262c10e4,Closed Lost,,,Alicia Gopal,3/25/2026,2/2/2026,,,15,2026-02-25,15,,,,
+001Hr000028ZdAU,"City Of Gallup, NM",New Mexico,Municipality,Alicia Gopal,21495,,Tier 2,1.0,35.5263,-108.742,89a207c5-d2a8-4d4f-b8a9-77f9689ddd9f,,,,,,,,,13,2026-02-05,4,9,,,
+001Hr000028ZdAe,"City Of Alamogordo, NM",New Mexico,Municipality,Alicia Gopal,31652,Nurture,Tier 1,1.5,32.9008,-105.9602,662144b6-9848-4c5d-9cc1-a05dac074589,Closed Lost,,,Alicia Gopal,11/12/2025,11/6/2025,,,29,2025-11-13,20,9,,,
+001Hr000028ZdB3,"City Of Carlsbad, NM",New Mexico,Municipality,Alicia Gopal,31888,Open Opportunity,Tier 1,1.5,32.4203,-104.229,4c4384e3-357a-414c-b3e2-cc8f5d87ee35,Open,Initial Interest,Top of Funnel,Alicia Gopal,11/26/2025,11/12/2025,,Yes,8,2025-11-26,8,,,,
+001Hr000028ZdCV,"City Of Roswell, NM",New Mexico,Municipality,Alicia Gopal,48081,,Tier 1,1.5,33.3943,-104.5227,e9ca563e-b667-4e54-88de-36fb277cc3f0,,,,,,,,,8,2026-01-27,8,,,,
+001Hr000028ZdE2,"City Of Clovis, NM",New Mexico,Municipality,Alicia Gopal,37988,Open Opportunity,Tier 1,1.5,34.4015,-103.2078,4bff3e1c-ac18-4103-8011-7baa8844a79f,Open,Initial Interest,Top of Funnel,Alicia Gopal,2/17/2026,1/28/2026,,Yes,16,2026-03-19,16,,,,
+001Hr000028ZdE7,"City Of Hobbs, NM",New Mexico,Municipality,Alicia Gopal,39756,Nurture,Tier 1,1.5,32.7012,-103.1344,8865c2cb-1714-45a1-a425-e5f824ad40a4,Closed Lost,,,Alicia Gopal,2/24/2026,2/11/2026,,,10,2026-02-23,9,1,,,
+001Hr000028ZdFA,"City Of Farmington, NM",New Mexico,Municipality,Alicia Gopal,46422,,Tier 1,1.5,36.7281,-108.2187,548a8e97-e39e-4d5c-8fbc-683321be4dc9,,,,,,,,,3,2026-04-09,3,,,,
+001Hr000028ZdOE,"Sandoval County, NM",New Mexico,County,Alicia Gopal,157757,,Tier S,2.0,35.6021,-106.7235,0182e45b-32d1-4a2b-9217-149a33c74427,,,,,,,,,1,2026-02-09,1,,,,
+001Hr000028ZdRu,"Santa Fe County, NM",New Mexico,County,Alicia Gopal,156105,,Tier S,2.0,35.3654,-105.97,9f4e89bf-fde2-448d-b641-edf3349e1164,,,,,,,,,7,2026-02-13,7,,,,
+001Hr000028Zdbg,"Rio Arriba County, NM",New Mexico,County,Alicia Gopal,39955,,Tier 1,1.5,36.6163,-106.7235,76ad1f8f-4205-42b2-99db-a16065e641e0,,,,,,,,,1,2026-02-09,1,,,,
+001Hr000028Zdgt,"City Of Santa Fe, NM",New Mexico,Municipality,Alicia Gopal,88193,,Tier S,2.0,35.6894,-105.9382,0b6e8f3d-226d-4575-a545-68081d7fa908,,,,,,,,,30,2026-02-19,18,,12,,
+001Hr000028Zdsa,"San Miguel County, NM",New Mexico,County,Alicia Gopal,,,Tier 3,0.75,35.5118,-104.8455,c9f037b3-f714-4528-b575-ecc737151410,,,,,,,,,12,2026-04-09,12,,,,
+001Hr000028Zdsw,"Doña Ana County, NM",New Mexico,County,Alicia Gopal,,,Tier 3,0.75,32.4858,-106.7235,,,,,,,,,,5,2026-02-11,5,,,,
+001Hr000028Zdt9,"Cibola County, NM",New Mexico,County,Alicia Gopal,26686,,Tier 1,1.5,35.0948,-107.8584,39c4ce74-6f5c-46e5-8355-b58739e6b8c2,,,,,,,,,7,2026-02-12,7,,,,
+001Hr000028ZduR,"San Juan County, NM",New Mexico,County,Alicia Gopal,,,Tier 3,0.75,36.3882,-108.2378,37dc0f92-dfd2-4267-8ada-f60ad441a01d,,,,,,,,,1,2025-10-23,1,,,,
+001Hr000028ZjNF,"County Of Luna, NM",New Mexico,County,Alicia Gopal,25532,Recent Competitor Purchase,Tier 1,1.5,32.3259,-107.8584,136e36d3-5eb4-4188-a183-bb4ebae22b10,Open,Initial Interest,Top of Funnel,Harrison Peacock,10/11/2024,1/5/2025,,Yes,17,2025-12-02,17,,,,
+001cv00000AuWZc,"City Of Bayard, NM",New Mexico,Municipality,Alicia Gopal,2097,,Tier 3,0.75,32.7617,-108.1306,756cb753-6a3f-499f-a618-fe54f291a04e,,,,,,,,,,,,,,,
+001cv00000AuWcN,"City Of Jal, NM",New Mexico,Municipality,Alicia Gopal,2147,,Tier 3,0.75,32.1132,-103.1935,9ec659f4-0745-43e4-8d70-787a96472769,,,,,,,,,,,,,,,
+001cv00000AuX6i,"City Of Lordsburg, NM",New Mexico,Municipality,Alicia Gopal,2273,,Tier 3,0.75,32.3504,-108.7087,60f2fcfb-b97c-4af1-819a-9ae1d521d53e,,,,,,,,,,,,,,,
+001cv00000AuXU9,"Village Of Milan, NM",New Mexico,Municipality,Alicia Gopal,2549,,Tier 3,0.75,35.1754,-107.8955,52d86087-5452-44bc-962f-e44608e9cb85,,,,,,,,,,,,,,,
+001cv00000AuXgh,"Town Of Clayton, NM",New Mexico,Municipality,Alicia Gopal,2755,,Tier 3,0.75,36.4517,-103.1841,439e5d83-7bc6-4d9d-b1bb-a1698197f059,,,,,,,,,,,,,,,
+001cv00000AuXkF,"City Of Santa Rosa, NM",New Mexico,Municipality,Alicia Gopal,2846,,Tier 3,0.75,34.9387,-104.6825,6baaab6d-9088-40e0-aff2-e3221ebe0ae6,,,,,,,,,,,,,,,
+001cv00000AuYEk,"City Of Eunice, NM",New Mexico,Municipality,Alicia Gopal,2997,,Tier 3,0.75,32.4373,-103.1591,5dd821a6-0263-4198-be5a-5c8af8206148,,,,,,,,,,,,,,,
+001cv00000AuYKd,"Town Of Peralta, NM",New Mexico,Municipality,Alicia Gopal,3406,,Tier 3,0.75,34.837,-106.6906,f4298b9f-c009-4583-aec5-a650f0fc3666,,,,,,,,,,,,,,,
+001cv00000AuYaR,"County Of Hidalgo, NM",New Mexico,County,Alicia Gopal,4074,,Tier 3,0.75,31.9355,-108.7126,85bba2a8-222c-4640-8366-4aed5d54d603,,,,,,,,,,,,,,,
+001cv00000AuYaU,"Village Of Bosque Farms, NM",New Mexico,Municipality,Alicia Gopal,4076,,Tier 3,0.75,34.8543,-106.7061,628d39c5-2711-48e3-8181-bab657290676,,,,,,,,,,,,,,,
+001cv00000AuYnw,"County Of Union, NM",New Mexico,County,Alicia Gopal,4107,,Tier 3,0.75,36.3724,-103.3587,96a55f11-2261-4408-a2ae-1fde241c810c,,,,,,,,,,,,,,,
+001cv00000AuYpO,"County Of Mora, NM",New Mexico,County,Alicia Gopal,4196,,Tier 3,0.75,35.9272,-104.9389,74ac0511-3e5a-4faf-b49f-d8736dce6b79,,,,,,,,,,,,,,,
+001cv00000AuYsD,"County Of Catron, NM",New Mexico,County,Alicia Gopal,3731,,Tier 3,0.75,34.1515,-108.4276,549fbdf5-00f8-4dd9-a6a9-4ef9ce4659e9,,,,,,,,,,,,,,,
+001cv00000AuYyM,"County Of Guadalupe, NM",New Mexico,County,Alicia Gopal,4449,,Tier 3,0.75,34.8236,-104.8455,94cb032a-a107-459c-8aef-46ba81f70a41,,,,,,,,,,,,,,,
+001cv00000AuZS2,"City Of Rio Communities, NM",New Mexico,Municipality,Alicia Gopal,4977,,Tier 3,0.75,34.6448,-106.7304,da6a50df-4c06-43a4-9e73-0e4f3a800f8c,,,,,,,,,2,2026-02-09,1,,1,,
+001cv00000AuZTl,"City Of Tucumcari, NM",New Mexico,Municipality,Alicia Gopal,5207,,Tier 3,0.75,35.1717,-103.725,6080d9ce-9fcf-4f32-b369-6f05d0a3e019,,,,,,,,,1,2026-02-06,1,,,,
+001cv00000AuZYK,"County Of Quay, NM",New Mexico,County,Alicia Gopal,8656,,Tier 3,0.75,34.957,-103.7289,acba40de-f44b-433d-900c-84db486eec5a,,,,,,,,,1,2025-08-19,,,1,,
+001cv00000AuZah,"County Of Sierra, NM",New Mexico,County,Alicia Gopal,11502,,Tier 2,1.0,33.1346,-107.1012,e8ffa0de-9e17-4d41-a2a3-de36d19a8c4f,,,,,,,,,,,,,,,
+001cv00000AuZht,"County Of Torrance, NM",New Mexico,County,Alicia Gopal,15307,,Tier 2,1.0,34.6784,-105.97,94df6aed-38aa-491c-9136-8f176b273e0a,,,,,,,,,4,2025-08-05,,,4,,
+001cv00000AuZiQ,"County Of Colfax, NM",New Mexico,County,Alicia Gopal,12369,,Tier 2,1.0,36.58,-104.4723,14b20b16-6f02-444c-982a-607b3047972d,,,,,,,,,,,,,,,
+001cv00000AuZql,"County Of Socorro, NM",New Mexico,County,Alicia Gopal,16311,,Tier 2,1.0,33.8837,-106.7235,65b957dd-7a21-47a7-8d39-5ff8fa1b991f,,,,,,,,,,,,,,,
+001cv00000AuZss,"County Of Roosevelt, NM",New Mexico,County,Alicia Gopal,19019,,Tier 2,1.0,33.9538,-103.3587,b9d886bb-9669-43bc-b2d1-7101a57e0e85,,,,,,,,,,,,,,,
+001cv00000AuZt2,"County Of Los Alamos, NM",New Mexico,County,Alicia Gopal,19330,,Tier 2,1.0,35.8496,-106.3228,324c9fef-b6e7-4a28-b247-0472540bcdff,,,,,,,,,3,2026-02-09,3,,,,
+001cv00000Aua3j,"County Of Lincoln, NM",New Mexico,County,Alicia Gopal,20436,,Tier 2,1.0,33.8853,-105.4068,6083ae42-7bef-4886-89d9-0eaff142e6e5,,,,,,,,,3,2026-02-09,3,,,,
+001cv00000Aua6G,"County Of Taos, NM",New Mexico,County,Alicia Gopal,34623,Open Opportunity,Tier 1,1.5,36.4359,-105.5943,f7468764-406b-4ee3-9086-16f106703be3,Open,Meeting Booked,Top of Funnel,Alicia Gopal,11/4/2025,10/31/2025,,,43,2026-05-21,37,6,,,
+001cv00000AuaCE,"County Of Grant, NM",New Mexico,County,Alicia Gopal,27889,,Tier 1,1.5,32.9691,-108.2378,ab23ca08-8ee8-49a7-83a6-2d4577aa3d65,,,,,,,,,1,2025-07-29,,1,,,
+001cv00000AuaKK,"County Of Curry, NM",New Mexico,County,Alicia Gopal,47999,,Tier 1,1.5,34.5752,-103.2663,0d75dcae-9d16-4b4a-a7a6-338827657f8e,,,,,,,,,,,,,,,
+001cv00000AuaOI,"County Of Eddy, NM",New Mexico,County,Alicia Gopal,60911,Open Opportunity,Tier S,2.0,32.4171,-104.4723,967ff920-54f5-449c-b8d2-762c8a690935,Open,Sales Qualified,Mid Funnel,Alicia Gopal,3/31/2026,3/23/2026,,,5,2026-03-31,5,,,,
+001cv00000AuaOu,"County Of Chaves, NM",New Mexico,County,Alicia Gopal,64629,,Tier S,2.0,33.4757,-104.4723,edfa8480-9383-4f7f-8c39-68641de34040,,,,,,,,,7,2026-01-28,7,,,,
+001cv00000AuaWB,"County Of Mckinley, NM",New Mexico,County,Alicia Gopal,71780,,Tier S,2.0,35.7152,-108.2378,52aaccf6-8c0f-46b7-9a8a-86e21d5821ba,,,,,,,,,,,,,,,
+001cv00000AuaWJ,"County Of Lea, NM",New Mexico,County,Alicia Gopal,73004,Nurture,Tier S,2.0,32.8969,-103.3587,ef2dd2d1-6392-4605-b22d-58baad54ff1a,Closed Lost,,,Quinzel Perry,7/30/2025,7/23/2025,,,2,2025-07-30,,,2,,
+001cv00000AuaWk,"County Of Valencia, NM",New Mexico,County,Alicia Gopal,77190,,Tier S,2.0,34.6744,-106.6291,8b19d034-9411-4231-9055-5e73059432f8,,,,,,,,,9,2026-02-03,9,,,,
+001cv00000AuaXq,"County Of Otero, NM",New Mexico,County,Alicia Gopal,68537,,Tier S,2.0,32.6342,-105.5943,86658ea2-4aea-46fd-a18a-9e7cfe3467ac,,,,,,,,,1,2026-02-09,1,,,,
+001cv00000B21x4,"Village Of Tularosa, NM",New Mexico,Municipality,Alicia Gopal,2637,,Tier 3,0.75,33.074,-106.0186,db2d09dd-2403-4ea6-9c2f-09f52bf8dba7,,,,,,,,,,,,,,,
+001cv00000B21xN,"City Of Ruidoso Downs, NM",New Mexico,Municipality,Alicia Gopal,2648,,Tier 3,0.75,33.329,-105.6044,552acbc0-c8d2-4c7f-b313-1c6903a25cd2,,,,,,,,,,,,,,,
+001cv00000GpOP0,"City of Las Cruces, NM",New Mexico,Municipality,Alicia Gopal,116998,Open Opportunity,Tier S,2.0,32.3142,-106.7798,ef2508ec-fcf0-41b0-af15-3148fa9c831c,Open,Initial Interest,Top of Funnel,Alicia Gopal,,10/23/2025,,,17,2026-04-15,6,11,,,
+001cv00000bBVl3,Village of Logan,New Mexico,Municipality,Asher Rosenfeld,948,,Tier 3,0.75,35.3656,-103.4109,cac477e0-ca50-44cb-999d-82eaba76bb10,,,,,,,,,,,,,,,
+001cv00000bBVwO,Village of Angel Fire,New Mexico,Municipality,Asher Rosenfeld,1183,,Tier 3,0.75,36.3931,-105.285,98f603db-200f-4cc7-b061-a269d0c0531b,,,,,,,,,,,,,,,
+001cv00000bBWF6,City of Rio Rancho,New Mexico,Municipality,Asher Rosenfeld,112524,,Tier S,2.0,35.2328,-106.663,0d352e1c-9f00-487d-848f-22b5d61913aa,,,,,,,,,,,,,,,
+001cv00000bBWJC,Village of Questa,New Mexico,Municipality,Asher Rosenfeld,1801,,Tier 3,0.75,36.7042,-105.5958,a1a3ba47-2de9-4343-8734-4b7d46513ae6,,,,,,,,,,,,,,,
+001cv00000bBWNT,Village of Hatch,New Mexico,Municipality,Asher Rosenfeld,1590,,Tier 3,0.75,32.6654,-107.1531,893d3459-d162-46e9-a67f-e88581d1c238,,,,,,,,,,,,,,,
+001cv00000bBWOP,De Baca County,New Mexico,County,Asher Rosenfeld,1657,,Tier 3,0.75,34.2734,-104.3792,9a7c376c-6a45-47b6-a72e-efc7586f3463,,,,,,,,,,,,,,,
+001cv00000bBWR4,City of Moriarty,New Mexico,Municipality,Asher Rosenfeld,2059,,Tier 3,0.75,34.99,-106.0492,9908e890-d328-44d0-8bce-abf8c2e4d7bc,,,,,,,,,,,,,,,
+001cv00000bBWY1,City of Albuquerque,New Mexico,Municipality,Asher Rosenfeld,560326,,Tier S,2.0,35.0844,-106.6504,ca8fec79-2c30-4c03-a594-c5c596d2b871,,,,,,,,,,,,,,,
+001cv00000bBWYK,Bernalillo County,New Mexico,County,Asher Rosenfeld,671747,,Tier S,2.0,35.0178,-106.6291,f2c28994-a7b9-4538-9fe2-c1634c4741c9,,,,,,,,,,,,,,,

@@ -34,7 +34,7 @@ def main():
 
     # Build lookup: Starbridge Buyer ID → SF Account ID
     sf_lookup = {}
-    with open(args.input, newline='', encoding='utf-8') as f:
+    with open(args.input, newline='', encoding='latin-1') as f:
         for row in csv.DictReader(f):
             sb_id = row.get('Starbridge Buyer ID', '').strip()
             sf_id = row.get('Account ID', '').strip()
